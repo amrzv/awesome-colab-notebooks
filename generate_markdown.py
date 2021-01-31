@@ -3,19 +3,6 @@ from datetime import datetime
 from json import load
 from os.path import join
 
-
-# badges = {
-#     'colab': 'https://colab.research.google.com/assets/colab-badge.svg',
-#     'youtube': 'https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg',
-#     'git': 'https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg',
-#     'wiki': 'https://upload.wikimedia.org/wikipedia/commons/0/07/Wikipedia_logo_%28svg%29.svg',
-#     'kaggle': 'https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg',
-#     'arxiv': 'https://upload.wikimedia.org/wikipedia/commons/a/a8/ArXiv_web.svg', # 'https://web.science.mq.edu.au/~cpurcell/public/images/arxiv_logo.svg'
-#     'tf': 'https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg',
-#     'pytorch': 'https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg',
-#     'medium': 'https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg'
-# }
-
 badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium'}
 
 def colab_url(url):
@@ -25,7 +12,6 @@ def parse_link(link_tuple, height=20):
     name,url = link_tuple
     if name in badges:
         return f'[<img src="images/{name}.svg" alt="{name}" height={height}/>]({url})'
-        # return f'[![{name}]({badges[name]})](url)'
     return f'[{name}]({url})'
 
 def parse_links(list_of_links):
@@ -43,13 +29,13 @@ def generate_table(fn):
         data = load(f)
     colabs = sorted(data, key=lambda kv: kv['update'], reverse=True)
 
-    print('| name | description | author | links | colaboratory | update |')
-    print('|------|-------------|--------|:-----:|:------------:|:------:|')
+    print('| name | description | authors | links | colaboratory | update |')
+    print('|------|-------------|:--------|:------|:------------:|:------:|')
     for line in colabs:
         if len(line['author']) > 1:
             line['author'] = '<ul>' + ' '.join(f'<li>[{author}]({link})</li>' for author,link in line['author']) + '</ul>'
         else:
-            if len(line['author']) == 2:
+            if len(line['author'][0]) == 2:
                 line['author'] = '[{}]({})'.format(*line['author'][0])
             else:
                 line['author'] = line['author'][0][0]
