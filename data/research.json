@@ -1,0 +1,2475 @@
+[
+    {
+        "name": "3D Ken Burns",
+        "description": "This is a reference implementation of 3D Ken Burns Effect from a Single Image using PyTorch. Given a single input image, it animates this still image with a virtual camera scan and zoom subject to motion parallax.",
+        "author": [
+            [
+                "Manuel Romero",
+                "https://mrm8488.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1909.05483"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=WrajxHHfRBA"
+            ],
+            [
+                "git",
+                "https://github.com/sniklaus/3d-ken-burns"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/3D_Ken_Burns.ipynb",
+        "update": 1592062693.0
+    },
+    {
+        "name": "Learning to Paint",
+        "description": "Learning to Paint With Model-based Deep Reinforcement Learning",
+        "author": [
+            [
+                "Manuel Romero",
+                "https://mrm8488.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1903.04411"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=YmOgKZ5oipk"
+            ],
+            [
+                "reddit",
+                "https://www.reddit.com/r/reinforcementlearning/comments/b5lpfl/learning_to_paint_with_modelbased_deep/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/custom_learningtopaint.ipynb",
+        "update": 1576600536.0
+    },
+    {
+        "name": "WikiArt (stylegan2)",
+        "description": "Generation of paintings of different styles and genres",
+        "author": [
+            [
+                "Doron Adler",
+                "https://github.com/Norod"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1912.04958"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/Norod/my-colab-experiments/blob/master/WikiArt_Example_Generation_By_Peter_Baylies.ipynb",
+        "update": 1580100143.0
+    },
+    {
+        "name": "WikiArt (stylegan2-ada)",
+        "description": "Generation of paintings of different styles and genres",
+        "author": [
+            [
+                "Doron Adler",
+                "https://github.com/Norod"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2006.06676"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/Norod/my-colab-experiments/blob/master/WikiArt_ADA_Example_Generation.ipynb",
+        "update": 1607407403.0
+    },
+    {
+        "name": "GPT-2",
+        "description": "Retrain an advanced text generating neural network on any text dataset using gpt-2-simple!",
+        "author": [
+            [
+                "Max Woolf",
+                "https://minimaxir.com/"
+            ]
+        ],
+        "links": [
+            [
+                "blog post",
+                "https://minimaxir.com/2019/09/howto-gpt2/"
+            ],
+            [
+                "git",
+                "https://github.com/minimaxir/gpt-2-simple"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce",
+        "update": 1576948648.967
+    },
+    {
+        "name": "textgenrnn",
+        "description": "Generate text using a pretrained neural network with a few lines of code, or easily train your own text-generating neural network of any size and complexity",
+        "author": [
+            [
+                "Max Woolf",
+                "https://minimaxir.com/"
+            ]
+        ],
+        "links": [
+            [
+                "blog post",
+                "http://minimaxir.com/2018/05/text-neural-networks/"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=RW7mP6BfZuY"
+            ],
+            [
+                "git",
+                "https://github.com/minimaxir/textgenrnn"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1mMKGnVxirJnqDViH7BDJxFqWrsXlPSoK",
+        "update": 1588043953.861
+    },
+    {
+        "name": "Train a GPT-2 Model on Tweets",
+        "description": "Train the model on your downloaded tweets, and generate massive amounts of Tweets from it",
+        "author": [
+            [
+                "Max Woolf",
+                "https://minimaxir.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/minimaxir/download-tweets-ai-text-gen"
+            ],
+            [
+                "GPT-2",
+                "https://openai.com/blog/better-language-models/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1qxcQ2A1nNjFudAGN_mcMOnvV9sF_PkEb",
+        "update": 1579148034.702
+    },
+    {
+        "name": "automl-gs on a TPU",
+        "description": "Give an input CSV file and a target field you want to predict to automl-gs, and get a trained high-performing machine learning or deep learning model plus native Python code pipelines allowing you to integrate that model into any prediction workflow",
+        "author": [
+            [
+                "Max Woolf",
+                "https://minimaxir.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/minimaxir/automl-gs"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1sbF8cqnOsdzN9Bdt74eER5s_xXcdvatV",
+        "update": 1553580859.738
+    },
+    {
+        "name": "Imaging-AMARETTO",
+        "description": "An imaging genomics software tool to systematically interrogate multi-omics networks for relevance to radiography and histopathology imaging biomarkers of clinical outcomes with application to studies of brain tumors",
+        "author": [
+            [
+                "Nathalie Pochet",
+                "http://portals.broadinstitute.org/pochetlab/"
+            ],
+            [
+                "Olivier Gevaert",
+                "https://profiles.stanford.edu/olivier-gevaert"
+            ],
+            [
+                "Mohsen Nabian",
+                "https://github.com/monabiyan"
+            ],
+            [
+                "Celine Everaert",
+                "http://www.crig.ugent.be/en/node/510"
+            ],
+            [
+                "Jayendra Shinde",
+                "https://jayendrashinde91.github.io/"
+            ],
+            [
+                "Artur Manukyan",
+                "https://artur-man.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "http://portals.broadinstitute.org/pochetlab/amaretto.html"
+            ],
+            [
+                "git",
+                "https://github.com/broadinstitute/ImagingAMARETTO"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/14u1KZJ3Gf-9qjDycyBKzBiN5VzzOa2xU",
+        "update": 1575041033.629
+    },
+    {
+        "name": "AMARETTO",
+        "description": "Multiscale and multimodal inference of regulatory networks to identify cell circuits and their drivers shared and distinct within and across biological systems of human disease",
+        "author": [
+            [
+                "Nathalie Pochet",
+                "http://portals.broadinstitute.org/pochetlab/"
+            ],
+            [
+                "Olivier Gevaert",
+                "https://profiles.stanford.edu/olivier-gevaert"
+            ],
+            [
+                "Mohsen Nabian",
+                "https://github.com/monabiyan"
+            ],
+            [
+                "Jayendra Shinde",
+                "https://jayendrashinde91.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "http://portals.broadinstitute.org/pochetlab/amaretto.html"
+            ],
+            [
+                "git",
+                "https://github.com/gevaertlab/AMARETTO"
+            ],
+            [
+                "bioconductor",
+                "https://bioconductor.org/packages/release/bioc/html/AMARETTO.html"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1JfnRoNgTVX_7VEGAAmjGjwP_yX2tdDxs",
+        "update": 1564051448.504
+    },
+    {
+        "name": "Customizing a Transformer Encoder",
+        "description": "In this Colab notebook, we will learn how to customize the encoder to employ new network architectures",
+        "author": [
+            [
+                "Chen Chen",
+                "https://github.com/chenGitHuber"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1706.03762"
+            ],
+            [
+                "git",
+                "https://github.com/tensorflow/models/tree/master/official/nlp/modeling"
+            ],
+            [
+                "git",
+                "https://github.com/tensorflow/models/blob/master/official/nlp/modeling/networks/encoder_scaffold.py"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/nlp/customize_encoder.ipynb",
+        "update": 1596486236.0
+    },
+    {
+        "name": "Fine-tuning a BERT",
+        "description": "In this example, we will work through fine-tuning a BERT model using the tensorflow-models PIP package",
+        "author": [
+            [
+                "Chen Chen",
+                "https://github.com/chenGitHuber"
+            ],
+            [
+                "Claire Yao",
+                "https://github.com/claireyao-fen"
+            ]
+        ],
+        "links": [
+            [
+                "tf",
+                "https://tensorflow.org/hub"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1810.04805"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/fine_tuning_bert.ipynb",
+        "update": 1603476324.0
+    },
+    {
+        "name": "First Order Motion Model for Image Animation",
+        "description": "Transferring facial movements from video to image",
+        "author": [
+            [
+                "Aliaksandr Siarohin",
+                "https://github.com/AliaksandrSiarohin"
+            ]
+        ],
+        "links": [
+            [
+                "neurips",
+                "https://papers.nips.cc/paper/2019/hash/31c0b36aef265d9221af80872ceb62f9-Abstract.html"
+            ],
+            [
+                "git",
+                "https://github.com/AliaksandrSiarohin/first-order-model"
+            ],
+            [
+                "project",
+                "https://aliaksandrsiarohin.github.io/first-order-model-website/"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=u-0cQ-grXBQ"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb",
+        "update": 1601552116.0
+    },
+    {
+        "name": "Motion Supervised co-part Segmentation",
+        "description": "A self-supervised deep learning method for co-part segmentation",
+        "author": [
+            [
+                "Aliaksandr Siarohin",
+                "https://github.com/AliaksandrSiarohin"
+            ],
+            [
+                "Subhankar Roy",
+                "https://github.com/roysubhankar"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "http://arxiv.org/abs/2004.03234"
+            ],
+            [
+                "git",
+                "https://github.com/AliaksandrSiarohin/motion-cosegmentation"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=RJ4Nj1wV5iA"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/AliaksandrSiarohin/motion-cosegmentation/blob/master/part_swap.ipynb",
+        "update": 1586274932.0
+    },
+    {
+        "name": "DeOldify (video)",
+        "description": "Colorize your own videos!",
+        "author": [
+            [
+                "Robert Bell"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1805.08318"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1706.08500"
+            ],
+            [
+                "reddit",
+                "https://www.reddit.com/r/Nickelodeons/"
+            ],
+            [
+                "reddit",
+                "https://www.reddit.com/r/silentmoviegifs/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb",
+        "update": 1605241178.0
+    },
+    {
+        "name": "DeOldify (photo)",
+        "description": "Colorize your own photos!",
+        "author": [
+            [
+                "Matt Robinson",
+                "https://github.com/mc-robinson"
+            ],
+            [
+                "María Benavente",
+                "https://github.com/mariabg"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1805.08318"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1706.08500"
+            ],
+            [
+                "reddit",
+                "https://www.reddit.com/r/TheWayWeWere/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb",
+        "update": 1605241178.0
+    },
+    {
+        "name": "StyleGAN 2",
+        "description": "Generation of faces, cars, etc.",
+        "author": [
+            [
+                "Mikael Christensen",
+                "https://github.com/Syntopia"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1912.04958"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH",
+        "update": 1576429762.767
+    },
+    {
+        "name": "Edge Detection",
+        "description": "Edge detection in OpenCV and skimage",
+        "author": [
+            [
+                "Yuhuang Hu",
+                "https://dgyblog.com/"
+            ]
+        ],
+        "links": [
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Edge_detection"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/10ZIvyVgDjGlWd09LJZzwboQs-4RPlCut",
+        "update": 1550255216.592
+    },
+    {
+        "name": "Faceswap-GAN",
+        "description": "This colab notebook is a minimum demo for faceswap-GAN v2.2",
+        "author": [
+            [
+                "shaoanlu",
+                "https://shaoanlu.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/shaoanlu/faceswap-GAN"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/shaoanlu/faceswap-GAN/blob/master/colab_demo/faceswap-GAN_colab_demo.ipynb",
+        "update": 1541664583.0
+    },
+    {
+        "name": "GazeML",
+        "description": "Eye region landmarks detection",
+        "author": [
+            [
+                "shaoanlu",
+                "https://shaoanlu.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/shaoanlu/GazeML-keras"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=cLUHKYfZN5s"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/shaoanlu/GazeML-keras/blob/master/demo_colab.ipynb",
+        "update": 1554272200.0
+    },
+    {
+        "name": "Few-shot face translation",
+        "description": "A GAN based approach for one model to swap them all: model is capable of producing faces that has its gaze direction, glasses, and hiar occlusions being consistent with given source face",
+        "author": [
+            [
+                "shaoanlu",
+                "https://shaoanlu.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/shaoanlu/fewshot-face-translation-GAN"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1903.07291"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1905.01723"
+            ],
+            [
+                "link",
+                "https://drum.lib.umd.edu/handle/1903/21337"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/shaoanlu/fewshot-face-translation-GAN/blob/master/colab_demo.ipynb",
+        "update": 1567380828.0
+    },
+    {
+        "name": "Face toolbox",
+        "description": "A collection of deep learning frameworks ported to Keras for face detection, face segmentation, face parsing, iris detection, and face verification",
+        "author": [
+            [
+                "shaoanlu",
+                "https://shaoanlu.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/shaoanlu/face_toolbox_keras"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/shaoanlu/face-toolbox-keras/blob/master/demo.ipynb",
+        "update": 1570083478.0
+    },
+    {
+        "name": "Group Normalization",
+        "description": "A simple alternative to BN. GN divides the channels into groups and computes within each group the mean and variance for normalization.",
+        "author": [
+            [
+                "shaoanlu",
+                "https://shaoanlu.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/amrzv/GroupNormalization-keras"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1803.08494"
+            ],
+            [
+                "blog post",
+                "https://shaoanlu.wordpress.com/2018/03/26/experiment-with-group-normalization/"
+            ],
+            [
+                "git",
+                "https://github.com/zalandoresearch/fashion-mnist"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/shaoanlu/GroupNormalization-keras/blob/master/group_norm_experiments.ipynb",
+        "update": 1522041641.0
+    },
+    {
+        "name": "Traffic counting",
+        "description": "Making Road Traffic Counting App based on Computer Vision and OpenCV",
+        "author": [
+            [
+                "Andrey Nikishaev",
+                "https://github.com/creotiv"
+            ]
+        ],
+        "links": [
+            [
+                "medium",
+                "https://medium.com/machine-learning-world/tutorial-making-road-traffic-counting-app-based-on-computer-vision-and-opencv-166937911660"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=_o5iLbRHKao"
+            ],
+            [
+                "git",
+                "https://github.com/creotiv/object_detection_projects/tree/master/opencv_traffic_counting"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/12N4m_RYKqrpozRzh9qe7nQE_sIqQH9U8",
+        "update": 1578663579.317
+    },
+    {
+        "name": "DFL-Colab",
+        "description": "This project provides you IPython Notebook to use DeepFaceLab with Google Colaboratory",
+        "author": [
+            [
+                "chervonij",
+                "https://github.com/chervonij"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2005.05535"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/channel/UCTKBl8kB6DJ_qLnk1NGDGbQ"
+            ],
+            [
+                "guide",
+                "https://mrdeepfakes.com/forums/thread-guide-deepfacelab-google-colab-tutorial"
+            ],
+            [
+                "git",
+                "https://github.com/iperov/DeepFaceLab"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
+        "update": 1596515439.0
+    },
+    {
+        "name": "Breast Cancer detection",
+        "description": "A Neural Network for detecting breast cancer in cell scans!",
+        "author": [
+            [
+                "Peter Teoh",
+                "https://github.com/tthtlc"
+            ]
+        ],
+        "links": [
+            [
+                "blog post",
+                "http://www.laurencemoroney.com/easily-build-a-neural-net-for-breast-cancer-detection/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/12DKmhi5z5Qx84iJQ8FTq5hHsG5UUHUcG",
+        "update": 1556419846.973
+    },
+    {
+        "name": "Waifu2x",
+        "description": "This is the Google Colab implementation of tsurumeso's chainer implementation of waifu2x, for people that do not have access to NVIDIA GPUs",
+        "author": [
+            [
+                "Margesh Phirke",
+                "https://github.com/mphirke"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/mphirke/Google-Colab-waifu2x-chainer"
+            ],
+            [
+                "demo",
+                "http://waifu2x.udp.jp/"
+            ],
+            [
+                "arxiv",
+                "http://arxiv.org/abs/1501.00092"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mphirke/waifu2x-chainer/blob/master/Waifu2x_Colab_Implementation.ipynb",
+        "update": 1566575812.0
+    },
+    {
+        "name": "BERT on TF Hub",
+        "description": "Predicting Movie Review Sentiment with BERT on TF Hub",
+        "author": [
+            [
+                "Dale Markowitz",
+                "https://daleonai.com/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1810.04805"
+            ],
+            [
+                "git",
+                "https://github.com/google-research/bert"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb",
+        "update": 1550001623.0
+    },
+    {
+        "name": "Analyzing Tennis Serve",
+        "description": "In this notebook, we'll use the Video Intelligence API to analyze a tennis serve, including the angle of the arms and legs during the serve",
+        "author": [
+            [
+                "Dale Markowitz",
+                "https://daleonai.com/"
+            ]
+        ],
+        "links": [
+            [
+                "blog post",
+                "https://daleonai.com/machine-learning-for-sports"
+            ],
+            [
+                "git",
+                "https://github.com/google/making_with_ml/tree/master/sports_ai"
+            ],
+            [
+                "medium",
+                "https://manivannan-ai.medium.com/find-the-angle-between-three-points-from-2d-using-python-348c513e2cd"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=yLrOy2Xedgk"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/google/making_with_ml/blob/master/sports_ai/Sports_AI_Analysis.ipynb",
+        "update": 1594745619.0
+    },
+    {
+        "name": "PIFu",
+        "description": "Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization",
+        "author": [
+            [
+                "Ryota Natsume",
+                "https://github.com/nanopoteto"
+            ],
+            [
+                "Shunsuke Saito",
+                "https://github.com/shunsukesaito"
+            ],
+            [
+                "Zeng Huang",
+                "https://zeng.science/"
+            ],
+            [
+                "Angjoo Kanazawa",
+                "https://people.eecs.berkeley.edu/~kanazawa/"
+            ],
+            [
+                "Hao Li",
+                "http://hao.li"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/pdf/1905.05172.pdf"
+            ],
+            [
+                "git",
+                "https://github.com/shunsukesaito/PIFu"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=S1FpjwKqtPs"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1GFSsqP2BWz4gtq0e-nki00ZHSirXwFyY",
+        "update": 1592428040.528
+    },
+    {
+        "name": "PIFuHD",
+        "description": "Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization",
+        "author": [
+            [
+                "Shunsuke Saito",
+                "https://github.com/shunsukesaito"
+            ],
+            [
+                "Tomas Simon",
+                "http://www.cs.cmu.edu/~tsimon/"
+            ],
+            [
+                "Jason Saragih",
+                "https://scholar.google.com/citations?user=ss-IvjMAAAAJ"
+            ],
+            [
+                "Hanbyul Joo",
+                "https://jhugestar.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/pdf/2004.00452.pdf"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/pifuhd"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/uEDqCxvF5yc"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=8qnwbbDS8xk"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt",
+        "update": 1609866428.455
+    },
+    {
+        "name": "CartoonGAN",
+        "description": "This notebook contains the implementation of the cartoon GAN model with PyTorch",
+        "author": [
+            [
+                "Tobias Sunderdiek",
+                "https://github.com/TobiasSunderdiek"
+            ]
+        ],
+        "links": [
+            [
+                "cvpr",
+                "http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf"
+            ],
+            [
+                "project",
+                "https://tobiassunderdiek.github.io/cartoon-gan/"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/alamson/safebooru"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/TobiasSunderdiek/cartoon-gan/blob/master/CartoonGAN.ipynb",
+        "update": 1586776469.0
+    },
+    {
+        "name": "HoF",
+        "description": "This notebook will walk you step by step through the process of using a pre-trained model to detect faces in an image",
+        "author": [
+            [
+                "Lucas Persona",
+                "http://www.lucaspersona.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/the-house-of-black-and-white/hall-of-faces"
+            ],
+            [
+                "data",
+                "http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/"
+            ],
+            [
+                "yolo",
+                "https://pjreddie.com/darknet/yolo/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1lJWquGmKoMm68qNuwjSnfMjjIi-UTzI1",
+        "update": 1524486647.85
+    },
+    {
+        "name": "Background Matting",
+        "description": "The notebook is split into three parts: required setup, running the algorithm on photos, and running it on videos",
+        "author": [
+            [
+                "Andrey Ryabtsev",
+                "https://github.com/andreyryabtsev"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2004.00626"
+            ],
+            [
+                "blog post",
+                "https://towardsdatascience.com/background-matting-the-world-is-your-green-screen-83a3c4f0f635"
+            ],
+            [
+                "git",
+                "https://github.com/senguptaumd/Background-Matting"
+            ],
+            [
+                "data",
+                "https://drive.google.com/open?id=1j3BMrRFhFpfzJAe6P2WDtfanoeSCLPiq"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/gist/andreyryabtsev/243aa3eefa6e06891dda7b1583d1d08f/backmatting.ipynb",
+        "update": 1589806735.0
+    },
+    {
+        "name": "YOLOv3",
+        "description": "You Only Look Once",
+        "author": [
+            [
+                "Glenn Jocher",
+                "https://github.com/glenn-jocher"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/ultralytics/yolov3"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/ultralytics/yolov3"
+            ],
+            [
+                "data",
+                "http://cocodataset.org/#upload"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/ultralytics/coco128"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/ultralytics/yolov3/blob/master/tutorial.ipynb",
+        "update": 1606411440.0
+    },
+    {
+        "name": "YOLOv5",
+        "description": "You Only Look Once",
+        "author": [
+            [
+                "Glenn Jocher",
+                "https://github.com/glenn-jocher"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/ultralytics/yolov5"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/ultralytics/yolov5"
+            ],
+            [
+                "data",
+                "http://cocodataset.org/#upload"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/ultralytics/coco128"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
+        "update": 1612029076.0
+    },
+    {
+        "name": "3D Photo Inpainting",
+        "description": "Method for converting a single RGB-D input image into a 3D photo, i.e., a multi-layer representation for novel view synthesis that contains hallucinated color and depth structures in regions occluded in the original view",
+        "author": [
+            [
+                "Meng-Li Shih",
+                "https://shihmengli.github.io/"
+            ],
+            [
+                "Shih-Yang Su",
+                "https://lemonatsu.github.io/"
+            ],
+            [
+                "Johannes Kopf",
+                "https://johanneskopf.de/"
+            ],
+            [
+                "Jia-Bin Huang",
+                "https://filebox.ece.vt.edu/~jbhuang/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2004.04727"
+            ],
+            [
+                "git",
+                "https://github.com/vt-vl-lab/3d-photo-inpainting"
+            ],
+            [
+                "project",
+                "https://shihmengli.github.io/3D-Photo-Inpainting/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1706ToQrkIZshRSJSHvZ1RuCiM__YX3Bz",
+        "update": 1588579458.042
+    },
+    {
+        "name": "Flow-edge Guided Video Completion",
+        "description": "Method first extracts and completes motion edges, and then uses them to guide piecewise-smooth flow completion with sharp edges",
+        "author": [
+            [
+                "Chen Gao",
+                "http://chengao.vision/"
+            ],
+            [
+                "Ayush Saraf",
+                "https://github.com/ayush29feb"
+            ],
+            [
+                "Johannes Kopf",
+                "https://johanneskopf.de/"
+            ],
+            [
+                "Jia-Bin Huang",
+                "https://filebox.ece.vt.edu/~jbhuang/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2009.01835"
+            ],
+            [
+                "git",
+                "https://github.com/vt-vl-lab/FGVC"
+            ],
+            [
+                "project",
+                "http://chengao.vision/FGVC/"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=CHHVPxHT7rc"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1pb6FjWdwq_q445rG2NP0dubw7LKNUkqc",
+        "update": 1609361825.432
+    },
+    {
+        "name": "Earth Engine Python API and Folium Interactive Mapping",
+        "description": "This notebook demonstrates how to setup the Earth Engine Python API in the Google Colaboratory platform and provides several examples for visualizing Earth Engine processed data interactively using the folium library",
+        "author": [
+            [
+                "Qiusheng Wu",
+                "https://wetlands.io/"
+            ]
+        ],
+        "links": [
+            [
+                "api",
+                "https://developers.google.com/earth-engine/python_install"
+            ],
+            [
+                "git",
+                "https://github.com/python-visualization/folium"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/giswqs/qgis-earthengine-examples/blob/master/Folium/ee-api-folium-setup.ipynb",
+        "update": 1579526571.0
+    },
+    {
+        "name": "Instance-aware Image Colorization",
+        "description": "Novel deep learning framework to achieve instance-aware colorization",
+        "author": [
+            [
+                "Jheng-Wei Su",
+                "https://github.com/ericsujw"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2005.10825"
+            ],
+            [
+                "git",
+                "https://github.com/ericsujw/InstColorization"
+            ],
+            [
+                "project",
+                "https://ericsujw.github.io/InstColorization/"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=Zj1N4uE1ehk"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb",
+        "update": 1598771700.0
+    },
+    {
+        "name": "Adversarial Patch",
+        "description": "A method to create universal, robust, targeted adversarial image patches in the real world",
+        "author": [
+            [
+                "Tom Brown",
+                "https://github.com/nottombrown"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1712.09665"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/cleverhans-lab/cleverhans/blob/master/examples/adversarial_patch/AdversarialPatch.ipynb",
+        "update": 1523575256.0
+    },
+    {
+        "name": "RNN for Predictive Maintenance",
+        "description": "LSTM network in order to predict remaining useful life of aircraft engines",
+        "author": [
+            [
+                "Umberto Griffo",
+                "https://github.com/umbertogriffo"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM"
+            ],
+            [
+                "git",
+                "https://github.com/Azure/lstms_for_predictive_maintenance/blob/master/Deep%20Learning%20Basics%20for%20Predictive%20Maintenance.ipynb"
+            ],
+            [
+                "link",
+                "https://gallery.azure.ai/Experiment/Predictive-Maintenance-Step-2A-of-3-train-and-evaluate-regression-models-2"
+            ],
+            [
+                "data",
+                "https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1tjIOud2Cc6smmvZsbl-QDBA6TLA2iEtd",
+        "update": 1585901739.618
+    },
+    {
+        "name": "MakeItTalk",
+        "description": "A method that generates expressive talking-head videos from a single facial image with audio as the only input",
+        "author": [
+            [
+                "Yang Zhou",
+                "https://people.umass.edu/~yangzhou/"
+            ],
+            [
+                "Xintong Han",
+                "http://users.umiacs.umd.edu/~xintong/"
+            ],
+            [
+                "Eli Shechtman",
+                "https://research.adobe.com/person/eli-shechtman/"
+            ],
+            [
+                "Jose Echevarria",
+                "http://www.jiechevarria.com/"
+            ],
+            [
+                "Evangelos Kalogerakis",
+                "https://people.cs.umass.edu/~kalo/"
+            ],
+            [
+                "Dingzeyu Li",
+                "https://dingzeyu.li/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2004.12992"
+            ],
+            [
+                "project",
+                "https://people.umass.edu/~yangzhou/MakeItTalk/"
+            ],
+            [
+                "git",
+                "https://github.com/yzhou359/MakeItTalk"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=vUMGKASgbf8"
+            ],
+            [
+                "data",
+                "https://drive.google.com/drive/folders/1EwuAy3j1b9Zc1MsidUfxG_pJGc_cV60O"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/yzhou359/MakeItTalk/blob/master/quick_demo.ipynb",
+        "update": 1605028739.0
+    },
+    {
+        "name": "Taming Transformers for High-Resolution Image Synthesis",
+        "description": "We combine the efficiancy of convolutional approaches with the expressivity of transformers by introducing a convolutional VQGAN, which learns a codebook of context-rich visual parts, whose composition is modeled with an autoregressive transformer",
+        "author": [
+            [
+                "Patrick Esser",
+                "https://github.com/pesser"
+            ],
+            [
+                "Robin Rombach",
+                "https://github.com/rromb"
+            ],
+            [
+                "Björn Ommer",
+                "https://hci.iwr.uni-heidelberg.de/people/bommer"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2012.09841"
+            ],
+            [
+                "git",
+                "https://github.com/CompVis/taming-transformers"
+            ],
+            [
+                "project",
+                "https://compvis.github.io/taming-transformers/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/CompVis/taming-transformers/blob/master/scripts/taming-transformers.ipynb",
+        "update": 1609769079.0
+    },
+    {
+        "name": "bsuite",
+        "description": "A collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning agent with two main objectives",
+        "author": [
+            [
+                "Ian Osband",
+                "http://iosband.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "paper",
+                "https://openreview.net/forum?id=rygf-kSYwH"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/bsuite"
+            ],
+            [
+                "git",
+                "https://github.com/openai/gym"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1rU20zJ281sZuMD1DHbsODFr1DbASL0RH",
+        "update": 1605884655.316
+    },
+    {
+        "name": "Neural Style Transfer",
+        "description": "Implementation of Neural Style Transfer in Keras 2.0+",
+        "author": [
+            [
+                "Somshubra Majumdar",
+                "http://titu1994.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "http://arxiv.org/abs/1508.06576"
+            ],
+            [
+                "git",
+                "https://github.com/titu1994/Neural-Style-Transfer"
+            ],
+            [
+                "arxiv",
+                "http://arxiv.org/abs/1605.04603"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1606.05897"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/titu1994/Neural-Style-Transfer/blob/master/NeuralStyleTransfer.ipynb",
+        "update": 1611301206.0
+    },
+    {
+        "name": "Mask R-CNN",
+        "description": "Code and visualizations to test, debug, and evaluate the Mask R-CNN model",
+        "author": [
+            [
+                "Jirka Borovec",
+                "https://github.com/Borda"
+            ],
+            [
+                "Waleed Abdulla",
+                "https://waleedka.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/matterport/Mask_RCNN"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1703.06870"
+            ],
+            [
+                "blog post",
+                "https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46"
+            ],
+            [
+                "data",
+                "http://cocodataset.org/#home"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=OOT3UIXZztE"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/c/data-science-bowl-2018"
+            ],
+            [
+                "medium",
+                "https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0"
+            ],
+            [
+                "git",
+                "https://github.com/jremillard/images-to-osm"
+            ],
+            [
+                "git",
+                "https://github.com/huuuuusy/Mask-RCNN-Shiny"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/matterport/Mask_RCNN/blob/master/samples/coco/inspect_model.ipynb",
+        "update": 1548119467.0
+    },
+    {
+        "name": "BERT score",
+        "description": "An automatic evaluation metric for text generation",
+        "author": [
+            [
+                "Tianyi Zhang",
+                "https://tiiiger.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1904.09675"
+            ],
+            [
+                "git",
+                "https://github.com/Tiiiger/bert_score"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1kpL8Y_AnUUiCxFjhxSrxCsc6-sDMNb_Q",
+        "update": 1595008645.686
+    },
+    {
+        "name": "XLNet",
+        "description": "Generalized Autoregressive Pretraining for Language Understanding",
+        "author": [
+            [
+                "Zhilin Yang",
+                "http://kimiyoung.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1906.08237"
+            ],
+            [
+                "git",
+                "https://github.com/zihangdai/xlnet"
+            ],
+            [
+                "data1",
+                "https://ai.stanford.edu/~amaas/data/sentiment/"
+            ],
+            [
+                "data2",
+                "https://rajpurkar.github.io/SQuAD-explorer/"
+            ],
+            [
+                "data3",
+                "https://www.cs.cmu.edu/~glai1/data/race/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/zihangdai/xlnet/blob/master/notebooks/colab_imdb_gpu.ipynb",
+        "update": 1561737505.0
+    },
+    {
+        "name": "SIREN",
+        "description": "Implicit Neural Representations with Periodic Activation Functions",
+        "author": [
+            [
+                "Vincent Sitzmann",
+                "https://vsitzmann.github.io/"
+            ],
+            [
+                "Julien Martel",
+                "http://web.stanford.edu/~jnmartel/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://vsitzmann.github.io/siren/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2006.09661"
+            ],
+            [
+                "git",
+                "https://github.com/vsitzmann/siren"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=Q2fLWGBeaiI"
+            ],
+            [
+                "data",
+                "https://drive.google.com/drive/folders/1_iq__37-hw7FJOEUK1tX7mdp8SKB368K"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/vsitzmann/siren/blob/master/explore_siren.ipynb",
+        "update": 1593027601.0
+    },
+    {
+        "name": "GANSpace",
+        "description": "A simple technique to analyze GANs and create interpretable controls for image synthesis, such as change of viewpoint, aging, lighting, and time of day",
+        "author": [
+            [
+                "Erik Härkönen",
+                "https://github.com/harskish"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2004.02546"
+            ],
+            [
+                "git",
+                "https://github.com/harskish/ganspace"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/jdTICDa_eAI"
+            ],
+            [
+                "git",
+                "https://github.com/justinpinkney/awesome-pretrained-stylegan"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/harskish/ganspace/blob/master/notebooks/Ganspace_colab.ipynb",
+        "update": 1607271906.0
+    },
+    {
+        "name": "Jukebox",
+        "description": "A neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles",
+        "author": [
+            [
+                "Christine Payne",
+                "http://christinemcleavey.com/"
+            ]
+        ],
+        "links": [
+            [
+                "blog post",
+                "https://openai.com/blog/jukebox"
+            ],
+            [
+                "axriv",
+                "https://arxiv.org/abs/2005.00341"
+            ],
+            [
+                "explorer",
+                "http://jukebox.openai.com/"
+            ],
+            [
+                "git",
+                "https://github.com/openai/jukebox"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb",
+        "update": 1588609010.0
+    },
+    {
+        "name": "Open-Unmix",
+        "description": "A deep neural network reference implementation for music source separation, applicable for researchers, audio engineers and artists",
+        "author": [
+            [
+                "Fabian-Robert Stöter",
+                "http://faroit.com/"
+            ],
+            [
+                "Antoine Liutkus",
+                "https://github.com/aliutkus"
+            ]
+        ],
+        "links": [
+            [
+                "paper",
+                "https://www.theoj.org/joss-papers/joss.01667/10.21105.joss.01667.pdf"
+            ],
+            [
+                "project",
+                "https://sigsep.github.io/open-unmix/"
+            ],
+            [
+                "git",
+                "https://github.com/sigsep/open-unmix-pytorch"
+            ],
+            [
+                "data",
+                "https://sigsep.github.io/datasets/musdb.html#musdb18-compressed-stems"
+            ],
+            [
+                "git",
+                "https://github.com/sigsep/norbert"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1mijF0zGWxN-KaxTnd0q6hayAlrID5fEQ",
+        "update": 1574257206.584
+    },
+    {
+        "name": "LaSAFT",
+        "description": "Latent Source Attentive Frequency Transformation for Conditioned Source Separation",
+        "author": [
+            [
+                "Woosung Choi",
+                "https://ws-choi.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://lasaft.github.io/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2010.11631"
+            ],
+            [
+                "git",
+                "https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT"
+            ],
+            [
+                "data",
+                "https://sigsep.github.io/datasets/musdb.html"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/master/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb",
+        "update": 1604240216.0
+    },
+    {
+        "name": "CLIP",
+        "description": "A neural network which efficiently learns visual concepts from natural language supervision",
+        "author": [
+            [
+                "Jong Wook",
+                "https://jongwook.kim/"
+            ],
+            [
+                "Alec Radford",
+                "http://newmu.github.io/"
+            ],
+            [
+                "Ilya Sutskever",
+                "http://www.cs.utoronto.ca/~ilya/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://openai.com/blog/clip/"
+            ],
+            [
+                "git",
+                "https://github.com/openai/CLIP"
+            ],
+            [
+                "paper",
+                "https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf"
+            ],
+            [
+                "data",
+                "https://www.cs.toronto.edu/~kriz/cifar.html"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/openai/clip/blob/master/Interacting_with_CLIP.ipynb",
+        "update": 1611926523.0
+    },
+    {
+        "name": "HiDT",
+        "description": "A generative image-to-image model and a new upsampling scheme that allows to apply image translation at high resolution",
+        "author": [
+            [
+                "Denis Korzhenkov",
+                "https://github.com/denkorzh"
+            ],
+            [
+                "Gleb Sterkin",
+                "https://github.com/belkakari"
+            ],
+            [
+                "Sergey Nikolenko",
+                "https://logic.pdmi.ras.ru/~sergey/"
+            ],
+            [
+                "Victor Lempitsky",
+                "http://sites.skoltech.ru/compvision/members/vilem/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://saic-mdal.github.io/HiDT/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2003.08791"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/playlist?list=PLuvGzlEQXT1KQuKrfBBEWh2f3PToxyeM5"
+            ],
+            [
+                "git",
+                "https://github.com/saic-mdal/HiDT"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=EWKAgwgqXB4"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/saic-mdal/hidt/blob/master/notebooks/HighResolutionDaytimeTranslation.ipynb",
+        "update": 1594983798.0
+    },
+    {
+        "name": "Wav2Lip",
+        "description": "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild",
+        "author": [
+            [
+                "Prajwal Renukanand",
+                "https://github.com/prajwalkr"
+            ],
+            [
+                "Rudrabha Mukhopadhyay",
+                "https://rudrabha.github.io/"
+            ],
+            [
+                "Vinay Namboodiri",
+                "https://vinaypn.github.io/"
+            ],
+            [
+                "C. V. Jawahar",
+                "https://faculty.iiit.ac.in/~jawahar/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/"
+            ],
+            [
+                "demo",
+                "http://bhaasha.iiit.ac.in/lipsync/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2008.10010"
+            ],
+            [
+                "git",
+                "https://github.com/Rudrabha/Wav2Lip"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=0fXaDCZNOJc"
+            ],
+            [
+                "data",
+                "https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/eyaler/avatars4all/blob/master/melaflefon.ipynb",
+        "update": 1611522516.0
+    },
+    {
+        "name": "MSG-Net",
+        "description": "Multi-style Generative Network with a novel Inspiration Layer, which retains the functionality of optimization-based approaches and has the fast speed of feed-forward networks",
+        "author": [
+            [
+                "Hang Zhang",
+                "https://hangzhang.org/"
+            ],
+            [
+                "Kristin Dana",
+                "https://www.ece.rutgers.edu/~kdana/dana.html"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "http://computervisionrutgers.github.io/MSG-Net/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1703.06953"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=oy6pWNWBt4Y"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/zhanghang1989/PyTorch-Multi-Style-Transfer/blob/master/msgnet.ipynb",
+        "update": 1611599921.0
+    },
+    {
+        "name": "GMCNN",
+        "description": "Generative Multi-column Convolutional Neural Networks inpainting model in Keras",
+        "author": [
+            [
+                "Tomasz Latkowski",
+                "https://github.com/tlatkowski"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1810.08771"
+            ],
+            [
+                "git",
+                "https://github.com/tlatkowski/inpainting-gmcnn-keras"
+            ],
+            [
+                "data1",
+                "http://places2.csail.mit.edu/download.html"
+            ],
+            [
+                "data2",
+                "https://nv-adlr.github.io/publication/partialconv-inpainting"
+            ],
+            [
+                "git",
+                "https://github.com/keras-team/keras-contrib/blob/master/examples/improved_wgan.py"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tlatkowski/inpainting-gmcnn-keras/blob/master/colab/Image_Inpainting_with_GMCNN_model.ipynb",
+        "update": 1565355440.0
+    },
+    {
+        "name": "Siamese NN",
+        "description": "Implementation of Siamese Neural Networks built upon multihead attention mechanism for text semantic similarity task",
+        "author": [
+            [
+                "Tomasz Latkowski",
+                "https://github.com/tlatkowski"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/tlatkowski/multihead-siamese-nets"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/c/quora-question-pairs"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1910.14599"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/anli/"
+            ],
+            [
+                "data",
+                "https://nlp.stanford.edu/projects/snli/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tlatkowski/multihead-siamese-nets/blob/master/colab/multihead_siamese_nets.ipynb",
+        "update": 1576785905.0
+    },
+    {
+        "name": "SkyAR",
+        "description": "A vision-based method for video sky replacement and harmonization, which can automatically generate realistic and dramatic sky backgrounds in videos with controllable styles",
+        "author": [
+            [
+                "Zhengxia Zou",
+                "http://www-personal.umich.edu/~zzhengxi/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://jiupinjia.github.io/skyar/"
+            ],
+            [
+                "git",
+                "https://github.com/jiupinjia/SkyAR"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2010.11800"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=zal9Ues0aOQ"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/jiupinjia/SkyAR/blob/master/colab_demo.ipynb",
+        "update": 1610970167.0
+    },
+    {
+        "name": "Neural Magic Eye",
+        "description": "Learning to See and Understand the Scene Behind an Autostereogram",
+        "author": [
+            [
+                "Zhengxia Zou",
+                "http://www-personal.umich.edu/~zzhengxi/"
+            ],
+            [
+                "Tianyang Shi",
+                "https://www.shitianyang.tech/"
+            ],
+            [
+                "Yi Yuan",
+                "https://yiyuan1991.github.io/"
+            ],
+            [
+                "Zhenwei Shi",
+                "http://levir.buaa.edu.cn/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://jiupinjia.github.io/neuralmagiceye/"
+            ],
+            [
+                "git",
+                "https://github.com/jiupinjia/neural-magic-eye"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2012.15692"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=Fkh7DEblqJ8"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1f59dFLJ748i2TleE54RkbUZSMo9Hyx7l",
+        "update": 1609465943.743
+    },
+    {
+        "name": "Stylized Neural Painting",
+        "description": "An image-to-painting translation method that generates vivid and realistic painting artworks with controllable styles",
+        "author": [
+            [
+                "Zhengxia Zou",
+                "http://www-personal.umich.edu/~zzhengxi/"
+            ],
+            [
+                "Tianyang Shi",
+                "https://www.shitianyang.tech/"
+            ],
+            [
+                "Yi Yuan",
+                "https://yiyuan1991.github.io/"
+            ],
+            [
+                "Zhenwei Shi",
+                "http://levir.buaa.edu.cn/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://jiupinjia.github.io/neuralpainter/"
+            ],
+            [
+                "git",
+                "https://github.com/jiupinjia/stylized-neural-painting"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2011.08114"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=oerb-nwrXhk"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1ch_41GtcQNQT1NLOA21vQJ_rQOjjv9D8",
+        "update": 1606835403.466
+    },
+    {
+        "name": "Classification of chest vs. adominal X-rays",
+        "description": "The goal of this tutorial is to build a deep learning classifier to accurately differentiate between chest and abdominal X-rays",
+        "author": [
+            [
+                "tmoneyx01",
+                "https://github.com/tmoneyx01"
+            ]
+        ],
+        "links": [
+            [
+                "annotator",
+                "https://public.md.ai/annotator/project/PVq9raBJ"
+            ],
+            [
+                "git",
+                "https://github.com/mdai/mdai-client-py"
+            ],
+            [
+                "docs",
+                "https://docs.md.ai/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mdai/ml-lessons/blob/master/lesson1-xray-images-classification.ipynb",
+        "update": 1583556420.0
+    },
+    {
+        "name": "Lung X-Rays Semantic Segmentation",
+        "description": "This lesson applies a U-Net for Semantic Segmentation of the lung fields on chest x-rays",
+        "author": [
+            [
+                "tmoneyx01",
+                "https://github.com/tmoneyx01"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1505.04597"
+            ],
+            [
+                "annotator",
+                "https://public.md.ai/annotator/project/aGq4k6NW"
+            ],
+            [
+                "git",
+                "https://github.com/mdai/mdai-client-py"
+            ],
+            [
+                "data",
+                "https://ceb.nlm.nih.gov/repositories/tuberculosis-chest-x-ray-image-data-sets/"
+            ],
+            [
+                "docs",
+                "https://docs.md.ai/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mdai/ml-lessons/blob/master/lesson2-lung-xrays-segmentation.ipynb",
+        "update": 1583556420.0
+    },
+    {
+        "name": "RSNA Pneumonia Detection Challenge (Kaggel API)",
+        "description": "This notebook covers the basics of parsing the competition dataset, training using a detector basd on the Mask-RCNN algorithm for object detection and instance segmentation",
+        "author": [
+            [
+                "tmoneyx01",
+                "https://github.com/tmoneyx01"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1703.06870"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/c/rsna-pneumonia-detection-challenge"
+            ],
+            [
+                "annotator",
+                "https://public.md.ai/annotator/project/LxR6zdR2/workspace"
+            ],
+            [
+                "git",
+                "https://github.com/mdai/mdai-client-py"
+            ],
+            [
+                "docs",
+                "https://docs.md.ai/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mdai/ml-lessons/blob/master/lesson3-rsna-pneumonia-detection-kaggle.ipynb",
+        "update": 1535962706.0
+    },
+    {
+        "name": "Generating Piano Music with Transformer",
+        "description": "This Colab notebook lets you play with pretrained Transformer models for piano music generation, based on the Music Transformer model introduced by Huang et al. in 2018.",
+        "author": [
+            [
+                "Ian Simon",
+                "https://github.com/iansimon"
+            ],
+            [
+                "Anna Huang",
+                "https://github.com/czhuang"
+            ],
+            [
+                "Jesse Engel",
+                "https://github.com/jesseengel"
+            ],
+            [
+                "Curtis Hawthorne",
+                "https://github.com/cghawthorne"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1706.03762"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1809.04281"
+            ],
+            [
+                "blog post",
+                "http://g.co/magenta/music-transformer"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb",
+        "update": 1568581200.0
+    },
+    {
+        "name": "GrooVAE",
+        "description": "This notebook demonstrates some applications of machine learning for generating and manipulating beats and drum performances",
+        "author": [
+            [
+                "Jon Gillick",
+                "https://www.jongillick.com/"
+            ],
+            [
+                "Adam Roberts",
+                "https://github.com/adarob"
+            ],
+            [
+                "Jesse Engel",
+                "https://github.com/jesseengel"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1905.06118"
+            ],
+            [
+                "blog post",
+                "https://g.co/magenta/groovae"
+            ],
+            [
+                "data",
+                "https://g.co/magenta/groove-datasets"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=x2YLmXzovDo"
+            ],
+            [
+                "git",
+                "http://goo.gl/magenta/musicvae-py"
+            ],
+            [
+                "web app",
+                "https://groove-drums.glitch.me/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/magenta-demos/blob/master/colab-notebooks/GrooVAE.ipynb",
+        "update": 1610114797.0
+    },
+    {
+        "name": "Multitrack MusicVAE",
+        "description": "The models in this notebook are capable of encoding and decoding single measures of up to 8 tracks, optionally conditioned on an underlying chord",
+        "author": [
+            [
+                "Ian Simon",
+                "https://github.com/iansimon"
+            ],
+            [
+                "Adam Roberts",
+                "https://github.com/adarob"
+            ],
+            [
+                "Colin Raffel",
+                "https://colinraffel.com/"
+            ],
+            [
+                "Jesse Engel",
+                "https://github.com/jesseengel"
+            ],
+            [
+                "Curtis Hawthorne",
+                "https://github.com/cghawthorne"
+            ],
+            [
+                "Douglas Eck",
+                "https://github.com/douglaseck"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1806.00195"
+            ],
+            [
+                "blog post",
+                "http://g.co/magenta/multitrack"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/Multitrack_MusicVAE.ipynb",
+        "update": 1591122817.0
+    },
+    {
+        "name": "MusicVAE",
+        "description": "A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music",
+        "author": [
+            [
+                "Adam Roberts",
+                "https://github.com/adarob"
+            ],
+            [
+                "Jesse Engel",
+                "https://github.com/jesseengel"
+            ],
+            [
+                "Colin Raffel",
+                "https://colinraffel.com/"
+            ],
+            [
+                "Curtis Hawthorne",
+                "https://github.com/cghawthorne"
+            ],
+            [
+                "Douglas Eck",
+                "https://github.com/douglaseck"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1803.05428"
+            ],
+            [
+                "blog post",
+                "https://g.co/magenta/music-vae"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/playlist?list=PLBUMAYA6kvGU8Cgqh709o5SUvo-zHGTxr"
+            ],
+            [
+                "project",
+                "https://magenta.tensorflow.org/music-vae"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicVAE.ipynb",
+        "update": 1591121246.0
+    },
+    {
+        "name": "MusicXML Documentation",
+        "description": "The goal of this notebook is to explore one of the magenta libraries for music",
+        "author": [
+            [
+                "Prakruti Joshi",
+                "https://github.com/prakruti-joshi"
+            ],
+            [
+                "Falak Shah",
+                "https://falaktheoptimist.github.io/"
+            ],
+            [
+                "Twisha Naik",
+                "https://github.com/twisha96"
+            ]
+        ],
+        "links": [
+            [
+                "musicXML",
+                "https://www.musicxml.com/for-developers/"
+            ],
+            [
+                "magenta",
+                "https://magenta.tensorflow.org/"
+            ],
+            [
+                "music theory",
+                "http://musictheoryblog.blogspot.com/2008/02/learn-music-theory.html"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicXML_Document_Structure_Documentation.ipynb",
+        "update": 1610114797.0
+    },
+    {
+        "name": "SVG VAE",
+        "description": "A colab demo for the SVG VAE model",
+        "author": [
+            [
+                "Raphael Gontijo Lopes",
+                "https://raphagl.com/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1904.02632"
+            ],
+            [
+                "blog post",
+                "https://magenta.tensorflow.org/svg-vae"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/vae_svg_decoding.ipynb",
+        "update": 1610114797.0
+    },
+    {
+        "name": "Latent Constraints",
+        "description": "Conditional Generation from Unconditional Generative Models",
+        "author": [
+            [
+                "Jesse Engel",
+                "https://github.com/jesseengel"
+            ],
+            [
+                "Matthew Hoffman",
+                "http://matthewdhoffman.com/"
+            ],
+            [
+                "Adam Roberts",
+                "https://github.com/adarob"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1711.05772"
+            ],
+            [
+                "data",
+                "http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/notebooks/latent_constraints/latentconstraints.ipynb",
+        "update": 1511733600.0
+    },
+    {
+        "name": "Performance RNN",
+        "description": "This notebook shows you how to generate new performed compositions from a trained model",
+        "author": [
+            [
+                "Ian Simon",
+                "https://github.com/iansimon"
+            ],
+            [
+                "Sageev Oore",
+                "https://github.com/osageev"
+            ],
+            [
+                "Curtis Hawthorne",
+                "https://github.com/cghawthorne"
+            ]
+        ],
+        "links": [
+            [
+                "blog post",
+                "https://magenta.tensorflow.org/performance-rnn"
+            ],
+            [
+                "data",
+                "http://www.piano-e-competition.com/"
+            ],
+            [
+                "git",
+                "https://github.com/magenta/magenta/tree/master/magenta/models/performance_rnn"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/notebooks/magenta/performance_rnn/performance_rnn.ipynb",
+        "update": 1499720400.0
+    },
+    {
+        "name": "Onsets and Frames",
+        "description": "Onsets and Frames is an automatic music transcription framework with piano and drums models",
+        "author": [
+            [
+                "Curtis Hawthorne",
+                "https://github.com/cghawthorne"
+            ],
+            [
+                "Erich Elsen",
+                "https://github.com/ekelsen"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1710.11153"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1810.12247"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2004.00188"
+            ],
+            [
+                "blog post",
+                "http://g.co/magenta/onsets-frames"
+            ],
+            [
+                "data1",
+                "https://g.co/magenta/maestro-wave2midi2wave"
+            ],
+            [
+                "data2",
+                "https://magenta.tensorflow.org/datasets/e-gmd"
+            ],
+            [
+                "git",
+                "https://goo.gl/magenta/onsets-frames-code"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/notebooks/magenta/onsets_frames_transcription/onsets_frames_transcription.ipynb",
+        "update": 1585774800.0
+    },
+    {
+        "name": "GANSynth",
+        "description": "This notebook is a demo GANSynth, which generates audio with Generative Adversarial Networks",
+        "author": [
+            [
+                "Jesse Engel",
+                "https://github.com/jesseengel"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1809.11096"
+            ],
+            [
+                "project",
+                "https://storage.googleapis.com/magentadata/papers/gansynth/index.html"
+            ],
+            [
+                "git",
+                "http://goo.gl/magenta/gansynth-code"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb",
+        "update": 1551045600.0
+    },
+    {
+        "name": "NSynth",
+        "description": "This colab notebook has everything you need to upload your own sounds and use NSynth models to reconstruct and interpolate between them",
+        "author": [
+            [
+                "Jesse Engel",
+                "https://github.com/jesseengel"
+            ],
+            [
+                "Cinjon Resnick",
+                "https://github.com/cinjon"
+            ],
+            [
+                "Adam Roberts",
+                "https://github.com/adarob"
+            ],
+            [
+                "Sander Dieleman",
+                "https://benanne.github.io/"
+            ],
+            [
+                "Karen Simonyan",
+                "https://scholar.google.co.uk/citations?user=L7lMQkQAAAAJ"
+            ],
+            [
+                "Mohammad Norouzi",
+                "https://norouzi.github.io/"
+            ],
+            [
+                "Douglas Eck",
+                "https://github.com/douglaseck"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1704.01279"
+            ],
+            [
+                "blog post",
+                "https://magenta.tensorflow.org/nsynth"
+            ],
+            [
+                "git",
+                "https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth"
+            ],
+            [
+                "data",
+                "https://magenta.tensorflow.org/datasets/nsynth"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=AaALLWQmCdI"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=BOoSy-Pg8is"
+            ],
+            [
+                "tutorial",
+                "https://magenta.tensorflow.org/nsynth-fastgen"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/notebooks/magenta/nsynth/nsynth.ipynb",
+        "update": 1491426000.0
+    },
+    {
+        "name": "Big GAN",
+        "description": "Large Scale GAN Training for High Fidelity Natural Image Synthesis",
+        "author": [
+            [
+                "Google",
+                "https://www.tensorflow.org/hub"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1809.11096"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb",
+        "update": 1610429158.0
+    },
+    {
+        "name": "BERT with TPU",
+        "description": "Using a free Colab Cloud TPU to fine-tune sentence and sentence-pair classification tasks built on top of pretrained BERT models and run predictions on tuned model",
+        "author": [
+            [
+                "Sourabh Bajaj",
+                "https://sourabhbajaj.com/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1810.04805"
+            ],
+            [
+                "tf",
+                "https://www.tensorflow.org/hub"
+            ],
+            [
+                "TPU quickstart",
+                "https://cloud.google.com/tpu/docs/quickstart"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb",
+        "update": 1553812832.0
+    }
+]

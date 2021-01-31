@@ -2,7 +2,12 @@
     {
         "name": "RSNA Pneumonia Detection Challenge (MD.ai API)",
         "description": "This notebook covers the basics of parsing the competition dataset, training using a detector basd on the Mask-RCNN algorithm for object detection and instance segmentation",
-        "author": "tmoneyx01",
+        "author": [
+            [
+                "tmoneyx01",
+                "https://github.com/tmoneyx01"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
@@ -31,7 +36,12 @@
     {
         "name": "Transfer learning and fine-tuning",
         "description": "In this tutorial, you will learn how to classify images of cats and dogs by using transfer learning from a pre-trained network",
-        "author": "François Chollet",
+        "author": [
+            [
+                "François Chollet",
+                "https://fchollet.com/"
+            ]
+        ],
         "links": [
             [
                 "wiki",
@@ -39,16 +49,29 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb",
-        "update": 1600234019.0
+        "update": 1610039013.0
     },
     {
         "name": "DeepDream",
         "description": "This tutorial contains a minimal implementation of DeepDream: an experiment that visualizes the patterns learned by a neural network",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "blog post",
                 "https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/pdf/1409.4842.pdf"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Inception"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb",
@@ -57,7 +80,12 @@
     {
         "name": "Neural style transfer",
         "description": "This tutorial uses deep learning to compose one image in the style of another image",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
@@ -70,11 +98,24 @@
     {
         "name": "Adversarial FGSM",
         "description": "This tutorial creates an adversarial example using the Fast Gradient Signed Method attack. This was one of the first and most popular attacks to fool a neural network.",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
                 "https://arxiv.org/abs/1412.6572"
+            ],
+            [
+                "tf",
+                "https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/keras/applications/MobileNetV2"
+            ],
+            [
+                "imagenet",
+                "http://www.image-net.org/"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/adversarial_fgsm.ipynb",
@@ -83,20 +124,42 @@
     {
         "name": "Autoencoders",
         "description": "This tutorial introduces autoencoders with three examples: the basics, image denoising, and anomaly detection.",
-        "author": "Google",
+        "author": [
+            [
+                "Google",
+                "https://www.tensorflow.org/"
+            ]
+        ],
         "links": [
             [
                 "book",
                 "https://www.deeplearningbook.org/contents/autoencoders.html"
+            ],
+            [
+                "data",
+                "http://www.timeseriesclassification.com/description.php?Dataset=ECG5000"
+            ],
+            [
+                "blog post",
+                "https://blog.keras.io/building-autoencoders-in-keras.html"
+            ],
+            [
+                "examples",
+                "https://anomagram.fastforwardlabs.com/#/"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/autoencoder.ipynb",
-        "update": 1601925715.0
+        "update": 1609517785.0
     },
     {
         "name": "CVAE",
         "description": "This notebook demonstrates how train a Variational Autoencoder on the MNIST dataset",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
@@ -113,24 +176,46 @@
     {
         "name": "CycleGAN",
         "description": "This notebook demonstrates unpaired image to image translation using conditional GAN's",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
                 "https://arxiv.org/abs/1703.10593"
+            ],
+            [
+                "tf",
+                "https://www.tensorflow.org/datasets/catalog/cycle_gan"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb",
-        "update": 1601374726.0
+        "update": 1610039013.0
     },
     {
         "name": "DCGAN",
         "description": "This tutorial demonstrates how to generate images of handwritten digits using a Deep Convolutional Generative Adversarial Network",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
                 "https://arxiv.org/pdf/1511.06434.pdf"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/jessicali9530/celeba-dataset"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1701.00160"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb",
@@ -139,20 +224,34 @@
     {
         "name": "Pix2Pix",
         "description": "This notebook demonstrates image to image translation using conditional GAN's",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
                 "https://arxiv.org/abs/1611.07004"
+            ],
+            [
+                "data",
+                "https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb",
-        "update": 1599603685.0
+        "update": 1610039013.0
     },
     {
         "name": "Simple audio recognition",
         "description": "This tutorial will show you how to build a basic speech recognition network that recognizes ten different words",
-        "author": "Google",
+        "author": [
+            [
+                "Google",
+                "https://www.tensorflow.org/"
+            ]
+        ],
         "links": [
             [
                 "tf",
@@ -161,15 +260,24 @@
             [
                 "coursera",
                 "https://www.coursera.org/lecture/audio-signal-processing/stft-2-tjEQe"
+            ],
+            [
+                "tf.js",
+                "https://codelabs.developers.google.com/codelabs/tensorflowjs-audio-codelab/index.html#0"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/audio/simple_audio.ipynb",
-        "update": 1602866053.0
+        "update": 1610039013.0
     },
     {
         "name": "Image classification",
         "description": "This tutorial shows how to classify images of flowers",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "link",
@@ -177,12 +285,17 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb",
-        "update": 1603382787.0
+        "update": 1610039013.0
     },
     {
         "name": "CNN",
         "description": "This tutorial demonstrates training a simple Convolutional Neural Network to classify CIFAR images",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "link",
@@ -199,37 +312,84 @@
     {
         "name": "Data augmentation",
         "description": "This tutorial demonstrates data augmentation: a technique to increase the diversity of your training set by applying random transformations such as image rotation",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "wiki",
                 "https://en.wikipedia.org/wiki/Data_augmentation"
+            ],
+            [
+                "tf",
+                "https://www.tensorflow.org/datasets/catalog/tf_flowers"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/data_augmentation.ipynb",
-        "update": 1608583146.0
+        "update": 1611161504.0
     },
     {
         "name": "Image segmentation",
         "description": "This tutorial focuses on the task of image segmentation, using a modified U-Net",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "u-net",
                 "https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/"
+            ],
+            [
+                "data",
+                "https://www.robots.ox.ac.uk/~vgg/data/pets/"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/c/carvana-image-masking-challenge/overview"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/segmentation.ipynb",
-        "update": 1599744161.0
+        "update": 1610039013.0
     },
     {
         "name": "Integrated gradients",
         "description": "This tutorial demonstrates how to implement Integrated Gradients, an Explainable AI technique",
-        "author": "Google",
+        "author": [
+            [
+                "Google",
+                "https://www.tensorflow.org/"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
                 "https://arxiv.org/abs/1703.01365"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Explainable_artificial_intelligence"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Linear_interpolation"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Riemann_sum"
+            ],
+            [
+                "git",
+                "https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/blogs/integrated_gradients"
+            ],
+            [
+                "visualizing",
+                "https://distill.pub/2020/attribution-baselines/"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/interpretability/integrated_gradients.ipynb",
@@ -238,7 +398,12 @@
     {
         "name": "Actor-Critic",
         "description": "This tutorial demonstrates how to implement the Actor-Critic method using TensorFlow to train an agent on the Open AI Gym CartPole-V0 environment",
-        "author": "Google",
+        "author": [
+            [
+                "Mark Daoust",
+                "https://github.com/MarkDaoust"
+            ]
+        ],
         "links": [
             [
                 "neurips1",
@@ -263,33 +428,64 @@
     {
         "name": "Classify text with BERT",
         "description": "This tutorial contains complete code to fine-tune BERT to perform sentiment analysis on a dataset of plain-text IMDB movie reviews",
-        "author": "Google",
+        "author": [
+            [
+                "Google",
+                "https://www.tensorflow.org/"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
                 "https://arxiv.org/abs/1810.04805"
+            ],
+            [
+                "data",
+                "https://ai.stanford.edu/~amaas/data/sentiment/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1711.05101"
+            ],
+            [
+                "tf",
+                "https://tfhub.dev/google/collections/bert/1"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/classify_text_with_bert.ipynb",
-        "update": 1607966416.0
+        "update": 1610961758.0
     },
     {
         "name": "Image captioning",
         "description": "Given an image our goal is to generate a caption",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
                 "https://arxiv.org/abs/1502.03044"
+            ],
+            [
+                "data",
+                "https://cocodataset.org/#home"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb",
-        "update": 1600951088.0
+        "update": 1610474717.0
     },
     {
         "name": "NMT with attention",
         "description": "This notebook trains a sequence to sequence (seq2seq) model for Spanish to English translation",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
@@ -298,6 +494,14 @@
             [
                 "wiki",
                 "https://en.wikipedia.org/wiki/Neural_machine_translation"
+            ],
+            [
+                "data",
+                "http://www.manythings.org/anki/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1508.04025v5"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/nmt_with_attention.ipynb",
@@ -306,7 +510,12 @@
     {
         "name": "GLUE using BERT on TPU",
         "description": "This tutorial contains complete end-to-end code to train models on a TPU",
-        "author": "Google",
+        "author": [
+            [
+                "Google",
+                "https://www.tensorflow.org/"
+            ]
+        ],
         "links": [
             [
                 "GLUE",
@@ -322,12 +531,17 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/solve_glue_tasks_using_bert_on_tpu.ipynb",
-        "update": 1607966416.0
+        "update": 1611063925.0
     },
     {
         "name": "Text classification with RNN",
         "description": "This text classification tutorial trains a recurrent neural network on the IMDB large movie review dataset for sentiment analysis",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "link",
@@ -339,12 +553,17 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_classification_rnn.ipynb",
-        "update": 1604921124.0
+        "update": 1610477306.0
     },
     {
         "name": "Text generation with RNN",
         "description": "This tutorial demonstrates how to generate text using a character-based RNN",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "link",
@@ -352,25 +571,47 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_generation.ipynb",
-        "update": 1602600497.0
+        "update": 1610034739.0
     },
     {
         "name": "Transformer",
         "description": "This tutorial trains a Transformer model to translate Portuguese to English",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
                 "https://arxiv.org/abs/1706.03762"
+            ],
+            [
+                "link",
+                "https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/pdf/1903.03878.pdf"
+            ],
+            [
+                "git",
+                "https://github.com/neulab/word-embeddings-for-nmt"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/transformer.ipynb",
-        "update": 1604264844.0
+        "update": 1610039013.0
     },
     {
         "name": "Word2Vec",
         "description": "Word2Vec is not a singular algorithm, rather, it is a family of model architectures and optimizations that can be used to learn word embeddings from large datasets",
-        "author": "Google",
+        "author": [
+            [
+                "Google",
+                "https://www.tensorflow.org/"
+            ]
+        ],
         "links": [
             [
                 "arxiv",
@@ -379,28 +620,54 @@
             [
                 "neurips",
                 "https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf"
+            ],
+            [
+                "projector",
+                "http://projector.tensorflow.org/"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Zipf%27s_law"
+            ],
+            [
+                "link",
+                "https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word2vec.ipynb",
-        "update": 1604069304.0
+        "update": 1611161504.0
     },
     {
         "name": "Word embeddings",
         "description": "This tutorial contains an introduction to word embeddings",
-        "author": "Google",
+        "author": [
+            [
+                "Billy Lamberta",
+                "https://github.com/lamberta"
+            ]
+        ],
         "links": [
             [
                 "projector",
                 "http://projector.tensorflow.org/"
+            ],
+            [
+                "data",
+                "http://ai.stanford.edu/~amaas/data/sentiment/"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word_embeddings.ipynb",
-        "update": 1604375240.0
+        "update": 1610477995.0
     },
     {
         "name": "Building Your Own Federated Learning Algorithm",
         "description": "In this tutorial, we discuss how to implement federated learning algorithms without deferring to the tff.learning API",
-        "author": "Zachary Charles",
+        "author": [
+            [
+                "Zachary Charles",
+                "https://zachcharles.com/"
+            ]
+        ],
         "links": [
             [
                 "tf",
@@ -420,8 +687,13 @@
     },
     {
         "name": "Federated Learning for Image Classification",
-        "description": "In this tutorial, we use the classic MNIST training example to introduce the Federated Learning (FL) API layer of TFF, tff.learning - a set of higher-level interfaces that can be used to perform common types of federated learning tasks, such as federated training, against user-supplied models implemented in TensorFlow",
-        "author": "Krzysztof Ostrowski",
+        "description": "In this tutorial, we use the classic MNIST training example to introduce the Federated Learning API layer of TFF, tff.learning - a set of higher-level interfaces that can be used to perform common types of federated learning tasks, such as federated training, against user-supplied models implemented in TensorFlow",
+        "author": [
+            [
+                "Krzysztof Ostrowski",
+                "https://github.com/krzys-ostrowski"
+            ]
+        ],
         "links": [
             [
                 "data",
@@ -442,7 +714,12 @@
     {
         "name": "Federated Learning for Text Generation",
         "description": "For this tutorial, we start with a RNN that generates ASCII characters, and refine it via federated learning",
-        "author": "Krzysztof Ostrowski",
+        "author": [
+            [
+                "Krzysztof Ostrowski",
+                "https://github.com/krzys-ostrowski"
+            ]
+        ],
         "links": [
             [
                 "tf",
@@ -471,7 +748,12 @@
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
         "description": "This tutorial is the first part of a two-part series that demonstrates how to implement custom types of federated algorithms in TensorFlow Federated using the Federated Core - a set of lower-level interfaces that serve as a foundation upon which we have implemented the Federated Learning layer",
-        "author": "Krzysztof Ostrowski",
+        "author": [
+            [
+                "Krzysztof Ostrowski",
+                "https://github.com/krzys-ostrowski"
+            ]
+        ],
         "links": [
             [
                 "tf",
@@ -492,7 +774,12 @@
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
         "description": "his tutorial is the second part of a two-part series that demonstrates how to implement custom types of federated algorithms in TFF using the Federated Core, which serves as a foundation for the Federated Learning layer",
-        "author": "Krzysztof Ostrowski",
+        "author": [
+            [
+                "Krzysztof Ostrowski",
+                "https://github.com/krzys-ostrowski"
+            ]
+        ],
         "links": [
             [
                 "tf",
@@ -513,7 +800,12 @@
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
         "description": "In this tutorial, we use the EMNIST dataset to demonstrate how to enable lossy compression algorithms to reduce communication cost in the Federated Averaging algorithm",
-        "author": "Weikang Song",
+        "author": [
+            [
+                "Weikang Song",
+                "https://github.com/swkpku"
+            ]
+        ],
         "links": [
             [
                 "tf",
@@ -538,7 +830,12 @@
     {
         "name": "High-performance simulations with TFF",
         "description": "This tutorial will describe how to setup high-performance simulations with TFF in a variety of common scenarios",
-        "author": "Krzysztof Ostrowski",
+        "author": [
+            [
+                "Krzysztof Ostrowski",
+                "https://github.com/krzys-ostrowski"
+            ]
+        ],
         "links": [],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
         "update": 1595947807.0
@@ -546,7 +843,12 @@
     {
         "name": "High-performance Simulation with Kubernetes",
         "description": "This tutorial will describe how to set up high-performance simulation using a TFF runtime running on Kubernetes",
-        "author": "Jason Roselander",
+        "author": [
+            [
+                "Jason Roselander",
+                "https://github.com/roselander"
+            ]
+        ],
         "links": [
             [
                 "GKE",
@@ -559,5 +861,325 @@
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
         "update": 1599615156.0
+    },
+    {
+        "name": "Introduction to the TensorFlow Models NLP library",
+        "description": "In this Colab notebook, you will learn how to build transformer-based models for common NLP tasks including pretraining, span labelling and classification using the building blocks from NLP modeling library",
+        "author": [
+            [
+                "Chen Chen",
+                "https://github.com/chenGitHuber"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/tensorflow/models/tree/master/official/nlp/modeling"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1810.04805"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/nlp/nlp_modeling_library_intro.ipynb",
+        "update": 1596486236.0
+    },
+    {
+        "name": "Train a GPT-2 Text-Generating Model",
+        "description": "Retrain an advanced text generating neural network on any text dataset for free on a GPU using Colaboratory using aitextgen!",
+        "author": [
+            [
+                "Max Woolf",
+                "https://minimaxir.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/minimaxir/aitextgen"
+            ],
+            [
+                "docs",
+                "https://docs.aitextgen.io/"
+            ],
+            [
+                "data",
+                "https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD",
+        "update": 1609718937.647
+    },
+    {
+        "name": "Custom GPT-2 + Tokenizer",
+        "description": "Train a custom GPT-2 model for free on a GPU using Colaboratory using aitextgen!",
+        "author": [
+            [
+                "Max Woolf",
+                "https://minimaxir.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/minimaxir/aitextgen"
+            ],
+            [
+                "docs",
+                "https://docs.aitextgen.io/"
+            ],
+            [
+                "data",
+                "https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/144MdX5aLqrQ3-YW-po81CQMrD6kpgpYh",
+        "update": 1593896043.99
+    },
+    {
+        "name": "YOLOv4",
+        "description": "This tutorial will help you build YOLOv4 easily in the cloud with GPU enabled so that you can run object detections in milliseconds!",
+        "author": [
+            [
+                "Aleksey Bochkovskiy",
+                "http://www.alexeyab.com/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2004.10934"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2011.08036"
+            ],
+            [
+                "git",
+                "https://github.com/AlexeyAB/darknet/wiki"
+            ],
+            [
+                "project",
+                ""
+            ],
+            [
+                "reddit",
+                "https://www.reddit.com/r/MachineLearning/comments/gydxzd/p_yolov4_the_most_accurate_realtime_neural/"
+            ],
+            [
+                "medium",
+                "https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe"
+            ],
+            [
+                "medium",
+                "https://alexeyab84.medium.com/scaled-yolo-v4-is-the-best-neural-network-for-object-detection-on-ms-coco-dataset-39dfa22fa982"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/1_SiUOYUoOI"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/YDFf-TqJOFE"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg",
+        "update": 1593048824.334
+    },
+    {
+        "name": "YOLOv5 on Custom Objects",
+        "description": "This notebook shows training on your own custom objects",
+        "author": [
+            [
+                "Jacob Solawetz",
+                "https://blog.roboflow.com/author/jacob/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/ultralytics/yolov5"
+            ],
+            [
+                "blog post",
+                "https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/"
+            ],
+            [
+                "data",
+                "https://public.roboflow.ai/object-detection/bccd"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ",
+        "update": 1609170006.503
+    },
+    {
+        "name": "Python Data Science Handbook",
+        "description": "Jupyter notebook version of the Python Data Science Handbook by Jake VanderPlas",
+        "author": [
+            [
+                "Jake Vanderplas",
+                "http://vanderplas.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/jakevdp/PythonDataScienceHandbook"
+            ],
+            [
+                "project",
+                "https://jakevdp.github.io/PythonDataScienceHandbook/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb",
+        "update": 1502731639.0
+    },
+    {
+        "name": "Transfer Learning in NLP",
+        "description": "This notebook accompanies the tutorial given at NAACL 2019 on Transfer Learning in Natural Language Processing",
+        "author": [
+            [
+                "Sebastian Ruder",
+                "https://ruder.io/"
+            ],
+            [
+                "Swabha Swayamdipta",
+                "https://swabhs.com/"
+            ],
+            [
+                "Thomas Wolf",
+                "https://thomwolf.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/huggingface/naacl_transfer_learning_tutorial"
+            ],
+            [
+                "data",
+                "https://cogcomp.seas.upenn.edu/Data/QA/QC/"
+            ],
+            [
+                "git",
+                "https://github.com/HazyResearch/metal"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1iDHCYIrWswIKp-n-pOg69xLoZO09MEgf",
+        "update": 1559577705.249
+    },
+    {
+        "name": "TensorNetwork",
+        "description": "A library for easy and efficient manipulation of tensor networks",
+        "author": [
+            [
+                "Chase Roberts",
+                "http://thenerdstation.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/google/TensorNetwork"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=YN2YBB0viKo"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1708.00006"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1306.2164"
+            ],
+            [
+                "docs",
+                "https://tensornetwork.readthedocs.io/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/google/TensorNetwork/blob/master/colabs/Tensor_Networks_in_Neural_Networks.ipynb",
+        "update": 1611185077.0
+    },
+    {
+        "name": "TF-Ranking",
+        "description": "This tutorial is an end-to-end walkthrough of training a TensorFlow Ranking neural network model which incorporates sparse textual features",
+        "author": [
+            [
+                "Rama Kumar",
+                "https://github.com/ramakumar1729"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/pdf/1910.09676.pdf"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1812.00073"
+            ],
+            [
+                "data",
+                "http://hamedz.ir/resources/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/pdf/1905.08957.pdf"
+            ],
+            [
+                "git",
+                "https://github.com/tensorflow/ranking"
+            ],
+            [
+                "git",
+                "https://github.com/tensorflow/serving/blob/master/tensorflow_serving/apis/input.proto#L72"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Mean_reciprocal_rank"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Discounted_cumulative_gain"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1811.04415"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/ranking/blob/master/tensorflow_ranking/examples/handling_sparse_features.ipynb",
+        "update": 1585002259.0
+    },
+    {
+        "name": "Detectron2",
+        "description": "FAIR's next-generation platform for object detection and segmentation",
+        "author": [
+            [
+                "Yuxin Wu",
+                "http://ppwwyyxx.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/detectron2"
+            ],
+            [
+                "blog post",
+                "https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/"
+            ],
+            [
+                "docs",
+                "https://detectron2.readthedocs.io/en/latest/"
+            ],
+            [
+                "git",
+                "https://github.com/matterport/Mask_RCNN/tree/master/samples/balloon"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5",
+        "update": 1607638280.651
     }
 ]
