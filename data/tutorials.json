@@ -241,7 +241,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb",
-        "update": 1610039013.0
+        "update": 1613676274.0
     },
     {
         "name": "Simple audio recognition",
@@ -479,7 +479,7 @@
     },
     {
         "name": "NMT with attention",
-        "description": "This notebook trains a sequence to sequence (seq2seq) model for Spanish to English translation",
+        "description": "This notebook trains a seq2seq model for Spanish to English translation",
         "author": [
             [
                 "Billy Lamberta",
@@ -531,7 +531,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/solve_glue_tasks_using_bert_on_tpu.ipynb",
-        "update": 1611063925.0
+        "update": 1612980171.0
     },
     {
         "name": "Text classification with RNN",
@@ -601,7 +601,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/transformer.ipynb",
-        "update": 1610039013.0
+        "update": 1612359491.0
     },
     {
         "name": "Word2Vec",
@@ -683,7 +683,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1605621496.0
+        "update": 1614220409.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -709,7 +709,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1604328469.0
+        "update": 1614220409.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -743,7 +743,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1602945859.0
+        "update": 1614220409.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -769,7 +769,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1603307712.0
+        "update": 1614220409.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -795,7 +795,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1601925009.0
+        "update": 1614220409.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -825,7 +825,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1601431043.0
+        "update": 1614220409.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -838,7 +838,7 @@
         ],
         "links": [],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1595947807.0
+        "update": 1614220409.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -860,7 +860,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1599615156.0
+        "update": 1614177861.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -882,7 +882,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/nlp/nlp_modeling_library_intro.ipynb",
-        "update": 1596486236.0
+        "update": 1613163792.0
     },
     {
         "name": "Train a GPT-2 Text-Generating Model",
@@ -908,11 +908,11 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD",
-        "update": 1609718937.647
+        "update": 1614056866.063
     },
     {
         "name": "Custom GPT-2 + Tokenizer",
-        "description": "Train a custom GPT-2 model for free on a GPU using Colaboratory using aitextgen!",
+        "description": "Train a custom GPT-2 model for free on a GPU using aitextgen!",
         "author": [
             [
                 "Max Woolf",
@@ -1150,7 +1150,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/ranking/blob/master/tensorflow_ranking/examples/handling_sparse_features.ipynb",
-        "update": 1585002259.0
+        "update": 1612409308.0
     },
     {
         "name": "Detectron2",
@@ -1180,6 +1180,48 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5",
-        "update": 1607638280.651
+        "update": 1612856373.619
+    },
+    {
+        "name": "Spleeter",
+        "description": "Deezer source separation library including pretrained models",
+        "author": [
+            [
+                "Romain Hennequin",
+                "http://romain-hennequin.fr/"
+            ],
+            [
+                "Anis Khlif",
+                "https://github.com/alreadytaikeune"
+            ],
+            [
+                "Félix Voituret",
+                "https://github.com/Faylixe"
+            ],
+            [
+                "Manuel Moussallam",
+                "https://mmoussallam.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "blog post",
+                "https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e"
+            ],
+            [
+                "project",
+                "https://research.deezer.com/projects/spleeter.html"
+            ],
+            [
+                "git",
+                "https://github.com/deezer/spleeter"
+            ],
+            [
+                "data",
+                "https://sigsep.github.io/datasets/musdb.html"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/deezer/spleeter/blob/master/spleeter.ipynb",
+        "update": 1610311462.0
     }
 ]

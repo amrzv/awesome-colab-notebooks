@@ -107,7 +107,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce",
-        "update": 1576948648.967
+        "update": 1613336141.634
     },
     {
         "name": "textgenrnn",
@@ -202,6 +202,18 @@
             [
                 "Artur Manukyan",
                 "https://artur-man.github.io/"
+            ],
+            [
+                "Thorin Tabor",
+                "http://thorin.tabcreations.com/"
+            ],
+            [
+                "Mikel Hernaez",
+                "http://mikelhernaez.github.io/"
+            ],
+            [
+                "Jill Mesirov",
+                "https://en.wikipedia.org/wiki/Jill_P._Mesirov"
             ]
         ],
         "links": [
@@ -236,6 +248,14 @@
             [
                 "Jayendra Shinde",
                 "https://jayendrashinde91.github.io/"
+            ],
+            [
+                "Celine Everaert",
+                "http://www.crig.ugent.be/en/node/510"
+            ],
+            [
+                "Thorin Tabor",
+                "http://thorin.tabcreations.com/"
             ]
         ],
         "links": [
@@ -279,7 +299,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/nlp/customize_encoder.ipynb",
-        "update": 1596486236.0
+        "update": 1613163792.0
     },
     {
         "name": "Fine-tuning a BERT",
@@ -305,7 +325,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/fine_tuning_bert.ipynb",
-        "update": 1603476324.0
+        "update": 1613147603.0
     },
     {
         "name": "First Order Motion Model for Image Animation",
@@ -608,7 +628,7 @@
     },
     {
         "name": "DFL-Colab",
-        "description": "This project provides you IPython Notebook to use DeepFaceLab with Google Colaboratory",
+        "description": "This project provides you IPython Notebook to use DeepFaceLab",
         "author": [
             [
                 "chervonij",
@@ -634,7 +654,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1596515439.0
+        "update": 1614280108.0
     },
     {
         "name": "Breast Cancer detection",
@@ -656,7 +676,7 @@
     },
     {
         "name": "Waifu2x",
-        "description": "This is the Google Colab implementation of tsurumeso's chainer implementation of waifu2x, for people that do not have access to NVIDIA GPUs",
+        "description": "This is the Google Colab implementation of tsurumeso's chainer implementation of waifu2x",
         "author": [
             [
                 "Margesh Phirke",
@@ -956,7 +976,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1612029076.0
+        "update": 1613848918.0
     },
     {
         "name": "3D Photo Inpainting",
@@ -1040,7 +1060,7 @@
     },
     {
         "name": "Earth Engine Python API and Folium Interactive Mapping",
-        "description": "This notebook demonstrates how to setup the Earth Engine Python API in the Google Colaboratory platform and provides several examples for visualizing Earth Engine processed data interactively using the folium library",
+        "description": "This notebook demonstrates how to setup the Earth Engine and provides several examples for visualizing Earth Engine processed data interactively using the folium library",
         "author": [
             [
                 "Qiusheng Wu",
@@ -1106,7 +1126,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/cleverhans-lab/cleverhans/blob/master/examples/adversarial_patch/AdversarialPatch.ipynb",
-        "update": 1523575256.0
+        "update": 1611749406.0
     },
     {
         "name": "RNN for Predictive Maintenance",
@@ -1250,7 +1270,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1rU20zJ281sZuMD1DHbsODFr1DbASL0RH",
-        "update": 1605884655.316
+        "update": 1613174366.054
     },
     {
         "name": "Neural Style Transfer",
@@ -1475,7 +1495,7 @@
                 "https://openai.com/blog/jukebox"
             ],
             [
-                "axriv",
+                "arxiv",
                 "https://arxiv.org/abs/2005.00341"
             ],
             [
@@ -1526,7 +1546,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1mijF0zGWxN-KaxTnd0q6hayAlrID5fEQ",
-        "update": 1574257206.584
+        "update": 1613336836.839
     },
     {
         "name": "LaSAFT",
@@ -1690,7 +1710,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eyaler/avatars4all/blob/master/melaflefon.ipynb",
-        "update": 1611522516.0
+        "update": 1613155107.0
     },
     {
         "name": "MSG-Net",
@@ -2000,7 +2020,7 @@
     },
     {
         "name": "Generating Piano Music with Transformer",
-        "description": "This Colab notebook lets you play with pretrained Transformer models for piano music generation, based on the Music Transformer model introduced by Huang et al. in 2018.",
+        "description": "This Colab notebook lets you play with pretrained Transformer models for piano music generation, based on the Music Transformer",
         "author": [
             [
                 "Ian Simon",
@@ -2122,7 +2142,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/Multitrack_MusicVAE.ipynb",
-        "update": 1591122817.0
+        "update": 1613580884.0
     },
     {
         "name": "MusicVAE",
@@ -2471,5 +2491,155 @@
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb",
         "update": 1553812832.0
+    },
+    {
+        "name": "Pixel2Style2Pixel",
+        "description": "Encoding in Style: A StyleGAN Encoder for Image-to-Image Translation",
+        "author": [
+            [
+                "Elad Richardson",
+                "https://github.com/eladrich"
+            ],
+            [
+                "Yuval Alaluf",
+                "https://yuval-alaluf.github.io/"
+            ],
+            [
+                "Yotam Nitzan",
+                "https://yotamnitzan.github.io/"
+            ],
+            [
+                "Daniel Cohen-Or",
+                "https://www.cs.tau.ac.il/~dcor/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://eladrich.github.io/pixel2style2pixel/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2008.00951"
+            ],
+            [
+                "git",
+                "https://github.com/eladrich/pixel2style2pixel"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/HuangYG123/CurricularFace"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/eladrich/pixel2style2pixel/blob/master/notebooks/inference_playground.ipynb",
+        "update": 1612509582.0
+    },
+    {
+        "name": "Talking Head Anime from a Single Image",
+        "description": "The network takes as input an image of an anime character's face and a desired pose, and it outputs another image of the same character in the given pose",
+        "author": [
+            [
+                "Pramook Khungurn",
+                "https://pkhungurn.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://pkhungurn.github.io/talking-head-anime/"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/kMQCERkTdO0"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/T1Gp-RxFZwU"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/FioRJ6x_RbI"
+            ],
+            [
+                "git",
+                "https://github.com/pkhungurn/talking-head-anime-demo"
+            ],
+            [
+                "git",
+                "https://github.com/lincolnhard/head-pose-estimation"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Virtual_YouTuber"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/MikuMikuDance"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/pkhungurn/talking-head-anime-demo/blob/master/tha_colab.ipynb",
+        "update": 1614109107.0
+    },
+    {
+        "name": "NeRViS",
+        "description": "An algorithm for full-frame video stabilization by first estimating dense warp fields",
+        "author": [
+            [
+                "Yu-Lun Liu",
+                "http://www.cmlab.csie.ntu.edu.tw/~yulunliu/"
+            ],
+            [
+                "Wei-Sheng Lai",
+                "https://www.wslai.net/"
+            ],
+            [
+                "Ming-Hsuan Yang",
+                "https://faculty.ucmerced.edu/mhyang/"
+            ],
+            [
+                "Yung-Yu Chuang",
+                "https://www.csie.ntu.edu.tw/~cyy/"
+            ],
+            [
+                "Jia-Bin Huang",
+                "https://filebox.ece.vt.edu/~jbhuang/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://alex04072000.github.io/NeRViS/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2102.06205"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/KO3sULs4hso"
+            ],
+            [
+                "git",
+                "https://github.com/alex04072000/NeRViS"
+            ],
+            [
+                "git",
+                "https://github.com/cxjyxxme/deep-online-video-stabilization"
+            ],
+            [
+                "git",
+                "https://github.com/jinsc37/DIFRINT"
+            ],
+            [
+                "data",
+                "http://liushuaicheng.org/SIGGRAPH2013/database.html"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1l-fUzyM38KJMZyKMBWw_vu7ZUyDwgdYH",
+        "update": 1614106445.951
     }
 ]
