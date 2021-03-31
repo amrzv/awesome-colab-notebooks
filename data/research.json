@@ -654,7 +654,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1614280108.0
+        "update": 1616615890.0
     },
     {
         "name": "Breast Cancer detection",
@@ -780,7 +780,7 @@
         "links": [
             [
                 "arxiv",
-                "https://arxiv.org/pdf/1905.05172.pdf"
+                "https://arxiv.org/abs/1905.05172"
             ],
             [
                 "git",
@@ -818,7 +818,7 @@
         "links": [
             [
                 "arxiv",
-                "https://arxiv.org/pdf/2004.00452.pdf"
+                "https://arxiv.org/abs/2004.00452"
             ],
             [
                 "git",
@@ -976,7 +976,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1613848918.0
+        "update": 1617116838.0
     },
     {
         "name": "3D Photo Inpainting",
@@ -1244,7 +1244,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/CompVis/taming-transformers/blob/master/scripts/taming-transformers.ipynb",
-        "update": 1609769079.0
+        "update": 1615375745.0
     },
     {
         "name": "bsuite",
@@ -2640,6 +2640,48 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1l-fUzyM38KJMZyKMBWw_vu7ZUyDwgdYH",
-        "update": 1614106445.951
+        "update": 1617077572.589
+    },
+    {
+        "name": "NFNet",
+        "description": "An adaptive gradient clipping technique, a significantly improved class of Normalizer-Free ResNets",
+        "author": [
+            [
+                "Andrew Brock",
+                "https://github.com/ajbrock"
+            ],
+            [
+                "Soham De",
+                "https://sohamde.github.io/"
+            ],
+            [
+                "Samuel L. Smith",
+                "https://scholar.google.co.uk/citations?user=fyEqU5oAAAAJ"
+            ],
+            [
+                "Karen Simonyan",
+                "https://scholar.google.com/citations?user=L7lMQkQAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2102.06171"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2101.08692"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/deepmind-research/tree/master/nfnets"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/jaxline"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/deepmind/deepmind-research/blob/master/nfnets/nfnet_demo_colab.ipynb",
+        "update": 1613576576.0
     }
 ]

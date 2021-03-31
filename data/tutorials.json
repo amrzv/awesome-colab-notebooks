@@ -49,7 +49,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb",
-        "update": 1610039013.0
+        "update": 1614676531.0
     },
     {
         "name": "DeepDream",
@@ -75,7 +75,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb",
-        "update": 1601767354.0
+        "update": 1615569317.0
     },
     {
         "name": "Neural style transfer",
@@ -93,7 +93,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/style_transfer.ipynb",
-        "update": 1603367789.0
+        "update": 1615569317.0
     },
     {
         "name": "Adversarial FGSM",
@@ -119,7 +119,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/adversarial_fgsm.ipynb",
-        "update": 1599603685.0
+        "update": 1615569317.0
     },
     {
         "name": "Autoencoders",
@@ -149,7 +149,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/autoencoder.ipynb",
-        "update": 1609517785.0
+        "update": 1615569317.0
     },
     {
         "name": "CVAE",
@@ -171,7 +171,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb",
-        "update": 1599603685.0
+        "update": 1616427923.0
     },
     {
         "name": "CycleGAN",
@@ -193,7 +193,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb",
-        "update": 1610039013.0
+        "update": 1615569317.0
     },
     {
         "name": "DCGAN",
@@ -207,7 +207,7 @@
         "links": [
             [
                 "arxiv",
-                "https://arxiv.org/pdf/1511.06434.pdf"
+                "https://arxiv.org/abs/1511.06434"
             ],
             [
                 "kaggle",
@@ -219,7 +219,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb",
-        "update": 1599603685.0
+        "update": 1615569799.0
     },
     {
         "name": "Pix2Pix",
@@ -241,7 +241,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb",
-        "update": 1613676274.0
+        "update": 1617043366.0
     },
     {
         "name": "Simple audio recognition",
@@ -267,7 +267,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/audio/simple_audio.ipynb",
-        "update": 1610039013.0
+        "update": 1611375335.0
     },
     {
         "name": "Image classification",
@@ -355,7 +355,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/segmentation.ipynb",
-        "update": 1610039013.0
+        "update": 1615570640.0
     },
     {
         "name": "Integrated gradients",
@@ -406,7 +406,7 @@
         ],
         "links": [
             [
-                "neurips1",
+                "neurips",
                 "https://papers.nips.cc/paper/1786-actor-critic-algorithms.pdf"
             ],
             [
@@ -414,7 +414,7 @@
                 "https://gym.openai.com/"
             ],
             [
-                "neurips2",
+                "neurips",
                 "https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf"
             ],
             [
@@ -453,7 +453,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/classify_text_with_bert.ipynb",
-        "update": 1610961758.0
+        "update": 1617039878.0
     },
     {
         "name": "Image captioning",
@@ -475,7 +475,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb",
-        "update": 1610474717.0
+        "update": 1617105183.0
     },
     {
         "name": "NMT with attention",
@@ -489,7 +489,7 @@
         "links": [
             [
                 "arxiv",
-                "https://arxiv.org/pdf/1409.0473.pdf"
+                "https://arxiv.org/abs/1409.0473"
             ],
             [
                 "wiki",
@@ -505,7 +505,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/nmt_with_attention.ipynb",
-        "update": 1599603685.0
+        "update": 1617040035.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -531,7 +531,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/solve_glue_tasks_using_bert_on_tpu.ipynb",
-        "update": 1612980171.0
+        "update": 1617105183.0
     },
     {
         "name": "Text classification with RNN",
@@ -553,7 +553,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_classification_rnn.ipynb",
-        "update": 1610477306.0
+        "update": 1617040164.0
     },
     {
         "name": "Text generation with RNN",
@@ -571,7 +571,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_generation.ipynb",
-        "update": 1610034739.0
+        "update": 1617018165.0
     },
     {
         "name": "Transformer",
@@ -593,7 +593,7 @@
             ],
             [
                 "arxiv",
-                "https://arxiv.org/pdf/1903.03878.pdf"
+                "https://arxiv.org/abs/1903.03878"
             ],
             [
                 "git",
@@ -601,7 +601,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/transformer.ipynb",
-        "update": 1612359491.0
+        "update": 1617025195.0
     },
     {
         "name": "Word2Vec",
@@ -615,7 +615,7 @@
         "links": [
             [
                 "arxiv",
-                "https://arxiv.org/pdf/1301.3781.pdf"
+                "https://arxiv.org/abs/1301.3781"
             ],
             [
                 "neurips",
@@ -635,7 +635,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word2vec.ipynb",
-        "update": 1611161504.0
+        "update": 1617040531.0
     },
     {
         "name": "Word embeddings",
@@ -657,7 +657,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word_embeddings.ipynb",
-        "update": 1610477995.0
+        "update": 1617018305.0
     },
     {
         "name": "Building Your Own Federated Learning Algorithm",
@@ -860,7 +860,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1614177861.0
+        "update": 1615844063.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -882,7 +882,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/nlp/nlp_modeling_library_intro.ipynb",
-        "update": 1613163792.0
+        "update": 1614726921.0
     },
     {
         "name": "Train a GPT-2 Text-Generating Model",
@@ -1010,7 +1010,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ",
-        "update": 1609170006.503
+        "update": 1615413333.317
     },
     {
         "name": "Python Data Science Handbook",
@@ -1114,7 +1114,7 @@
         "links": [
             [
                 "arxiv",
-                "https://arxiv.org/pdf/1910.09676.pdf"
+                "https://arxiv.org/abs/1910.09676"
             ],
             [
                 "arxiv",
@@ -1126,7 +1126,7 @@
             ],
             [
                 "arxiv",
-                "https://arxiv.org/pdf/1905.08957.pdf"
+                "https://arxiv.org/abs/1905.08957"
             ],
             [
                 "git",
@@ -1180,7 +1180,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5",
-        "update": 1612856373.619
+        "update": 1615596060.378
     },
     {
         "name": "Spleeter",
@@ -1223,5 +1223,51 @@
         ],
         "colab": "https://colab.research.google.com/github/deezer/spleeter/blob/master/spleeter.ipynb",
         "update": 1610311462.0
+    },
+    {
+        "name": "GPT Neo",
+        "description": "An implementation of model & data parallel GPT2 & GPT3 -like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library",
+        "author": [
+            [
+                "EleutherAI",
+                "https://www.eleuther.ai/"
+            ]
+        ],
+        "links": [
+            [
+                "GPT-2",
+                "https://openai.com/blog/better-language-models/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2005.14165"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2004.05150"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1701.06538"
+            ],
+            [
+                "git",
+                "https://github.com/EleutherAI/gpt-neo"
+            ],
+            [
+                "git",
+                "https://github.com/tensorflow/mesh"
+            ],
+            [
+                "git",
+                "https://github.com/EleutherAI/gpt-neox/"
+            ],
+            [
+                "pretrained",
+                "https://the-eye.eu/public/AI/gptneo-release/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/EleutherAI/GPTNeo/blob/master/GPTNeo_example_notebook.ipynb",
+        "update": 1616937556.0
     }
 ]
