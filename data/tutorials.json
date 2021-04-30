@@ -49,7 +49,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb",
-        "update": 1614676531.0
+        "update": 1618071430.0
     },
     {
         "name": "DeepDream",
@@ -149,7 +149,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/autoencoder.ipynb",
-        "update": 1615569317.0
+        "update": 1619799248.0
     },
     {
         "name": "CVAE",
@@ -267,7 +267,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/audio/simple_audio.ipynb",
-        "update": 1611375335.0
+        "update": 1617718493.0
     },
     {
         "name": "Image classification",
@@ -423,7 +423,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/reinforcement_learning/actor_critic.ipynb",
-        "update": 1599603685.0
+        "update": 1617644915.0
     },
     {
         "name": "Classify text with BERT",
@@ -453,7 +453,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/classify_text_with_bert.ipynb",
-        "update": 1617039878.0
+        "update": 1617288315.0
     },
     {
         "name": "Image captioning",
@@ -475,7 +475,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb",
-        "update": 1617105183.0
+        "update": 1617288315.0
     },
     {
         "name": "NMT with attention",
@@ -505,7 +505,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/nmt_with_attention.ipynb",
-        "update": 1617040035.0
+        "update": 1619454235.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -531,7 +531,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/solve_glue_tasks_using_bert_on_tpu.ipynb",
-        "update": 1617105183.0
+        "update": 1617288315.0
     },
     {
         "name": "Text classification with RNN",
@@ -553,7 +553,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_classification_rnn.ipynb",
-        "update": 1617040164.0
+        "update": 1617288315.0
     },
     {
         "name": "Text generation with RNN",
@@ -571,7 +571,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_generation.ipynb",
-        "update": 1617018165.0
+        "update": 1617288315.0
     },
     {
         "name": "Transformer",
@@ -601,7 +601,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/transformer.ipynb",
-        "update": 1617025195.0
+        "update": 1619117879.0
     },
     {
         "name": "Word2Vec",
@@ -635,7 +635,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word2vec.ipynb",
-        "update": 1617040531.0
+        "update": 1618328684.0
     },
     {
         "name": "Word embeddings",
@@ -657,7 +657,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word_embeddings.ipynb",
-        "update": 1617018305.0
+        "update": 1617288315.0
     },
     {
         "name": "Building Your Own Federated Learning Algorithm",
@@ -683,7 +683,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1614220409.0
+        "update": 1619037525.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -709,7 +709,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1614220409.0
+        "update": 1618847748.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -825,7 +825,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1614220409.0
+        "update": 1619034829.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -838,7 +838,7 @@
         ],
         "links": [],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1614220409.0
+        "update": 1618847748.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -860,7 +860,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1615844063.0
+        "update": 1618847748.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -908,7 +908,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD",
-        "update": 1614056866.063
+        "update": 1618796613.946
     },
     {
         "name": "Custom GPT-2 + Tokenizer",
@@ -934,7 +934,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/144MdX5aLqrQ3-YW-po81CQMrD6kpgpYh",
-        "update": 1593896043.99
+        "update": 1619626384.803
     },
     {
         "name": "YOLOv4",
@@ -1180,7 +1180,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5",
-        "update": 1615596060.378
+        "update": 1618393962.497
     },
     {
         "name": "Spleeter",
@@ -1269,5 +1269,39 @@
         ],
         "colab": "https://colab.research.google.com/github/EleutherAI/GPTNeo/blob/master/GPTNeo_example_notebook.ipynb",
         "update": 1616937556.0
+    },
+    {
+        "name": "Lucid Sonic Dreams",
+        "description": "Syncs GAN-generated visuals to music",
+        "author": [
+            [
+                "Mikael Alafriz",
+                "https://github.com/mikaelalafriz"
+            ]
+        ],
+        "links": [
+            [
+                "youtube",
+                "https://youtu.be/l-nGC-ve7sI"
+            ],
+            [
+                "medium",
+                "https://towardsdatascience.com/introducing-lucid-sonic-dreams-sync-gan-art-to-music-with-a-few-lines-of-python-code-b04f88722de1"
+            ],
+            [
+                "git",
+                "https://github.com/mikaelalafriz/lucid-sonic-dreams"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2"
+            ],
+            [
+                "git",
+                "https://github.com/justinpinkney/awesome-pretrained-stylegan2"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD",
+        "update": 1618394419.135
     }
 ]

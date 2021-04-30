@@ -325,7 +325,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/fine_tuning_bert.ipynb",
-        "update": 1613147603.0
+        "update": 1618581848.0
     },
     {
         "name": "First Order Motion Model for Image Animation",
@@ -392,7 +392,8 @@
         "description": "Colorize your own videos!",
         "author": [
             [
-                "Robert Bell"
+                "Jason Antic",
+                "https://github.com/jantic"
             ]
         ],
         "links": [
@@ -411,6 +412,22 @@
             [
                 "reddit",
                 "https://www.reddit.com/r/silentmoviegifs/"
+            ],
+            [
+                "youtube",
+                "http://www.youtube.com/watch?v=l3UXXid04Ys"
+            ],
+            [
+                "youtube",
+                "http://www.youtube.com/watch?v=EXn-n2iqEjI"
+            ],
+            [
+                "model",
+                "https://data.deepai.org/deoldify/ColorizeVideo_gen.pth"
+            ],
+            [
+                "medium",
+                "https://medium.com/element-ai-research-lab/stabilizing-neural-style-transfer-for-video-62675e203e42"
             ]
         ],
         "colab": "https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb",
@@ -420,6 +437,10 @@
         "name": "DeOldify (photo)",
         "description": "Colorize your own photos!",
         "author": [
+            [
+                "Jason Antic",
+                "https://github.com/jantic"
+            ],
             [
                 "Matt Robinson",
                 "https://github.com/mc-robinson"
@@ -441,6 +462,10 @@
             [
                 "reddit",
                 "https://www.reddit.com/r/TheWayWeWere/"
+            ],
+            [
+                "model",
+                "https://data.deepai.org/deoldify/ColorizeArtistic_gen.pth"
             ]
         ],
         "colab": "https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb",
@@ -946,7 +971,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov3/blob/master/tutorial.ipynb",
-        "update": 1606411440.0
+        "update": 1618252685.0
     },
     {
         "name": "YOLOv5",
@@ -976,7 +1001,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1617116838.0
+        "update": 1619770531.0
     },
     {
         "name": "3D Photo Inpainting",
@@ -2536,7 +2561,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eladrich/pixel2style2pixel/blob/master/notebooks/inference_playground.ipynb",
-        "update": 1612509582.0
+        "update": 1619228316.0
     },
     {
         "name": "Talking Head Anime from a Single Image",
@@ -2640,7 +2665,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1l-fUzyM38KJMZyKMBWw_vu7ZUyDwgdYH",
-        "update": 1617077572.589
+        "update": 1618125726.731
     },
     {
         "name": "NFNet",
@@ -2683,5 +2708,287 @@
         ],
         "colab": "https://colab.research.google.com/github/deepmind/deepmind-research/blob/master/nfnets/nfnet_demo_colab.ipynb",
         "update": 1613576576.0
+    },
+    {
+        "name": "SkinDeep",
+        "description": "Remove Body Tattoo Using Deep Learning",
+        "author": [
+            [
+                "Vijish Madhavan",
+                "https://github.com/vijishmadhavan"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1805.08318"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1710.10196"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1707.02921"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1603.08155"
+            ],
+            [
+                "git",
+                "https://github.com/vijishmadhavan/SkinDeep"
+            ],
+            [
+                "git",
+                "https://github.com/jantic/DeOldify"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/vijishmadhavan/SkinDeep/blob/master/SkinDeep_good.ipynb",
+        "update": 1619268323.0
+    },
+    {
+        "name": "EasyNMT",
+        "description": "Easy to use, state-of-the-art machine translation for more than 100+ languages",
+        "author": [
+            [
+                "Nils Reimers",
+                "https://www.nils-reimers.de/"
+            ]
+        ],
+        "links": [
+            [
+                "demo",
+                "http://easynmt.net/demo/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2008.00401"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2010.11125"
+            ],
+            [
+                "git",
+                "https://github.com/UKPLab/EasyNMT"
+            ],
+            [
+                "git",
+                "https://github.com/Helsinki-NLP/Opus-MT"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1X47vgSiOphpxS5w_LPtjQgJmiSTNfRNC",
+        "update": 1619468765.741
+    },
+    {
+        "name": "ReStyle",
+        "description": "A Residual-Based StyleGAN Encoder via Iterative Refinement",
+        "author": [
+            [
+                "Yuval Alaluf",
+                "https://yuval-alaluf.github.io/"
+            ],
+            [
+                "Or Patashnik",
+                "https://orpatashnik.github.io/"
+            ],
+            [
+                "Daniel Cohen-Or",
+                "https://danielcohenor.com/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://yuval-alaluf.github.io/restyle-encoder/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.02699"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2008.00951"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2102.02766"
+            ],
+            [
+                "git",
+                "https://github.com/yuval-alaluf/restyle-encoder"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/TreB1eN/InsightFace_Pytorch"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/yuval-alaluf/restyle-encoder/blob/master/notebooks/inference_playground.ipynb",
+        "update": 1617803860.0
+    },
+    {
+        "name": "encoder4editing",
+        "description": "Designing an Encoder for StyleGAN Image Manipulation",
+        "author": [
+            [
+                "Omer Tov",
+                "https://github.com/omertov"
+            ],
+            [
+                "Yuval Alaluf",
+                "https://yuval-alaluf.github.io/"
+            ],
+            [
+                "Yotam Nitzan",
+                "https://yotamnitzan.github.io/"
+            ],
+            [
+                "Or Patashnik",
+                "https://orpatashnik.github.io/"
+            ],
+            [
+                "Daniel Cohen-Or",
+                "https://danielcohenor.com/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2102.02766"
+            ],
+            [
+                "git",
+                "https://github.com/omertov/encoder4editing"
+            ],
+            [
+                "git",
+                "https://github.com/eladrich/pixel2style2pixel"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/omertov/encoder4editing/blob/master/notebooks/inference_playground.ipynb",
+        "update": 1616663801.0
+    },
+    {
+        "name": "SAM",
+        "description": "Age Transformation Using a Style-Based Regression Model",
+        "author": [
+            [
+                "Yuval Alaluf",
+                "https://yuval-alaluf.github.io/"
+            ],
+            [
+                "Or Patashnik",
+                "https://orpatashnik.github.io/"
+            ],
+            [
+                "Daniel Cohen-Or",
+                "https://danielcohenor.com/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://yuval-alaluf.github.io/SAM/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2102.02754"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/X_pYC_LtBFw"
+            ],
+            [
+                "git",
+                "https://github.com/yuval-alaluf/SAM"
+            ],
+            [
+                "git",
+                "https://github.com/eladrich/pixel2style2pixel"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ]
+        ],
+        "colab": "http://colab.research.google.com/github/yuval-alaluf/SAM/blob/master/notebooks/animation_inference_playground.ipynb",
+        "update": 1619410569.0
+    },
+    {
+        "name": "Big Sleep",
+        "description": "Text to image generation, using OpenAI's CLIP and a BigGAN",
+        "author": [
+            [
+                "Phil Wang",
+                "https://github.com/lucidrains"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.00020"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1809.11096"
+            ],
+            [
+                "reddit",
+                "https://www.reddit.com/r/bigsleep/comments/lxawb4/how_to_use_some_of_the_newer_features_of/"
+            ],
+            [
+                "git",
+                "https://github.com/lucidrains/big-sleep"
+            ],
+            [
+                "reddit",
+                "https://www.reddit.com/r/bigsleep/"
+            ],
+            [
+                "git",
+                "https://github.com/openai/CLIP"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1MEWKbm-driRNF8PrU7ogS5o3se-ePyPb",
+        "update": 1615949421.123
+    },
+    {
+        "name": "Deep Daze",
+        "description": "Text to image generation using OpenAI's CLIP and Siren",
+        "author": [
+            [
+                "Phil Wang",
+                "https://github.com/lucidrains"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.00020"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2006.09661"
+            ],
+            [
+                "reddit",
+                "https://www.reddit.com/r/deepdaze/"
+            ],
+            [
+                "git",
+                "https://github.com/lucidrains/deep-daze"
+            ],
+            [
+                "git",
+                "https://github.com/openai/CLIP"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1_YOHdORb0Fg1Q7vWZ_KlrtFe9Ur3pmVj",
+        "update": 1615949380.476
     }
 ]
