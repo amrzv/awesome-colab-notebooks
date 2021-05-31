@@ -3,13 +3,13 @@ from datetime import datetime
 from json import load
 from os.path import join
 
-badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips'}
+badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips', 'paperswithcode'}
 
 def colab_url(url):
     return f'[![Open In Colab](images/colab.svg)]({url})'
 
 def parse_link(link_tuple, height=20):
-    name,url = link_tuple
+    name, url = link_tuple
     if name in badges:
         return f'[<img src="images/{name}.svg" alt="{name}" height={height}/>]({url})'
     return f'[{name}]({url})'
@@ -39,7 +39,7 @@ def generate_table(fn):
                 line['author'] = '[{}]({})'.format(*line['author'][0])
             else:
                 line['author'] = line['author'][0][0]
-        line['links'] = parse_links(line['links'])
+        line['links'] = parse_links(sorted(line['links'], key=lambda x: x[0]))
         line['url'] = colab_url(line['colab'])
         line['update'] = datetime.fromtimestamp(line['update']).strftime('%d.%m.%Y')
         print('| {name} | {description} | {author} | {links} | {url} | {update} |'.format(**line))

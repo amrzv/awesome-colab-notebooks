@@ -1,7 +1,7 @@
 [
     {
         "name": "RSNA Pneumonia Detection Challenge (MD.ai API)",
-        "description": "This notebook covers the basics of parsing the competition dataset, training using a detector basd on the Mask-RCNN algorithm for object detection and instance segmentation",
+        "description": "The basics of parsing the competition dataset, training using a detector basd on the Mask-RCNN algorithm for object detection and instance segmentation",
         "author": [
             [
                 "tmoneyx01",
@@ -35,7 +35,7 @@
     },
     {
         "name": "Transfer learning and fine-tuning",
-        "description": "In this tutorial, you will learn how to classify images of cats and dogs by using transfer learning from a pre-trained network",
+        "description": "You will learn how to classify images of cats and dogs by using transfer learning from a pre-trained network",
         "author": [
             [
                 "François Chollet",
@@ -46,6 +46,10 @@
             [
                 "wiki",
                 "https://en.wikipedia.org/wiki/Transfer_learning"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/transfer-learning"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb",
@@ -123,7 +127,7 @@
     },
     {
         "name": "Autoencoders",
-        "description": "This tutorial introduces autoencoders with three examples: the basics, image denoising, and anomaly detection.",
+        "description": "This tutorial introduces autoencoders with three examples: the basics, image denoising, and anomaly detection",
         "author": [
             [
                 "Google",
@@ -146,6 +150,10 @@
             [
                 "examples",
                 "https://anomagram.fastforwardlabs.com/#/"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/method/autoencoder"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/autoencoder.ipynb",
@@ -193,7 +201,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb",
-        "update": 1615569317.0
+        "update": 1619811498.0
     },
     {
         "name": "DCGAN",
@@ -264,6 +272,10 @@
             [
                 "tf.js",
                 "https://codelabs.developers.google.com/codelabs/tensorflowjs-audio-codelab/index.html#0"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/speech-recognition"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/audio/simple_audio.ipynb",
@@ -280,7 +292,7 @@
         ],
         "links": [
             [
-                "link",
+                "paperswithcode",
                 "https://paperswithcode.com/task/image-classification"
             ]
         ],
@@ -307,7 +319,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb",
-        "update": 1608235485.0
+        "update": 1621624908.0
     },
     {
         "name": "Data augmentation",
@@ -326,10 +338,14 @@
             [
                 "tf",
                 "https://www.tensorflow.org/datasets/catalog/tf_flowers"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/data-augmentation"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/data_augmentation.ipynb",
-        "update": 1611161504.0
+        "update": 1620285728.0
     },
     {
         "name": "Image segmentation",
@@ -355,7 +371,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/segmentation.ipynb",
-        "update": 1615570640.0
+        "update": 1620841180.0
     },
     {
         "name": "Integrated gradients",
@@ -450,10 +466,14 @@
             [
                 "tf",
                 "https://tfhub.dev/google/collections/bert/1"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/text-classification"
             ]
         ],
-        "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/classify_text_with_bert.ipynb",
-        "update": 1617288315.0
+        "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb",
+        "update": 1622128383.0
     },
     {
         "name": "Image captioning",
@@ -504,8 +524,8 @@
                 "https://arxiv.org/abs/1508.04025v5"
             ]
         ],
-        "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/nmt_with_attention.ipynb",
-        "update": 1619454235.0
+        "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/nmt_with_attention.ipynb",
+        "update": 1621892911.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -530,8 +550,8 @@
                 "https://www.tensorflow.org/guide/tpu"
             ]
         ],
-        "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/solve_glue_tasks_using_bert_on_tpu.ipynb",
-        "update": 1617288315.0
+        "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/bert_glue.ipynb",
+        "update": 1621974634.0
     },
     {
         "name": "Text classification with RNN",
@@ -550,10 +570,14 @@
             [
                 "data",
                 "http://ai.stanford.edu/~amaas/data/sentiment/"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/text-classification"
             ]
         ],
-        "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_classification_rnn.ipynb",
-        "update": 1617288315.0
+        "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb",
+        "update": 1621636480.0
     },
     {
         "name": "Text generation with RNN",
@@ -568,10 +592,14 @@
             [
                 "link",
                 "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/text-generation"
             ]
         ],
-        "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_generation.ipynb",
-        "update": 1617288315.0
+        "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_generation.ipynb",
+        "update": 1620855370.0
     },
     {
         "name": "Transformer",
@@ -600,8 +628,8 @@
                 "https://github.com/neulab/word-embeddings-for-nmt"
             ]
         ],
-        "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/transformer.ipynb",
-        "update": 1619117879.0
+        "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/transformer.ipynb",
+        "update": 1622128383.0
     },
     {
         "name": "Word2Vec",
@@ -632,6 +660,14 @@
             [
                 "link",
                 "https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/method/cbow-word2vec"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/method/skip-gram-word2vec"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word2vec.ipynb",
@@ -656,8 +692,8 @@
                 "http://ai.stanford.edu/~amaas/data/sentiment/"
             ]
         ],
-        "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word_embeddings.ipynb",
-        "update": 1617288315.0
+        "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/guide/word_embeddings.ipynb",
+        "update": 1621636480.0
     },
     {
         "name": "Building Your Own Federated Learning Algorithm",
@@ -680,6 +716,10 @@
             [
                 "arxiv",
                 "https://arxiv.org/abs/1907.08610"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/federated-learning"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
@@ -706,6 +746,14 @@
             [
                 "medium",
                 "https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/federated-learning"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/image-classification"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
@@ -766,6 +814,10 @@
             [
                 "arxiv",
                 "https://arxiv.org/abs/1602.05629"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/federated-learning"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
@@ -773,7 +825,7 @@
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
-        "description": "his tutorial is the second part of a two-part series that demonstrates how to implement custom types of federated algorithms in TFF using the Federated Core, which serves as a foundation for the Federated Learning layer",
+        "description": "This tutorial is the second part of a two-part series that demonstrates how to implement custom types of federated algorithms in TFF using the Federated Core, which serves as a foundation for the Federated Learning layer",
         "author": [
             [
                 "Krzysztof Ostrowski",
@@ -792,6 +844,10 @@
             [
                 "git",
                 "https://github.com/tensorflow/federated/blob/master/tensorflow_federated/python/learning/federated_averaging.py"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/federated-learning"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
@@ -822,6 +878,10 @@
             [
                 "tensor encoding",
                 "http://jakubkonecny.com/files/tensor_encoding.pdf"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/federated-learning"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
@@ -836,7 +896,12 @@
                 "https://github.com/krzys-ostrowski"
             ]
         ],
-        "links": [],
+        "links": [
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/federated-learning"
+            ]
+        ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
         "update": 1618847748.0
     },
@@ -857,6 +922,10 @@
             [
                 "shell",
                 "https://cloud.google.com/shell/"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/federated-learning"
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
@@ -864,7 +933,7 @@
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
-        "description": "In this Colab notebook, you will learn how to build transformer-based models for common NLP tasks including pretraining, span labelling and classification using the building blocks from NLP modeling library",
+        "description": "You will learn how to build transformer-based models for common NLP tasks including pretraining, span labelling and classification using the building blocks from NLP modeling library",
         "author": [
             [
                 "Chen Chen",
@@ -905,10 +974,14 @@
             [
                 "data",
                 "https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/text-generation"
             ]
         ],
         "colab": "https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD",
-        "update": 1618796613.946
+        "update": 1621222440.007
     },
     {
         "name": "Custom GPT-2 + Tokenizer",
@@ -934,7 +1007,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/144MdX5aLqrQ3-YW-po81CQMrD6kpgpYh",
-        "update": 1619626384.803
+        "update": 1621222464.69
     },
     {
         "name": "YOLOv4",
@@ -1063,6 +1136,10 @@
             [
                 "git",
                 "https://github.com/HazyResearch/metal"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/transfer-learning"
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1iDHCYIrWswIKp-n-pOg69xLoZO09MEgf",
@@ -1180,7 +1257,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5",
-        "update": 1618393962.497
+        "update": 1621371844.508
     },
     {
         "name": "Spleeter",
@@ -1303,5 +1380,79 @@
         ],
         "colab": "https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD",
         "update": 1618394419.135
+    },
+    {
+        "name": "The Autodiff Cookbook",
+        "description": "You'll go through a whole bunch of neat autodiff ideas that you can cherry pick for your own work, starting with the basics",
+        "author": [
+            [
+                "Alex Wiltschko",
+                "https://github.com/alexbw"
+            ],
+            [
+                "Matthew Johnson",
+                "http://people.csail.mit.edu/mattjj/"
+            ]
+        ],
+        "links": [
+            [
+                "book1",
+                "https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html"
+            ],
+            [
+                "book2",
+                "https://mitpress.mit.edu/books/functional-differential-geometry"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Truncated_Newton_method"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Pullback_(differential_geometry)"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Holomorphic_function"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Cauchy%E2%80%93Riemann_equations"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1406.2572"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1706.04454"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1802.03451"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1811.07062"
+            ],
+            [
+                "tutorial",
+                "http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/"
+            ],
+            [
+                "git",
+                "https://github.com/google/jax/issues/446#issuecomment-467105048"
+            ],
+            [
+                "git",
+                "https://github.com/google/jax#auto-vectorization-with-vmap"
+            ],
+            [
+                "git",
+                "https://github.com/hips/autograd"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/google/jax/blob/master/docs/notebooks/autodiff_cookbook.ipynb",
+        "update": 1618016035.0
     }
 ]

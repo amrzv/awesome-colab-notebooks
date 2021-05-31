@@ -1,7 +1,7 @@
 [
     {
         "name": "3D Ken Burns",
-        "description": "This is a reference implementation of 3D Ken Burns Effect from a Single Image using PyTorch. Given a single input image, it animates this still image with a virtual camera scan and zoom subject to motion parallax.",
+        "description": "A reference implementation of 3D Ken Burns Effect from a Single Image using PyTorch - given a single input image, it animates this still image with a virtual camera scan and zoom subject to motion parallax",
         "author": [
             [
                 "Manuel Romero",
@@ -57,7 +57,7 @@
         "author": [
             [
                 "Doron Adler",
-                "https://github.com/Norod"
+                "https://linktr.ee/Norod78"
             ]
         ],
         "links": [
@@ -75,7 +75,7 @@
         "author": [
             [
                 "Doron Adler",
-                "https://github.com/Norod"
+                "https://linktr.ee/Norod78"
             ]
         ],
         "links": [
@@ -277,7 +277,7 @@
     },
     {
         "name": "Customizing a Transformer Encoder",
-        "description": "In this Colab notebook, we will learn how to customize the encoder to employ new network architectures",
+        "description": "We will learn how to customize the encoder to employ new network architectures",
         "author": [
             [
                 "Chen Chen",
@@ -303,7 +303,7 @@
     },
     {
         "name": "Fine-tuning a BERT",
-        "description": "In this example, we will work through fine-tuning a BERT model using the tensorflow-models PIP package",
+        "description": "We will work through fine-tuning a BERT model using the tensorflow-models PIP package",
         "author": [
             [
                 "Chen Chen",
@@ -325,7 +325,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/fine_tuning_bert.ipynb",
-        "update": 1618581848.0
+        "update": 1621888437.0
     },
     {
         "name": "First Order Motion Model for Image Animation",
@@ -333,7 +333,7 @@
         "author": [
             [
                 "Aliaksandr Siarohin",
-                "https://github.com/AliaksandrSiarohin"
+                "https://aliaksandrsiarohin.github.io/aliaksandr-siarohin-website/"
             ]
         ],
         "links": [
@@ -355,7 +355,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb",
-        "update": 1601552116.0
+        "update": 1622222971.0
     },
     {
         "name": "Motion Supervised co-part Segmentation",
@@ -363,7 +363,7 @@
         "author": [
             [
                 "Aliaksandr Siarohin",
-                "https://github.com/AliaksandrSiarohin"
+                "https://aliaksandrsiarohin.github.io/aliaksandr-siarohin-website/"
             ],
             [
                 "Subhankar Roy",
@@ -376,16 +376,66 @@
                 "http://arxiv.org/abs/2004.03234"
             ],
             [
+                "youtube",
+                "https://www.youtube.com/watch?v=RJ4Nj1wV5iA"
+            ],
+            [
                 "git",
                 "https://github.com/AliaksandrSiarohin/motion-cosegmentation"
             ],
             [
-                "youtube",
-                "https://www.youtube.com/watch?v=RJ4Nj1wV5iA"
+                "git",
+                "https://github.com/AliaksandrSiarohin/video-preprocessing"
             ]
         ],
         "colab": "https://colab.research.google.com/github/AliaksandrSiarohin/motion-cosegmentation/blob/master/part_swap.ipynb",
         "update": 1586274932.0
+    },
+    {
+        "name": "Motion Representations for Articulated Animation",
+        "description": "Novel motion representations for animating articulated objects consisting of distinct parts",
+        "author": [
+            [
+                "Aliaksandr Siarohin",
+                "https://aliaksandrsiarohin.github.io/aliaksandr-siarohin-website/"
+            ],
+            [
+                "Oliver Woodford",
+                "https://ojwoodford.github.io/"
+            ],
+            [
+                "Jian Ren",
+                "https://alanspike.github.io/"
+            ],
+            [
+                "Menglei Chai",
+                "https://mlchai.com/"
+            ],
+            [
+                "Sergey Tulyakov",
+                "http://www.stulyakov.com/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://snap-research.github.io/articulated-animation/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.11280"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=gpBYN8t8_yY"
+            ],
+            [
+                "git",
+                "https://github.com/snap-research/articulated-animation"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/AliaksandrSiarohin/articulated-animation/blob/master/demo.ipynb",
+        "update": 1619709660.0
     },
     {
         "name": "DeOldify (video)",
@@ -509,7 +559,7 @@
     },
     {
         "name": "Faceswap-GAN",
-        "description": "This colab notebook is a minimum demo for faceswap-GAN v2.2",
+        "description": "A minimum demo for faceswap-GAN v2.2",
         "author": [
             [
                 "shaoanlu",
@@ -679,7 +729,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1616615890.0
+        "update": 1622348586.0
     },
     {
         "name": "Breast Cancer detection",
@@ -749,7 +799,7 @@
     },
     {
         "name": "Analyzing Tennis Serve",
-        "description": "In this notebook, we'll use the Video Intelligence API to analyze a tennis serve, including the angle of the arms and legs during the serve",
+        "description": "We'll use the Video Intelligence API to analyze a tennis serve, including the angle of the arms and legs during the serve",
         "author": [
             [
                 "Dale Markowitz",
@@ -863,7 +913,7 @@
     },
     {
         "name": "CartoonGAN",
-        "description": "This notebook contains the implementation of the cartoon GAN model with PyTorch",
+        "description": "The implementation of the cartoon GAN model with PyTorch",
         "author": [
             [
                 "Tobias Sunderdiek",
@@ -971,7 +1021,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov3/blob/master/tutorial.ipynb",
-        "update": 1618252685.0
+        "update": 1622116212.0
     },
     {
         "name": "YOLOv5",
@@ -1001,7 +1051,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1619770531.0
+        "update": 1622303364.0
     },
     {
         "name": "3D Photo Inpainting",
@@ -1272,8 +1322,46 @@
         "update": 1615375745.0
     },
     {
+        "name": "Geometry-Free View Synthesis",
+        "description": "Is a geometric model required to synthesize novel views from a single image?",
+        "author": [
+            [
+                "Robin Rombach",
+                "https://github.com/rromb"
+            ],
+            [
+                "Patrick Esser",
+                "https://github.com/pesser"
+            ],
+            [
+                "Björn Ommer",
+                "https://hci.iwr.uni-heidelberg.de/people/bommer"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.07652"
+            ],
+            [
+                "data",
+                "https://google.github.io/realestate10k/"
+            ],
+            [
+                "git",
+                "https://github.com/CompVis/geometry-free-view-synthesis"
+            ],
+            [
+                "git",
+                "https://github.com/colmap/colmap"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/CompVis/geometry-free-view-synthesis/blob/master/scripts/braindance.ipynb",
+        "update": 1619084473.0
+    },
+    {
         "name": "bsuite",
-        "description": "A collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning agent with two main objectives",
+        "description": "A collection of carefully-designed experiments that investigate core capabilities of an RL agent with two main objectives",
         "author": [
             [
                 "Ian Osband",
@@ -2011,7 +2099,7 @@
     },
     {
         "name": "RSNA Pneumonia Detection Challenge (Kaggel API)",
-        "description": "This notebook covers the basics of parsing the competition dataset, training using a detector basd on the Mask-RCNN algorithm for object detection and instance segmentation",
+        "description": "The basics of parsing the competition dataset, training using a detector basd on the Mask-RCNN algorithm for object detection and instance segmentation",
         "author": [
             [
                 "tmoneyx01",
@@ -2083,7 +2171,7 @@
     },
     {
         "name": "GrooVAE",
-        "description": "This notebook demonstrates some applications of machine learning for generating and manipulating beats and drum performances",
+        "description": "Some applications of machine learning for generating and manipulating beats and drum performances",
         "author": [
             [
                 "Jon Gillick",
@@ -2748,6 +2836,82 @@
         "update": 1619268323.0
     },
     {
+        "name": "Toon-Me",
+        "description": "A fun project to toon portrait images",
+        "author": [
+            [
+                "Vijish Madhavan",
+                "https://github.com/vijishmadhavan"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1710.10196"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1707.02921"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1603.08155"
+            ],
+            [
+                "git",
+                "https://github.com/vijishmadhavan/Toon-Me"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb",
+        "update": 1611303874.0
+    },
+    {
+        "name": "ArtLine",
+        "description": "A Deep Learning based project for creating line art portraits",
+        "author": [
+            [
+                "Vijish Madhavan",
+                "https://github.com/vijishmadhavan"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1805.08318"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1710.10196"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1707.02921"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1603.08155"
+            ],
+            [
+                "git",
+                "https://github.com/vijishmadhavan/ArtLine"
+            ],
+            [
+                "git",
+                "https://github.com/yiranran/APDrawingGAN"
+            ],
+            [
+                "git",
+                "https://github.com/jantic/DeOldify"
+            ],
+            [
+                "data",
+                "https://cg.cs.tsinghua.edu.cn/people/~Yongjin/APDrawingDB.zip"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine(AR).ipynb",
+        "update": 1608800179.0
+    },
+    {
         "name": "EasyNMT",
         "description": "Easy to use, state-of-the-art machine translation for more than 100+ languages",
         "author": [
@@ -2829,7 +2993,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/yuval-alaluf/restyle-encoder/blob/master/notebooks/inference_playground.ipynb",
-        "update": 1617803860.0
+        "update": 1621614207.0
     },
     {
         "name": "encoder4editing",
@@ -2990,5 +3154,93 @@
         ],
         "colab": "https://colab.research.google.com/drive/1_YOHdORb0Fg1Q7vWZ_KlrtFe9Ur3pmVj",
         "update": 1615949380.476
+    },
+    {
+        "name": "Parallel WaveGAN",
+        "description": "State-of-the-art non-autoregressive models to build your own great vocoder",
+        "author": [
+            [
+                "Tomoki Hayashi",
+                "https://kan-bayashi.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "demo",
+                "https://kan-bayashi.github.io/ParallelWaveGAN/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1910.11480"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1910.06711"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2005.05106"
+            ],
+            [
+                "git",
+                "https://github.com/kan-bayashi/ParallelWaveGAN"
+            ],
+            [
+                "git",
+                "https://github.com/NVIDIA/tacotron2"
+            ],
+            [
+                "git",
+                "https://github.com/espnet/espnet"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb",
+        "update": 1622428161.0
+    },
+    {
+        "name": "VideoGPT",
+        "description": "A conceptually simple architecture for scaling likelihood based generative modeling to natural videos",
+        "author": [
+            [
+                "Wilson Yan",
+                "https://wilson1yan.github.io/"
+            ],
+            [
+                "Yunzhi Zhang",
+                "https://zzyunzhi.github.io/"
+            ],
+            [
+                "Pieter Abbeel",
+                "https://people.eecs.berkeley.edu/~pabbeel/"
+            ],
+            [
+                "Aravind Srinivas",
+                "https://people.eecs.berkeley.edu/~aravind/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://wilson1yan.github.io/videogpt/index.html"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.10157"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1904.10509"
+            ],
+            [
+                "data",
+                "https://www.crcv.ucf.edu/data/UCF101.php"
+            ],
+            [
+                "git",
+                "https://github.com/wilson1yan/VideoGPT"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/wilson1yan/VideoGPT/blob/master/notebooks/Using_VideoGPT.ipynb",
+        "update": 1618361362.0
     }
 ]
