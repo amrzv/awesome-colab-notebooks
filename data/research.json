@@ -299,7 +299,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/nlp/customize_encoder.ipynb",
-        "update": 1613163792.0
+        "update": 1623003030.0
     },
     {
         "name": "Fine-tuning a BERT",
@@ -729,7 +729,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1622348586.0
+        "update": 1622655816.0
     },
     {
         "name": "Breast Cancer detection",
@@ -1051,7 +1051,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1622303364.0
+        "update": 1624566303.0
     },
     {
         "name": "3D Photo Inpainting",
@@ -1358,6 +1358,44 @@
         ],
         "colab": "https://colab.research.google.com/github/CompVis/geometry-free-view-synthesis/blob/master/scripts/braindance.ipynb",
         "update": 1619084473.0
+    },
+    {
+        "name": "Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes",
+        "description": "A method to stylize images by optimizing parameterized brushstrokes instead of pixels",
+        "author": [
+            [
+                "Dmytro Kotovenko",
+                "https://scholar.google.de/citations?user=T_U8yxwAAAAJ"
+            ],
+            [
+                "Matthias Wright",
+                "https://matthias-wright.github.io/"
+            ],
+            [
+                "Arthur Heimbrecht",
+                "https://github.com/arwehei"
+            ],
+            [
+                "Björn Ommer",
+                "https://hci.iwr.uni-heidelberg.de/people/bommer"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://compvis.github.io/brushstroke-parameterized-style-transfer/"
+            ],
+            [
+                "git",
+                "https://github.com/CompVis/brushstroke-parameterized-style-transfer"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.17185"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/clovaai/deep-text-recognition-benchmark/blob/master/demo.ipynb",
+        "update": 1572180239.0
     },
     {
         "name": "bsuite",
@@ -2649,7 +2687,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eladrich/pixel2style2pixel/blob/master/notebooks/inference_playground.ipynb",
-        "update": 1619228316.0
+        "update": 1622553884.0
     },
     {
         "name": "Talking Head Anime from a Single Image",
@@ -3195,7 +3233,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb",
-        "update": 1622428161.0
+        "update": 1624313348.0
     },
     {
         "name": "VideoGPT",
@@ -3241,6 +3279,152 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/wilson1yan/VideoGPT/blob/master/notebooks/Using_VideoGPT.ipynb",
-        "update": 1618361362.0
+        "update": 1624748544.0
+    },
+    {
+        "name": "SimSwap",
+        "description": "An efficient framework, called Simple Swap, aiming for generalized and high fidelity face swapping",
+        "author": [
+            [
+                "Xuanhong Chen",
+                "https://github.com/neuralchen"
+            ],
+            [
+                "Bingbing Ni",
+                "https://scholar.google.com.sg/citations?user=eUbmKwYAAAAJ"
+            ],
+            [
+                "Yanhao Ge",
+                "https://scholar.google.com/citations?user=h6tuBAcAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.06340"
+            ],
+            [
+                "git",
+                "https://github.com/neuralchen/SimSwap"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/neuralchen/SimSwap/blob/master/SimSwap%20colab.ipynb",
+        "update": 1624246395.0
+    },
+    {
+        "name": "TediGAN",
+        "description": "Framework for multi-modal image generation and manipulation with textual descriptions",
+        "author": [
+            [
+                "Weihao Xia",
+                "https://github.com/weihaox"
+            ],
+            [
+                "Yujiu Yang",
+                "http://www.fiesta.tsinghua.edu.cn/pi/3/24"
+            ],
+            [
+                "Jing-Hao Xue",
+                "http://www.homepages.ucl.ac.uk/~ucakjxu/"
+            ],
+            [
+                "Baoyuan Wu",
+                "https://sites.google.com/site/baoyuanwu2015/home"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2012.03308"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.08910"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/L8Na2f5viAM"
+            ],
+            [
+                "git",
+                "https://github.com/IIGROUP/TediGAN"
+            ],
+            [
+                "git",
+                "https://github.com/weihaox/Multi-Modal-CelebA-HQ"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/ffhq-dataset"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch/"
+            ],
+            [
+                "git",
+                "https://github.com/fyu/lsun"
+            ]
+        ],
+        "colab": "http://colab.research.google.com/github/weihaox/TediGAN/blob/master/playground.ipynb",
+        "update": 1619143307.0
+    },
+    {
+        "name": "NeX",
+        "description": "View synthesis based on enhancements of multiplane image that can reproduce NeXt-level view-dependent effects in real time",
+        "author": [
+            [
+                "Suttisak Wizadwongsa",
+                "linkedin.com/in/suttisak-wizadwongsa-763a931a5"
+            ],
+            [
+                "Pakkapon Phongthawee",
+                "http://pureexe.github.io/"
+            ],
+            [
+                "Jiraphon Yenphraphai",
+                "linkedin.com/in/jiraphon-yenphraphai-990ba6175"
+            ],
+            [
+                "Supasorn Suwajanakorn",
+                "https://www.supasorn.com/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://nex-mpi.github.io/"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=HyfkF7Z-ddA"
+            ],
+            [
+                "git",
+                "https://github.com/nex-mpi/nex-code"
+            ],
+            [
+                "git",
+                "https://github.com/Fyusion/LLFF"
+            ],
+            [
+                "data1",
+                "https://vistec-my.sharepoint.com/personal/pakkapon_p_s19_vistec_ac_th/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpakkapon%5Fp%5Fs19%5Fvistec%5Fac%5Fth%2FDocuments%2Fpublic%2FVLL%2FNeX%2Fshiny%5Fdatasets&originalPath=aHR0cHM6Ly92aXN0ZWMtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvcGFra2Fwb25fcF9zMTlfdmlzdGVjX2FjX3RoL0VuSVVoc1JWSk9kTnNaXzRzbWRoeWUwQjh6MFZseHFPUjM1SVIzYnAwdUd1cFE%5FcnRpbWU9WXRVQTQtQTcyVWc"
+            ],
+            [
+                "data2",
+                "https://vistec-my.sharepoint.com/personal/pakkapon_p_s19_vistec_ac_th/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly92aXN0ZWMtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvcGFra2Fwb25fcF9zMTlfdmlzdGVjX2FjX3RoL0VyalBSUkw5Sm5GSXA4TU42ZDFqRXVvQjNYVm94SmtmZlBqZm9QeWhIa2owZGc%5FcnRpbWU9bC0yYWctRTcyVWc&id=%2Fpersonal%2Fpakkapon%5Fp%5Fs19%5Fvistec%5Fac%5Fth%2FDocuments%2Fpublic%2FVLL%2FNeX%2Fmodified%5Fdataset"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.05606"
+            ],
+            [
+                "vistec",
+                "https://vistec.ist/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1hXVvYdAwLA0EFg2zrafJUE0bFgB_F7PU",
+        "update": 1616692728.707
     }
 ]

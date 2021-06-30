@@ -53,7 +53,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb",
-        "update": 1618071430.0
+        "update": 1622633984.0
     },
     {
         "name": "DeepDream",
@@ -97,7 +97,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/style_transfer.ipynb",
-        "update": 1615569317.0
+        "update": 1623781696.0
     },
     {
         "name": "Adversarial FGSM",
@@ -157,7 +157,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/autoencoder.ipynb",
-        "update": 1619799248.0
+        "update": 1623175733.0
     },
     {
         "name": "CVAE",
@@ -201,7 +201,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb",
-        "update": 1619811498.0
+        "update": 1622641901.0
     },
     {
         "name": "DCGAN",
@@ -249,7 +249,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb",
-        "update": 1617043366.0
+        "update": 1624038717.0
     },
     {
         "name": "Simple audio recognition",
@@ -495,7 +495,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb",
-        "update": 1617288315.0
+        "update": 1621969716.0
     },
     {
         "name": "NMT with attention",
@@ -525,7 +525,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/nmt_with_attention.ipynb",
-        "update": 1621892911.0
+        "update": 1623349137.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -629,7 +629,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/transformer.ipynb",
-        "update": 1622128383.0
+        "update": 1623722037.0
     },
     {
         "name": "Word2Vec",
@@ -951,7 +951,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/nlp/nlp_modeling_library_intro.ipynb",
-        "update": 1614726921.0
+        "update": 1623003030.0
     },
     {
         "name": "Train a GPT-2 Text-Generating Model",
@@ -1257,7 +1257,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5",
-        "update": 1621371844.508
+        "update": 1624510212.019
     },
     {
         "name": "Spleeter",
@@ -1379,7 +1379,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD",
-        "update": 1618394419.135
+        "update": 1623185269.03
     },
     {
         "name": "The Autodiff Cookbook",
@@ -1453,6 +1453,186 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/google/jax/blob/master/docs/notebooks/autodiff_cookbook.ipynb",
-        "update": 1618016035.0
+        "update": 1623988801.0
+    },
+    {
+        "name": "ruGPT3",
+        "description": "Example of inference of RuGPT3XL",
+        "author": [
+            [
+                "Anton Emelyanov",
+                "https://github.com/king-menin"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/sberbank-ai/ru-gpts"
+            ],
+            [
+                "git",
+                "https://github.com/microsoft/DeepSpeedExamples/tree/master/Megatron-LM"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/transformers/main_classes/model.html#transformers.generation_utils.GenerationMixin.generate"
+            ],
+            [
+                "sparse attention",
+                "deepspeed.ai/tutorials/sparse-attention/"
+            ],
+            [
+                "cristofari",
+                "https://sbercloud.ru/ru/christofari"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/ruGPT3XL_generation.ipynb",
+        "update": 1613559571.0
+    },
+    {
+        "name": "GPT-J-6B",
+        "description": "A 6 billion parameter, autoregressive text generation model trained on The Pile",
+        "author": [
+            [
+                "Ben Wang",
+                "https://benwang.dev/"
+            ],
+            [
+                "Aran Komatsuzaki",
+                "https://arankomatsuzaki.wordpress.com/about-me/"
+            ],
+            [
+                "Janko Prester",
+                "https://www.jankoprester.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/kingoflolz/mesh-transformer-jax"
+            ],
+            [
+                "blog post",
+                "https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/"
+            ],
+            [
+                "web demo",
+                "https://6b.eleuther.ai/"
+            ],
+            [
+                "The Pile",
+                "https://pile.eleuther.ai/"
+            ],
+            [
+                "git",
+                "https://github.com/EleutherAI/gpt-neox"
+            ],
+            [
+                "git",
+                "https://github.com/microsoft/DeepSpeed"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/kingoflolz/mesh-transformer-jax/blob/master/colab_demo.ipynb",
+        "update": 1623619954.0
+    },
+    {
+        "name": "LightAutoML",
+        "description": "Framework for automatic classification and regression model creation",
+        "author": [
+            [
+                "Alexander Ryzhkov",
+                "https://www.kaggle.com/alexryzhkov"
+            ],
+            [
+                "Anton Vakhrushev",
+                "https://www.kaggle.com/btbpanda"
+            ],
+            [
+                "Dmitry Simakov",
+                "https://www.kaggle.com/simakov"
+            ],
+            [
+                "Vasiliy Bunakov",
+                "https://github.com/VaBun"
+            ],
+            [
+                "Alexander Kirilin",
+                "https://github.com/Cybsloth"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/sberbank-ai-lab/LightAutoML"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=ci8uqgWFJGg"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=TYu1UG-E9e8"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=4pbO673B9Oo"
+            ],
+            [
+                "tds",
+                "https://towardsdatascience.com/lightautoml-preset-usage-tutorial-2cce7da6f936"
+            ],
+            [
+                "blog post",
+                "https://analyticsindiamag.com/hands-on-python-guide-to-lama-an-automatic-ml-model-creation-framework/"
+            ],
+            [
+                "docs",
+                "https://lightautoml.readthedocs.io/en/latest/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/sberbank-ai-lab/LightAutoML/blob/master/Tutorial_1.%20Create%20your%20own%20pipeline.ipynb",
+        "update": 1619520542.0
+    },
+    {
+        "name": "highway-env",
+        "description": "A collection of environments for autonomous driving and tactical decision-making tasks",
+        "author": [
+            [
+                "Edouard Leurent",
+                "https://edouardleurent.com/"
+            ]
+        ],
+        "links": [
+            [
+                "docs",
+                "https://highway-env.readthedocs.io/en/latest/"
+            ],
+            [
+                "git",
+                "https://github.com/eleurent/highway-env"
+            ],
+            [
+                "git",
+                "https://github.com/eleurent/rl-agents"
+            ],
+            [
+                "git",
+                "https://github.com/eleurent/finite-mdp"
+            ],
+            [
+                "git",
+                "https://github.com/openai/baselines/tree/master/baselines/her"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2102.03483"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2105.05701"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/eleurent/highway-env/blob/master/scripts/parking_model_based.ipynb",
+        "update": 1615561158.0
     }
 ]
