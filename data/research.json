@@ -133,7 +133,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1mMKGnVxirJnqDViH7BDJxFqWrsXlPSoK",
-        "update": 1588043953.861
+        "update": 1626144610.804
     },
     {
         "name": "Train a GPT-2 Model on Tweets",
@@ -355,7 +355,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb",
-        "update": 1622222971.0
+        "update": 1625073459.0
     },
     {
         "name": "Motion Supervised co-part Segmentation",
@@ -657,7 +657,7 @@
         "links": [
             [
                 "git",
-                "https://github.com/amrzv/GroupNormalization-keras"
+                "https://github.com/shaoanlu/GroupNormalization-keras"
             ],
             [
                 "arxiv",
@@ -729,7 +729,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1622655816.0
+        "update": 1626712833.0
     },
     {
         "name": "Breast Cancer detection",
@@ -1051,7 +1051,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1624566303.0
+        "update": 1627651039.0
     },
     {
         "name": "3D Photo Inpainting",
@@ -1394,8 +1394,8 @@
                 "https://arxiv.org/abs/2103.17185"
             ]
         ],
-        "colab": "https://colab.research.google.com/github/clovaai/deep-text-recognition-benchmark/blob/master/demo.ipynb",
-        "update": 1572180239.0
+        "colab": "https://colab.research.google.com/github/CompVis/brushstroke-parameterized-style-transfer/blob/tensorflow_v2/notebooks/BrushstrokeStyleTransfer_TF2.ipynb",
+        "update": 1622621701.0
     },
     {
         "name": "bsuite",
@@ -1422,6 +1422,158 @@
         ],
         "colab": "https://colab.research.google.com/drive/1rU20zJ281sZuMD1DHbsODFr1DbASL0RH",
         "update": 1613174366.054
+    },
+    {
+        "name": "NFNet",
+        "description": "An adaptive gradient clipping technique, a significantly improved class of Normalizer-Free ResNets",
+        "author": [
+            [
+                "Andrew Brock",
+                "https://github.com/ajbrock"
+            ],
+            [
+                "Soham De",
+                "https://sohamde.github.io/"
+            ],
+            [
+                "Samuel L. Smith",
+                "https://scholar.google.co.uk/citations?user=fyEqU5oAAAAJ"
+            ],
+            [
+                "Karen Simonyan",
+                "https://scholar.google.com/citations?user=L7lMQkQAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2102.06171"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2101.08692"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/deepmind-research/tree/master/nfnets"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/jaxline"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/deepmind/deepmind-research/blob/master/nfnets/nfnet_demo_colab.ipynb",
+        "update": 1613576576.0
+    },
+    {
+        "name": "AlphaFold",
+        "description": "Highly accurate protein structure prediction",
+        "author": [
+            [
+                "John Jumper",
+                "https://scholar.google.com/citations?user=a5goOh8AAAAJ"
+            ],
+            [
+                "Richard Evans",
+                "http://www.doc.ic.ac.uk/~re14/"
+            ],
+            [
+                "Alexander Pritzel",
+                "https://scholar.google.com/citations?user=GPgAyU0AAAAJ"
+            ],
+            [
+                "Tim Green",
+                "http://tfgg.me/"
+            ],
+            [
+                "Michael Figurnov",
+                "https://figurnov.ru/"
+            ],
+            [
+                "Olaf Ronneberger",
+                "https://lmb.informatik.uni-freiburg.de/people/ronneber/"
+            ],
+            [
+                "Kathryn Tunyasuvunakool",
+                "https://scholar.google.com/citations?user=eEqNGagAAAAJ"
+            ],
+            [
+                "Russ Bates",
+                "https://scholar.google.com/citations?user=Koes5ewAAAAJ"
+            ],
+            [
+                "Augustin Žídek",
+                "https://augustin.zidek.eu/"
+            ],
+            [
+                "Anna Potapenko",
+                "http://apotapenko.com/"
+            ],
+            [
+                "Alex Bridgland",
+                "https://scholar.google.com/citations?user=VWmXKPMAAAAJ"
+            ],
+            [
+                "Clemens Meyer",
+                "https://scholar.google.com/citations?user=EWLZiM8AAAAJ"
+            ],
+            [
+                "Simon Kohl",
+                "https://www.simonkohl.com/"
+            ],
+            [
+                "Andrew Ballard",
+                "https://scholar.google.com/citations?user=syjQhAMAAAAJ"
+            ],
+            [
+                "Bernardino Romera-Paredes",
+                "https://scholar.google.com/citations?user=_LC9U6EAAAAJ"
+            ],
+            [
+                "Stanislav Nikolov",
+                "https://scholar.google.co.uk/citations?user=O-b7pBEAAAAJ"
+            ],
+            [
+                "Rishub Jain",
+                "http://rishub.me/"
+            ]
+        ],
+        "links": [
+            [
+                "paper",
+                "https://www.nature.com/articles/s41586-021-03819-2"
+            ],
+            [
+                "paper",
+                "https://www.nature.com/articles/s41586-021-03828-1"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/AlphaFold"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/alphafold/"
+            ],
+            [
+                "blog post",
+                "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology"
+            ],
+            [
+                "blog post",
+                "https://deepmind.com/blog/article/putting-the-power-of-alphafold-into-the-worlds-hands"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/tree"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/chex"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb",
+        "update": 1626952603.0
     },
     {
         "name": "Neural Style Transfer",
@@ -1548,15 +1700,15 @@
                 "https://github.com/zihangdai/xlnet"
             ],
             [
-                "data1",
+                "data",
                 "https://ai.stanford.edu/~amaas/data/sentiment/"
             ],
             [
-                "data2",
+                "data",
                 "https://rajpurkar.github.io/SQuAD-explorer/"
             ],
             [
-                "data3",
+                "data",
                 "https://www.cs.cmu.edu/~glai1/data/race/"
             ]
         ],
@@ -1608,6 +1760,18 @@
             [
                 "Erik Härkönen",
                 "https://github.com/harskish"
+            ],
+            [
+                "Aaron Hertzmann",
+                "http://www.dgp.toronto.edu/~hertzman/"
+            ],
+            [
+                "Jaakko Lehtinen",
+                "https://users.aalto.fi/~lehtinj7/"
+            ],
+            [
+                "Sylvain Paris",
+                "http://people.csail.mit.edu/sparis/"
             ]
         ],
         "links": [
@@ -1626,6 +1790,10 @@
             [
                 "git",
                 "https://github.com/justinpinkney/awesome-pretrained-stylegan"
+            ],
+            [
+                "git",
+                "https://github.com/CSAILVision/GANDissect"
             ]
         ],
         "colab": "https://colab.research.google.com/github/harskish/ganspace/blob/master/notebooks/Ganspace_colab.ipynb",
@@ -1697,7 +1865,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1mijF0zGWxN-KaxTnd0q6hayAlrID5fEQ",
-        "update": 1613336836.839
+        "update": 1627030663.325
     },
     {
         "name": "LaSAFT",
@@ -1912,11 +2080,11 @@
                 "https://github.com/tlatkowski/inpainting-gmcnn-keras"
             ],
             [
-                "data1",
+                "data",
                 "http://places2.csail.mit.edu/download.html"
             ],
             [
-                "data2",
+                "data",
                 "https://nv-adlr.github.io/publication/partialconv-inpainting"
             ],
             [
@@ -2492,11 +2660,11 @@
                 "http://g.co/magenta/onsets-frames"
             ],
             [
-                "data1",
+                "data",
                 "https://g.co/magenta/maestro-wave2midi2wave"
             ],
             [
-                "data2",
+                "data",
                 "https://magenta.tensorflow.org/datasets/e-gmd"
             ],
             [
@@ -2794,48 +2962,6 @@
         "update": 1618125726.731
     },
     {
-        "name": "NFNet",
-        "description": "An adaptive gradient clipping technique, a significantly improved class of Normalizer-Free ResNets",
-        "author": [
-            [
-                "Andrew Brock",
-                "https://github.com/ajbrock"
-            ],
-            [
-                "Soham De",
-                "https://sohamde.github.io/"
-            ],
-            [
-                "Samuel L. Smith",
-                "https://scholar.google.co.uk/citations?user=fyEqU5oAAAAJ"
-            ],
-            [
-                "Karen Simonyan",
-                "https://scholar.google.com/citations?user=L7lMQkQAAAAJ"
-            ]
-        ],
-        "links": [
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2102.06171"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2101.08692"
-            ],
-            [
-                "git",
-                "https://github.com/deepmind/deepmind-research/tree/master/nfnets"
-            ],
-            [
-                "git",
-                "https://github.com/deepmind/jaxline"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/deepmind/deepmind-research/blob/master/nfnets/nfnet_demo_colab.ipynb",
-        "update": 1613576576.0
-    },
-    {
         "name": "SkinDeep",
         "description": "Remove Body Tattoo Using Deep Learning",
         "author": [
@@ -2948,40 +3074,6 @@
         ],
         "colab": "https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine(AR).ipynb",
         "update": 1608800179.0
-    },
-    {
-        "name": "EasyNMT",
-        "description": "Easy to use, state-of-the-art machine translation for more than 100+ languages",
-        "author": [
-            [
-                "Nils Reimers",
-                "https://www.nils-reimers.de/"
-            ]
-        ],
-        "links": [
-            [
-                "demo",
-                "http://easynmt.net/demo/"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2008.00401"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2010.11125"
-            ],
-            [
-                "git",
-                "https://github.com/UKPLab/EasyNMT"
-            ],
-            [
-                "git",
-                "https://github.com/Helsinki-NLP/Opus-MT"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/drive/1X47vgSiOphpxS5w_LPtjQgJmiSTNfRNC",
-        "update": 1619468765.741
     },
     {
         "name": "ReStyle",
@@ -3306,10 +3398,14 @@
             [
                 "git",
                 "https://github.com/neuralchen/SimSwap"
+            ],
+            [
+                "git",
+                "https://github.com/deepinsight/insightface"
             ]
         ],
         "colab": "https://colab.research.google.com/github/neuralchen/SimSwap/blob/master/SimSwap%20colab.ipynb",
-        "update": 1624246395.0
+        "update": 1626699910.0
     },
     {
         "name": "TediGAN",
@@ -3367,7 +3463,7 @@
             ]
         ],
         "colab": "http://colab.research.google.com/github/weihaox/TediGAN/blob/master/playground.ipynb",
-        "update": 1619143307.0
+        "update": 1625052505.0
     },
     {
         "name": "NeX",
@@ -3375,7 +3471,7 @@
         "author": [
             [
                 "Suttisak Wizadwongsa",
-                "linkedin.com/in/suttisak-wizadwongsa-763a931a5"
+                "https://www.linkedin.com/in/suttisak-wizadwongsa-763a931a5/"
             ],
             [
                 "Pakkapon Phongthawee",
@@ -3383,7 +3479,7 @@
             ],
             [
                 "Jiraphon Yenphraphai",
-                "linkedin.com/in/jiraphon-yenphraphai-990ba6175"
+                "https://www.linkedin.com/in/jiraphon-yenphraphai-990ba6175/"
             ],
             [
                 "Supasorn Suwajanakorn",
@@ -3408,11 +3504,11 @@
                 "https://github.com/Fyusion/LLFF"
             ],
             [
-                "data1",
+                "data",
                 "https://vistec-my.sharepoint.com/personal/pakkapon_p_s19_vistec_ac_th/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpakkapon%5Fp%5Fs19%5Fvistec%5Fac%5Fth%2FDocuments%2Fpublic%2FVLL%2FNeX%2Fshiny%5Fdatasets&originalPath=aHR0cHM6Ly92aXN0ZWMtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvcGFra2Fwb25fcF9zMTlfdmlzdGVjX2FjX3RoL0VuSVVoc1JWSk9kTnNaXzRzbWRoeWUwQjh6MFZseHFPUjM1SVIzYnAwdUd1cFE%5FcnRpbWU9WXRVQTQtQTcyVWc"
             ],
             [
-                "data2",
+                "data",
                 "https://vistec-my.sharepoint.com/personal/pakkapon_p_s19_vistec_ac_th/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly92aXN0ZWMtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvcGFra2Fwb25fcF9zMTlfdmlzdGVjX2FjX3RoL0VyalBSUkw5Sm5GSXA4TU42ZDFqRXVvQjNYVm94SmtmZlBqZm9QeWhIa2owZGc%5FcnRpbWU9bC0yYWctRTcyVWc&id=%2Fpersonal%2Fpakkapon%5Fp%5Fs19%5Fvistec%5Fac%5Fth%2FDocuments%2Fpublic%2FVLL%2FNeX%2Fmodified%5Fdataset"
             ],
             [
@@ -3426,5 +3522,305 @@
         ],
         "colab": "https://colab.research.google.com/drive/1hXVvYdAwLA0EFg2zrafJUE0bFgB_F7PU",
         "update": 1616692728.707
+    },
+    {
+        "name": "Anycost GAN",
+        "description": "Interactive natural image editing",
+        "author": [
+            [
+                "Ji Lin",
+                "http://linji.me/"
+            ],
+            [
+                "Richard Zhang",
+                "https://richzhang.github.io/"
+            ],
+            [
+                "Frieder Ganz",
+                "https://scholar.google.com/citations?user=u9ySZkUAAAAJ"
+            ],
+            [
+                "Song Han",
+                "https://songhan.mit.edu/"
+            ],
+            [
+                "Jun-Yan Zhu",
+                "https://www.cs.cmu.edu/~junyanz/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/mit-han-lab/anycost-gan"
+            ],
+            [
+                "project",
+                "https://hanlab.mit.edu/projects/anycost-gan/"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=_yEziPl9AkM"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.03243"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/ffhq-dataset"
+            ],
+            [
+                "git",
+                "https://github.com/switchablenorms/CelebAMask-HQ"
+            ],
+            [
+                "git",
+                "https://github.com/fyu/lsun"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mit-han-lab/anycost-gan/blob/master/notebooks/intro_colab.ipynb",
+        "update": 1625637518.0
+    },
+    {
+        "name": "Rewriting a Deep Generative Model",
+        "description": "We ask if a deep network can be reprogrammed to follow different rules, by enabling a user to directly change the weights, instead of training with a data set",
+        "author": [
+            [
+                "David Bau",
+                "https://people.csail.mit.edu/davidbau/home/"
+            ],
+            [
+                "Steven Liu",
+                "http://people.csail.mit.edu/stevenliu/"
+            ],
+            [
+                "Tongzhou Wang",
+                "https://ssnl.github.io/"
+            ],
+            [
+                "Jun-Yan Zhu",
+                "https://www.cs.cmu.edu/~junyanz/"
+            ],
+            [
+                "Antonio Torralba",
+                "https://groups.csail.mit.edu/vision/torralbalab/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2007.15646"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1912.04958"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=i2_-zNqtEPk"
+            ],
+            [
+                "youtube",
+                "https://rewriting.csail.mit.edu/video/"
+            ],
+            [
+                "project",
+                "https://rewriting.csail.mit.edu/"
+            ],
+            [
+                "git",
+                "https://github.com/davidbau/rewriting"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/davidbau/rewriting/blob/master/notebooks/rewriting-interface.ipynb",
+        "update": 1596222132.0
+    },
+    {
+        "name": "SeFa",
+        "description": "A closed-form approach for unsupervised latent semantic factorization in GANs",
+        "author": [
+            [
+                "Yujun Shen",
+                "https://shenyujun.github.io/"
+            ],
+            [
+                "Bolei Zhou",
+                "http://bzhou.ie.cuhk.edu.hk/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://genforce.github.io/sefa/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2007.06600"
+            ],
+            [
+                "git",
+                "https://github.com/genforce/sefa"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=OFHW2WbXXIQ"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/genforce/sefa/blob/master/docs/SeFa.ipynb",
+        "update": 1607213042.0
+    },
+    {
+        "name": "HiGAN",
+        "description": "Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis",
+        "author": [
+            [
+                "Ceyuan Yang",
+                "https://ceyuan.me/"
+            ],
+            [
+                "Yujun Shen",
+                "https://shenyujun.github.io/"
+            ],
+            [
+                "Bolei Zhou",
+                "http://bzhou.ie.cuhk.edu.hk/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://genforce.github.io/higan/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1911.09267"
+            ],
+            [
+                "git",
+                "https://github.com/genforce/higanc"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=X5yWu2Jwjpg"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1412.6856"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1906.10112"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/genforce/higan/blob/master/docs/HiGAN_Bedroom.ipynb",
+        "update": 1602641162.0
+    },
+    {
+        "name": "InterFaceGAN",
+        "description": "Interpreting the Latent Space of GANs for Semantic Face Editing",
+        "author": [
+            [
+                "Yujun Shen",
+                "https://shenyujun.github.io/"
+            ],
+            [
+                "Jinjin Gu",
+                "https://www.jasongt.com/"
+            ],
+            [
+                "Xiaoou Tang",
+                "https://www.ie.cuhk.edu.hk/people/xotang.shtml"
+            ],
+            [
+                "Bolei Zhou",
+                "http://bzhou.ie.cuhk.edu.hk/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://genforce.github.io/interfacegan/"
+            ],
+            [
+                "git",
+                "https://github.com/genforce/interfacegan"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=uoftpl3Bj6w"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1907.10786"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2005.09635"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1710.10196"
+            ],
+            [
+                "git",
+                "https://github.com/tkarras/progressive_growing_of_gans"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/genforce/interfacegan/blob/master/docs/InterFaceGAN.ipynb",
+        "update": 1602560296.0
+    },
+    {
+        "name": "StyleGAN-NADA",
+        "description": "Zero-Shot non-adversarial domain adaptation of pre-trained generators",
+        "author": [
+            [
+                "Rinon Gal",
+                "https://rinongal.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/rinongal/StyleGAN-nada"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch/"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2-ada"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.17249"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.02699"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb",
+        "update": 1624724419.0
     }
 ]

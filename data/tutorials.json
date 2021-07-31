@@ -71,7 +71,7 @@
             ],
             [
                 "arxiv",
-                "https://arxiv.org/pdf/1409.4842.pdf"
+                "https://arxiv.org/abs/1409.4842"
             ],
             [
                 "wiki",
@@ -249,7 +249,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb",
-        "update": 1624038717.0
+        "update": 1627574186.0
     },
     {
         "name": "Simple audio recognition",
@@ -345,7 +345,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/data_augmentation.ipynb",
-        "update": 1620285728.0
+        "update": 1627482141.0
     },
     {
         "name": "Image segmentation",
@@ -495,7 +495,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb",
-        "update": 1621969716.0
+        "update": 1627414716.0
     },
     {
         "name": "NMT with attention",
@@ -525,7 +525,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/nmt_with_attention.ipynb",
-        "update": 1623349137.0
+        "update": 1626888734.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -551,7 +551,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/bert_glue.ipynb",
-        "update": 1621974634.0
+        "update": 1627413006.0
     },
     {
         "name": "Text classification with RNN",
@@ -629,7 +629,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/transformer.ipynb",
-        "update": 1623722037.0
+        "update": 1625613436.0
     },
     {
         "name": "Word2Vec",
@@ -723,7 +723,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1619037525.0
+        "update": 1627412262.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -774,11 +774,11 @@
                 "https://www.tensorflow.org/hub"
             ],
             [
-                "data1",
+                "data",
                 "http://www.ibiblio.org/pub/docs/books/gutenberg/9/98/98.txt"
             ],
             [
-                "data2",
+                "data",
                 "http://www.ibiblio.org/pub/docs/books/gutenberg/4/46/46.txt"
             ],
             [
@@ -1033,7 +1033,7 @@
             ],
             [
                 "project",
-                ""
+                "https://pjreddie.com/darknet/"
             ],
             [
                 "reddit",
@@ -1257,7 +1257,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5",
-        "update": 1624510212.019
+        "update": 1626922119.83
     },
     {
         "name": "Spleeter",
@@ -1396,11 +1396,11 @@
         ],
         "links": [
             [
-                "book1",
+                "book",
                 "https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html"
             ],
             [
-                "book2",
+                "book",
                 "https://mitpress.mit.edu/books/functional-differential-geometry"
             ],
             [
@@ -1479,7 +1479,7 @@
             ],
             [
                 "sparse attention",
-                "deepspeed.ai/tutorials/sparse-attention/"
+                "https://www.deepspeed.ai/tutorials/sparse-attention/"
             ],
             [
                 "cristofari",
@@ -1578,7 +1578,7 @@
                 "https://www.youtube.com/watch?v=4pbO673B9Oo"
             ],
             [
-                "tds",
+                "medium",
                 "https://towardsdatascience.com/lightautoml-preset-usage-tutorial-2cce7da6f936"
             ],
             [
@@ -1591,7 +1591,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/sberbank-ai-lab/LightAutoML/blob/master/Tutorial_1.%20Create%20your%20own%20pipeline.ipynb",
-        "update": 1619520542.0
+        "update": 1625497796.0
     },
     {
         "name": "highway-env",
@@ -1630,9 +1630,205 @@
             [
                 "arxiv",
                 "https://arxiv.org/abs/2105.05701"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2101.07140"
             ]
         ],
         "colab": "https://colab.research.google.com/github/eleurent/highway-env/blob/master/scripts/parking_model_based.ipynb",
         "update": 1615561158.0
+    },
+    {
+        "name": "GAN steerability",
+        "description": "We will navigate in GAN latent space to simulate various camera transformations",
+        "author": [
+            [
+                "Ali Jahanian",
+                "http://people.csail.mit.edu/jahanian/"
+            ],
+            [
+                "Lucy Chai",
+                "http://people.csail.mit.edu/lrchai/"
+            ],
+            [
+                "Phillip Isola",
+                "http://web.mit.edu/phillipi/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1907.07171"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1809.11096"
+            ],
+            [
+                "git",
+                "https://github.com/ali-design/gan_steerability"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/nS0V64sF7Cw"
+            ],
+            [
+                "project",
+                "https://ali-design.github.io/gan_steerability/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1kn6yG8PqD1U2bUcy32V1iAVjzlcQWcG3",
+        "update": 1614894616.124
+    },
+    {
+        "name": "GAN Dissection",
+        "description": "Visualizing and Understanding Generative Adversarial Networks",
+        "author": [
+            [
+                "David Bau",
+                "https://people.csail.mit.edu/davidbau/home/"
+            ],
+            [
+                "Jun-Yan Zhu",
+                "https://www.cs.cmu.edu/~junyanz/"
+            ],
+            [
+                "Hendrik Strobelt",
+                "http://hendrik.strobelt.com/"
+            ],
+            [
+                "Bolei Zhou",
+                "http://bzhou.ie.cuhk.edu.hk/"
+            ],
+            [
+                "Joshua Tenenbaum",
+                "https://mitibmwatsonailab.mit.edu/people/joshua-tenenbaum/"
+            ],
+            [
+                "William Freeman",
+                "https://billf.mit.edu/"
+            ],
+            [
+                "Antonio Torralba",
+                "https://groups.csail.mit.edu/vision/torralbalab/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://gandissect.csail.mit.edu/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1811.10597"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1901.09887"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=yVCgUYe4JTM"
+            ],
+            [
+                "demo",
+                "http://gandissect.res.ibm.com/ganpaint.html"
+            ],
+            [
+                "git",
+                "https://github.com/CSAILVision/GANDissect"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1807.10221"
+            ],
+            [
+                "git",
+                "https://github.com/CSAILVision/NetDissect"
+            ],
+            [
+                "git",
+                "https://github.com/junyanz/iGAN"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/SIDN-IAP/global-model-repr/blob/master/notebooks/gandissect_solutions.ipynb",
+        "update": 1588605539.0
+    },
+    {
+        "name": "EasyNMT",
+        "description": "Easy to use, state-of-the-art machine translation for more than 100+ languages",
+        "author": [
+            [
+                "Nils Reimers",
+                "https://www.nils-reimers.de/"
+            ]
+        ],
+        "links": [
+            [
+                "demo",
+                "http://easynmt.net/demo/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2008.00401"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2010.11125"
+            ],
+            [
+                "git",
+                "https://github.com/UKPLab/EasyNMT"
+            ],
+            [
+                "git",
+                "https://github.com/Helsinki-NLP/Opus-MT"
+            ],
+            [
+                "git",
+                "https://github.com/pytorch/fairseq/tree/master/examples/multilingual"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1X47vgSiOphpxS5w_LPtjQgJmiSTNfRNC",
+        "update": 1619468765.741
+    },
+    {
+        "name": "Sentence Transformers",
+        "description": "Multilingual Sentence, Paragraph, and Image Embeddings using BERT & Co",
+        "author": [
+            [
+                "Nils Reimers",
+                "https://www.nils-reimers.de/"
+            ],
+            [
+                "Iryna Gurevych",
+                "https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/UKPLab/sentence-transformers"
+            ],
+            [
+                "docs",
+                "https://www.sbert.net/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1908.10084"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2004.09813"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2010.08240"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/UKPLab/sentence-transformers/blob/master/examples/applications/retrieve_rerank/retrieve_rerank_simple_wikipedia.ipynb",
+        "update": 1620230806.0
     }
 ]
