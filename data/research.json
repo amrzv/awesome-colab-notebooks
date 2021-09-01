@@ -49,7 +49,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/custom_learningtopaint.ipynb",
-        "update": 1576600536.0
+        "update": 1576596936.0
     },
     {
         "name": "WikiArt (stylegan2)",
@@ -67,7 +67,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/Norod/my-colab-experiments/blob/master/WikiArt_Example_Generation_By_Peter_Baylies.ipynb",
-        "update": 1580100143.0
+        "update": 1580096543.0
     },
     {
         "name": "WikiArt (stylegan2-ada)",
@@ -85,7 +85,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/Norod/my-colab-experiments/blob/master/WikiArt_ADA_Example_Generation.ipynb",
-        "update": 1607407403.0
+        "update": 1607403803.0
     },
     {
         "name": "GPT-2",
@@ -481,7 +481,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb",
-        "update": 1605241178.0
+        "update": 1605237578.0
     },
     {
         "name": "DeOldify (photo)",
@@ -519,7 +519,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb",
-        "update": 1605241178.0
+        "update": 1605237578.0
     },
     {
         "name": "StyleGAN 2",
@@ -573,7 +573,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/shaoanlu/faceswap-GAN/blob/master/colab_demo/faceswap-GAN_colab_demo.ipynb",
-        "update": 1541664583.0
+        "update": 1541660983.0
     },
     {
         "name": "GazeML",
@@ -729,7 +729,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1626712833.0
+        "update": 1628510069.0
     },
     {
         "name": "Breast Cancer detection",
@@ -795,7 +795,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb",
-        "update": 1550001623.0
+        "update": 1549998023.0
     },
     {
         "name": "Analyzing Tennis Serve",
@@ -1051,7 +1051,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1627651039.0
+        "update": 1630316033.0
     },
     {
         "name": "3D Photo Inpainting",
@@ -1153,7 +1153,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/giswqs/qgis-earthengine-examples/blob/master/Folium/ee-api-folium-setup.ipynb",
-        "update": 1579526571.0
+        "update": 1579522971.0
     },
     {
         "name": "Instance-aware Image Colorization",
@@ -1201,7 +1201,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/cleverhans-lab/cleverhans/blob/master/examples/adversarial_patch/AdversarialPatch.ipynb",
-        "update": 1611749406.0
+        "update": 1611745806.0
     },
     {
         "name": "RNN for Predictive Maintenance",
@@ -1285,7 +1285,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/yzhou359/MakeItTalk/blob/master/quick_demo.ipynb",
-        "update": 1605028739.0
+        "update": 1605025139.0
     },
     {
         "name": "Taming Transformers for High-Resolution Image Synthesis",
@@ -1319,7 +1319,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/CompVis/taming-transformers/blob/master/scripts/taming-transformers.ipynb",
-        "update": 1615375745.0
+        "update": 1615372145.0
     },
     {
         "name": "Geometry-Free View Synthesis",
@@ -1463,7 +1463,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/deepmind-research/blob/master/nfnets/nfnet_demo_colab.ipynb",
-        "update": 1613576576.0
+        "update": 1613572976.0
     },
     {
         "name": "AlphaFold",
@@ -1570,10 +1570,22 @@
             [
                 "git",
                 "https://github.com/deepmind/chex"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=gg7WjuFs8F4"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=B9PL__gVxLI"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/method/alphafold"
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb",
-        "update": 1626952603.0
+        "update": 1629877909.0
     },
     {
         "name": "Neural Style Transfer",
@@ -1603,7 +1615,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/titu1994/Neural-Style-Transfer/blob/master/NeuralStyleTransfer.ipynb",
-        "update": 1611301206.0
+        "update": 1611297606.0
     },
     {
         "name": "Mask R-CNN",
@@ -1657,7 +1669,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/matterport/Mask_RCNN/blob/master/samples/coco/inspect_model.ipynb",
-        "update": 1548119467.0
+        "update": 1548115867.0
     },
     {
         "name": "BERT score",
@@ -1797,7 +1809,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/harskish/ganspace/blob/master/notebooks/Ganspace_colab.ipynb",
-        "update": 1607271906.0
+        "update": 1607268306.0
     },
     {
         "name": "Jukebox",
@@ -1895,7 +1907,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/master/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb",
-        "update": 1604240216.0
+        "update": 1604236616.0
     },
     {
         "name": "CLIP",
@@ -1933,7 +1945,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/openai/clip/blob/master/Interacting_with_CLIP.ipynb",
-        "update": 1611926523.0
+        "update": 1611922923.0
     },
     {
         "name": "HiDT",
@@ -2029,7 +2041,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eyaler/avatars4all/blob/master/melaflefon.ipynb",
-        "update": 1613155107.0
+        "update": 1613151507.0
     },
     {
         "name": "MSG-Net",
@@ -2059,7 +2071,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/zhanghang1989/PyTorch-Multi-Style-Transfer/blob/master/msgnet.ipynb",
-        "update": 1611599921.0
+        "update": 1611596321.0
     },
     {
         "name": "GMCNN",
@@ -2127,7 +2139,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tlatkowski/multihead-siamese-nets/blob/master/colab/multihead_siamese_nets.ipynb",
-        "update": 1576785905.0
+        "update": 1576782305.0
     },
     {
         "name": "SkyAR",
@@ -2157,7 +2169,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/jiupinjia/SkyAR/blob/master/colab_demo.ipynb",
-        "update": 1610970167.0
+        "update": 1610966567.0
     },
     {
         "name": "Neural Magic Eye",
@@ -2267,7 +2279,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/mdai/ml-lessons/blob/master/lesson1-xray-images-classification.ipynb",
-        "update": 1583556420.0
+        "update": 1583552820.0
     },
     {
         "name": "Lung X-Rays Semantic Segmentation",
@@ -2301,7 +2313,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/mdai/ml-lessons/blob/master/lesson2-lung-xrays-segmentation.ipynb",
-        "update": 1583556420.0
+        "update": 1583552820.0
     },
     {
         "name": "RSNA Pneumonia Detection Challenge (Kaggel API)",
@@ -2419,7 +2431,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/magenta-demos/blob/master/colab-notebooks/GrooVAE.ipynb",
-        "update": 1610114797.0
+        "update": 1610111197.0
     },
     {
         "name": "Multitrack MusicVAE",
@@ -2461,7 +2473,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/Multitrack_MusicVAE.ipynb",
-        "update": 1613580884.0
+        "update": 1613577284.0
     },
     {
         "name": "MusicVAE",
@@ -2541,7 +2553,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicXML_Document_Structure_Documentation.ipynb",
-        "update": 1610114797.0
+        "update": 1610111197.0
     },
     {
         "name": "SVG VAE",
@@ -2563,7 +2575,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/vae_svg_decoding.ipynb",
-        "update": 1610114797.0
+        "update": 1610111197.0
     },
     {
         "name": "Latent Constraints",
@@ -2593,7 +2605,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/notebooks/latent_constraints/latentconstraints.ipynb",
-        "update": 1511733600.0
+        "update": 1511730000.0
     },
     {
         "name": "Performance RNN",
@@ -2699,7 +2711,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb",
-        "update": 1551045600.0
+        "update": 1551042000.0
     },
     {
         "name": "NSynth",
@@ -2783,7 +2795,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb",
-        "update": 1610429158.0
+        "update": 1610425558.0
     },
     {
         "name": "BERT with TPU",
@@ -2809,7 +2821,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb",
-        "update": 1553812832.0
+        "update": 1553809232.0
     },
     {
         "name": "Pixel2Style2Pixel",
@@ -2901,7 +2913,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/pkhungurn/talking-head-anime-demo/blob/master/tha_colab.ipynb",
-        "update": 1614109107.0
+        "update": 1614105507.0
     },
     {
         "name": "NeRViS",
@@ -3027,7 +3039,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb",
-        "update": 1611303874.0
+        "update": 1611300274.0
     },
     {
         "name": "ArtLine",
@@ -3073,7 +3085,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine(AR).ipynb",
-        "update": 1608800179.0
+        "update": 1608796579.0
     },
     {
         "name": "ReStyle",
@@ -3165,7 +3177,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/omertov/encoder4editing/blob/master/notebooks/inference_playground.ipynb",
-        "update": 1616663801.0
+        "update": 1616660201.0
     },
     {
         "name": "SAM",
@@ -3212,6 +3224,60 @@
         ],
         "colab": "http://colab.research.google.com/github/yuval-alaluf/SAM/blob/master/notebooks/animation_inference_playground.ipynb",
         "update": 1619410569.0
+    },
+    {
+        "name": "StyleGAN-NADA",
+        "description": "Zero-Shot non-adversarial domain adaptation of pre-trained generators",
+        "author": [
+            [
+                "Rinon Gal",
+                "https://rinongal.github.io/"
+            ],
+            [
+                "Or Patashnik",
+                "https://orpatashnik.github.io/"
+            ],
+            [
+                "Haggai Maron",
+                "https://haggaim.github.io/"
+            ],
+            [
+                "Gal Chechik",
+                "https://research.nvidia.com/person/gal-chechik"
+            ],
+            [
+                "Daniel Cohen-Or",
+                "https://danielcohenor.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/rinongal/StyleGAN-nada"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch/"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2-ada"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.17249"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.02699"
+            ],
+            [
+                "project",
+                "https://stylegan-nada.github.io/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb",
+        "update": 1629654497.0
     },
     {
         "name": "Big Sleep",
@@ -3325,7 +3391,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb",
-        "update": 1624313348.0
+        "update": 1630449280.0
     },
     {
         "name": "VideoGPT",
@@ -3683,7 +3749,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/genforce/sefa/blob/master/docs/SeFa.ipynb",
-        "update": 1607213042.0
+        "update": 1607209442.0
     },
     {
         "name": "HiGAN",
@@ -3790,37 +3856,205 @@
         "update": 1602560296.0
     },
     {
-        "name": "StyleGAN-NADA",
-        "description": "Zero-Shot non-adversarial domain adaptation of pre-trained generators",
+        "name": "DALL·E Mini",
+        "description": "Generate images from a text prompt",
         "author": [
             [
-                "Rinon Gal",
-                "https://rinongal.github.io/"
+                "Boris Dayma",
+                "https://github.com/borisdayma"
+            ],
+            [
+                "Suraj Patil",
+                "https://github.com/patil-suraj"
+            ],
+            [
+                "Pedro Cuenca",
+                "https://github.com/pcuenca"
+            ],
+            [
+                "Khalid Saifullah",
+                "https://khalidsaifullaah.github.io/"
+            ],
+            [
+                "Tanishq Abraham",
+                "https://github.com/tmabraham"
+            ],
+            [
+                "Phúc H. Lê Khắc",
+                "https://lkhphuc.com/"
+            ],
+            [
+                "Luke Melas",
+                "https://lukemelas.github.io/"
+            ],
+            [
+                "Ritobrata Ghosh",
+                "https://ghosh-r.github.io/"
             ]
         ],
         "links": [
             [
-                "git",
-                "https://github.com/rinongal/StyleGAN-nada"
+                "blog post",
+                "https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini--Vmlldzo4NjIxODA"
+            ],
+            [
+                "demo",
+                "https://huggingface.co/spaces/flax-community/dalle-mini"
             ],
             [
                 "git",
-                "https://github.com/rosinality/stylegan2-pytorch/"
+                "https://github.com/borisdayma/dalle-mini"
             ],
             [
                 "git",
-                "https://github.com/NVlabs/stylegan2-ada"
+                "https://github.com/huggingface/transformers/tree/master/examples/research_projects/jax-projects"
+            ],
+            [
+                "git",
+                "https://github.com/openai/CLIP/blob/main/data/yfcc100m.md"
+            ],
+            [
+                "data",
+                "https://aclanthology.org/P18-1238/"
             ],
             [
                 "arxiv",
-                "https://arxiv.org/abs/2103.17249"
+                "https://arxiv.org/abs/2102.08981"
             ],
             [
                 "arxiv",
-                "https://arxiv.org/abs/2104.02699"
+                "https://arxiv.org/abs/2012.09841"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1910.13461"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.00020"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2012.09841"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1807.04015"
             ]
         ],
-        "colab": "https://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb",
-        "update": 1624724419.0
+        "colab": "https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/dev/inference/inference_pipeline.ipynb",
+        "update": 1627232414.0
+    },
+    {
+        "name": "Disentangled Lifespan Face Synthesis",
+        "description": "LFS model is proposed to disentangle the key face characteristics including shape, texture and identity so that the unique shape and texture age transformations can be modeled effectively",
+        "author": [
+            [
+                "Sen He",
+                "https://senhe.github.io/"
+            ],
+            [
+                "Wentong Liao",
+                "https://www.tnt.uni-hannover.de/en/staff/liao/"
+            ],
+            [
+                "Michael Yang",
+                "https://sites.google.com/site/michaelyingyang/"
+            ],
+            [
+                "Yi-Zhe Song",
+                "http://personal.ee.surrey.ac.uk/Personal/Y.Song/"
+            ],
+            [
+                "Bodo Rosenhahn",
+                "https://scholar.google.com/citations?user=qq3TxtcAAAAJ"
+            ],
+            [
+                "Tao Xiang",
+                "http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://senhe.github.io/projects/iccv_2021_lifespan_face/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2108.02874"
+            ],
+            [
+                "git",
+                "https://github.com/SenHe/DLFS"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=uklX03ns0m0"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1fgVAoxCSaqPkj0rUK4RmBh7GTQRqLNpE",
+        "update": 1628776491.717
+    },
+    {
+        "name": "Lifespan Age Transformation Synthesis",
+        "description": "Multi-domain image-to-image generative adversarial network architecture, whose learned latent space models a continuous bi-directional aging process",
+        "author": [
+            [
+                "Roy Or-El",
+                "https://homes.cs.washington.edu/~royorel/"
+            ],
+            [
+                "Soumyadip Sengupta",
+                "https://homes.cs.washington.edu/~soumya91/"
+            ],
+            [
+                "Ohad Fried",
+                "https://www.ohadf.com/"
+            ],
+            [
+                "Eli Shechtman",
+                "https://research.adobe.com/person/eli-shechtman/"
+            ],
+            [
+                "Ira Kemelmacher-Shlizerman",
+                "https://www.irakemelmacher.com/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://grail.cs.washington.edu/projects/lifespan_age_transformation_synthesis/"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/_jTFcjN2hBk"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/9fulnt2_q_Y"
+            ],
+            [
+                "git",
+                "https://github.com/royorel/Lifespan_Age_Transformation_Synthesis"
+            ],
+            [
+                "git",
+                "https://github.com/royorel/FFHQ-Aging-Dataset"
+            ],
+            [
+                "git",
+                "https://github.com/NVIDIA/pix2pixHD"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/style-based-gan-pytorch"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2003.09764"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/royorel/Lifespan_Age_Transformation_Synthesis/blob/master/LATS_demo.ipynb",
+        "update": 1604161228.0
     }
 ]

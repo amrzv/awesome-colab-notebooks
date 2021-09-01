@@ -79,7 +79,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb",
-        "update": 1615569317.0
+        "update": 1615565717.0
     },
     {
         "name": "Neural style transfer",
@@ -123,7 +123,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/adversarial_fgsm.ipynb",
-        "update": 1615569317.0
+        "update": 1615565717.0
     },
     {
         "name": "Autoencoders",
@@ -179,7 +179,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb",
-        "update": 1616427923.0
+        "update": 1616424323.0
     },
     {
         "name": "CycleGAN",
@@ -227,7 +227,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb",
-        "update": 1615569799.0
+        "update": 1615566199.0
     },
     {
         "name": "Pix2Pix",
@@ -297,7 +297,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb",
-        "update": 1610039013.0
+        "update": 1610035413.0
     },
     {
         "name": "CNN",
@@ -371,7 +371,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/segmentation.ipynb",
-        "update": 1620841180.0
+        "update": 1628171446.0
     },
     {
         "name": "Integrated gradients",
@@ -409,7 +409,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/interpretability/integrated_gradients.ipynb",
-        "update": 1608176215.0
+        "update": 1608172615.0
     },
     {
         "name": "Actor-Critic",
@@ -439,7 +439,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/reinforcement_learning/actor_critic.ipynb",
-        "update": 1617644915.0
+        "update": 1629320251.0
     },
     {
         "name": "Classify text with BERT",
@@ -525,7 +525,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/nmt_with_attention.ipynb",
-        "update": 1626888734.0
+        "update": 1630339229.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -629,7 +629,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/transformer.ipynb",
-        "update": 1625613436.0
+        "update": 1629808800.0
     },
     {
         "name": "Word2Vec",
@@ -671,7 +671,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word2vec.ipynb",
-        "update": 1618328684.0
+        "update": 1628191321.0
     },
     {
         "name": "Word embeddings",
@@ -757,7 +757,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1618847748.0
+        "update": 1629725942.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -791,7 +791,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1614220409.0
+        "update": 1614216809.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -821,7 +821,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1614220409.0
+        "update": 1614216809.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -851,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1614220409.0
+        "update": 1614216809.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -929,7 +929,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1618847748.0
+        "update": 1630337237.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -1177,7 +1177,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/google/TensorNetwork/blob/master/colabs/Tensor_Networks_in_Neural_Networks.ipynb",
-        "update": 1611185077.0
+        "update": 1611181477.0
     },
     {
         "name": "TF-Ranking",
@@ -1227,7 +1227,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/ranking/blob/master/tensorflow_ranking/examples/handling_sparse_features.ipynb",
-        "update": 1612409308.0
+        "update": 1612405708.0
     },
     {
         "name": "Detectron2",
@@ -1299,7 +1299,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deezer/spleeter/blob/master/spleeter.ipynb",
-        "update": 1610311462.0
+        "update": 1610307862.0
     },
     {
         "name": "GPT Neo",
@@ -1379,7 +1379,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30_GOAtts7RQD",
-        "update": 1623185269.03
+        "update": 1629785030.562
     },
     {
         "name": "The Autodiff Cookbook",
@@ -1453,7 +1453,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/google/jax/blob/master/docs/notebooks/autodiff_cookbook.ipynb",
-        "update": 1623988801.0
+        "update": 1628110513.0
     },
     {
         "name": "ruGPT3",
@@ -1487,7 +1487,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/ruGPT3XL_generation.ipynb",
-        "update": 1613559571.0
+        "update": 1628791663.0
     },
     {
         "name": "GPT-J-6B",
@@ -1533,7 +1533,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/kingoflolz/mesh-transformer-jax/blob/master/colab_demo.ipynb",
-        "update": 1623619954.0
+        "update": 1629559753.0
     },
     {
         "name": "LightAutoML",
@@ -1576,6 +1576,10 @@
             [
                 "youtube",
                 "https://www.youtube.com/watch?v=4pbO673B9Oo"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=ci8uqgWFJGg"
             ],
             [
                 "medium",
@@ -1637,7 +1641,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eleurent/highway-env/blob/master/scripts/parking_model_based.ipynb",
-        "update": 1615561158.0
+        "update": 1615557558.0
     },
     {
         "name": "GAN steerability",
@@ -1830,5 +1834,51 @@
         ],
         "colab": "https://colab.research.google.com/github/UKPLab/sentence-transformers/blob/master/examples/applications/retrieve_rerank/retrieve_rerank_simple_wikipedia.ipynb",
         "update": 1620230806.0
+    },
+    {
+        "name": "FLAML",
+        "description": "Lightweight Python library that finds accurate machine learning models automatically, efficiently and economically",
+        "author": [
+            [
+                "Chi Wang",
+                "https://github.com/sonichi"
+            ],
+            [
+                "Qingyun Wu",
+                "https://qingyun-wu.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/microsoft/FLAML"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.04815"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2005.01571"
+            ],
+            [
+                "docs",
+                "https://microsoft.github.io/FLAML/"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/channel/UCfU0zfFXHXdAd5x-WvFBk5A"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/euXpDYGgkGM"
+            ],
+            [
+                "paper",
+                "https://www.microsoft.com/en-us/research/publication/flaml-a-fast-and-lightweight-automl-library/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/microsoft/FLAML/blob/master/notebook/flaml_automl.ipynb",
+        "update": 1629751011.0
     }
 ]
