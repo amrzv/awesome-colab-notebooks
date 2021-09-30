@@ -1051,7 +1051,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1630316033.0
+        "update": 1632968296.0
     },
     {
         "name": "3D Photo Inpainting",
@@ -3391,7 +3391,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb",
-        "update": 1630449280.0
+        "update": 1632312681.0
     },
     {
         "name": "VideoGPT",
@@ -3943,7 +3943,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/dev/inference/inference_pipeline.ipynb",
-        "update": 1627232414.0
+        "update": 1632185846.0
     },
     {
         "name": "Disentangled Lifespan Face Synthesis",
@@ -3993,7 +3993,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1fgVAoxCSaqPkj0rUK4RmBh7GTQRqLNpE",
-        "update": 1628776491.717
+        "update": 1632749464.313
     },
     {
         "name": "Lifespan Age Transformation Synthesis",
@@ -4056,5 +4056,109 @@
         ],
         "colab": "https://colab.research.google.com/github/royorel/Lifespan_Age_Transformation_Synthesis/blob/master/LATS_demo.ipynb",
         "update": 1604161228.0
+    },
+    {
+        "name": "Real-ESRGAN",
+        "description": "Extend the powerful ESRGAN to a practical restoration application, which is trained with pure synthetic data",
+        "author": [
+            [
+                "Xintao Wang",
+                "https://xinntao.github.io/"
+            ],
+            [
+                "Liangbin Xie",
+                "https://github.com/LiangbinXie"
+            ],
+            [
+                "Chao Dong",
+                "https://scholar.google.com/citations?user=OSDCB0UAAAAJ"
+            ],
+            [
+                "Ying Shan",
+                "https://scholar.google.com/citations?user=4oXBp9UAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2107.10833"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/Real-ESRGAN"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/ESRGAN"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/facexlib"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/HandyView"
+            ],
+            [
+                "git",
+                "https://github.com/Tencent/ncnn"
+            ],
+            [
+                "git",
+                "https://github.com/nihui/waifu2x-ncnn-vulkan"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1k2Zod6kSHEvraybHl50Lys0LerhyTMCo",
+        "update": 1629987654.006
+    },
+    {
+        "name": "GFPGAN",
+        "description": "Towards Real-World Blind Face Restoration with Generative Facial Prior",
+        "author": [
+            [
+                "Xintao Wang",
+                "https://xinntao.github.io/"
+            ],
+            [
+                "Yu Li",
+                "https://yu-li.github.io/"
+            ],
+            [
+                "Honglun Zhang",
+                "https://scholar.google.com/citations?user=KjQLROoAAAAJ"
+            ],
+            [
+                "Ying Shan",
+                "https://scholar.google.com/citations?user=4oXBp9UAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://xinntao.github.io/projects/gfpgan"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2101.04061"
+            ],
+            [
+                "git",
+                "https://github.com/TencentARC/GFPGAN"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/facexlib"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/HandyView"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/ffhq-dataset"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo",
+        "update": 1632205752.361
     }
 ]

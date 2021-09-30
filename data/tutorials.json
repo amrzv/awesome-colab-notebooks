@@ -279,7 +279,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/audio/simple_audio.ipynb",
-        "update": 1617718493.0
+        "update": 1631684052.0
     },
     {
         "name": "Image classification",
@@ -297,7 +297,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb",
-        "update": 1610035413.0
+        "update": 1632921151.0
     },
     {
         "name": "CNN",
@@ -371,7 +371,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/segmentation.ipynb",
-        "update": 1628171446.0
+        "update": 1632950370.0
     },
     {
         "name": "Integrated gradients",
@@ -671,7 +671,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word2vec.ipynb",
-        "update": 1628191321.0
+        "update": 1632163471.0
     },
     {
         "name": "Word embeddings",
@@ -693,7 +693,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/guide/word_embeddings.ipynb",
-        "update": 1621636480.0
+        "update": 1631151532.0
     },
     {
         "name": "Building Your Own Federated Learning Algorithm",
@@ -723,7 +723,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1627412262.0
+        "update": 1630605542.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -757,7 +757,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1629725942.0
+        "update": 1630615581.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -791,7 +791,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1614216809.0
+        "update": 1630605542.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -821,7 +821,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1614216809.0
+        "update": 1630605542.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -851,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1614216809.0
+        "update": 1630605542.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -885,7 +885,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1619034829.0
+        "update": 1630615581.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -903,7 +903,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1618847748.0
+        "update": 1630605542.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -929,7 +929,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1630337237.0
+        "update": 1630605542.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -1083,7 +1083,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ",
-        "update": 1615413333.317
+        "update": 1632796284.077
     },
     {
         "name": "Python Data Science Handbook",
@@ -1257,7 +1257,85 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5",
-        "update": 1626922119.83
+        "update": 1630550763.882
+    },
+    {
+        "name": "Droidlet",
+        "description": "A modular embodied agent architecture and platform for building embodied agents",
+        "author": [
+            [
+                "Anurag Pratik",
+                "https://github.com/anuragprat1k"
+            ],
+            [
+                "Soumith Chintala",
+                "https://soumith.ch/"
+            ],
+            [
+                "Kavya Srinet",
+                "https://github.com/kavyasrinet"
+            ],
+            [
+                "Dhiraj Gandhi",
+                "https://dhiraj100892.github.io/"
+            ],
+            [
+                "Rebecca Qian",
+                "https://github.com/Rebecca-Qian"
+            ],
+            [
+                "Yuxuan Sun",
+                "https://github.com/snyxan"
+            ],
+            [
+                "Ryan Drew",
+                "https://rdrew.dev/"
+            ],
+            [
+                "Sara Elkafrawy",
+                "https://github.com/saraEbrahim"
+            ],
+            [
+                "Anoushka Tiwari",
+                "https://www.linkedin.com/in/anoushka-tiwari"
+            ],
+            [
+                "Tucker Hart",
+                "https://www.linkedin.com/in/tucker-hart-05a638133"
+            ],
+            [
+                "Mary Williamson",
+                "https://scholar.google.com/citations?user=Ys4xB-QAAAAJ"
+            ],
+            [
+                "Abhinav Gupta",
+                "http://www.cs.cmu.edu/~abhinavg/"
+            ],
+            [
+                "Arthur Szlam",
+                "https://scholar.google.com/citations?user=u3-FxUgAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2101.10384"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1907.08584"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/droidlet"
+            ],
+            [
+                "docs",
+                "https://facebookresearch.github.io/droidlet/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/facebookresearch/droidlet/blob/master/examples_and_tutorials/tutorials/droidlet_for_physical_robots.ipynb",
+        "update": 1631720524.0
     },
     {
         "name": "Spleeter",
@@ -1533,7 +1611,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/kingoflolz/mesh-transformer-jax/blob/master/colab_demo.ipynb",
-        "update": 1629559753.0
+        "update": 1631667238.0
     },
     {
         "name": "LightAutoML",
@@ -1595,7 +1673,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/sberbank-ai-lab/LightAutoML/blob/master/Tutorial_1.%20Create%20your%20own%20pipeline.ipynb",
-        "update": 1625497796.0
+        "update": 1625938315.0
     },
     {
         "name": "highway-env",
@@ -1641,7 +1719,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eleurent/highway-env/blob/master/scripts/parking_model_based.ipynb",
-        "update": 1615557558.0
+        "update": 1631939902.0
     },
     {
         "name": "GAN steerability",
@@ -1833,7 +1911,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/UKPLab/sentence-transformers/blob/master/examples/applications/retrieve_rerank/retrieve_rerank_simple_wikipedia.ipynb",
-        "update": 1620230806.0
+        "update": 1631547800.0
     },
     {
         "name": "FLAML",
@@ -1879,6 +1957,6 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/microsoft/FLAML/blob/master/notebook/flaml_automl.ipynb",
-        "update": 1629751011.0
+        "update": 1630734141.0
     }
 ]
