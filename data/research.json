@@ -107,7 +107,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce",
-        "update": 1613336141.634
+        "update": 1634524182.04
     },
     {
         "name": "textgenrnn",
@@ -729,7 +729,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1628510069.0
+        "update": 1634744760.0
     },
     {
         "name": "Breast Cancer detection",
@@ -1051,7 +1051,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1632968296.0
+        "update": 1635428101.0
     },
     {
         "name": "3D Photo Inpainting",
@@ -1464,6 +1464,108 @@
         ],
         "colab": "https://colab.research.google.com/github/deepmind/deepmind-research/blob/master/nfnets/nfnet_demo_colab.ipynb",
         "update": 1613572976.0
+    },
+    {
+        "name": "Skillful Precipitation Nowcasting Using Deep Generative Models of Radar",
+        "description": "Open-sourced dataset and model snapshot for precipitation nowcasting",
+        "author": [
+            [
+                "Suman Ravuri",
+                "https://www.linkedin.com/in/suman-ravuri-81928082"
+            ],
+            [
+                "Karel Lenc",
+                "https://www.robots.ox.ac.uk/~karel/"
+            ],
+            [
+                "Matthew Willson",
+                "https://www.linkedin.com/in/matthew-willson-6a1b422"
+            ],
+            [
+                "Dmitry Kangin",
+                "https://scholar.google.com/citations?user=vv-leaMAAAAJ"
+            ],
+            [
+                "Rémi Lam",
+                "https://scholar.google.com/citations?user=Sm7xCbEAAAAJ"
+            ],
+            [
+                "Piotr Mirowski",
+                "https://piotrmirowski.com/"
+            ],
+            [
+                "Maria Athanassiadou",
+                "https://scholar.google.com/citations?user=VtkgHP0AAAAJ"
+            ],
+            [
+                "Sheleem Kashem",
+                "https://www.linkedin.com/in/sheleemkashem/"
+            ],
+            [
+                "Rachel Prudden",
+                "https://scholar.google.com/citations?user=uf39AF8AAAAJ"
+            ],
+            [
+                "Amol Mandhane",
+                "https://github.com/amol-mandhane"
+            ],
+            [
+                "Aidan Clark",
+                "https://scholar.google.com/citations?user=uf39AF8AAAAJ"
+            ],
+            [
+                "Andrew Brock",
+                "https://github.com/ajbrock"
+            ],
+            [
+                "Karen Simonyan",
+                "https://scholar.google.com/citations?user=L7lMQkQAAAAJ"
+            ],
+            [
+                "Raia Hadsell",
+                "https://github.com/raiah"
+            ],
+            [
+                "Niall Robinson",
+                "https://github.com/niallrobinson"
+            ],
+            [
+                "Ellen Clancy",
+                "https://www.linkedin.com/in/ellen-clancy-815967124"
+            ],
+            [
+                "Shakir Mohamed",
+                "https://www.shakirm.com/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.00954"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/deepmind-research/tree/master/nowcasting"
+            ],
+            [
+                "tf",
+                "https://www.tensorflow.org/hub"
+            ],
+            [
+                "local kernel",
+                "https://research.google.com/colaboratory/local-runtimes.html"
+            ],
+            [
+                "blog post",
+                "https://deepmind.com/blog/article/nowcasting"
+            ],
+            [
+                "paper",
+                "https://www.nature.com/articles/s41586-021-03854-z"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/deepmind/deepmind-research/blob/master/nowcasting/Open_sourced_dataset_and_model_snapshot_for_precipitation_nowcasting.ipynb",
+        "update": 1632916830.0
     },
     {
         "name": "AlphaFold",
@@ -1946,6 +2048,52 @@
         ],
         "colab": "https://colab.research.google.com/github/openai/clip/blob/master/Interacting_with_CLIP.ipynb",
         "update": 1611922923.0
+    },
+    {
+        "name": "CLIPDraw",
+        "description": "Synthesize drawings to match a text prompt",
+        "author": [
+            [
+                "Kevin Frans",
+                "https://www.kvfrans.com/"
+            ],
+            [
+                "Lisa Soros",
+                "https://scholar.google.com/citations?user=iUkpvMUAAAAJ"
+            ],
+            [
+                "Olaf Witkowski",
+                "https://olafwitkowski.com/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.14843"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1508.06576"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2105.00162"
+            ],
+            [
+                "blog post",
+                "https://kvfrans.com/clipdraw-exploring-text-to-drawing-synthesis/"
+            ],
+            [
+                "git",
+                "https://github.com/kvfrans/clipdraw"
+            ],
+            [
+                "git",
+                "https://github.com/BachiLi/diffvg/blob/master/apps/painterly_rendering.py"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb",
+        "update": 1624992615.0
     },
     {
         "name": "HiDT",
@@ -3277,7 +3425,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb",
-        "update": 1629654497.0
+        "update": 1633267517.0
     },
     {
         "name": "Big Sleep",
@@ -3391,7 +3539,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb",
-        "update": 1632312681.0
+        "update": 1633946426.0
     },
     {
         "name": "VideoGPT",
@@ -4159,6 +4307,6 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo",
-        "update": 1632205752.361
+        "update": 1634893404.104
     }
 ]

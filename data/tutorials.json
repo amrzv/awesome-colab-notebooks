@@ -53,7 +53,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb",
-        "update": 1622633984.0
+        "update": 1635263354.0
     },
     {
         "name": "DeepDream",
@@ -279,7 +279,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/audio/simple_audio.ipynb",
-        "update": 1631684052.0
+        "update": 1635272369.0
     },
     {
         "name": "Image classification",
@@ -297,7 +297,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb",
-        "update": 1632921151.0
+        "update": 1635174478.0
     },
     {
         "name": "CNN",
@@ -345,7 +345,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/data_augmentation.ipynb",
-        "update": 1627482141.0
+        "update": 1634832246.0
     },
     {
         "name": "Image segmentation",
@@ -371,7 +371,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/segmentation.ipynb",
-        "update": 1632950370.0
+        "update": 1635263418.0
     },
     {
         "name": "Integrated gradients",
@@ -439,7 +439,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/reinforcement_learning/actor_critic.ipynb",
-        "update": 1629320251.0
+        "update": 1631087372.0
     },
     {
         "name": "Classify text with BERT",
@@ -473,7 +473,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb",
-        "update": 1622128383.0
+        "update": 1634722857.0
     },
     {
         "name": "Image captioning",
@@ -525,7 +525,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/nmt_with_attention.ipynb",
-        "update": 1630339229.0
+        "update": 1634927559.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -551,7 +551,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/bert_glue.ipynb",
-        "update": 1627413006.0
+        "update": 1634669152.0
     },
     {
         "name": "Text classification with RNN",
@@ -577,7 +577,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb",
-        "update": 1621636480.0
+        "update": 1634060382.0
     },
     {
         "name": "Text generation with RNN",
@@ -671,7 +671,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word2vec.ipynb",
-        "update": 1632163471.0
+        "update": 1631729947.0
     },
     {
         "name": "Word embeddings",
@@ -821,7 +821,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1630605542.0
+        "update": 1633621238.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -954,6 +954,54 @@
         "update": 1623003030.0
     },
     {
+        "name": "Context R-CNN Demo",
+        "description": "This notebook will walk you step by step through the process of using a pre-trained model to build up a contextual memory bank for a set of images, and then detect objects in those images+context using Context R-CNN",
+        "author": [
+            [
+                "pkulzc",
+                "https://github.com/pkulzc"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1912.03538"
+            ],
+            [
+                "data",
+                "https://lila.science/datasets/snapshot-serengeti"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/research/object_detection/colab_tutorials/context_rcnn_tutorial.ipynb",
+        "update": 1592369957.0
+    },
+    {
+        "name": "Eager Few Shot Object Detection",
+        "description": "Fine tuning of a RetinaNet architecture on very few examples of a novel class after initializing from a pre-trained COCO checkpoint",
+        "author": [
+            [
+                "kmindspark",
+                "https://github.com/kmindspark"
+            ]
+        ],
+        "links": [
+            [
+                "data",
+                "https://cocodataset.org/#explore"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/few-shot-object-detection"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1708.02002"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb",
+        "update": 1594421157.0
+    },
+    {
         "name": "Train a GPT-2 Text-Generating Model",
         "description": "Retrain an advanced text generating neural network on any text dataset for free on a GPU using Colaboratory using aitextgen!",
         "author": [
@@ -1083,7 +1131,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ",
-        "update": 1632796284.077
+        "update": 1634737418.879
     },
     {
         "name": "Python Data Science Handbook",
@@ -1257,7 +1305,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5",
-        "update": 1630550763.882
+        "update": 1635203394.931
     },
     {
         "name": "Droidlet",
@@ -1336,6 +1384,72 @@
         ],
         "colab": "https://colab.research.google.com/github/facebookresearch/droidlet/blob/master/examples_and_tutorials/tutorials/droidlet_for_physical_robots.ipynb",
         "update": 1631720524.0
+    },
+    {
+        "name": "IC-GAN",
+        "description": "Instance-Conditioned GAN",
+        "author": [
+            [
+                "Arantxa Casanova",
+                "https://github.com/ArantxaCasanova"
+            ],
+            [
+                "Marlene Careil",
+                "https://www.linkedin.com/in/marl%C3%A8ne-careil-901804155/"
+            ],
+            [
+                "Jakob Verbeek",
+                "http://thoth.inrialpes.fr/~verbeek/"
+            ],
+            [
+                "Michał Drożdżal",
+                "https://scholar.google.com/citations?user=XK_ktwQAAAAJ"
+            ],
+            [
+                "Adriana Romero-Soriano",
+                "https://sites.google.com/site/adriromsor"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2109.05070"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1809.11096"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/ic_gan"
+            ],
+            [
+                "git",
+                "https://github.com/ajbrock/BigGAN-PyTorch"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2-ada-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/WillSuen/LostGANs/blob/master/INSTALL.md"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/faiss"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/swav"
+            ],
+            [
+                "blog post",
+                "https://ai.facebook.com/blog/instance-conditioned-gans/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/facebookresearch/ic_gan/blob/main/inference/icgan_colab.ipynb",
+        "update": 1633084350.0
     },
     {
         "name": "Spleeter",
@@ -1957,6 +2071,68 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/microsoft/FLAML/blob/master/notebook/flaml_automl.ipynb",
-        "update": 1630734141.0
+        "update": 1634348202.0
+    },
+    {
+        "name": "CompilerGym",
+        "description": "A reinforcement learning toolkit for compiler optimizations",
+        "author": [
+            [
+                "Chris Cummins",
+                "https://chriscummins.cc/"
+            ],
+            [
+                "Bram Wasti",
+                "https://github.com/bwasti"
+            ],
+            [
+                "Jiadong Guo",
+                "https://jd-eth.github.io/"
+            ],
+            [
+                "Brandon Cui",
+                "https://www.linkedin.com/in/bcui19/"
+            ],
+            [
+                "Jason Ansel",
+                "https://jasonansel.com/"
+            ],
+            [
+                "Sahir Gomez",
+                "https://github.com/sahirgomez1"
+            ],
+            [
+                "Olivier Teytaud",
+                "https://github.com/teytaud"
+            ],
+            [
+                "Benoit Steiner",
+                "http://bsteiner.info/"
+            ],
+            [
+                "Yuandong Tian",
+                "http://yuandong-tian.com/"
+            ],
+            [
+                "Hugh Leather",
+                "https://github.com/hughleat"
+            ]
+        ],
+        "links": [
+            [
+                "docs",
+                "https://facebookresearch.github.io/CompilerGym/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2109.08267"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/CompilerGym"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/facebookresearch/CompilerGym/blob/development/examples/getting-started.ipynb",
+        "update": 1620656144.0
     }
 ]
