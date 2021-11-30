@@ -537,7 +537,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH",
-        "update": 1576429762.767
+        "update": 1636142903.17
     },
     {
         "name": "Edge Detection",
@@ -729,7 +729,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1634744760.0
+        "update": 1636869456.0
     },
     {
         "name": "Breast Cancer detection",
@@ -935,7 +935,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/TobiasSunderdiek/cartoon-gan/blob/master/CartoonGAN.ipynb",
-        "update": 1586776469.0
+        "update": 1637757142.0
     },
     {
         "name": "HoF",
@@ -1021,7 +1021,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov3/blob/master/tutorial.ipynb",
-        "update": 1622116212.0
+        "update": 1636915718.0
     },
     {
         "name": "YOLOv5",
@@ -1051,7 +1051,77 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1635428101.0
+        "update": 1637511704.0
+    },
+    {
+        "name": "ByteTrack",
+        "description": "Multi-Object Tracking by Associating Every Detection Box",
+        "author": [
+            [
+                "Yifu Zhang",
+                "https://github.com/ifzhang"
+            ],
+            [
+                "Peize Sun",
+                "https://peizesun.github.io/"
+            ],
+            [
+                "Yi Jiang",
+                "https://github.com/iFighting"
+            ],
+            [
+                "Dongdong Yu",
+                "https://miracle-fmh.github.io/"
+            ],
+            [
+                "Ping Luo",
+                "http://luoping.me/"
+            ],
+            [
+                "Xinggang Wang",
+                "https://xinggangw.info/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/ifzhang/ByteTrack"
+            ],
+            [
+                "git",
+                "https://github.com/Megvii-BaseDetection/YOLOX"
+            ],
+            [
+                "git",
+                "https://github.com/ifzhang/FairMOT"
+            ],
+            [
+                "git",
+                "https://github.com/PeizeSun/TransTrack"
+            ],
+            [
+                "git",
+                "https://github.com/samylee/Towards-Realtime-MOT-Cpp"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2110.06864"
+            ],
+            [
+                "data",
+                "https://motchallenge.net/"
+            ],
+            [
+                "data",
+                "https://www.crowdhuman.org/"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/task/multi-object-tracking"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1bDilg4cmXFa8HCKHbsZ_p16p0vrhLyu0",
+        "update": 1635566517.748
     },
     {
         "name": "3D Photo Inpainting",
@@ -1687,7 +1757,89 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb",
-        "update": 1629877909.0
+        "update": 1636094202.0
+    },
+    {
+        "name": "Arnheim",
+        "description": "Generative Art Using Neural Visual Grammars and Dual Encoders",
+        "author": [
+            [
+                "Chrisantha Fernando",
+                "https://www.chrisantha.co.uk/"
+            ],
+            [
+                "Ali Eslami",
+                "http://arkitus.com/"
+            ],
+            [
+                "Jean-Baptiste Alayrac",
+                "https://www.jbalayrac.com/"
+            ],
+            [
+                "Piotr Mirowski",
+                "https://piotrmirowski.com/"
+            ],
+            [
+                "Dylan Banarse",
+                "https://www.2ne1.com/"
+            ],
+            [
+                "Simon Osindero",
+                "https://scholar.google.com/citations?user=Jq8ZS5kAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2105.00162"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.14843"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1801.07729"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1606.02580"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1609.09106"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/arnheim"
+            ],
+            [
+                "git",
+                "https://github.com/openai/dall-e"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Compositional_pattern-producing_network"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=U7guaMdeF4g"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=zh0goLbS-l0"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=SYJGNt7yu6M"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=MxkYKa0x5AU"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/deepmind/arnheim/blob/master/arnheim_2.ipynb",
+        "update": 1636624216.0
     },
     {
         "name": "Neural Style Transfer",
@@ -3619,7 +3771,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/neuralchen/SimSwap/blob/master/SimSwap%20colab.ipynb",
-        "update": 1626699910.0
+        "update": 1637741944.0
     },
     {
         "name": "TediGAN",
@@ -4091,7 +4243,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/dev/inference/inference_pipeline.ipynb",
-        "update": 1632185846.0
+        "update": 1638060706.0
     },
     {
         "name": "Disentangled Lifespan Face Synthesis",
@@ -4257,7 +4409,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1k2Zod6kSHEvraybHl50Lys0LerhyTMCo",
-        "update": 1629987654.006
+        "update": 1638155351.332
     },
     {
         "name": "GFPGAN",
@@ -4308,5 +4460,97 @@
         ],
         "colab": "https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo",
         "update": 1634893404.104
+    },
+    {
+        "name": "Live Speech Portraits",
+        "description": "Real-Time Photorealistic Talking-Head Animation",
+        "author": [
+            [
+                "Yuanxun Lu",
+                "https://github.com/YuanxunLu"
+            ],
+            [
+                "Jinxiang Chai",
+                "https://scholar.google.com/citations?user=OcN1_gwAAAAJ"
+            ],
+            [
+                "Xun Cao",
+                "https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://yuanxunlu.github.io/projects/LiveSpeechPortraits/"
+            ],
+            [
+                "git",
+                "https://github.com/YuanxunLu/LiveSpeechPortraits"
+            ],
+            [
+                "git",
+                "https://github.com/lelechen63/ATVGnet"
+            ],
+            [
+                "git",
+                "https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion"
+            ],
+            [
+                "git",
+                "https://github.com/DinoMan/speech-driven-animation"
+            ],
+            [
+                "git",
+                "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2109.10595"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1tKvi-9kY3GkEK8lgtfTSM70rMFo_TY50",
+        "update": 1632685360.817
+    },
+    {
+        "name": "Text2Animation",
+        "description": "Generate images from text phrases with VQGAN and CLIP with animation and keyframes",
+        "author": [
+            [
+                "Katherine Crowson",
+                "https://kath.io/"
+            ],
+            [
+                "Ryan Murdock",
+                "https://twitter.com/advadnoun"
+            ],
+            [
+                "Chigozie Nri",
+                "https://github.com/chigozienri"
+            ],
+            [
+                "Denis Malimonov",
+                "https://github.com/tg-bomze"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/chigozienri/VQGAN-CLIP-animations"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2012.09841"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.00020"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/channel/UCToztRy9FSTIhEen_1x4FAw"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Text2Animation.ipynb",
+        "update": 1632908592.0
     }
 ]

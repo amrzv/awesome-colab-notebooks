@@ -53,7 +53,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb",
-        "update": 1635263354.0
+        "update": 1637742557.0
     },
     {
         "name": "DeepDream",
@@ -249,7 +249,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb",
-        "update": 1627574186.0
+        "update": 1636575634.0
     },
     {
         "name": "Simple audio recognition",
@@ -279,7 +279,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/audio/simple_audio.ipynb",
-        "update": 1635272369.0
+        "update": 1637098729.0
     },
     {
         "name": "Image classification",
@@ -297,7 +297,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb",
-        "update": 1635174478.0
+        "update": 1638127220.0
     },
     {
         "name": "CNN",
@@ -409,7 +409,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/interpretability/integrated_gradients.ipynb",
-        "update": 1608172615.0
+        "update": 1636449343.0
     },
     {
         "name": "Actor-Critic",
@@ -473,7 +473,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb",
-        "update": 1634722857.0
+        "update": 1638180999.0
     },
     {
         "name": "Image captioning",
@@ -495,7 +495,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb",
-        "update": 1627414716.0
+        "update": 1636449343.0
     },
     {
         "name": "NMT with attention",
@@ -525,7 +525,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/nmt_with_attention.ipynb",
-        "update": 1634927559.0
+        "update": 1638205292.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -599,7 +599,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_generation.ipynb",
-        "update": 1620855370.0
+        "update": 1638205292.0
     },
     {
         "name": "Transformer",
@@ -693,7 +693,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/guide/word_embeddings.ipynb",
-        "update": 1631151532.0
+        "update": 1636571474.0
     },
     {
         "name": "Building Your Own Federated Learning Algorithm",
@@ -757,7 +757,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1630615581.0
+        "update": 1635968006.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -1000,6 +1000,28 @@
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb",
         "update": 1594421157.0
+    },
+    {
+        "name": "Deep-MAC",
+        "description": "Welcome to the Novel class segmentation demo",
+        "author": [
+            [
+                "Vighnesh Birodkar",
+                "http://vighneshbirodkar.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/method/deep-mac"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.00613"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/research/object_detection/colab_tutorials/deepmac_colab.ipynb",
+        "update": 1617321805.0
     },
     {
         "name": "Train a GPT-2 Text-Generating Model",
@@ -1305,7 +1327,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5",
-        "update": 1635203394.931
+        "update": 1636138713.817
     },
     {
         "name": "Droidlet",
@@ -1679,7 +1701,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/ruGPT3XL_generation.ipynb",
-        "update": 1628791663.0
+        "update": 1637109647.0
     },
     {
         "name": "GPT-J-6B",
@@ -2071,7 +2093,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/microsoft/FLAML/blob/master/notebook/flaml_automl.ipynb",
-        "update": 1634348202.0
+        "update": 1637637449.0
     },
     {
         "name": "CompilerGym",
@@ -2133,6 +2155,6 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/facebookresearch/CompilerGym/blob/development/examples/getting-started.ipynb",
-        "update": 1620656144.0
+        "update": 1637050184.0
     }
 ]
