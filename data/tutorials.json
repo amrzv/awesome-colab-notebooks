@@ -53,7 +53,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb",
-        "update": 1637742557.0
+        "update": 1639633636.0
     },
     {
         "name": "DeepDream",
@@ -79,7 +79,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb",
-        "update": 1615565717.0
+        "update": 1638814848.0
     },
     {
         "name": "Neural style transfer",
@@ -495,7 +495,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb",
-        "update": 1636449343.0
+        "update": 1639436695.0
     },
     {
         "name": "NMT with attention",
@@ -525,7 +525,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/nmt_with_attention.ipynb",
-        "update": 1638205292.0
+        "update": 1638545287.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -693,7 +693,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/guide/word_embeddings.ipynb",
-        "update": 1636571474.0
+        "update": 1637741450.0
     },
     {
         "name": "Building Your Own Federated Learning Algorithm",
@@ -851,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1630605542.0
+        "update": 1638474387.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -2093,7 +2093,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/microsoft/FLAML/blob/master/notebook/flaml_automl.ipynb",
-        "update": 1637637449.0
+        "update": 1639692693.0
     },
     {
         "name": "CompilerGym",
@@ -2156,5 +2156,155 @@
         ],
         "colab": "https://colab.research.google.com/github/facebookresearch/CompilerGym/blob/development/examples/getting-started.ipynb",
         "update": 1637050184.0
+    },
+    {
+        "name": "TorchGeo",
+        "description": "PyTorch domain library that provides datasets, transforms, samplers, and pre-trained models specific to geospatial data",
+        "author": [
+            [
+                "git",
+                "https://github.com/microsoft/torchgeo"
+            ],
+            [
+                "git",
+                "https://github.com/davemlz/awesome-spectral-indices"
+            ],
+            [
+                "NDVI",
+                "https://gisgeography.com/ndvi-normalized-difference-vegetation-index/"
+            ],
+            [
+                "NDWI",
+                "https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/ndwi/"
+            ],
+            [
+                "NDBI",
+                "https://www.linkedin.com/pulse/ndvi-ndbi-ndwi-calculation-using-landsat-7-8-tek-bahadur-kshetri/"
+            ],
+            [
+                "data",
+                "https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l2a/"
+            ],
+            [
+                "data",
+                "https://www.cogeo.org/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2111.08872"
+            ]
+        ],
+        "links": [
+            [
+                "Adam Stewart",
+                "https://github.com/adamjstewart"
+            ],
+            [
+                "Caleb Robinson",
+                "https://calebrob.com/"
+            ],
+            [
+                "Isaac Corley",
+                "https://github.com/isaaccorley"
+            ],
+            [
+                "Anthony Ortiz",
+                "https://github.com/anthonymlortiz"
+            ],
+            [
+                "Juan Lavista Ferres",
+                "https://www.microsoft.com/en-us/research/people/jlavista/"
+            ],
+            [
+                "Arindam Banerjee",
+                "https://arindam.cs.illinois.edu/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/microsoft/torchgeo/blob/main/docs/tutorials/indices.ipynb",
+        "update": 1640023579.0
+    },
+    {
+        "name": "Imagededup",
+        "description": "This package provides functionality to make use of hashing algorithms that are particularly good at finding exact duplicates as well as convolutional neural networks which are also adept at finding near duplicates",
+        "author": [
+            [
+                "Tanuj Jain",
+                "https://github.com/tanujjain"
+            ],
+            [
+                "Christopher Lennan",
+                "https://github.com/clennan"
+            ],
+            [
+                "Dat Tran",
+                "https://dat-tran.com/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://idealo.github.io/imagededup/"
+            ],
+            [
+                "git",
+                "https://github.com/idealo/imagededup"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1704.04861"
+            ],
+            [
+                "medium",
+                "https://fullstackml.com/wavelet-image-hash-in-python-3504fdd282b5"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/idealo/imagededup/blob/master/examples/CIFAR10_duplicates.ipynb",
+        "update": 1570105655.0
+    },
+    {
+        "name": "MLP",
+        "description": "The most basic neural network architectures, a multilayer perceptron, also known as a feedforward network",
+        "author": [
+            [
+                "Ben Trevett",
+                "https://bentrevett.com/"
+            ]
+        ],
+        "links": [
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Multilayer_perceptron"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1702.03118"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2108.12943"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2111.04020"
+            ],
+            [
+                "pytorch",
+                "https://pytorch.org/vision/stable/transforms.html#transforms-on-pil-image-only"
+            ],
+            [
+                "pytorch",
+                "https://pytorch.org/vision/stable/transforms.html#transforms-on-torch-tensor-only"
+            ],
+            [
+                "optimization",
+                "https://ruder.io/optimizing-gradient-descent/"
+            ],
+            [
+                "NN and DL",
+                "http://neuralnetworksanddeeplearning.com/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/1_mlp.ipynb",
+        "update": 1640509494.0
     }
 ]

@@ -1051,7 +1051,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1637511704.0
+        "update": 1638961023.0
     },
     {
         "name": "ByteTrack",
@@ -3477,7 +3477,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/omertov/encoder4editing/blob/master/notebooks/inference_playground.ipynb",
-        "update": 1616660201.0
+        "update": 1638451249.0
     },
     {
         "name": "SAM",
@@ -3577,7 +3577,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb",
-        "update": 1633267517.0
+        "update": 1638617135.0
     },
     {
         "name": "Big Sleep",
@@ -4409,7 +4409,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1k2Zod6kSHEvraybHl50Lys0LerhyTMCo",
-        "update": 1638155351.332
+        "update": 1639312970.284
     },
     {
         "name": "GFPGAN",
@@ -4459,7 +4459,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo",
-        "update": 1634893404.104
+        "update": 1639320547.532
     },
     {
         "name": "Live Speech Portraits",
@@ -4552,5 +4552,235 @@
         ],
         "colab": "https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Text2Animation.ipynb",
         "update": 1632908592.0
+    },
+    {
+        "name": "StyleCariGAN",
+        "description": "Caricature Generation via StyleGAN Feature Map Modulation",
+        "author": [
+            [
+                "Wonjong Jang",
+                "https://wonjongg.github.io/"
+            ],
+            [
+                "Gwangjin Ju",
+                "https://github.com/jugwangjin"
+            ],
+            [
+                "Yucheol Jung",
+                "https://ycjung.info/"
+            ],
+            [
+                "Jiaolong Yang",
+                "https://jlyang.org/"
+            ],
+            [
+                "Xin Tong",
+                "https://www.microsoft.com/en-us/research/people/xtong/"
+            ],
+            [
+                "Seungyong Lee",
+                "https://scholar.google.com/citations?user=yGPH-nAAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/wonjongg/StyleCariGAN"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2107.04331"
+            ],
+            [
+                "project",
+                "https://wonjongg.github.io/StyleCariGAN/"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=kpHbGOlI-BU"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1HDRQGm7pvC9mAb6Lktoft_SmY9sCq_Qg",
+        "update": 1638304604.158
+    },
+    {
+        "name": "SpecVQGAN",
+        "description": "Taming the visually guided sound generation by shrinking a training dataset to a set of representative vectors",
+        "author": [
+            [
+                "Vladimir Iashin",
+                "https://iashin.ai/"
+            ],
+            [
+                "Esa Rahtu",
+                "https://esa.rahtu.fi/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://iashin.ai/SpecVQGAN"
+            ],
+            [
+                "arxiv",
+                "http://arxiv.org/abs/2110.08791"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2012.09841"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1711.00937"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2008.00820"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1712.01393"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1512.08512"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=Bucb3nAa398"
+            ],
+            [
+                "git",
+                "https://github.com/v-iashin/SpecVQGAN"
+            ],
+            [
+                "git",
+                "https://github.com/PeihaoChen/regnet"
+            ],
+            [
+                "git",
+                "https://github.com/toshas/torch-fidelity"
+            ],
+            [
+                "git",
+                "https://github.com/descriptinc/melgan-neurips"
+            ],
+            [
+                "git",
+                "https://github.com/google/lyra"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Foley_(filmmaking)"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Row-_and_column-major_order"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1pxTIMweAKApJZ3ZFqyBee3HtMqFpnwQ0",
+        "update": 1634901968.289
+    },
+    {
+        "name": "StyleGAN3",
+        "description": "Alias-Free Generative Adversarial Networks",
+        "author": [
+            [
+                "Tero Karras",
+                "https://research.nvidia.com/person/tero-karras"
+            ],
+            [
+                "Miika Aittala",
+                "https://research.nvidia.com/person/Miika-Aittala"
+            ],
+            [
+                "Samuli Laine",
+                "https://research.nvidia.com/person/Samuli-Laine"
+            ],
+            [
+                "Erik Härkönen",
+                "https://github.com/harskish"
+            ],
+            [
+                "Janne Hellsten",
+                "https://research.nvidia.com/person/Janne-Hellsten"
+            ],
+            [
+                "Jaakko Lehtinen",
+                "https://github.com/jtlehtin"
+            ],
+            [
+                "Timo Aila",
+                "https://research.nvidia.com/person/timo-aila"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan3"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan3-detector"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/ffhq-dataset"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/metfaces-dataset"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2-ada-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2-ada"
+            ],
+            [
+                "project",
+                "https://nvlabs.github.io/stylegan3"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.12423"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1706.08500"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1801.01401"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1904.06991"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1812.04948"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1606.03498"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1BXNHZBai-pXtP-ncliouXo_kUiG1Pq7M",
+        "update": 1634627369.928
     }
 ]
