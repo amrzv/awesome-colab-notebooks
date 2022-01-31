@@ -729,7 +729,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1636869456.0
+        "update": 1642704647.0
     },
     {
         "name": "Breast Cancer detection",
@@ -1051,7 +1051,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1638961023.0
+        "update": 1642620280.0
     },
     {
         "name": "ByteTrack",
@@ -1389,7 +1389,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/CompVis/taming-transformers/blob/master/scripts/taming-transformers.ipynb",
-        "update": 1615372145.0
+        "update": 1642085407.0
     },
     {
         "name": "Geometry-Free View Synthesis",
@@ -1757,7 +1757,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb",
-        "update": 1636094202.0
+        "update": 1643283669.0
     },
     {
         "name": "Arnheim",
@@ -3216,6 +3216,44 @@
         "update": 1614105507.0
     },
     {
+        "name": "AnimeGANv2",
+        "description": "An improved version of AnimeGAN - it prevents the generation of high-frequency artifacts by simply changing the normalization of features in the network",
+        "author": [
+            [
+                "Xin Chen",
+                "https://dl.acm.org/profile/99659508903"
+            ],
+            [
+                "Gang Liu",
+                "https://dl.acm.org/profile/81493643454"
+            ],
+            [
+                "bryandlee",
+                "https://github.com/bryandlee"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/bryandlee/animegan2-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/TachibanaYoshino/AnimeGANv2"
+            ],
+            [
+                "git",
+                "https://github.com/TachibanaYoshino/AnimeGAN"
+            ],
+            [
+                "project",
+                "https://tachibanayoshino.github.io/AnimeGANv2/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/bryandlee/animegan2-pytorch/blob/master/colab_demo.ipynb",
+        "update": 1637104141.0
+    },
+    {
         "name": "NeRViS",
         "description": "An algorithm for full-frame video stabilization by first estimating dense warp fields",
         "author": [
@@ -3691,7 +3729,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb",
-        "update": 1633946426.0
+        "update": 1643374273.0
     },
     {
         "name": "VideoGPT",
@@ -4246,6 +4284,36 @@
         "update": 1638060706.0
     },
     {
+        "name": "ruDALL-E",
+        "description": "Generate images from texts in Russian",
+        "author": [
+            [
+                "Alex Shonenkov",
+                "https://github.com/shonenkov"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://rudalle.ru/"
+            ],
+            [
+                "git",
+                "https://github.com/sberbank-ai/ru-dalle"
+            ],
+            [
+                "git",
+                "https://github.com/bes-dev/vqvae_dwt_distiller.pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/boomb0om/Real-ESRGAN-colab"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/sberbank-ai/ru-dalle/blob/master/jupyters/ruDALLE-example-generation-A100.ipynb",
+        "update": 1635946486.0
+    },
+    {
         "name": "Disentangled Lifespan Face Synthesis",
         "description": "LFS model is proposed to disentangle the key face characteristics including shape, texture and identity so that the unique shape and texture age transformations can be modeled effectively",
         "author": [
@@ -4782,5 +4850,297 @@
         ],
         "colab": "https://colab.research.google.com/drive/1BXNHZBai-pXtP-ncliouXo_kUiG1Pq7M",
         "update": 1634627369.928
+    },
+    {
+        "name": "Person Remover",
+        "description": "Project that combines Pix2Pix and YOLO arhitectures in order to remove people or other objects from photos",
+        "author": [
+            [
+                "Javier Gamazo",
+                "https://www.javiergamazo.com/"
+            ],
+            [
+                "Daryl Autar",
+                "https://github.com/Daryl149"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/javirk/Person_remover"
+            ],
+            [
+                "git",
+                "https://github.com/javirk/Person-remover-partial-convolutions"
+            ],
+            [
+                "git",
+                "https://github.com/zzh8829/yolov3-tf2"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=_dRjY9gMcxE"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1JDpH8MAjaKoekQ_H9ZaxYJ9_axiDtDGm",
+        "update": 1598098239.644
+    },
+    {
+        "name": "LaMa",
+        "description": "Resolution-robust Large Mask Inpainting with Fourier Convolutions",
+        "author": [
+            [
+                "Roman Suvorov",
+                "https://github.com/windj007"
+            ],
+            [
+                "Elizaveta Logacheva",
+                "https://github.com/elimohl"
+            ],
+            [
+                "Anton Mashikhin",
+                "https://www.linkedin.com/in/heyt0ny/"
+            ],
+            [
+                "Anastasia Remizova",
+                "https://github.com/feathernox"
+            ],
+            [
+                "Arsenii Ashukha",
+                "https://ashukha.com/"
+            ],
+            [
+                "Aleksei Silvestrov",
+                "https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%81%D0%B8%D0%BB%D1%8C%D0%B2%D0%B5%D1%81%D1%82%D1%80%D0%BE%D0%B2-141b99b6/"
+            ],
+            [
+                "Naejin Kong",
+                "https://github.com/naejin-kong"
+            ],
+            [
+                "Harshith Goka",
+                "https://github.com/h9399-goka"
+            ],
+            [
+                "Kiwoong Park",
+                "https://github.com/kyoong-park"
+            ],
+            [
+                "Victor Lempitsky",
+                "http://sites.skoltech.ru/compvision/members/vilem/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://saic-mdal.github.io/lama-project/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2109.07161"
+            ],
+            [
+                "git",
+                "https://github.com/saic-mdal/lama"
+            ],
+            [
+                "git",
+                "https://github.com/andy971022/auto-lama"
+            ],
+            [
+                "git",
+                "https://github.com/richzhang/PerceptualSimilarity"
+            ],
+            [
+                "git",
+                "https://github.com/Po-Hsun-Su/pytorch-ssim"
+            ],
+            [
+                "git",
+                "https://github.com/mseitzer/pytorch-fid"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/saic-mdal/lama/blob/master/colab/LaMa_inpainting.ipynb",
+        "update": 1642356606.0
+    },
+    {
+        "name": "HuggingArtists",
+        "description": "Choose your favorite Artist and train a language model to write new lyrics based on their unique voice",
+        "author": [
+            [
+                "Aleksey Korshuk",
+                "https://github.com/AlekseyKorshuk"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/AlekseyKorshuk/huggingartists"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/AlekseyKorshuk/huggingartists/blob/master/huggingartists-demo.ipynb",
+        "update": 1640163067.0
+    },
+    {
+        "name": "RVM",
+        "description": "Robust High-Resolution Video Matting with Temporal Guidance",
+        "author": [
+            [
+                "Peter Lin",
+                "https://github.com/PeterL1n"
+            ],
+            [
+                "Linjie Yang",
+                "https://sites.google.com/site/linjieyang89/"
+            ],
+            [
+                "Imran Saleemi",
+                "http://www.cs.ucf.edu/~imran/"
+            ],
+            [
+                "Soumyadip Sengupta",
+                "https://homes.cs.washington.edu/~soumya91/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://peterl1n.github.io/RobustVideoMatting"
+            ],
+            [
+                "arxiv",
+                "http://arxiv.org/abs/2108.11515"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Jvzltozpbpk"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Ay-mGCEYEzM"
+            ],
+            [
+                "git",
+                "https://github.com/PeterL1n/RobustVideoMatting"
+            ],
+            [
+                "git",
+                "https://github.com/NVIDIA/VideoProcessingFramework"
+            ],
+            [
+                "git",
+                "https://github.com/FeiGeChuanShu/ncnn_Android_RobustVideoMatting"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/10z-pNKRnVNsp0Lq9tH1J_XPZ7CBC_uHm",
+        "update": 1637742544.201
+    },
+    {
+        "name": "IC-GAN",
+        "description": "Instance-Conditioned GAN",
+        "author": [
+            [
+                "Arantxa Casanova",
+                "https://github.com/ArantxaCasanova"
+            ],
+            [
+                "Marlène Careil",
+                "https://www.linkedin.com/in/marl%C3%A8ne-careil-901804155"
+            ],
+            [
+                "Jakob Verbeek",
+                "http://thoth.inrialpes.fr/~verbeek/"
+            ],
+            [
+                "Michał Drożdżal",
+                "https://scholar.google.com/citations?user=XK_ktwQAAAAJ"
+            ],
+            [
+                "Adriana Romero-Soriano",
+                "https://sites.google.com/site/adriromsor"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/ic_gan"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2109.05070"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/faiss"
+            ],
+            [
+                "git",
+                "https://github.com/ajbrock/BigGAN-PyTorch"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2-ada-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/bioinf-jku/TTUR"
+            ],
+            [
+                "git",
+                "https://github.com/mit-han-lab/data-efficient-gans"
+            ],
+            [
+                "blog post",
+                "https://ai.facebook.com/blog/instance-conditioned-gans/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/facebookresearch/ic_gan/blob/master/inference/icgan_colab.ipynb",
+        "update": 1633084350.0
+    },
+    {
+        "name": "Music Composer",
+        "description": "Synthesizing symbolic music in MIDI format using the Music Transformer model",
+        "author": [
+            [
+                "bazanovvanya",
+                "https://github.com/bazanovvanya"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/sberbank-ai/music-composer"
+            ],
+            [
+                "git",
+                "https://github.com/gwinndr/MusicTransformer-Pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/bytedance/GiantMIDI-Piano"
+            ],
+            [
+                "git",
+                "https://github.com/mdeff/fma"
+            ],
+            [
+                "data",
+                "https://magenta.tensorflow.org/datasets/maestro"
+            ],
+            [
+                "data",
+                "https://colinraffel.com/projects/lmd/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1909.05858"
+            ],
+            [
+                "blog post",
+                "https://habr.com/ru/company/sberbank/blog/583592/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/sberbank-ai/music-composer/blob/master/src/Music_Composer_Demo_Colab_en.ipynb",
+        "update": 1639983620.0
     }
 ]

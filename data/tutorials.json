@@ -53,7 +53,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb",
-        "update": 1639633636.0
+        "update": 1641882124.0
     },
     {
         "name": "DeepDream",
@@ -79,7 +79,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb",
-        "update": 1638814848.0
+        "update": 1642023418.0
     },
     {
         "name": "Neural style transfer",
@@ -157,7 +157,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/autoencoder.ipynb",
-        "update": 1623175733.0
+        "update": 1639300005.0
     },
     {
         "name": "CVAE",
@@ -345,7 +345,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/data_augmentation.ipynb",
-        "update": 1634832246.0
+        "update": 1641879563.0
     },
     {
         "name": "Image segmentation",
@@ -409,7 +409,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/interpretability/integrated_gradients.ipynb",
-        "update": 1636449343.0
+        "update": 1641561132.0
     },
     {
         "name": "Actor-Critic",
@@ -599,7 +599,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_generation.ipynb",
-        "update": 1638205292.0
+        "update": 1643128110.0
     },
     {
         "name": "Transformer",
@@ -671,7 +671,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word2vec.ipynb",
-        "update": 1631729947.0
+        "update": 1643004214.0
     },
     {
         "name": "Word embeddings",
@@ -693,7 +693,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/guide/word_embeddings.ipynb",
-        "update": 1637741450.0
+        "update": 1642273580.0
     },
     {
         "name": "Building Your Own Federated Learning Algorithm",
@@ -2221,7 +2221,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/microsoft/torchgeo/blob/main/docs/tutorials/indices.ipynb",
-        "update": 1640023579.0
+        "update": 1641078463.0
     },
     {
         "name": "Imagededup",
@@ -2306,5 +2306,187 @@
         ],
         "colab": "https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/1_mlp.ipynb",
         "update": 1640509494.0
+    },
+    {
+        "name": "Semantic Segmentation",
+        "description": "Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset",
+        "author": [
+            [
+                "Bolei Zhou",
+                "https://boleizhou.github.io/"
+            ],
+            [
+                "Hang Zhao",
+                "https://hangzhaomit.github.io/"
+            ],
+            [
+                "Xavier Puig",
+                "https://people.csail.mit.edu/xavierpuig/"
+            ],
+            [
+                "Sanja Fidler",
+                "http://www.cs.toronto.edu/~fidler/index.html"
+            ],
+            [
+                "Antonio Torralba",
+                "https://groups.csail.mit.edu/vision/torralbalab/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "http://sceneparsing.csail.mit.edu/"
+            ],
+            [
+                "git",
+                "https://github.com/CSAILVision/semantic-segmentation-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/CSAILVision/sceneparsing"
+            ],
+            [
+                "git",
+                "https://github.com/vacancy/Synchronized-BatchNorm-PyTorch"
+            ],
+            [
+                "git",
+                "https://github.com/hszhao/semseg"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1608.05442"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1612.01105"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1807.10221"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1904.04514"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/CSAILVision/semantic-segmentation-pytorch/blob/master/notebooks/DemoSegmenter.ipynb",
+        "update": 1597988660.0
+    },
+    {
+        "name": "Real-Time Voice Cloning",
+        "description": "SV2TTS with a vocoder that works in real-time",
+        "author": [
+            [
+                "Corentin Jemine",
+                "https://github.com/CorentinJ"
+            ],
+            [
+                "Erdene-Ochir Tuguldur",
+                "https://github.com/tugstugi"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/CorentinJ/Real-Time-Voice-Cloning"
+            ],
+            [
+                "git",
+                "https://github.com/fatchord/WaveRNN"
+            ],
+            [
+                "git",
+                "https://github.com/coqui-ai/tts"
+            ],
+            [
+                "git",
+                "https://github.com/resemble-ai/Resemblyzer"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1806.04558"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1802.08435"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1703.10135"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1710.10467"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/-O_hYhToKoA"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/RealTimeVoiceCloning.ipynb",
+        "update": 1642053851.0
+    },
+    {
+        "name": "NeMo",
+        "description": "A conversational AI toolkit built for researchers working on automatic speech recognition (ASR), natural language processing (NLP), and text-to-speech synthesis",
+        "author": [
+            [
+                "Oleksii Kuchaiev",
+                "http://kuchaev.com/"
+            ],
+            [
+                "Jason Li",
+                "https://scholar.google.com/citations?user=V28bxDwAAAAJ"
+            ],
+            [
+                "Chip Huyen",
+                "https://huyenchip.com/"
+            ],
+            [
+                "Oleksii Hrinchuk",
+                "https://github.com/AlexGrinch"
+            ],
+            [
+                "Ryan Leary",
+                "https://github.com/ryanleary"
+            ],
+            [
+                "Boris Ginsburg",
+                "https://github.com/borisgin"
+            ],
+            [
+                "Samuel Kriman",
+                "https://github.com/sam1373"
+            ],
+            [
+                "Stanislav Beliaev",
+                "https://github.com/stasbel"
+            ],
+            [
+                "Vitaly Lavrukhin",
+                "https://github.com/vsl9"
+            ],
+            [
+                "Jack Cook",
+                "https://jackcook.com/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://docs.nvidia.com/deeplearning/nemo/"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/wBgpMf_KQVw"
+            ],
+            [
+                "git",
+                "https://github.com/NVIDIA/NeMo"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/NVIDIA/NeMo/blob/master/tutorials/00_NeMo_Primer.ipynb",
+        "update": 1641933490.0
     }
 ]
