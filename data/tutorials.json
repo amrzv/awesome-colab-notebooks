@@ -53,7 +53,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb",
-        "update": 1641882124.0
+        "update": 1641885724.0
     },
     {
         "name": "DeepDream",
@@ -79,7 +79,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb",
-        "update": 1642023418.0
+        "update": 1642027018.0
     },
     {
         "name": "Neural style transfer",
@@ -123,7 +123,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/adversarial_fgsm.ipynb",
-        "update": 1615565717.0
+        "update": 1615569317.0
     },
     {
         "name": "Autoencoders",
@@ -157,7 +157,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/autoencoder.ipynb",
-        "update": 1639300005.0
+        "update": 1639303605.0
     },
     {
         "name": "CVAE",
@@ -179,7 +179,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb",
-        "update": 1616424323.0
+        "update": 1616427923.0
     },
     {
         "name": "CycleGAN",
@@ -227,7 +227,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb",
-        "update": 1615566199.0
+        "update": 1615569799.0
     },
     {
         "name": "Pix2Pix",
@@ -249,7 +249,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb",
-        "update": 1636575634.0
+        "update": 1636579234.0
     },
     {
         "name": "Simple audio recognition",
@@ -279,7 +279,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/audio/simple_audio.ipynb",
-        "update": 1637098729.0
+        "update": 1637102329.0
     },
     {
         "name": "Image classification",
@@ -297,7 +297,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb",
-        "update": 1638127220.0
+        "update": 1638130820.0
     },
     {
         "name": "CNN",
@@ -345,7 +345,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/data_augmentation.ipynb",
-        "update": 1641879563.0
+        "update": 1645546767.0
     },
     {
         "name": "Image segmentation",
@@ -409,7 +409,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/interpretability/integrated_gradients.ipynb",
-        "update": 1641561132.0
+        "update": 1645803648.0
     },
     {
         "name": "Actor-Critic",
@@ -473,7 +473,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb",
-        "update": 1638180999.0
+        "update": 1645561308.0
     },
     {
         "name": "Image captioning",
@@ -495,7 +495,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb",
-        "update": 1639436695.0
+        "update": 1639440295.0
     },
     {
         "name": "NMT with attention",
@@ -525,7 +525,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/nmt_with_attention.ipynb",
-        "update": 1638545287.0
+        "update": 1645561308.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -551,7 +551,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/bert_glue.ipynb",
-        "update": 1634669152.0
+        "update": 1645561308.0
     },
     {
         "name": "Text classification with RNN",
@@ -599,7 +599,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_generation.ipynb",
-        "update": 1643128110.0
+        "update": 1643131710.0
     },
     {
         "name": "Transformer",
@@ -629,7 +629,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/transformer.ipynb",
-        "update": 1629808800.0
+        "update": 1646432277.0
     },
     {
         "name": "Word2Vec",
@@ -671,7 +671,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word2vec.ipynb",
-        "update": 1643004214.0
+        "update": 1643007814.0
     },
     {
         "name": "Word embeddings",
@@ -693,7 +693,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/guide/word_embeddings.ipynb",
-        "update": 1642273580.0
+        "update": 1642277180.0
     },
     {
         "name": "Building Your Own Federated Learning Algorithm",
@@ -723,7 +723,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1630605542.0
+        "update": 1646678569.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -757,7 +757,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1635968006.0
+        "update": 1646072303.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -791,7 +791,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1630605542.0
+        "update": 1646678569.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -821,7 +821,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1633621238.0
+        "update": 1646678569.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -851,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1638474387.0
+        "update": 1646678569.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -885,7 +885,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1630615581.0
+        "update": 1646678569.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -903,7 +903,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1630605542.0
+        "update": 1646678569.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -929,7 +929,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1630605542.0
+        "update": 1646678569.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -1247,7 +1247,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/google/TensorNetwork/blob/master/colabs/Tensor_Networks_in_Neural_Networks.ipynb",
-        "update": 1611181477.0
+        "update": 1611185077.0
     },
     {
         "name": "TF-Ranking",
@@ -1297,7 +1297,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/ranking/blob/master/tensorflow_ranking/examples/handling_sparse_features.ipynb",
-        "update": 1612405708.0
+        "update": 1612409308.0
     },
     {
         "name": "Detectron2",
@@ -1408,72 +1408,6 @@
         "update": 1631720524.0
     },
     {
-        "name": "IC-GAN",
-        "description": "Instance-Conditioned GAN",
-        "author": [
-            [
-                "Arantxa Casanova",
-                "https://github.com/ArantxaCasanova"
-            ],
-            [
-                "Marlene Careil",
-                "https://www.linkedin.com/in/marl%C3%A8ne-careil-901804155/"
-            ],
-            [
-                "Jakob Verbeek",
-                "http://thoth.inrialpes.fr/~verbeek/"
-            ],
-            [
-                "Michał Drożdżal",
-                "https://scholar.google.com/citations?user=XK_ktwQAAAAJ"
-            ],
-            [
-                "Adriana Romero-Soriano",
-                "https://sites.google.com/site/adriromsor"
-            ]
-        ],
-        "links": [
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2109.05070"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1809.11096"
-            ],
-            [
-                "git",
-                "https://github.com/facebookresearch/ic_gan"
-            ],
-            [
-                "git",
-                "https://github.com/ajbrock/BigGAN-PyTorch"
-            ],
-            [
-                "git",
-                "https://github.com/NVlabs/stylegan2-ada-pytorch"
-            ],
-            [
-                "git",
-                "https://github.com/WillSuen/LostGANs/blob/master/INSTALL.md"
-            ],
-            [
-                "git",
-                "https://github.com/facebookresearch/faiss"
-            ],
-            [
-                "git",
-                "https://github.com/facebookresearch/swav"
-            ],
-            [
-                "blog post",
-                "https://ai.facebook.com/blog/instance-conditioned-gans/"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/facebookresearch/ic_gan/blob/main/inference/icgan_colab.ipynb",
-        "update": 1633084350.0
-    },
-    {
         "name": "Spleeter",
         "description": "Deezer source separation library including pretrained models",
         "author": [
@@ -1513,7 +1447,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deezer/spleeter/blob/master/spleeter.ipynb",
-        "update": 1610307862.0
+        "update": 1610311462.0
     },
     {
         "name": "GPT Neo",
@@ -1701,7 +1635,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/ruGPT3XL_generation.ipynb",
-        "update": 1637109647.0
+        "update": 1637113247.0
     },
     {
         "name": "GPT-J-6B",
@@ -2093,7 +2027,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/microsoft/FLAML/blob/master/notebook/flaml_automl.ipynb",
-        "update": 1639692693.0
+        "update": 1639696293.0
     },
     {
         "name": "CompilerGym",
@@ -2155,12 +2089,38 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/facebookresearch/CompilerGym/blob/development/examples/getting-started.ipynb",
-        "update": 1637050184.0
+        "update": 1637053784.0
     },
     {
         "name": "TorchGeo",
         "description": "PyTorch domain library that provides datasets, transforms, samplers, and pre-trained models specific to geospatial data",
         "author": [
+            [
+                "Adam Stewart",
+                "https://github.com/adamjstewart"
+            ],
+            [
+                "Caleb Robinson",
+                "https://calebrob.com/"
+            ],
+            [
+                "Isaac Corley",
+                "https://github.com/isaaccorley"
+            ],
+            [
+                "Anthony Ortiz",
+                "https://github.com/anthonymlortiz"
+            ],
+            [
+                "Juan Lavista Ferres",
+                "https://www.microsoft.com/en-us/research/people/jlavista/"
+            ],
+            [
+                "Arindam Banerjee",
+                "https://arindam.cs.illinois.edu/"
+            ]
+        ],
+        "links": [
             [
                 "git",
                 "https://github.com/microsoft/torchgeo"
@@ -2194,34 +2154,8 @@
                 "https://arxiv.org/abs/2111.08872"
             ]
         ],
-        "links": [
-            [
-                "Adam Stewart",
-                "https://github.com/adamjstewart"
-            ],
-            [
-                "Caleb Robinson",
-                "https://calebrob.com/"
-            ],
-            [
-                "Isaac Corley",
-                "https://github.com/isaaccorley"
-            ],
-            [
-                "Anthony Ortiz",
-                "https://github.com/anthonymlortiz"
-            ],
-            [
-                "Juan Lavista Ferres",
-                "https://www.microsoft.com/en-us/research/people/jlavista/"
-            ],
-            [
-                "Arindam Banerjee",
-                "https://arindam.cs.illinois.edu/"
-            ]
-        ],
         "colab": "https://colab.research.google.com/github/microsoft/torchgeo/blob/main/docs/tutorials/indices.ipynb",
-        "update": 1641078463.0
+        "update": 1641082063.0
     },
     {
         "name": "Imagededup",
@@ -2288,11 +2222,11 @@
                 "https://arxiv.org/abs/2111.04020"
             ],
             [
-                "pytorch",
+                "pt",
                 "https://pytorch.org/vision/stable/transforms.html#transforms-on-pil-image-only"
             ],
             [
-                "pytorch",
+                "pt",
                 "https://pytorch.org/vision/stable/transforms.html#transforms-on-torch-tensor-only"
             ],
             [
@@ -2305,7 +2239,53 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/1_mlp.ipynb",
-        "update": 1640509494.0
+        "update": 1640513094.0
+    },
+    {
+        "name": "LeNet",
+        "description": "A neural network model that uses convolutional neural network layers and was designed for classifying handwritten characters",
+        "author": [
+            [
+                "Ben Trevett",
+                "https://bentrevett.com/"
+            ]
+        ],
+        "links": [
+            [
+                "LeNet-5",
+                "http://yann.lecun.com/exdb/lenet/"
+            ],
+            [
+                "paper",
+                "http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Convolution"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Sobel_operator"
+            ],
+            [
+                "guide",
+                "https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/"
+            ],
+            [
+                "CNN",
+                "https://cs231n.github.io/convolutional-networks/"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Gaussian_blur"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/method/lenet"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/2_lenet.ipynb",
+        "update": 1640511950.0
     },
     {
         "name": "Semantic Segmentation",
@@ -2425,11 +2405,11 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/RealTimeVoiceCloning.ipynb",
-        "update": 1642053851.0
+        "update": 1646687024.0
     },
     {
         "name": "NeMo",
-        "description": "A conversational AI toolkit built for researchers working on automatic speech recognition (ASR), natural language processing (NLP), and text-to-speech synthesis",
+        "description": "A conversational AI toolkit built for researchers working on automatic speech recognition, natural language processing, and text-to-speech synthesis",
         "author": [
             [
                 "Oleksii Kuchaiev",
@@ -2487,6 +2467,106 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/NVIDIA/NeMo/blob/master/tutorials/00_NeMo_Primer.ipynb",
-        "update": 1641933490.0
+        "update": 1645570405.0
+    },
+    {
+        "name": "EfficientNetV2",
+        "description": "A family of image classification models, which achieve better parameter efficiency and faster training speed than prior arts",
+        "author": [
+            [
+                "Mingxing Tan",
+                "https://scholar.google.com/citations?user=6POeyBoAAAAJ"
+            ],
+            [
+                "Quoc V. Le",
+                "https://cs.stanford.edu/~quocle/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.00298"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1905.11946"
+            ],
+            [
+                "git",
+                "https://github.com/google/automl/tree/master/efficientnetv2"
+            ],
+            [
+                "git",
+                "https://github.com/NVIDIA/TensorRT/tree/master/samples/python/efficientnet"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/google/automl/blob/master/efficientnetv2/tutorial.ipynb",
+        "update": 1632443090.0
+    },
+    {
+        "name": "DeepStyle",
+        "description": "The Neural Style algorithm synthesizes a pastiche by separating and combining the content of one image with the style of another image using convolutional neural networks",
+        "author": [
+            [
+                "Cameron Smith",
+                "https://github.com/cysmith"
+            ],
+            [
+                "Alexander Spirin",
+                "https://github.com/Sxela"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/cysmith/neural-style-tf"
+            ],
+            [
+                "cvpr",
+                "https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1604.08610"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1606.05897"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1508.06576"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Pastiche"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/The_Starry_Night"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/YUV"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Lab_color_space"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/YCbCr"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/CIELUV"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Pareidolia"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/14aJ7HQPbcP0sNRIY-FRO4u6lxtlyyxI_",
+        "update": 1633120599.161
     }
 ]

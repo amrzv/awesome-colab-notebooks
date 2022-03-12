@@ -49,7 +49,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/custom_learningtopaint.ipynb",
-        "update": 1576596936.0
+        "update": 1576600536.0
     },
     {
         "name": "WikiArt (stylegan2)",
@@ -67,7 +67,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/Norod/my-colab-experiments/blob/master/WikiArt_Example_Generation_By_Peter_Baylies.ipynb",
-        "update": 1580096543.0
+        "update": 1580100143.0
     },
     {
         "name": "WikiArt (stylegan2-ada)",
@@ -85,7 +85,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/Norod/my-colab-experiments/blob/master/WikiArt_ADA_Example_Generation.ipynb",
-        "update": 1607403803.0
+        "update": 1607407403.0
     },
     {
         "name": "GPT-2",
@@ -481,7 +481,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb",
-        "update": 1605237578.0
+        "update": 1605241178.0
     },
     {
         "name": "DeOldify (photo)",
@@ -519,7 +519,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb",
-        "update": 1605237578.0
+        "update": 1605241178.0
     },
     {
         "name": "StyleGAN 2",
@@ -573,7 +573,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/shaoanlu/faceswap-GAN/blob/master/colab_demo/faceswap-GAN_colab_demo.ipynb",
-        "update": 1541660983.0
+        "update": 1541664583.0
     },
     {
         "name": "GazeML",
@@ -729,7 +729,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1642704647.0
+        "update": 1642708247.0
     },
     {
         "name": "Breast Cancer detection",
@@ -795,7 +795,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb",
-        "update": 1549998023.0
+        "update": 1550001623.0
     },
     {
         "name": "Analyzing Tennis Serve",
@@ -935,7 +935,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/TobiasSunderdiek/cartoon-gan/blob/master/CartoonGAN.ipynb",
-        "update": 1637757142.0
+        "update": 1637760742.0
     },
     {
         "name": "HoF",
@@ -1021,7 +1021,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov3/blob/master/tutorial.ipynb",
-        "update": 1636915718.0
+        "update": 1636919318.0
     },
     {
         "name": "YOLOv5",
@@ -1051,7 +1051,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1642620280.0
+        "update": 1645737147.0
     },
     {
         "name": "ByteTrack",
@@ -1223,7 +1223,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/giswqs/qgis-earthengine-examples/blob/master/Folium/ee-api-folium-setup.ipynb",
-        "update": 1579522971.0
+        "update": 1579526571.0
     },
     {
         "name": "Instance-aware Image Colorization",
@@ -1271,7 +1271,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/cleverhans-lab/cleverhans/blob/master/examples/adversarial_patch/AdversarialPatch.ipynb",
-        "update": 1611745806.0
+        "update": 1611749406.0
     },
     {
         "name": "RNN for Predictive Maintenance",
@@ -1355,7 +1355,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/yzhou359/MakeItTalk/blob/master/quick_demo.ipynb",
-        "update": 1605025139.0
+        "update": 1605028739.0
     },
     {
         "name": "Taming Transformers for High-Resolution Image Synthesis",
@@ -1389,7 +1389,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/CompVis/taming-transformers/blob/master/scripts/taming-transformers.ipynb",
-        "update": 1642085407.0
+        "update": 1642089007.0
     },
     {
         "name": "Geometry-Free View Synthesis",
@@ -1533,7 +1533,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/deepmind-research/blob/master/nfnets/nfnet_demo_colab.ipynb",
-        "update": 1613572976.0
+        "update": 1613576576.0
     },
     {
         "name": "Skillful Precipitation Nowcasting Using Deep Generative Models of Radar",
@@ -1757,7 +1757,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb",
-        "update": 1643283669.0
+        "update": 1646298355.0
     },
     {
         "name": "Arnheim",
@@ -1839,7 +1839,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/arnheim/blob/master/arnheim_2.ipynb",
-        "update": 1636624216.0
+        "update": 1636627816.0
     },
     {
         "name": "Neural Style Transfer",
@@ -1869,7 +1869,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/titu1994/Neural-Style-Transfer/blob/master/NeuralStyleTransfer.ipynb",
-        "update": 1611297606.0
+        "update": 1611301206.0
     },
     {
         "name": "Mask R-CNN",
@@ -1923,7 +1923,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/matterport/Mask_RCNN/blob/master/samples/coco/inspect_model.ipynb",
-        "update": 1548115867.0
+        "update": 1548119467.0
     },
     {
         "name": "BERT score",
@@ -2063,7 +2063,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/harskish/ganspace/blob/master/notebooks/Ganspace_colab.ipynb",
-        "update": 1607268306.0
+        "update": 1607271906.0
     },
     {
         "name": "Jukebox",
@@ -2161,7 +2161,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/master/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb",
-        "update": 1604236616.0
+        "update": 1604240216.0
     },
     {
         "name": "CLIP",
@@ -2199,7 +2199,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/openai/clip/blob/master/Interacting_with_CLIP.ipynb",
-        "update": 1611922923.0
+        "update": 1611926523.0
     },
     {
         "name": "CLIPDraw",
@@ -2341,7 +2341,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eyaler/avatars4all/blob/master/melaflefon.ipynb",
-        "update": 1613151507.0
+        "update": 1613155107.0
     },
     {
         "name": "MSG-Net",
@@ -2371,7 +2371,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/zhanghang1989/PyTorch-Multi-Style-Transfer/blob/master/msgnet.ipynb",
-        "update": 1611596321.0
+        "update": 1611599921.0
     },
     {
         "name": "GMCNN",
@@ -2439,7 +2439,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tlatkowski/multihead-siamese-nets/blob/master/colab/multihead_siamese_nets.ipynb",
-        "update": 1576782305.0
+        "update": 1576785905.0
     },
     {
         "name": "SkyAR",
@@ -2469,7 +2469,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/jiupinjia/SkyAR/blob/master/colab_demo.ipynb",
-        "update": 1610966567.0
+        "update": 1610970167.0
     },
     {
         "name": "Neural Magic Eye",
@@ -2579,7 +2579,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/mdai/ml-lessons/blob/master/lesson1-xray-images-classification.ipynb",
-        "update": 1583552820.0
+        "update": 1583556420.0
     },
     {
         "name": "Lung X-Rays Semantic Segmentation",
@@ -2613,7 +2613,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/mdai/ml-lessons/blob/master/lesson2-lung-xrays-segmentation.ipynb",
-        "update": 1583552820.0
+        "update": 1583556420.0
     },
     {
         "name": "RSNA Pneumonia Detection Challenge (Kaggel API)",
@@ -2731,7 +2731,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/magenta-demos/blob/master/colab-notebooks/GrooVAE.ipynb",
-        "update": 1610111197.0
+        "update": 1610114797.0
     },
     {
         "name": "Multitrack MusicVAE",
@@ -2773,7 +2773,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/Multitrack_MusicVAE.ipynb",
-        "update": 1613577284.0
+        "update": 1613580884.0
     },
     {
         "name": "MusicVAE",
@@ -2853,7 +2853,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicXML_Document_Structure_Documentation.ipynb",
-        "update": 1610111197.0
+        "update": 1610114797.0
     },
     {
         "name": "SVG VAE",
@@ -2875,7 +2875,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/vae_svg_decoding.ipynb",
-        "update": 1610111197.0
+        "update": 1610114797.0
     },
     {
         "name": "Latent Constraints",
@@ -2905,7 +2905,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/notebooks/latent_constraints/latentconstraints.ipynb",
-        "update": 1511730000.0
+        "update": 1511733600.0
     },
     {
         "name": "Performance RNN",
@@ -3011,7 +3011,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb",
-        "update": 1551042000.0
+        "update": 1551045600.0
     },
     {
         "name": "NSynth",
@@ -3095,7 +3095,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb",
-        "update": 1610425558.0
+        "update": 1610429158.0
     },
     {
         "name": "BERT with TPU",
@@ -3121,7 +3121,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb",
-        "update": 1553809232.0
+        "update": 1553812832.0
     },
     {
         "name": "Pixel2Style2Pixel",
@@ -3213,7 +3213,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/pkhungurn/talking-head-anime-demo/blob/master/tha_colab.ipynb",
-        "update": 1614105507.0
+        "update": 1614109107.0
     },
     {
         "name": "AnimeGANv2",
@@ -3251,7 +3251,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/bryandlee/animegan2-pytorch/blob/master/colab_demo.ipynb",
-        "update": 1637104141.0
+        "update": 1637107741.0
     },
     {
         "name": "NeRViS",
@@ -3377,7 +3377,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb",
-        "update": 1611300274.0
+        "update": 1611303874.0
     },
     {
         "name": "ArtLine",
@@ -3423,7 +3423,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine(AR).ipynb",
-        "update": 1608796579.0
+        "update": 1608800179.0
     },
     {
         "name": "ReStyle",
@@ -3515,7 +3515,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/omertov/encoder4editing/blob/master/notebooks/inference_playground.ipynb",
-        "update": 1638451249.0
+        "update": 1638454849.0
     },
     {
         "name": "SAM",
@@ -3615,7 +3615,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb",
-        "update": 1638617135.0
+        "update": 1638620735.0
     },
     {
         "name": "Big Sleep",
@@ -3729,7 +3729,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb",
-        "update": 1643374273.0
+        "update": 1644447841.0
     },
     {
         "name": "VideoGPT",
@@ -3775,7 +3775,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/wilson1yan/VideoGPT/blob/master/notebooks/Using_VideoGPT.ipynb",
-        "update": 1624748544.0
+        "update": 1646237327.0
     },
     {
         "name": "SimSwap",
@@ -3809,7 +3809,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/neuralchen/SimSwap/blob/master/SimSwap%20colab.ipynb",
-        "update": 1637741944.0
+        "update": 1637745544.0
     },
     {
         "name": "TediGAN",
@@ -4087,7 +4087,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/genforce/sefa/blob/master/docs/SeFa.ipynb",
-        "update": 1607209442.0
+        "update": 1607213042.0
     },
     {
         "name": "HiGAN",
@@ -4281,7 +4281,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/dev/inference/inference_pipeline.ipynb",
-        "update": 1638060706.0
+        "update": 1638064306.0
     },
     {
         "name": "ruDALL-E",
@@ -4311,7 +4311,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/sberbank-ai/ru-dalle/blob/master/jupyters/ruDALLE-example-generation-A100.ipynb",
-        "update": 1635946486.0
+        "update": 1635950086.0
     },
     {
         "name": "Disentangled Lifespan Face Synthesis",
@@ -4361,7 +4361,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1fgVAoxCSaqPkj0rUK4RmBh7GTQRqLNpE",
-        "update": 1632749464.313
+        "update": 1645544461.162
     },
     {
         "name": "Lifespan Age Transformation Synthesis",
@@ -4423,7 +4423,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/royorel/Lifespan_Age_Transformation_Synthesis/blob/master/LATS_demo.ipynb",
-        "update": 1604161228.0
+        "update": 1604164828.0
     },
     {
         "name": "Real-ESRGAN",
@@ -4477,7 +4477,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1k2Zod6kSHEvraybHl50Lys0LerhyTMCo",
-        "update": 1639312970.284
+        "update": 1644824990.981
     },
     {
         "name": "GFPGAN",
@@ -4527,7 +4527,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo",
-        "update": 1639320547.532
+        "update": 1644820685.65
     },
     {
         "name": "Live Speech Portraits",
@@ -4759,7 +4759,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1pxTIMweAKApJZ3ZFqyBee3HtMqFpnwQ0",
-        "update": 1634901968.289
+        "update": 1643911942.079
     },
     {
         "name": "StyleGAN3",
@@ -4961,7 +4961,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/saic-mdal/lama/blob/master/colab/LaMa_inpainting.ipynb",
-        "update": 1642356606.0
+        "update": 1642360206.0
     },
     {
         "name": "HuggingArtists",
@@ -4979,7 +4979,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/AlekseyKorshuk/huggingartists/blob/master/huggingartists-demo.ipynb",
-        "update": 1640163067.0
+        "update": 1640166667.0
     },
     {
         "name": "RVM",
@@ -5141,6 +5141,448 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/sberbank-ai/music-composer/blob/master/src/Music_Composer_Demo_Colab_en.ipynb",
-        "update": 1639983620.0
+        "update": 1639987220.0
+    },
+    {
+        "name": "T0",
+        "description": "Multitask Prompted Training Enables Zero-Shot Task Generalization",
+        "author": [
+            [
+                "Victor Sanh",
+                "https://github.com/VictorSanh"
+            ],
+            [
+                "Albert Webson",
+                "https://representation.ai/"
+            ],
+            [
+                "Colin Raffel",
+                "https://colinraffel.com/"
+            ],
+            [
+                "Stephen Bach",
+                "http://cs.brown.edu/people/sbach/"
+            ],
+            [
+                "Lintang Sutawika",
+                "https://github.com/lintangsutawika"
+            ],
+            [
+                "Zaid Alyafeai",
+                "https://github.com/zaidalyafeai"
+            ],
+            [
+                "Antoine Chaffin",
+                "https://antoine.chaffin.fr/"
+            ],
+            [
+                "Arnaud Stiegler",
+                "https://github.com/arnaudstiegler"
+            ],
+            [
+                "Teven Le Scao",
+                "https://scholar.google.com/citations?user=ik0_vxsAAAAJ"
+            ],
+            [
+                "Arun Raja",
+                "https://www.arunraja.dev/"
+            ],
+            [
+                "Manan Dey",
+                "https://github.com/manandey"
+            ],
+            [
+                "M Saiful Bari",
+                "https://sbmaruf.github.io/"
+            ],
+            [
+                "Canwen Xu",
+                "https://www.canwenxu.net/"
+            ],
+            [
+                "Urmish Thakker",
+                "https://github.com/Urmish"
+            ],
+            [
+                "Shanya Sharma",
+                "https://shanyas10.github.io/"
+            ],
+            [
+                "Eliza Szczechla",
+                "https://elsanns.github.io/"
+            ],
+            [
+                "Taewoon Kim",
+                "https://tae898.github.io/"
+            ],
+            [
+                "Gunjan Chhablani",
+                "https://gchhablani.github.io/"
+            ],
+            [
+                "Nihal Nayak",
+                "https://nihalnayak.github.io/"
+            ],
+            [
+                "Debajyoti Datta",
+                "http://debajyotidatta.github.io/"
+            ],
+            [
+                "Jonathan Chang",
+                "https://github.com/cccntu/"
+            ],
+            [
+                "Mike Tian-Jian Jiang",
+                "https://github.com/tianjianjiang"
+            ],
+            [
+                "Matteo Manica",
+                "https://github.com/drugilsberg"
+            ],
+            [
+                "Sheng Shen",
+                "https://sincerass.github.io/"
+            ],
+            [
+                "Zheng Xin Yong",
+                "https://yongzx.github.io/"
+            ],
+            [
+                "Harshit Pandey",
+                "https://scholar.google.com/citations?user=BPIs78gAAAAJ"
+            ],
+            [
+                "Rachel Bawden",
+                "https://rbawden.github.io/"
+            ],
+            [
+                "Trishala Neeraj",
+                "https://github.com/trishalaneeraj"
+            ],
+            [
+                "Jos Rozen",
+                "https://scholar.google.com/citations?user=OxEDKogAAAAJ"
+            ],
+            [
+                "Abheesht Sharma",
+                "https://github.com/abheesht-sharma"
+            ],
+            [
+                "Andrea Santilli",
+                "https://teelinsan.github.io/"
+            ],
+            [
+                "Thibault Fevry",
+                "http://thibaultfevry.com/"
+            ],
+            [
+                "Jason Alan Fries",
+                "https://web.stanford.edu/~jfries/"
+            ],
+            [
+                "Ryan Teehan",
+                "https://github.com/rteehas"
+            ],
+            [
+                "Stella Biderman",
+                "https://www.stellabiderman.com/"
+            ],
+            [
+                "Leo Gao",
+                "https://github.com/leogao2"
+            ],
+            [
+                "Tali Bers",
+                "https://github.com/tbers-coursera"
+            ],
+            [
+                "Thomas Wolf",
+                "https://thomwolf.io/"
+            ],
+            [
+                "Alexander M. Rush",
+                "https://scholar.google.com/citations?user=LIjnUGgAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2110.08207"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/iJ0IVZgGjTM"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/YToXXfrIu6w"
+            ],
+            [
+                "git",
+                "https://github.com/bigscience-workshop/promptsource/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1xx7SgdLaAu23YFBirXmaQViDr8caowX_",
+        "update": 1635243744.414
+    },
+    {
+        "name": "ArcaneGAN",
+        "description": "Process video in the style of the Arcane animated series",
+        "author": [
+            [
+                "Alexander Spirin",
+                "https://github.com/Sxela"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/Sxela/ArcaneGAN"
+            ],
+            [
+                "git",
+                "https://github.com/Sxela/stylegan3_blending"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Fi199uFW6jE"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/AJG4X7IokG8"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1r1hhciakk5wHaUn1eJk7TP58fV9mjy_W",
+        "update": 1645095391.826
+    },
+    {
+        "name": "SOAT",
+        "description": "StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN",
+        "author": [
+            [
+                "Min Jin Chong",
+                "https://mchong6.github.io/"
+            ],
+            [
+                "Hsin-Ying Lee",
+                "http://hsinyinglee.com/"
+            ],
+            [
+                "David Forsyth",
+                "http://luthuli.cs.uiuc.edu/~daf/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/mchong6/SOAT"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2111.01619"
+            ],
+            [
+                "git",
+                "https://github.com/justinpinkney/toonify"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mchong6/SOAT/blob/master/infinity.ipynb",
+        "update": 1636810684.0
+    },
+    {
+        "name": "JoJoGAN",
+        "description": "One Shot Face Stylization",
+        "author": [
+            [
+                "Min Jin Chong",
+                "https://mchong6.github.io/"
+            ],
+            [
+                "David Forsyth",
+                "http://luthuli.cs.uiuc.edu/~daf/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/mchong6/JoJoGAN"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2112.11641"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/replicate/cog"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mchong6/JoJoGAN/blob/master/stylize.ipynb",
+        "update": 1643831380.0
+    },
+    {
+        "name": "GANs N' Roses",
+        "description": "Stable, Controllable, Diverse Image to Image Translation",
+        "author": [
+            [
+                "Min Jin Chong",
+                "https://mchong6.github.io/"
+            ],
+            [
+                "David Forsyth",
+                "http://luthuli.cs.uiuc.edu/~daf/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/mchong6/GANsNRoses"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/znxlwm/UGATIT-pytorch"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.06561"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2007.06600"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/VNg0NyCGl_4"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mchong6/GANsNRoses/blob/master/inference_colab.ipynb",
+        "update": 1624108882.0
+    },
+    {
+        "name": "SwinIR",
+        "description": "Image Restoration Using Swin Transformer",
+        "author": [
+            [
+                "Jingyun Liang",
+                "https://jingyunliang.github.io/"
+            ],
+            [
+                "Jiezhang Cao",
+                "https://github.com/caojiezhang"
+            ],
+            [
+                "Guolei Sun",
+                "https://github.com/GuoleiSun"
+            ],
+            [
+                "Kai Zhang",
+                "https://cszn.github.io/"
+            ],
+            [
+                "Luc Van Gool",
+                "https://scholar.google.com/citations?user=TwMib_QAAAAJ"
+            ],
+            [
+                "Radu Timofte",
+                "http://people.ee.ethz.ch/~timofter/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2108.10257"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2107.10833"
+            ],
+            [
+                "git",
+                "https://github.com/JingyunLiang/SwinIR"
+            ],
+            [
+                "git",
+                "https://github.com/cszn/BSRGAN"
+            ],
+            [
+                "git",
+                "https://github.com/microsoft/Swin-Transformer"
+            ],
+            [
+                "git",
+                "https://github.com/cszn/KAIR"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/gist/JingyunLiang/a5e3e54bc9ef8d7bf594f6fee8208533/swinir-demo-on-real-world-image-sr.ipynb",
+        "update": 1633711003.0
+    },
+    {
+        "name": "VRT",
+        "description": "A Video Restoration Transformer",
+        "author": [
+            [
+                "Jingyun Liang",
+                "https://jingyunliang.github.io/"
+            ],
+            [
+                "Jiezhang Cao",
+                "https://github.com/caojiezhang"
+            ],
+            [
+                "Yuchen Fan",
+                "https://ychfan.github.io/"
+            ],
+            [
+                "Kai Zhang",
+                "https://cszn.github.io/"
+            ],
+            [
+                "Yawei Li",
+                "https://ofsoundof.github.io/"
+            ],
+            [
+                "Radu Timofte",
+                "http://people.ee.ethz.ch/~timofter/"
+            ],
+            [
+                "Luc Van Gool",
+                "https://scholar.google.com/citations?user=TwMib_QAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/JingyunLiang/VRT"
+            ],
+            [
+                "git",
+                "https://github.com/cszn/KAIR"
+            ],
+            [
+                "git",
+                "https://github.com/SwinTransformer/Video-Swin-Transformer"
+            ],
+            [
+                "git",
+                "https://github.com/open-mmlab/mmediting"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.12288"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/gist/JingyunLiang/deb335792768ad9eb73854a8efca4fe0/vrt-demo-on-video-restoration.ipynb",
+        "update": 1645791495.0
     }
 ]
