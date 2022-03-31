@@ -25,7 +25,7 @@ def parse_links(list_of_links):
     return '<ul>' + ''.join('<li>' + ', '.join(parse_link((name, url)) for url in d[name]) + '</li>' for name in d.keys()) + '</ul>'
 
 def generate_table(fn):
-    with open(fn, 'r') as f:
+    with open(fn, 'r', encoding='utf-8') as f:
         data = load(f)
     colabs = sorted(data, key=lambda kv: kv['update'], reverse=True)
 

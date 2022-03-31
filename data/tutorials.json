@@ -629,7 +629,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/transformer.ipynb",
-        "update": 1646432277.0
+        "update": 1647892186.0
     },
     {
         "name": "Word2Vec",
@@ -723,7 +723,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1646678569.0
+        "update": 1647984022.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -757,7 +757,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1646072303.0
+        "update": 1648160141.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -791,7 +791,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1646678569.0
+        "update": 1647984022.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -821,7 +821,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1646678569.0
+        "update": 1647984022.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -851,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1646678569.0
+        "update": 1647984022.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -885,7 +885,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1646678569.0
+        "update": 1647984022.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -903,7 +903,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1646678569.0
+        "update": 1647984022.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -929,7 +929,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1646678569.0
+        "update": 1647984022.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -1789,7 +1789,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eleurent/highway-env/blob/master/scripts/parking_model_based.ipynb",
-        "update": 1631939902.0
+        "update": 1647685079.0
     },
     {
         "name": "GAN steerability",
@@ -2288,6 +2288,68 @@
         "update": 1640511950.0
     },
     {
+        "name": "AlexNet",
+        "description": "A neural network model that uses convolutional neural network layers and was designed for the ImageNet challenge",
+        "author": [
+            [
+                "Ben Trevett",
+                "https://bentrevett.com/"
+            ]
+        ],
+        "links": [
+            [
+                "nips",
+                "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html"
+            ],
+            [
+                "ILSVRC",
+                "https://image-net.org/challenges/LSVRC/"
+            ],
+            [
+                "cifar-10",
+                "https://www.cs.toronto.edu/~kriz/cifar.html"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Regularization_(mathematics)"
+            ],
+            [
+                "dropout",
+                "https://sebastianraschka.com/faq/docs/dropout-activation.html"
+            ],
+            [
+                "PMLR",
+                "https://proceedings.mlr.press/v9/glorot10a.html"
+            ],
+            [
+                "git",
+                "https://github.com/davidtvs/pytorch-lr-finder"
+            ],
+            [
+                "LR",
+                "https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1409.0575"
+            ],
+            [
+                "pt",
+                "https://pytorch.org/vision/stable/models.html"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/AlexNet"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/method/alexnet"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/3_alexnet.ipynb",
+        "update": 1640513094.0
+    },
+    {
         "name": "Semantic Segmentation",
         "description": "Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset",
         "author": [
@@ -2568,5 +2630,55 @@
         ],
         "colab": "https://colab.research.google.com/drive/14aJ7HQPbcP0sNRIY-FRO4u6lxtlyyxI_",
         "update": 1633120599.161
+    },
+    {
+        "name": "CoVoST",
+        "description": "A Large-Scale Multilingual Speech-To-Text Translation Corpus",
+        "author": [
+            [
+                "Changhan Wang",
+                "https://github.com/kahne"
+            ],
+            [
+                "Juan Pino",
+                "https://scholar.google.com/citations?user=weU_-4IAAAAJ"
+            ],
+            [
+                "Jiatao Gu",
+                "http://jiataogu.me/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/covost"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2002.01320"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/pdf/2007.10310"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1912.06670"
+            ],
+            [
+                "git",
+                "https://github.com/kahne/SpeechTransProgress"
+            ],
+            [
+                "git",
+                "https://github.com/pytorch/fairseq/tree/main/examples/speech_to_text"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/vizseq"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/11GK7k7G1CG1qHbdA9Pz1RtQ3vlCkuohV",
+        "update": 1596758022.342
     }
 ]

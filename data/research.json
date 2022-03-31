@@ -1051,7 +1051,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1645737147.0
+        "update": 1648626829.0
     },
     {
         "name": "ByteTrack",
@@ -1757,7 +1757,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb",
-        "update": 1646298355.0
+        "update": 1647429868.0
     },
     {
         "name": "Arnheim",
@@ -3729,7 +3729,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb",
-        "update": 1644447841.0
+        "update": 1647483201.0
     },
     {
         "name": "VideoGPT",
@@ -5584,5 +5584,125 @@
         ],
         "colab": "https://colab.research.google.com/gist/JingyunLiang/deb335792768ad9eb73854a8efca4fe0/vrt-demo-on-video-restoration.ipynb",
         "update": 1645791495.0
+    },
+    {
+        "name": "XLS-R",
+        "description": "Self-supervised Cross-lingual Speech Representation Learning at Scale",
+        "author": [
+            [
+                "Arun Babu",
+                "https://github.com/arbabu123"
+            ],
+            [
+                "Changhan Wang",
+                "https://www.changhan.me/"
+            ],
+            [
+                "Andros Tjandra",
+                "https://github.com/androstj"
+            ],
+            [
+                "Kushal Lakhotia",
+                "https://about.me/hikushalhere"
+            ],
+            [
+                "Qiantong Xu",
+                "https://github.com/xuqiantong"
+            ],
+            [
+                "Naman Goyal",
+                "https://scholar.google.com/citations?user=CRbM_P4AAAAJ"
+            ],
+            [
+                "Kritika Singh",
+                "https://scholar.google.com/citations?user=Ltk3SykAAAAJ"
+            ],
+            [
+                "Patrick von Platen",
+                "https://github.com/patrickvonplaten"
+            ],
+            [
+                "Yatharth Saraf",
+                "https://scholar.google.com/citations?user=KJTtNJwAAAAJ"
+            ],
+            [
+                "Juan Pino",
+                "https://scholar.google.com/citations?user=weU_-4IAAAAJ"
+            ],
+            [
+                "Alexei Baevski",
+                "https://github.com/alexeib"
+            ],
+            [
+                "Alexis Conneau",
+                "https://github.com/aconneau"
+            ],
+            [
+                "Michael Auli",
+                "https://github.com/michaelauli"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2111.09296"
+            ],
+            [
+                "blog post",
+                "https://huggingface.co/blog/fine-tune-xlsr-wav2vec2"
+            ],
+            [
+                "git",
+                "https://github.com/pytorch/fairseq/blob/main/examples/wav2vec/xlsr/README.md"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/fairscale"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/patrickvonplaten/notebooks/blob/master/Fine_Tune_XLS_R_on_Common_Voice.ipynb",
+        "update": 1643813558.0
+    },
+    {
+        "name": "MTTR",
+        "description": "End-to-End Referring Video Object Segmentation with Multimodal Transformers",
+        "author": [
+            [
+                "Adam Botach",
+                "https://www.linkedin.com/in/adam-botach"
+            ],
+            [
+                "Evgenii Zheltonozhskii",
+                "https://evgeniizh.com/"
+            ],
+            [
+                "Chaim Baskin",
+                "https://github.com/chaimbaskin"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2111.14821"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1907.11692"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.13230"
+            ],
+            [
+                "git",
+                "https://github.com/mttr2021/MTTR"
+            ],
+            [
+                "git",
+                "https://github.com/SwinTransformer/Video-Swin-Transformer"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/12p0jpSx3pJNfZk-y_L44yeHZlhsKVra-",
+        "update": 1646010187.78
     }
 ]
