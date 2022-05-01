@@ -299,7 +299,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/nlp/customize_encoder.ipynb",
-        "update": 1623003030.0
+        "update": 1650633017.0
     },
     {
         "name": "Fine-tuning a BERT",
@@ -573,7 +573,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/shaoanlu/faceswap-GAN/blob/master/colab_demo/faceswap-GAN_colab_demo.ipynb",
-        "update": 1541664583.0
+        "update": 1599880270.0
     },
     {
         "name": "GazeML",
@@ -1051,7 +1051,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1648626829.0
+        "update": 1650935148.0
     },
     {
         "name": "ByteTrack",
@@ -2245,7 +2245,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb",
-        "update": 1624992615.0
+        "update": 1651174599.0
     },
     {
         "name": "HiDT",
@@ -4477,7 +4477,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1k2Zod6kSHEvraybHl50Lys0LerhyTMCo",
-        "update": 1644824990.981
+        "update": 1650802718.426
     },
     {
         "name": "GFPGAN",
@@ -5704,5 +5704,89 @@
         ],
         "colab": "https://colab.research.google.com/drive/12p0jpSx3pJNfZk-y_L44yeHZlhsKVra-",
         "update": 1646010187.78
+    },
+    {
+        "name": "FuseDream",
+        "description": "Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization",
+        "author": [
+            [
+                "Xingchao Liu",
+                "https://scholar.google.com/citations?user=VOTVE0UAAAAJ"
+            ],
+            [
+                "Chengyue Gong",
+                "https://github.com/ChengyueGongR"
+            ],
+            [
+                "Lemeng Wu",
+                "https://github.com/klightz"
+            ],
+            [
+                "Hao Su",
+                "https://cseweb.ucsd.edu//~haosu/"
+            ],
+            [
+                "Qiang Liu",
+                "https://www.cs.utexas.edu/~lqiang/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2112.01573"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/190tKQf0aFj-Hi8STUrLc2m4DeOviv7NO",
+        "update": 1641149798.191
+    },
+    {
+        "name": "Demucs",
+        "description": "Hybrid Spectrogram and Waveform Source Separation",
+        "author": [
+            [
+                "Alexandre Défossez",
+                "https://ai.honu.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2111.03600"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2010.01733"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2109.05418"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1805.02410"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/demucs/"
+            ],
+            [
+                "git",
+                "https://github.com/adefossez/mdx21_demucs"
+            ],
+            [
+                "git",
+                "https://github.com/CarlGao4/Demucs-Gui"
+            ],
+            [
+                "git",
+                "https://github.com/kuielab/mdx-net-submission"
+            ],
+            [
+                "git",
+                "https://github.com/f90/Wave-U-Net"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1dC9nVxk3V_VPjUADsnFu8EiT-xnU1tGH",
+        "update": 1648049819.06
     }
 ]

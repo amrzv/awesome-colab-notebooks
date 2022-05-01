@@ -157,7 +157,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/autoencoder.ipynb",
-        "update": 1639303605.0
+        "update": 1649149358.0
     },
     {
         "name": "CVAE",
@@ -279,7 +279,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/audio/simple_audio.ipynb",
-        "update": 1637102329.0
+        "update": 1650945160.0
     },
     {
         "name": "Image classification",
@@ -371,7 +371,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/segmentation.ipynb",
-        "update": 1635263418.0
+        "update": 1650945105.0
     },
     {
         "name": "Integrated gradients",
@@ -409,7 +409,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/interpretability/integrated_gradients.ipynb",
-        "update": 1645803648.0
+        "update": 1650945480.0
     },
     {
         "name": "Actor-Critic",
@@ -577,7 +577,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb",
-        "update": 1634060382.0
+        "update": 1647508129.0
     },
     {
         "name": "Text generation with RNN",
@@ -629,7 +629,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/transformer.ipynb",
-        "update": 1647892186.0
+        "update": 1648189160.0
     },
     {
         "name": "Word2Vec",
@@ -723,7 +723,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1647984022.0
+        "update": 1650985094.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -757,7 +757,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1648160141.0
+        "update": 1650478882.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -791,7 +791,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1647984022.0
+        "update": 1650985094.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -821,7 +821,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1647984022.0
+        "update": 1650985094.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -851,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1647984022.0
+        "update": 1650985094.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -885,7 +885,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1647984022.0
+        "update": 1650478882.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -903,7 +903,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1647984022.0
+        "update": 1650985094.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -929,7 +929,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1647984022.0
+        "update": 1651250740.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -951,7 +951,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/nlp/nlp_modeling_library_intro.ipynb",
-        "update": 1623003030.0
+        "update": 1650633017.0
     },
     {
         "name": "Context R-CNN Demo",
@@ -1153,7 +1153,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ",
-        "update": 1634737418.879
+        "update": 1649165441.815
     },
     {
         "name": "Python Data Science Handbook",
@@ -1684,68 +1684,6 @@
         "update": 1631667238.0
     },
     {
-        "name": "LightAutoML",
-        "description": "Framework for automatic classification and regression model creation",
-        "author": [
-            [
-                "Alexander Ryzhkov",
-                "https://www.kaggle.com/alexryzhkov"
-            ],
-            [
-                "Anton Vakhrushev",
-                "https://www.kaggle.com/btbpanda"
-            ],
-            [
-                "Dmitry Simakov",
-                "https://www.kaggle.com/simakov"
-            ],
-            [
-                "Vasiliy Bunakov",
-                "https://github.com/VaBun"
-            ],
-            [
-                "Alexander Kirilin",
-                "https://github.com/Cybsloth"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/sberbank-ai-lab/LightAutoML"
-            ],
-            [
-                "youtube",
-                "https://www.youtube.com/watch?v=ci8uqgWFJGg"
-            ],
-            [
-                "youtube",
-                "https://www.youtube.com/watch?v=TYu1UG-E9e8"
-            ],
-            [
-                "youtube",
-                "https://www.youtube.com/watch?v=4pbO673B9Oo"
-            ],
-            [
-                "youtube",
-                "https://www.youtube.com/watch?v=ci8uqgWFJGg"
-            ],
-            [
-                "medium",
-                "https://towardsdatascience.com/lightautoml-preset-usage-tutorial-2cce7da6f936"
-            ],
-            [
-                "blog post",
-                "https://analyticsindiamag.com/hands-on-python-guide-to-lama-an-automatic-ml-model-creation-framework/"
-            ],
-            [
-                "docs",
-                "https://lightautoml.readthedocs.io/en/latest/"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/sberbank-ai-lab/LightAutoML/blob/master/Tutorial_1.%20Create%20your%20own%20pipeline.ipynb",
-        "update": 1625938315.0
-    },
-    {
         "name": "highway-env",
         "description": "A collection of environments for autonomous driving and tactical decision-making tasks",
         "author": [
@@ -2155,7 +2093,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/microsoft/torchgeo/blob/main/docs/tutorials/indices.ipynb",
-        "update": 1641082063.0
+        "update": 1649164203.0
     },
     {
         "name": "Imagededup",
@@ -2298,7 +2236,7 @@
         ],
         "links": [
             [
-                "nips",
+                "neurips",
                 "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html"
             ],
             [
@@ -2680,5 +2618,59 @@
         ],
         "colab": "https://colab.research.google.com/drive/11GK7k7G1CG1qHbdA9Pz1RtQ3vlCkuohV",
         "update": 1596758022.342
+    },
+    {
+        "name": "Silero Models",
+        "description": "Pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple",
+        "author": [
+            [
+                "Silero team",
+                "https://www.silero.ai/about/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/snakers4/silero-models"
+            ],
+            [
+                "site",
+                "https://www.silero.ai/"
+            ],
+            [
+                "STT",
+                "https://thegradient.pub/towards-an-imagenet-moment-for-speech-to-text/"
+            ],
+            [
+                "STT",
+                "https://thegradient.pub/a-speech-to-text-practitioners-criticisms-of-industry-and-academia/"
+            ],
+            [
+                "STT",
+                "https://habr.com/ru/post/519562/"
+            ],
+            [
+                "TTS",
+                "https://habr.com/ru/post/660571/"
+            ],
+            [
+                "TTS",
+                "https://habr.com/ru/post/549482/"
+            ],
+            [
+                "VAD",
+                "https://thegradient.pub/one-voice-detector-to-rule-them-all/"
+            ],
+            [
+                "VAD",
+                "https://habr.com/ru/post/537276/"
+            ],
+            [
+                "Text Enhancement",
+                "https://habr.com/ru/post/581960/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/snakers4/silero-models/blob/master/examples.ipynb",
+        "update": 1645982442.0
     }
 ]
