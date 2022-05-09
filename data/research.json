@@ -4280,7 +4280,7 @@
                 "https://arxiv.org/abs/1807.04015"
             ]
         ],
-        "colab": "https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/dev/inference/inference_pipeline.ipynb",
+        "colab": "https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb",
         "update": 1638064306.0
     },
     {
