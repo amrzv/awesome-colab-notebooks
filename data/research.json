@@ -273,7 +273,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1JfnRoNgTVX_7VEGAAmjGjwP_yX2tdDxs",
-        "update": 1564051448.504
+        "update": 1654020896.115
     },
     {
         "name": "Customizing a Transformer Encoder",
@@ -1051,7 +1051,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1650935148.0
+        "update": 1651798552.0
     },
     {
         "name": "ByteTrack",
@@ -3615,7 +3615,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb",
-        "update": 1638620735.0
+        "update": 1653039617.0
     },
     {
         "name": "Big Sleep",
@@ -3729,7 +3729,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb",
-        "update": 1647483201.0
+        "update": 1652691657.0
     },
     {
         "name": "VideoGPT",
@@ -4961,7 +4961,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/saic-mdal/lama/blob/master/colab/LaMa_inpainting.ipynb",
-        "update": 1642360206.0
+        "update": 1653509533.0
     },
     {
         "name": "HuggingArtists",
@@ -5096,6 +5096,116 @@
         ],
         "colab": "https://colab.research.google.com/github/facebookresearch/ic_gan/blob/master/inference/icgan_colab.ipynb",
         "update": 1633084350.0
+    },
+    {
+        "name": "OPT",
+        "description": "Open Pre-trained Transformers is a family of NLP models trained on billions of tokens of text obtained from the internet",
+        "author": [
+            [
+                "Susan Zhang",
+                "https://github.com/suchenzang"
+            ],
+            [
+                "Stephen Roller",
+                "https://stephenroller.com/"
+            ],
+            [
+                "Naman Goyal",
+                "https://github.com/ngoyal2707"
+            ],
+            [
+                "Mikel Artetxe",
+                "https://github.com/artetxem"
+            ],
+            [
+                "Moya Chen",
+                "https://moyachen.com/"
+            ],
+            [
+                "Christopher Dewan",
+                "https://github.com/m3rlin45"
+            ],
+            [
+                "Mona Diab",
+                "https://scholar.google.com/citations?user=-y6SIhQAAAAJ"
+            ],
+            [
+                "Xi Victoria Lin",
+                "http://victorialin.net/"
+            ],
+            [
+                "Todor Mihaylov",
+                "https://github.com/tbmihailov"
+            ],
+            [
+                "Myle Ott",
+                "https://myleott.com/"
+            ],
+            [
+                "Sam Shleifer",
+                "https://github.com/sshleifer"
+            ],
+            [
+                "Kurt Shuster",
+                "https://github.com/klshuster"
+            ],
+            [
+                "Daniel Simig",
+                "https://scholar.google.com/citations?user=TtWU9fsAAAAJ"
+            ],
+            [
+                "Punit Singh Koura",
+                "https://github.com/punitkoura"
+            ],
+            [
+                "Anjali Sridhar",
+                "https://www.linkedin.com/in/anjalisridhar/"
+            ],
+            [
+                "Tianlu Wang",
+                "https://tianlu-wang.github.io/"
+            ],
+            [
+                "Luke Zettlemoyer",
+                "https://www.cs.washington.edu/people/faculty/lsz/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/metaseq/tree/main/projects/OPT"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2205.01068"
+            ],
+            [
+                "blog post",
+                "https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1906.02243"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.10350"
+            ],
+            [
+                "git",
+                "https://github.com/NVIDIA/Megatron-LM"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.11990"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Ejg0OunCi9U"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/14wnxMvD9zsiBQo2FtTpxn6w2cpXCcb-7",
+        "update": 1653333661.855
     },
     {
         "name": "Music Composer",
@@ -5323,7 +5433,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1xx7SgdLaAu23YFBirXmaQViDr8caowX_",
-        "update": 1635243744.414
+        "update": 1653815550.845
     },
     {
         "name": "ArcaneGAN",
@@ -5583,7 +5693,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/gist/JingyunLiang/deb335792768ad9eb73854a8efca4fe0/vrt-demo-on-video-restoration.ipynb",
-        "update": 1645791495.0
+        "update": 1653663590.0
     },
     {
         "name": "XLS-R",
@@ -5661,7 +5771,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/patrickvonplaten/notebooks/blob/master/Fine_Tune_XLS_R_on_Common_Voice.ipynb",
-        "update": 1643813558.0
+        "update": 1652163802.0
     },
     {
         "name": "MTTR",
@@ -5788,5 +5898,143 @@
         ],
         "colab": "https://colab.research.google.com/drive/1dC9nVxk3V_VPjUADsnFu8EiT-xnU1tGH",
         "update": 1648049819.06
+    },
+    {
+        "name": "Disco Diffusion",
+        "description": "A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations",
+        "author": [
+            [
+                "Max Ingham",
+                "https://github.com/somnai-dreams"
+            ],
+            [
+                "Adam Letts",
+                "https://linktr.ee/gandamu"
+            ],
+            [
+                "Daniel Russell",
+                "https://github.com/russelldc"
+            ],
+            [
+                "Chigozie Nri",
+                "https://github.com/chigozienri"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/alembics/disco-diffusion"
+            ],
+            [
+                "git",
+                "https://github.com/openai/guided-diffusion"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/_DtWfh9oS54"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/gWxmtdZL8FE"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/yVJB6oD0_gM"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/alembics/disco-diffusion/blob/master/Disco_Diffusion.ipynb",
+        "update": 1653566611.0
+    },
+    {
+        "name": "Deep Painterly Harmonization",
+        "description": "Algorithm produces significantly better results than photo compositing or global stylization techniques and that it enables creative painterly edits that would be otherwise difficult to achieve",
+        "author": [
+            [
+                "Fujun Luan",
+                "https://luanfujun.github.io/"
+            ],
+            [
+                "Sylvain Paris",
+                "http://people.csail.mit.edu/sparis/"
+            ],
+            [
+                "Eli Shechtman",
+                "https://research.adobe.com/person/eli-shechtman/"
+            ],
+            [
+                "Kavita Bala",
+                "https://www.cs.cornell.edu/~kb/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/luanfujun/deep-painterly-harmonization"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1804.03189"
+            ],
+            [
+                "git",
+                "https://github.com/jcjohnson/neural-style"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1701.08893"
+            ],
+            [
+                "git",
+                "https://github.com/torch/torch7"
+            ],
+            [
+                "git",
+                "https://github.com/szagoruyko/loadcaffe"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/gist/eyaler/5303782669fb43510d398bd346c6e3e6/deep-painterly-harmonization.ipynb",
+        "update": 1649331424.0
+    },
+    {
+        "name": "Detic",
+        "description": "Detecting Twenty-thousand Classes using Image-level Supervision",
+        "author": [
+            [
+                "Xingyi Zhou",
+                "https://www.cs.utexas.edu/~zhouxy/"
+            ],
+            [
+                "Rohit Girdhar",
+                "https://github.com/rohitgirdhar"
+            ],
+            [
+                "Armand Joulin",
+                "https://github.com/ajoulin"
+            ],
+            [
+                "Philipp Krähenbühl",
+                "https://github.com/philkr"
+            ],
+            [
+                "Ishan Misra",
+                "http://imisra.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/Detic"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.02605"
+            ],
+            [
+                "git",
+                "https://github.com/lvis-dataset/lvis-api"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1QtTW9-ukX2HKZGvt0QvVGqjuqEykoZKI",
+        "update": 1650899729.496
     }
 ]
