@@ -53,7 +53,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb",
-        "update": 1652915635.0
+        "update": 1654635512.0
     },
     {
         "name": "DeepDream",
@@ -97,7 +97,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/style_transfer.ipynb",
-        "update": 1623781696.0
+        "update": 1656236422.0
     },
     {
         "name": "Adversarial FGSM",
@@ -201,7 +201,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb",
-        "update": 1622641901.0
+        "update": 1654635512.0
     },
     {
         "name": "DCGAN",
@@ -371,7 +371,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/segmentation.ipynb",
-        "update": 1650945105.0
+        "update": 1652096014.0
     },
     {
         "name": "Integrated gradients",
@@ -409,7 +409,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/interpretability/integrated_gradients.ipynb",
-        "update": 1650945480.0
+        "update": 1656546376.0
     },
     {
         "name": "Actor-Critic",
@@ -439,7 +439,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/reinforcement_learning/actor_critic.ipynb",
-        "update": 1631087372.0
+        "update": 1654773005.0
     },
     {
         "name": "Classify text with BERT",
@@ -495,7 +495,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb",
-        "update": 1639440295.0
+        "update": 1654635512.0
     },
     {
         "name": "NMT with attention",
@@ -671,7 +671,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word2vec.ipynb",
-        "update": 1643007814.0
+        "update": 1654635512.0
     },
     {
         "name": "Word embeddings",
@@ -697,7 +697,7 @@
     },
     {
         "name": "Building Your Own Federated Learning Algorithm",
-        "description": "In this tutorial, we discuss how to implement federated learning algorithms without deferring to the tff.learning API",
+        "description": "We discuss how to implement federated learning algorithms without deferring to the tff.learning API",
         "author": [
             [
                 "Zachary Charles",
@@ -723,11 +723,11 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1653328764.0
+        "update": 1656416859.0
     },
     {
         "name": "Federated Learning for Image Classification",
-        "description": "In this tutorial, we use the classic MNIST training example to introduce the Federated Learning API layer of TFF, tff.learning - a set of higher-level interfaces that can be used to perform common types of federated learning tasks, such as federated training, against user-supplied models implemented in TensorFlow",
+        "description": "We use the classic MNIST training example to introduce the Federated Learning API layer of TFF, tff.learning - a set of higher-level interfaces that can be used to perform common types of federated learning tasks, such as federated training, against user-supplied models implemented in TensorFlow",
         "author": [
             [
                 "Krzysztof Ostrowski",
@@ -757,11 +757,11 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1653671269.0
+        "update": 1656416859.0
     },
     {
         "name": "Federated Learning for Text Generation",
-        "description": "For this tutorial, we start with a RNN that generates ASCII characters, and refine it via federated learning",
+        "description": "We start with a RNN that generates ASCII characters, and refine it via federated learning",
         "author": [
             [
                 "Krzysztof Ostrowski",
@@ -791,7 +791,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1653328764.0
+        "update": 1656416859.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -821,7 +821,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1653328764.0
+        "update": 1656416859.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -851,11 +851,11 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1653328764.0
+        "update": 1656416859.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
-        "description": "In this tutorial, we use the EMNIST dataset to demonstrate how to enable lossy compression algorithms to reduce communication cost in the Federated Averaging algorithm",
+        "description": "We use the EMNIST dataset to demonstrate how to enable lossy compression algorithms to reduce communication cost in the Federated Averaging algorithm",
         "author": [
             [
                 "Weikang Song",
@@ -885,7 +885,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1653671269.0
+        "update": 1656416859.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -903,7 +903,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1653328764.0
+        "update": 1656416859.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -929,7 +929,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1653328764.0
+        "update": 1656416859.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -951,7 +951,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/nlp/nlp_modeling_library_intro.ipynb",
-        "update": 1650633017.0
+        "update": 1655912795.0
     },
     {
         "name": "Context R-CNN Demo",
@@ -1250,8 +1250,78 @@
         "update": 1611185077.0
     },
     {
+        "name": "BIG-bench",
+        "description": "A collaborative benchmark intended to probe large language models and extrapolate their future capabilities",
+        "author": [
+            [
+                "Jaehoon Lee",
+                "https://jaehlee.github.io/"
+            ],
+            [
+                "Jascha Sohl-Dickstein",
+                "http://www.sohldickstein.com/"
+            ],
+            [
+                "Vinay Ramasesh",
+                "https://ramasesh.github.io/"
+            ],
+            [
+                "Sajant Anand",
+                "https://github.com/sajantanand"
+            ],
+            [
+                "Alicia Parrish",
+                "https://aliciaparrish.com/"
+            ],
+            [
+                "Ethan Dyer",
+                "https://github.com/ethansdyer"
+            ],
+            [
+                "Liam Dugan",
+                "http://liamdugan.com/"
+            ],
+            [
+                "Dieuwke Hupkes",
+                "https://github.com/dieuwkehupkes"
+            ],
+            [
+                "Daniel Freeman",
+                "https://github.com/cdfreeman-google"
+            ],
+            [
+                "Guy Gur-Ari",
+                "https://github.com/guygurari"
+            ],
+            [
+                "Aitor Lewkowycz",
+                "https://github.com/lewkowycz"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2206.04615"
+            ],
+            [
+                "git",
+                "https://github.com/google/BIG-bench"
+            ],
+            [
+                "git",
+                "https://github.com/google/seqio"
+            ],
+            [
+                "API",
+                "https://google.github.io/BIG-bench/docs/html/bigbench/index.html"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/google/BIG-bench/blob/master/notebooks/colab_examples.ipynb",
+        "update": 1656357104.0
+    },
+    {
         "name": "TF-Ranking",
-        "description": "This tutorial is an end-to-end walkthrough of training a TensorFlow Ranking neural network model which incorporates sparse textual features",
+        "description": "End-to-end walkthrough of training a TensorFlow Ranking neural network model which incorporates sparse textual features",
         "author": [
             [
                 "Rama Kumar",
@@ -1701,7 +1771,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/14wnxMvD9zsiBQo2FtTpxn6w2cpXCcb-7",
-        "update": 1653333661.855
+        "update": 1656492993.669
     },
     {
         "name": "GPT-J-6B",
@@ -2159,7 +2229,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/microsoft/torchgeo/blob/main/docs/tutorials/indices.ipynb",
-        "update": 1649164203.0
+        "update": 1654445923.0
     },
     {
         "name": "Imagededup",
@@ -2830,7 +2900,7 @@
                 "https://dabacon.org/"
             ],
             [
-                "https://github.com/matpompili",
+                "Matteo Pompili",
                 "https://github.com/matpompili"
             ],
             [
@@ -2853,7 +2923,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/quantumlib/Cirq/blob/master/docs/tutorials/basics.ipynb",
-        "update": 1653570320.0
+        "update": 1655836719.0
     },
     {
         "name": "Hello, many worlds",
@@ -2988,6 +3058,76 @@
         "update": 1653299596.0
     },
     {
+        "name": "MuJoCo",
+        "description": "A general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting with their environment",
+        "author": [
+            [
+                "Emo Todorov",
+                "https://homes.cs.washington.edu/~todorov/"
+            ],
+            [
+                "Tom Erez",
+                "https://github.com/erez-tom"
+            ],
+            [
+                "Yuval Tassa",
+                "https://github.com/yuvaltassa"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/deepmind/mujoco"
+            ],
+            [
+                "docs",
+                "https://mujoco.readthedocs.io/en/latest/overview.html"
+            ],
+            [
+                "site",
+                "https://mujoco.org/"
+            ],
+            [
+                "blog post",
+                "https://www.deepmind.com/blog/opening-up-a-physics-simulator-for-robotics"
+            ],
+            [
+                "blog post",
+                "https://www.deepmind.com/blog/open-sourcing-mujoco"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/0ORsj_E17B0"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/yHZVVfsJ8mc"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/eyzzsGJ1iic"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Tippe_top"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Chaos_theory"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/3D_projection#Mathematical_formula"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2006.12983"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/dm_control/mujoco/tutorial.ipynb",
+        "update": 1653299596.0
+    },
+    {
         "name": "Accelerate",
         "description": "A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision",
         "author": [
@@ -3007,6 +3147,52 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/accelerate/simple_nlp_example.ipynb",
-        "update": 1639418612.0
+        "update": 1655980972.0
+    },
+    {
+        "name": "Evidently",
+        "description": "An open-source framework to evaluate, test and monitor ML models in production",
+        "author": [
+            [
+                "Elena Samuylova",
+                "https://github.com/elenasamuylova"
+            ],
+            [
+                "Emeli Dral",
+                "https://github.com/emeli-dral"
+            ],
+            [
+                "Olga Filippova",
+                "https://github.com/0lgaF"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/evidentlyai/evidently"
+            ],
+            [
+                "docs",
+                "https://docs.evidentlyai.com/"
+            ],
+            [
+                "site",
+                "https://evidentlyai.com/"
+            ],
+            [
+                "git",
+                "https://github.com/0lgaF/my_tab_with_evidently"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/c/EvidentlyAI"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/L4Pv6ExBQPM"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1Dd6ZzIgeBYkD_4bqWZ0RAdUpCU0b6Y6H",
+        "update": 1653945417.396
     }
 ]

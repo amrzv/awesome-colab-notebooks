@@ -273,7 +273,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1JfnRoNgTVX_7VEGAAmjGjwP_yX2tdDxs",
-        "update": 1654020896.115
+        "update": 1654099450.909
     },
     {
         "name": "Customizing a Transformer Encoder",
@@ -299,7 +299,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/nlp/customize_encoder.ipynb",
-        "update": 1650633017.0
+        "update": 1655912795.0
     },
     {
         "name": "Fine-tuning a BERT",
@@ -798,6 +798,68 @@
         "update": 1550001623.0
     },
     {
+        "name": "T5",
+        "description": "Text-To-Text Transfer Transformer",
+        "author": [
+            [
+                "Colin Raffel",
+                "https://colinraffel.com"
+            ],
+            [
+                "Noam Shazeer",
+                "https://scholar.google.com/citations?user=wsGvgA8AAAAJ"
+            ],
+            [
+                "Adam Roberts",
+                "https://github.com/adarob"
+            ],
+            [
+                "Katherine Lee",
+                "https://github.com/katelee168"
+            ],
+            [
+                "Sharan Narang",
+                "https://github.com/sharannarang"
+            ],
+            [
+                "Michael Matena",
+                "https://scholar.google.com/citations?user=rN_9vroAAAAJ"
+            ],
+            [
+                "Yanqi Zhou",
+                "https://zhouyanqi.github.io"
+            ],
+            [
+                "Wei Li",
+                "https://research.google/people/106528/"
+            ],
+            [
+                "Peter J. Liu",
+                "https://scholar.google.com/citations?user=1EPxhywAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/google-research/text-to-text-transfer-transformer"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1910.10683"
+            ],
+            [
+                "tf",
+                "https://www.tensorflow.org/datasets"
+            ],
+            [
+                "git",
+                "https://github.com/tensorflow/mesh/tree/master/mesh_tensorflow/transformer"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/google-research/text-to-text-transfer-transformer/blob/main/notebooks/t5-trivia.ipynb",
+        "update": 1652290861.0
+    },
+    {
         "name": "Analyzing Tennis Serve",
         "description": "We'll use the Video Intelligence API to analyze a tennis serve, including the angle of the arms and legs during the serve",
         "author": [
@@ -1051,7 +1113,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1651798552.0
+        "update": 1656419664.0
     },
     {
         "name": "ByteTrack",
@@ -1468,12 +1530,126 @@
         "update": 1622621701.0
     },
     {
+        "name": "LDM",
+        "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+        "author": [
+            [
+                "Robin Rombach",
+                "https://github.com/rromb"
+            ],
+            [
+                "Andreas Blattmann",
+                "https://github.com/ablattmann"
+            ],
+            [
+                "Dominik Lorenz",
+                "https://github.com/qp-qp"
+            ],
+            [
+                "Patrick Esser",
+                "https://github.com/pesser"
+            ],
+            [
+                "Björn Ommer",
+                "https://ommer-lab.com/people/ommer/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/CompVis/latent-diffusion"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2112.10752"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2202.09778"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2111.02114"
+            ],
+            [
+                "git",
+                "https://github.com/fyu/lsun"
+            ],
+            [
+                "git",
+                "https://github.com/openai/guided-diffusion"
+            ],
+            [
+                "git",
+                "https://github.com/lucidrains/denoising-diffusion-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/lucidrains/x-transformers"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/CompVis/latent-diffusion/blob/master/scripts/latent_imagenet_diffusion.ipynb",
+        "update": 1649071068.0
+    },
+    {
         "name": "bsuite",
         "description": "A collection of carefully-designed experiments that investigate core capabilities of an RL agent with two main objectives",
         "author": [
             [
                 "Ian Osband",
                 "http://iosband.github.io/"
+            ],
+            [
+                "Yotam Doron",
+                "http://www.yotamdoron.com/"
+            ],
+            [
+                "Matteo Hessel",
+                "https://github.com/mtthss"
+            ],
+            [
+                "John Aslanides",
+                "https://www.aslanides.io/"
+            ],
+            [
+                "Eren Sezener",
+                "http://erensezener.com/"
+            ],
+            [
+                "Andre Saraiva",
+                "https://andresnds.wordpress.com/"
+            ],
+            [
+                "Katrina McKinney",
+                "https://medium.com/@katrinamckinney"
+            ],
+            [
+                "Tor Lattimore",
+                "http://tor-lattimore.com/"
+            ],
+            [
+                "Csaba Szepesvari",
+                "https://sites.ualberta.ca/~szepesva/"
+            ],
+            [
+                "Satinder Singh",
+                "http://web.eecs.umich.edu/~baveja/"
+            ],
+            [
+                "Benjamin Van Roy",
+                "https://web.stanford.edu/~bvr/"
+            ],
+            [
+                "Richard Sutton",
+                "http://www.incompleteideas.net/"
+            ],
+            [
+                "David Silver",
+                "https://www.davidsilver.uk/"
+            ],
+            [
+                "Hado Van Hasselt",
+                "https://hadovanhasselt.com/"
             ]
         ],
         "links": [
@@ -1488,6 +1664,10 @@
             [
                 "git",
                 "https://github.com/openai/gym"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Wcv4eU_qtZU"
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1rU20zJ281sZuMD1DHbsODFr1DbASL0RH",
@@ -2162,6 +2342,60 @@
         ],
         "colab": "https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/master/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb",
         "update": 1604240216.0
+    },
+    {
+        "name": "GLIDE",
+        "description": "Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models",
+        "author": [
+            [
+                "Alex Nichol",
+                "https://aqnichol.com/"
+            ],
+            [
+                "Prafulla Dhariwal",
+                "https://github.com/prafullasd"
+            ],
+            [
+                "Aditya Ramesh",
+                "http://adityaramesh.com/"
+            ],
+            [
+                "Pranav Shyam",
+                "https://github.com/pranv"
+            ],
+            [
+                "Pamela Mishkin",
+                "https://manlikemishap.github.io/"
+            ],
+            [
+                "Bob McGrew",
+                "https://github.com/bmcgrew"
+            ],
+            [
+                "Ilya Sutskever",
+                "http://www.cs.utoronto.ca/~ilya/"
+            ],
+            [
+                "Mark Chen",
+                "https://scholar.google.com/citations?user=5fU-QMwAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/openai/glide-text2im"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2112.10741"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/ItKi3h7IY2o"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/openai/glide-text2im/blob/master/notebooks/inpaint.ipynb",
+        "update": 1640130379.0
     },
     {
         "name": "CLIP",
@@ -4979,7 +5213,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/AlekseyKorshuk/huggingartists/blob/master/huggingartists-demo.ipynb",
-        "update": 1640166667.0
+        "update": 1656158058.0
     },
     {
         "name": "RVM",
@@ -5205,7 +5439,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/14wnxMvD9zsiBQo2FtTpxn6w2cpXCcb-7",
-        "update": 1653333661.855
+        "update": 1656492993.669
     },
     {
         "name": "Music Composer",
@@ -5635,7 +5869,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/gist/JingyunLiang/a5e3e54bc9ef8d7bf594f6fee8208533/swinir-demo-on-real-world-image-sr.ipynb",
-        "update": 1633711003.0
+        "update": 1655484706.0
     },
     {
         "name": "VRT",
@@ -5693,7 +5927,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/gist/JingyunLiang/deb335792768ad9eb73854a8efca4fe0/vrt-demo-on-video-restoration.ipynb",
-        "update": 1653663590.0
+        "update": 1655304191.0
     },
     {
         "name": "XLS-R",
@@ -5813,7 +6047,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/12p0jpSx3pJNfZk-y_L44yeHZlhsKVra-",
-        "update": 1646010187.78
+        "update": 1655757537.613
     },
     {
         "name": "FuseDream",
@@ -5943,7 +6177,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/alembics/disco-diffusion/blob/master/Disco_Diffusion.ipynb",
-        "update": 1653566611.0
+        "update": 1656035139.0
     },
     {
         "name": "Deep Painterly Harmonization",
@@ -5996,6 +6230,102 @@
         "update": 1649331424.0
     },
     {
+        "name": "Text2Mesh",
+        "description": "Text-Driven Neural Stylization for Meshes",
+        "author": [
+            [
+                "Oscar Michel",
+                "https://ojmichel.github.io/"
+            ],
+            [
+                "Roi Bar-On",
+                "https://github.com/roibaron"
+            ],
+            [
+                "Richard Liu",
+                "https://github.com/factoryofthesun"
+            ],
+            [
+                "Sagie Benaim",
+                "https://sagiebenaim.github.io/"
+            ],
+            [
+                "Rana Hanocka",
+                "http://people.cs.uchicago.edu/~ranahanocka/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://threedle.github.io/text2mesh/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2112.03221"
+            ],
+            [
+                "CLIP",
+                "https://openai.com/blog/clip/"
+            ],
+            [
+                "git",
+                "https://github.com/threedle/text2mesh"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/code/neverix/text2mesh/notebook"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/threedle/text2mesh/blob/master/colab_demo.ipynb",
+        "update": 1652529440.0
+    },
+    {
+        "name": "GPEN",
+        "description": "GAN Prior Embedded Network for Blind Face Restoration in the Wild",
+        "author": [
+            [
+                "Tao Yang",
+                "https://cg.cs.tsinghua.edu.cn/people/~tyang/"
+            ],
+            [
+                "Peiran Ren",
+                "https://scholar.google.com/citations?&user=x5dEuxsAAAAJ"
+            ],
+            [
+                "Xuansong Xie",
+                "https://scholar.google.com/citations?user=M0Ei1zkAAAAJ"
+            ],
+            [
+                "Lei Zhang",
+                "http://www4.comp.polyu.edu.hk/~cslzhang/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/yangxy/GPEN"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2105.06070"
+            ],
+            [
+                "demo",
+                "https://vision.aliyun.com/experience/detail?spm=a211p3.14020179.J_7524944390.17.66cd4850wVDkUQ&tagName=facebody&children=EnhanceFace"
+            ],
+            [
+                "git",
+                "https://github.com/biubug6/Pytorch_Retinaface"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/yangxy/GPEN/blob/main/GPEN.ipynb",
+        "update": 1656246202.0
+    },
+    {
         "name": "Detic",
         "description": "Detecting Twenty-thousand Classes using Image-level Supervision",
         "author": [
@@ -6035,6 +6365,6 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1QtTW9-ukX2HKZGvt0QvVGqjuqEykoZKI",
-        "update": 1650899729.496
+        "update": 1654580960.311
     }
 ]
