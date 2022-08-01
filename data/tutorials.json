@@ -671,7 +671,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word2vec.ipynb",
-        "update": 1654635512.0
+        "update": 1658229014.0
     },
     {
         "name": "Word embeddings",
@@ -723,7 +723,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1656416859.0
+        "update": 1658942447.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -757,7 +757,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1656416859.0
+        "update": 1658942447.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -791,7 +791,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1656416859.0
+        "update": 1658942447.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -821,7 +821,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1656416859.0
+        "update": 1658942447.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -851,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1656416859.0
+        "update": 1658942447.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -885,7 +885,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1656416859.0
+        "update": 1658942447.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -903,7 +903,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1656416859.0
+        "update": 1658942447.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -929,7 +929,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1656416859.0
+        "update": 1658942447.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -1153,7 +1153,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ",
-        "update": 1652806409.534
+        "update": 1658345581.74
     },
     {
         "name": "Python Data Science Handbook",
@@ -1320,6 +1320,180 @@
         "update": 1656357104.0
     },
     {
+        "name": "The Autodiff Cookbook",
+        "description": "You'll go through a whole bunch of neat autodiff ideas that you can cherry pick for your own work, starting with the basics",
+        "author": [
+            [
+                "Alex Wiltschko",
+                "https://github.com/alexbw"
+            ],
+            [
+                "Matthew Johnson",
+                "http://people.csail.mit.edu/mattjj/"
+            ]
+        ],
+        "links": [
+            [
+                "book",
+                "https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html"
+            ],
+            [
+                "book",
+                "https://mitpress.mit.edu/books/functional-differential-geometry"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Truncated_Newton_method"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Pullback_(differential_geometry)"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Holomorphic_function"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Cauchy%E2%80%93Riemann_equations"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1406.2572"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1706.04454"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1802.03451"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1811.07062"
+            ],
+            [
+                "tutorial",
+                "http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/"
+            ],
+            [
+                "git",
+                "https://github.com/google/jax/issues/446#issuecomment-467105048"
+            ],
+            [
+                "git",
+                "https://github.com/google/jax#auto-vectorization-with-vmap"
+            ],
+            [
+                "git",
+                "https://github.com/hips/autograd"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/google/jax/blob/master/docs/notebooks/autodiff_cookbook.ipynb",
+        "update": 1652459728.0
+    },
+    {
+        "name": "EfficientNetV2",
+        "description": "A family of image classification models, which achieve better parameter efficiency and faster training speed than prior arts",
+        "author": [
+            [
+                "Mingxing Tan",
+                "https://scholar.google.com/citations?user=6POeyBoAAAAJ"
+            ],
+            [
+                "Quoc V. Le",
+                "https://cs.stanford.edu/~quocle/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.00298"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1905.11946"
+            ],
+            [
+                "git",
+                "https://github.com/google/automl/tree/master/efficientnetv2"
+            ],
+            [
+                "git",
+                "https://github.com/NVIDIA/TensorRT/tree/master/samples/python/efficientnet"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/google/automl/blob/master/efficientnetv2/tutorial.ipynb",
+        "update": 1632443090.0
+    },
+    {
+        "name": "SentencePiece",
+        "description": "An unsupervised text tokenizer and detokenizer mainly for Neural Network-based text generation systems where the vocabulary size is predetermined prior to the neural model training",
+        "author": [
+            [
+                "Taku Kudo",
+                "http://chasen.org/~taku/"
+            ],
+            [
+                "John Richardson",
+                "https://scholar.google.com/citations?user=PEvmYfgAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1808.06226"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1508.07909"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1804.10959"
+            ],
+            [
+                "git",
+                "https://github.com/google/sentencepiece"
+            ],
+            [
+                "git",
+                "https://github.com/moses-smt/mosesdecoder/blob/master/scripts/tokenizer/tokenizer.perl"
+            ],
+            [
+                "git",
+                "https://github.com/rsennrich/subword-nmt"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1910.13267"
+            ],
+            [
+                "medium",
+                "https://jacky2wong.medium.com/understanding-sentencepiece-under-standing-sentence-piece-ac8da59f6b08"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1609.08144"
+            ],
+            [
+                "git",
+                "https://github.com/gperftools/gperftools"
+            ],
+            [
+                "git",
+                "https://github.com/Microsoft/vcpkg"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/U51ranzJBpY"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb",
+        "update": 1562143261.0
+    },
+    {
         "name": "TF-Ranking",
         "description": "End-to-end walkthrough of training a TensorFlow Ranking neural network model which incorporates sparse textual features",
         "author": [
@@ -1478,6 +1652,118 @@
         "update": 1631720524.0
     },
     {
+        "name": "CompilerGym",
+        "description": "A reinforcement learning toolkit for compiler optimizations",
+        "author": [
+            [
+                "Chris Cummins",
+                "https://chriscummins.cc/"
+            ],
+            [
+                "Bram Wasti",
+                "https://github.com/bwasti"
+            ],
+            [
+                "Jiadong Guo",
+                "https://jd-eth.github.io/"
+            ],
+            [
+                "Brandon Cui",
+                "https://www.linkedin.com/in/bcui19/"
+            ],
+            [
+                "Jason Ansel",
+                "https://jasonansel.com/"
+            ],
+            [
+                "Sahir Gomez",
+                "https://github.com/sahirgomez1"
+            ],
+            [
+                "Olivier Teytaud",
+                "https://github.com/teytaud"
+            ],
+            [
+                "Benoit Steiner",
+                "http://bsteiner.info/"
+            ],
+            [
+                "Yuandong Tian",
+                "http://yuandong-tian.com/"
+            ],
+            [
+                "Hugh Leather",
+                "https://github.com/hughleat"
+            ]
+        ],
+        "links": [
+            [
+                "docs",
+                "https://facebookresearch.github.io/CompilerGym/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2109.08267"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/CompilerGym"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/facebookresearch/CompilerGym/blob/development/examples/getting-started.ipynb",
+        "update": 1637053784.0
+    },
+    {
+        "name": "CoVoST",
+        "description": "A Large-Scale Multilingual Speech-To-Text Translation Corpus",
+        "author": [
+            [
+                "Changhan Wang",
+                "https://github.com/kahne"
+            ],
+            [
+                "Juan Pino",
+                "https://scholar.google.com/citations?user=weU_-4IAAAAJ"
+            ],
+            [
+                "Jiatao Gu",
+                "http://jiataogu.me/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/covost"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2002.01320"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/pdf/2007.10310"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1912.06670"
+            ],
+            [
+                "git",
+                "https://github.com/kahne/SpeechTransProgress"
+            ],
+            [
+                "git",
+                "https://github.com/pytorch/fairseq/tree/main/examples/speech_to_text"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/vizseq"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/11GK7k7G1CG1qHbdA9Pz1RtQ3vlCkuohV",
+        "update": 1596758022.342
+    },
+    {
         "name": "Spleeter",
         "description": "Deezer source separation library including pretrained models",
         "author": [
@@ -1600,80 +1886,6 @@
         "update": 1629785030.562
     },
     {
-        "name": "The Autodiff Cookbook",
-        "description": "You'll go through a whole bunch of neat autodiff ideas that you can cherry pick for your own work, starting with the basics",
-        "author": [
-            [
-                "Alex Wiltschko",
-                "https://github.com/alexbw"
-            ],
-            [
-                "Matthew Johnson",
-                "http://people.csail.mit.edu/mattjj/"
-            ]
-        ],
-        "links": [
-            [
-                "book",
-                "https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html"
-            ],
-            [
-                "book",
-                "https://mitpress.mit.edu/books/functional-differential-geometry"
-            ],
-            [
-                "wiki",
-                "https://en.wikipedia.org/wiki/Truncated_Newton_method"
-            ],
-            [
-                "wiki",
-                "https://en.wikipedia.org/wiki/Pullback_(differential_geometry)"
-            ],
-            [
-                "wiki",
-                "https://en.wikipedia.org/wiki/Holomorphic_function"
-            ],
-            [
-                "wiki",
-                "https://en.wikipedia.org/wiki/Cauchy%E2%80%93Riemann_equations"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1406.2572"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1706.04454"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1802.03451"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1811.07062"
-            ],
-            [
-                "tutorial",
-                "http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/"
-            ],
-            [
-                "git",
-                "https://github.com/google/jax/issues/446#issuecomment-467105048"
-            ],
-            [
-                "git",
-                "https://github.com/google/jax#auto-vectorization-with-vmap"
-            ],
-            [
-                "git",
-                "https://github.com/hips/autograd"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/google/jax/blob/master/docs/notebooks/autodiff_cookbook.ipynb",
-        "update": 1652459728.0
-    },
-    {
         "name": "ruGPT3",
         "description": "Example of inference of RuGPT3XL",
         "author": [
@@ -1685,7 +1897,7 @@
         "links": [
             [
                 "git",
-                "https://github.com/sberbank-ai/ru-gpts"
+                "https://github.com/ai-forever/ru-gpts"
             ],
             [
                 "git",
@@ -1704,7 +1916,7 @@
                 "https://sbercloud.ru/ru/christofari"
             ]
         ],
-        "colab": "https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/ruGPT3XL_generation.ipynb",
+        "colab": "https://colab.research.google.com/github/ai-forever/ru-gpts/blob/master/examples/ruGPT3XL_generation.ipynb",
         "update": 1637113247.0
     },
     {
@@ -1772,6 +1984,40 @@
         ],
         "colab": "https://colab.research.google.com/drive/14wnxMvD9zsiBQo2FtTpxn6w2cpXCcb-7",
         "update": 1656492993.669
+    },
+    {
+        "name": "RuDOLPH",
+        "description": "A fast and light text-image-text transformer designed for a quick and easy fine-tuning setup for the solution of various tasks: from generating images by text description and image classification to visual question answering and more",
+        "author": [
+            [
+                "Alex Shonenkov",
+                "https://github.com/shonenkov"
+            ],
+            [
+                "Michael Konstantinov",
+                "https://github.com/zeroshot-ai"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/ai-forever/ru-dolph"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2005.14165"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2102.12092"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.00020"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1gmTDA13u709OXiAeXWGm7sPixRhEJCga",
+        "update": 1642174476.466
     },
     {
         "name": "GPT-J-6B",
@@ -2102,68 +2348,6 @@
         ],
         "colab": "https://colab.research.google.com/github/microsoft/FLAML/blob/master/notebook/flaml_automl.ipynb",
         "update": 1639696293.0
-    },
-    {
-        "name": "CompilerGym",
-        "description": "A reinforcement learning toolkit for compiler optimizations",
-        "author": [
-            [
-                "Chris Cummins",
-                "https://chriscummins.cc/"
-            ],
-            [
-                "Bram Wasti",
-                "https://github.com/bwasti"
-            ],
-            [
-                "Jiadong Guo",
-                "https://jd-eth.github.io/"
-            ],
-            [
-                "Brandon Cui",
-                "https://www.linkedin.com/in/bcui19/"
-            ],
-            [
-                "Jason Ansel",
-                "https://jasonansel.com/"
-            ],
-            [
-                "Sahir Gomez",
-                "https://github.com/sahirgomez1"
-            ],
-            [
-                "Olivier Teytaud",
-                "https://github.com/teytaud"
-            ],
-            [
-                "Benoit Steiner",
-                "http://bsteiner.info/"
-            ],
-            [
-                "Yuandong Tian",
-                "http://yuandong-tian.com/"
-            ],
-            [
-                "Hugh Leather",
-                "https://github.com/hughleat"
-            ]
-        ],
-        "links": [
-            [
-                "docs",
-                "https://facebookresearch.github.io/CompilerGym/"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2109.08267"
-            ],
-            [
-                "git",
-                "https://github.com/facebookresearch/CompilerGym"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/facebookresearch/CompilerGym/blob/development/examples/getting-started.ipynb",
-        "update": 1637053784.0
     },
     {
         "name": "TorchGeo",
@@ -2672,40 +2856,6 @@
         "update": 1645570405.0
     },
     {
-        "name": "EfficientNetV2",
-        "description": "A family of image classification models, which achieve better parameter efficiency and faster training speed than prior arts",
-        "author": [
-            [
-                "Mingxing Tan",
-                "https://scholar.google.com/citations?user=6POeyBoAAAAJ"
-            ],
-            [
-                "Quoc V. Le",
-                "https://cs.stanford.edu/~quocle/"
-            ]
-        ],
-        "links": [
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2104.00298"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1905.11946"
-            ],
-            [
-                "git",
-                "https://github.com/google/automl/tree/master/efficientnetv2"
-            ],
-            [
-                "git",
-                "https://github.com/NVIDIA/TensorRT/tree/master/samples/python/efficientnet"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/google/automl/blob/master/efficientnetv2/tutorial.ipynb",
-        "update": 1632443090.0
-    },
-    {
         "name": "DeepStyle",
         "description": "The Neural Style algorithm synthesizes a pastiche by separating and combining the content of one image with the style of another image using convolutional neural networks",
         "author": [
@@ -2772,56 +2922,6 @@
         "update": 1633120599.161
     },
     {
-        "name": "CoVoST",
-        "description": "A Large-Scale Multilingual Speech-To-Text Translation Corpus",
-        "author": [
-            [
-                "Changhan Wang",
-                "https://github.com/kahne"
-            ],
-            [
-                "Juan Pino",
-                "https://scholar.google.com/citations?user=weU_-4IAAAAJ"
-            ],
-            [
-                "Jiatao Gu",
-                "http://jiataogu.me/"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/facebookresearch/covost"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2002.01320"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/pdf/2007.10310"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1912.06670"
-            ],
-            [
-                "git",
-                "https://github.com/kahne/SpeechTransProgress"
-            ],
-            [
-                "git",
-                "https://github.com/pytorch/fairseq/tree/main/examples/speech_to_text"
-            ],
-            [
-                "git",
-                "https://github.com/facebookresearch/vizseq"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/drive/11GK7k7G1CG1qHbdA9Pz1RtQ3vlCkuohV",
-        "update": 1596758022.342
-    },
-    {
         "name": "Silero Models",
         "description": "Pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple",
         "author": [
@@ -2836,7 +2936,7 @@
                 "https://github.com/snakers4/silero-models"
             ],
             [
-                "site",
+                "webpage",
                 "https://www.silero.ai/"
             ],
             [
@@ -2957,7 +3057,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/quantum/blob/master/docs/tutorials/hello_many_worlds.ipynb",
-        "update": 1643903415.0
+        "update": 1659039009.0
     },
     {
         "name": "dm_control",
@@ -3055,7 +3155,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/tutorial.ipynb",
-        "update": 1653299596.0
+        "update": 1658128650.0
     },
     {
         "name": "MuJoCo",
@@ -3084,7 +3184,7 @@
                 "https://mujoco.readthedocs.io/en/latest/overview.html"
             ],
             [
-                "site",
+                "webpage",
                 "https://mujoco.org/"
             ],
             [
@@ -3125,7 +3225,141 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/dm_control/mujoco/tutorial.ipynb",
-        "update": 1653299596.0
+        "update": 1658128650.0
+    },
+    {
+        "name": "Haiku",
+        "description": "A library built on top of JAX designed to provide simple, composable abstractions for machine learning research",
+        "author": [
+            [
+                "Tom Hennigan",
+                "https://github.com/tomhennigan"
+            ],
+            [
+                "Trevor Cai",
+                "https://github.com/trevorcai"
+            ],
+            [
+                "Tamara Norman",
+                "https://github.com/tamaranorman"
+            ],
+            [
+                "Igor Babuschkin",
+                "https://www.babushk.in/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/deepmind/dm-haiku"
+            ],
+            [
+                "docs",
+                "https://dm-haiku.readthedocs.io/en/latest/"
+            ],
+            [
+                "webpage",
+                "https://www.haiku-os.org/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/deepmind/dm-haiku/blob/main/examples/haiku_lstms.ipynb",
+        "update": 1623939904.0
+    },
+    {
+        "name": "MyoSuite",
+        "description": "A collection of musculoskeletal environments and tasks simulated with the MuJoCo physics engine and wrapped in the OpenAI gym API to enable the application of Machine Learning to bio-mechanic control problems",
+        "author": [
+            [
+                "Vittorio Caggiano",
+                "https://github.com/Vittorio-Caggiano"
+            ],
+            [
+                "Huawei Wang",
+                "https://huaweiwang.github.io/"
+            ],
+            [
+                "Guillaume Durandau",
+                "https://people.utwente.nl/g.v.durandau"
+            ],
+            [
+                "Massimo Sartori",
+                "https://people.utwente.nl/m.sartori"
+            ],
+            [
+                "Vikash Kumar",
+                "https://vikashplus.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2205.13600"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/myosuite"
+            ],
+            [
+                "docs",
+                "https://myosuite.readthedocs.io/en/latest/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1U6vo6Q_rPhDaq6oUMV7EAZRm6s0fD1wn",
+        "update": 1653312758.826
+    },
+    {
+        "name": "Epistemic Neural Networks",
+        "description": "A library for neural networks that know what they don't know",
+        "author": [
+            [
+                "Ian Osband",
+                "http://iosband.github.io/"
+            ],
+            [
+                "Zheng Wen",
+                "http://zheng-wen.com/"
+            ],
+            [
+                "Seyed Mohammad Asghari",
+                "https://github.com/mohammadasghari"
+            ],
+            [
+                "Vikranth Dwaracherla",
+                "https://github.com/dvikranth"
+            ],
+            [
+                "Morteza Ibrahimi",
+                "https://github.com/mibrahimi"
+            ],
+            [
+                "Xiuyuan Lu",
+                "https://scholar.google.com/citations?user=SPL_2lIAAAAJ"
+            ],
+            [
+                "Benjamin Van Roy",
+                "https://web.stanford.edu/~bvr/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2107.08924"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/enn"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/j8an0dKcX4A"
+            ],
+            [
+                "medium",
+                "https://medium.com/syncedreview/deepminds-epistemic-neural-networks-open-new-avenues-for-uncertainty-modelling-in-large-and-fa83ab00aba3"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/deepmind/enn/blob/master/enn/colabs/enn_demo.ipynb",
+        "update": 1657648975.0
     },
     {
         "name": "Accelerate",
@@ -3147,7 +3381,69 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/accelerate/simple_nlp_example.ipynb",
-        "update": 1655980972.0
+        "update": 1658912697.0
+    },
+    {
+        "name": "Diffusers",
+        "description": "provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves as a modular toolbox for inference and training of diffusion models",
+        "author": [
+            [
+                "Hugging Face",
+                "https://huggingface.co/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/huggingface/diffusers"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2006.11239"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2006.11239"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2010.02502"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2202.09778"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2204.13902"
+            ],
+            [
+                "git",
+                "https://github.com/hojonathanho/diffusion"
+            ],
+            [
+                "git",
+                "https://github.com/pesser/pytorch_diffusion"
+            ],
+            [
+                "git",
+                "https://github.com/ermongroup/ddim"
+            ],
+            [
+                "git",
+                "https://github.com/heejkoo/Awesome-Diffusion-Models"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/UzkdOg7wWmI"
+            ],
+            [
+                "medium",
+                "https://towardsdatascience.com/hugging-face-just-released-the-diffusers-library-846f32845e65"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb",
+        "update": 1658988016.0
     },
     {
         "name": "Evidently",
@@ -3176,7 +3472,7 @@
                 "https://docs.evidentlyai.com/"
             ],
             [
-                "site",
+                "webpage",
                 "https://evidentlyai.com/"
             ],
             [
@@ -3194,5 +3490,151 @@
         ],
         "colab": "https://colab.research.google.com/drive/1Dd6ZzIgeBYkD_4bqWZ0RAdUpCU0b6Y6H",
         "update": 1653945417.396
+    },
+    {
+        "name": "NL-Augmenter",
+        "description": "A collaborative effort intended to add transformations of datasets dealing with natural language",
+        "author": [
+            [
+                "Aadesh Gupta",
+                "https://github.com/aadesh11"
+            ],
+            [
+                "Timothy Sum Hon Mun",
+                "https://github.com/timothy22000"
+            ],
+            [
+                "Aditya Srivatsa",
+                "https://github.com/kvadityasrivatsa"
+            ],
+            [
+                "Xudong Shen",
+                "https://github.com/XudongOliverShen"
+            ],
+            [
+                "Juan Diego Rodriguez",
+                "https://github.com/juand-r"
+            ],
+            [
+                "Ashish Shrivastava",
+                "https://github.com/ashish3586"
+            ],
+            [
+                "Nagender Aneja",
+                "https://researchid.co/naneja"
+            ],
+            [
+                "Zijie Wang",
+                "https://zijie.wang/"
+            ],
+            [
+                "Yiwen Shi",
+                "https://github.com/Yiwen-Shi"
+            ],
+            [
+                "Afnan Mir",
+                "https://github.com/afnanmmir"
+            ],
+            [
+                "William Soto",
+                "https://github.com/sotwi"
+            ],
+            [
+                "Chandan Singh",
+                "https://csinva.io/"
+            ],
+            [
+                "Claude Roux",
+                "https://github.com/ClaudeRoux"
+            ],
+            [
+                "Abinaya Mahendiran",
+                "https://github.com/AbinayaM02"
+            ],
+            [
+                "Anna Shvets",
+                "https://github.com/asnota"
+            ],
+            [
+                "Kaustubh Dhole",
+                "https://github.com/kaustubhdhole"
+            ],
+            [
+                "Bryan Wilie",
+                "https://github.com/bryanwilie"
+            ],
+            [
+                "Jamie Simon",
+                "https://james-simon.github.io/"
+            ],
+            [
+                "Mukund Varma",
+                "https://github.com/MukundVarmaT"
+            ],
+            [
+                "Sang Han",
+                "https://github.com/jjangsangy"
+            ],
+            [
+                "Denis Kleyko",
+                "https://github.com/denkle"
+            ],
+            [
+                "Samuel Cahyawijaya",
+                "https://github.com/SamuelCahyawijaya"
+            ],
+            [
+                "Filip Cornell",
+                "https://github.com/Filco306"
+            ],
+            [
+                "Tanay Dixit",
+                "https://tanay2001.github.io/"
+            ],
+            [
+                "Connor Boyle",
+                "https://github.com/boyleconnor"
+            ],
+            [
+                "Genta Indra Winata",
+                "https://gentawinata.com/"
+            ],
+            [
+                "Seungjae Ryan Lee",
+                "https://github.com/seungjaeryanlee"
+            ],
+            [
+                "Marcin Namysl",
+                "https://github.com/mnamysl"
+            ],
+            [
+                "Roman Sitelew",
+                "https://github.com/RomanPlusPlus"
+            ],
+            [
+                "Zhenhao Li",
+                "https://zhenhaoli.net/"
+            ],
+            [
+                "Fiona Tan",
+                "https://tanfiona.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2112.02721"
+            ],
+            [
+                "webpage",
+                "https://gem-benchmark.com/nl_augmenter"
+            ],
+            [
+                "git",
+                "https://github.com/GEM-benchmark/NL-Augmenter"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/GEM-benchmark/NL-Augmenter/blob/main/notebooks/Write_a_sample_transformation.ipynb",
+        "update": 1639602216.0
     }
 ]

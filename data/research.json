@@ -860,6 +860,146 @@
         "update": 1652290861.0
     },
     {
+        "name": "Dream Fields",
+        "description": "Zero-Shot Text-Guided Object Generation",
+        "author": [
+            [
+                "Ajay Jain",
+                "https://ajayj.com/"
+            ],
+            [
+                "Ben Mildenhall",
+                "https://bmild.github.io/"
+            ],
+            [
+                "Jon Barron",
+                "https://jonbarron.info/"
+            ],
+            [
+                "Pieter Abbeel",
+                "https://people.eecs.berkeley.edu/~pabbeel/"
+            ],
+            [
+                "Ben Poole",
+                "https://cs.stanford.edu/~poole/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://ajayj.com/dreamfields"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2112.01455"
+            ],
+            [
+                "git",
+                "https://github.com/google-research/google-research/tree/master/dreamfields"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/1Fke6w46tv4"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.00677"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.13415"
+            ],
+            [
+                "git",
+                "https://github.com/ajayjain/DietNeRF"
+            ],
+            [
+                "git",
+                "https://github.com/google/mipnerf"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1TjCWS2_Q0HJKdi9wA2OSY7avmFUQYGje",
+        "update": 1657685289.719
+    },
+    {
+        "name": "FILM",
+        "description": "A frame interpolation algorithm that synthesizes multiple intermediate frames from two input images with large in-between motion",
+        "author": [
+            [
+                "Fitsum Reda",
+                "https://fitsumreda.github.io/"
+            ],
+            [
+                "Janne Kontkanen",
+                "https://scholar.google.com/citations?user=MnXc4JQAAAAJ"
+            ],
+            [
+                "Eric Tabellion",
+                "http://www.tabellion.org/et/"
+            ],
+            [
+                "Deqing Sun",
+                "https://deqings.github.io/"
+            ],
+            [
+                "Caroline Pantofaru",
+                "https://scholar.google.com/citations?user=vKAKE1gAAAAJ"
+            ],
+            [
+                "Brian Curless",
+                "https://homes.cs.washington.edu/~curless/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://film-net.github.io/"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/OAD-BieIjH4"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2202.04901"
+            ],
+            [
+                "git",
+                "https://github.com/google-research/frame-interpolation"
+            ],
+            [
+                "data",
+                "http://data.csail.mit.edu/tofu/testset/vimeo_interp_test.zip"
+            ],
+            [
+                "data",
+                "https://vision.middlebury.edu/flow/data"
+            ],
+            [
+                "data",
+                "https://people.cs.umass.edu/~hzjiang/projects/superslomo/UCF101_results.zip"
+            ],
+            [
+                "git",
+                "https://github.com/sniklaus/softmax-splatting/blob/master/benchmark.py"
+            ],
+            [
+                "tf",
+                "https://www.tensorflow.org/tutorials/load_data/tfrecord"
+            ],
+            [
+                "tf",
+                "https://www.tensorflow.org/api_docs/python/tf/train/Example"
+            ],
+            [
+                "tf",
+                "https://www.tensorflow.org/guide/saved_model"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1sK0uc-GJxmdnaxHhYqD2afRknakpdTNZ",
+        "update": 1649344062.239
+    },
+    {
         "name": "Analyzing Tennis Serve",
         "description": "We'll use the Video Intelligence API to analyze a tennis serve, including the angle of the arms and legs during the serve",
         "author": [
@@ -972,6 +1112,274 @@
         ],
         "colab": "https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt",
         "update": 1609866428.455
+    },
+    {
+        "name": "IC-GAN",
+        "description": "Instance-Conditioned GAN",
+        "author": [
+            [
+                "Arantxa Casanova",
+                "https://github.com/ArantxaCasanova"
+            ],
+            [
+                "Marlène Careil",
+                "https://www.linkedin.com/in/marl%C3%A8ne-careil-901804155"
+            ],
+            [
+                "Jakob Verbeek",
+                "http://thoth.inrialpes.fr/~verbeek/"
+            ],
+            [
+                "Michał Drożdżal",
+                "https://scholar.google.com/citations?user=XK_ktwQAAAAJ"
+            ],
+            [
+                "Adriana Romero-Soriano",
+                "https://sites.google.com/site/adriromsor"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/ic_gan"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2109.05070"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/faiss"
+            ],
+            [
+                "git",
+                "https://github.com/ajbrock/BigGAN-PyTorch"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2-ada-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/bioinf-jku/TTUR"
+            ],
+            [
+                "git",
+                "https://github.com/mit-han-lab/data-efficient-gans"
+            ],
+            [
+                "blog post",
+                "https://ai.facebook.com/blog/instance-conditioned-gans/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/facebookresearch/ic_gan/blob/master/inference/icgan_colab.ipynb",
+        "update": 1633084350.0
+    },
+    {
+        "name": "OPT",
+        "description": "Open Pre-trained Transformers is a family of NLP models trained on billions of tokens of text obtained from the internet",
+        "author": [
+            [
+                "Susan Zhang",
+                "https://github.com/suchenzang"
+            ],
+            [
+                "Stephen Roller",
+                "https://stephenroller.com/"
+            ],
+            [
+                "Naman Goyal",
+                "https://github.com/ngoyal2707"
+            ],
+            [
+                "Mikel Artetxe",
+                "https://github.com/artetxem"
+            ],
+            [
+                "Moya Chen",
+                "https://moyachen.com/"
+            ],
+            [
+                "Christopher Dewan",
+                "https://github.com/m3rlin45"
+            ],
+            [
+                "Mona Diab",
+                "https://scholar.google.com/citations?user=-y6SIhQAAAAJ"
+            ],
+            [
+                "Xi Victoria Lin",
+                "http://victorialin.net/"
+            ],
+            [
+                "Todor Mihaylov",
+                "https://github.com/tbmihailov"
+            ],
+            [
+                "Myle Ott",
+                "https://myleott.com/"
+            ],
+            [
+                "Sam Shleifer",
+                "https://github.com/sshleifer"
+            ],
+            [
+                "Kurt Shuster",
+                "https://github.com/klshuster"
+            ],
+            [
+                "Daniel Simig",
+                "https://scholar.google.com/citations?user=TtWU9fsAAAAJ"
+            ],
+            [
+                "Punit Singh Koura",
+                "https://github.com/punitkoura"
+            ],
+            [
+                "Anjali Sridhar",
+                "https://www.linkedin.com/in/anjalisridhar/"
+            ],
+            [
+                "Tianlu Wang",
+                "https://tianlu-wang.github.io/"
+            ],
+            [
+                "Luke Zettlemoyer",
+                "https://www.cs.washington.edu/people/faculty/lsz/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/metaseq/tree/main/projects/OPT"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2205.01068"
+            ],
+            [
+                "blog post",
+                "https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1906.02243"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.10350"
+            ],
+            [
+                "git",
+                "https://github.com/NVIDIA/Megatron-LM"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.11990"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Ejg0OunCi9U"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/14wnxMvD9zsiBQo2FtTpxn6w2cpXCcb-7",
+        "update": 1656492993.669
+    },
+    {
+        "name": "Detic",
+        "description": "Detecting Twenty-thousand Classes using Image-level Supervision",
+        "author": [
+            [
+                "Xingyi Zhou",
+                "https://www.cs.utexas.edu/~zhouxy/"
+            ],
+            [
+                "Rohit Girdhar",
+                "https://github.com/rohitgirdhar"
+            ],
+            [
+                "Armand Joulin",
+                "https://github.com/ajoulin"
+            ],
+            [
+                "Philipp Krähenbühl",
+                "https://github.com/philkr"
+            ],
+            [
+                "Ishan Misra",
+                "http://imisra.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/Detic"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.02605"
+            ],
+            [
+                "git",
+                "https://github.com/lvis-dataset/lvis-api"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1QtTW9-ukX2HKZGvt0QvVGqjuqEykoZKI",
+        "update": 1654580960.311
+    },
+    {
+        "name": "Mask2Former",
+        "description": "Masked-attention Mask Transformer for Universal Image Segmentation",
+        "author": [
+            [
+                "Bowen Cheng",
+                "https://bowenc0221.github.io/"
+            ],
+            [
+                "Ishan Misra",
+                "https://imisra.github.io/"
+            ],
+            [
+                "Alexander Schwing",
+                "https://alexander-schwing.de/"
+            ],
+            [
+                "Alexander Kirillov",
+                "https://alexander-kirillov.github.io/"
+            ],
+            [
+                "Rohit Girdhar",
+                "https://rohitgirdhar.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2112.01527"
+            ],
+            [
+                "project",
+                "https://bowenc0221.github.io/mask2former/"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/Mask2Former"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2112.10764"
+            ],
+            [
+                "demo",
+                "https://replicate.com/facebookresearch/mask2former"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/MaskFormer"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1uIWE5KbGFSjrxey2aRd5pWkKNY1_SaNq",
+        "update": 1644421484.286
     },
     {
         "name": "CartoonGAN",
@@ -1113,7 +1521,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1656419664.0
+        "update": 1659281643.0
     },
     {
         "name": "ByteTrack",
@@ -4225,7 +4633,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/mit-han-lab/anycost-gan/blob/master/notebooks/intro_colab.ipynb",
-        "update": 1625637518.0
+        "update": 1658342504.0
     },
     {
         "name": "Rewriting a Deep Generative Model",
@@ -4515,7 +4923,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb",
-        "update": 1638064306.0
+        "update": 1656516527.0
     },
     {
         "name": "ruDALL-E",
@@ -4533,7 +4941,7 @@
             ],
             [
                 "git",
-                "https://github.com/sberbank-ai/ru-dalle"
+                "https://github.com/ai-forever/ru-dalle"
             ],
             [
                 "git",
@@ -4544,8 +4952,54 @@
                 "https://github.com/boomb0om/Real-ESRGAN-colab"
             ]
         ],
-        "colab": "https://colab.research.google.com/github/sberbank-ai/ru-dalle/blob/master/jupyters/ruDALLE-example-generation-A100.ipynb",
+        "colab": "https://colab.research.google.com/github/ai-forever/ru-dalle/blob/master/jupyters/ruDALLE-example-generation-A100.ipynb",
         "update": 1635950086.0
+    },
+    {
+        "name": "Music Composer",
+        "description": "Synthesizing symbolic music in MIDI format using the Music Transformer model",
+        "author": [
+            [
+                "bazanovvanya",
+                "https://github.com/bazanovvanya"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/ai-forever/music-composer"
+            ],
+            [
+                "git",
+                "https://github.com/gwinndr/MusicTransformer-Pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/bytedance/GiantMIDI-Piano"
+            ],
+            [
+                "git",
+                "https://github.com/mdeff/fma"
+            ],
+            [
+                "data",
+                "https://magenta.tensorflow.org/datasets/maestro"
+            ],
+            [
+                "data",
+                "https://colinraffel.com/projects/lmd/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1909.05858"
+            ],
+            [
+                "blog post",
+                "https://habr.com/ru/company/sberbank/blog/583592/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/ai-forever/music-composer/blob/master/src/Music_Composer_Demo_Colab_en.ipynb",
+        "update": 1639987220.0
     },
     {
         "name": "Disentangled Lifespan Face Synthesis",
@@ -4761,7 +5215,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo",
-        "update": 1644820685.65
+        "update": 1657678412.056
     },
     {
         "name": "Live Speech Portraits",
@@ -5268,224 +5722,6 @@
         ],
         "colab": "https://colab.research.google.com/drive/10z-pNKRnVNsp0Lq9tH1J_XPZ7CBC_uHm",
         "update": 1637742544.201
-    },
-    {
-        "name": "IC-GAN",
-        "description": "Instance-Conditioned GAN",
-        "author": [
-            [
-                "Arantxa Casanova",
-                "https://github.com/ArantxaCasanova"
-            ],
-            [
-                "Marlène Careil",
-                "https://www.linkedin.com/in/marl%C3%A8ne-careil-901804155"
-            ],
-            [
-                "Jakob Verbeek",
-                "http://thoth.inrialpes.fr/~verbeek/"
-            ],
-            [
-                "Michał Drożdżal",
-                "https://scholar.google.com/citations?user=XK_ktwQAAAAJ"
-            ],
-            [
-                "Adriana Romero-Soriano",
-                "https://sites.google.com/site/adriromsor"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/facebookresearch/ic_gan"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2109.05070"
-            ],
-            [
-                "git",
-                "https://github.com/facebookresearch/faiss"
-            ],
-            [
-                "git",
-                "https://github.com/ajbrock/BigGAN-PyTorch"
-            ],
-            [
-                "git",
-                "https://github.com/NVlabs/stylegan2-ada-pytorch"
-            ],
-            [
-                "git",
-                "https://github.com/bioinf-jku/TTUR"
-            ],
-            [
-                "git",
-                "https://github.com/mit-han-lab/data-efficient-gans"
-            ],
-            [
-                "blog post",
-                "https://ai.facebook.com/blog/instance-conditioned-gans/"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/facebookresearch/ic_gan/blob/master/inference/icgan_colab.ipynb",
-        "update": 1633084350.0
-    },
-    {
-        "name": "OPT",
-        "description": "Open Pre-trained Transformers is a family of NLP models trained on billions of tokens of text obtained from the internet",
-        "author": [
-            [
-                "Susan Zhang",
-                "https://github.com/suchenzang"
-            ],
-            [
-                "Stephen Roller",
-                "https://stephenroller.com/"
-            ],
-            [
-                "Naman Goyal",
-                "https://github.com/ngoyal2707"
-            ],
-            [
-                "Mikel Artetxe",
-                "https://github.com/artetxem"
-            ],
-            [
-                "Moya Chen",
-                "https://moyachen.com/"
-            ],
-            [
-                "Christopher Dewan",
-                "https://github.com/m3rlin45"
-            ],
-            [
-                "Mona Diab",
-                "https://scholar.google.com/citations?user=-y6SIhQAAAAJ"
-            ],
-            [
-                "Xi Victoria Lin",
-                "http://victorialin.net/"
-            ],
-            [
-                "Todor Mihaylov",
-                "https://github.com/tbmihailov"
-            ],
-            [
-                "Myle Ott",
-                "https://myleott.com/"
-            ],
-            [
-                "Sam Shleifer",
-                "https://github.com/sshleifer"
-            ],
-            [
-                "Kurt Shuster",
-                "https://github.com/klshuster"
-            ],
-            [
-                "Daniel Simig",
-                "https://scholar.google.com/citations?user=TtWU9fsAAAAJ"
-            ],
-            [
-                "Punit Singh Koura",
-                "https://github.com/punitkoura"
-            ],
-            [
-                "Anjali Sridhar",
-                "https://www.linkedin.com/in/anjalisridhar/"
-            ],
-            [
-                "Tianlu Wang",
-                "https://tianlu-wang.github.io/"
-            ],
-            [
-                "Luke Zettlemoyer",
-                "https://www.cs.washington.edu/people/faculty/lsz/"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/facebookresearch/metaseq/tree/main/projects/OPT"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2205.01068"
-            ],
-            [
-                "blog post",
-                "https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1906.02243"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2104.10350"
-            ],
-            [
-                "git",
-                "https://github.com/NVIDIA/Megatron-LM"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2201.11990"
-            ],
-            [
-                "youtube",
-                "https://youtu.be/Ejg0OunCi9U"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/drive/14wnxMvD9zsiBQo2FtTpxn6w2cpXCcb-7",
-        "update": 1656492993.669
-    },
-    {
-        "name": "Music Composer",
-        "description": "Synthesizing symbolic music in MIDI format using the Music Transformer model",
-        "author": [
-            [
-                "bazanovvanya",
-                "https://github.com/bazanovvanya"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/sberbank-ai/music-composer"
-            ],
-            [
-                "git",
-                "https://github.com/gwinndr/MusicTransformer-Pytorch"
-            ],
-            [
-                "git",
-                "https://github.com/bytedance/GiantMIDI-Piano"
-            ],
-            [
-                "git",
-                "https://github.com/mdeff/fma"
-            ],
-            [
-                "data",
-                "https://magenta.tensorflow.org/datasets/maestro"
-            ],
-            [
-                "data",
-                "https://colinraffel.com/projects/lmd/"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1909.05858"
-            ],
-            [
-                "blog post",
-                "https://habr.com/ru/company/sberbank/blog/583592/"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/sberbank-ai/music-composer/blob/master/src/Music_Composer_Demo_Colab_en.ipynb",
-        "update": 1639987220.0
     },
     {
         "name": "T0",
@@ -6177,7 +6413,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/alembics/disco-diffusion/blob/master/Disco_Diffusion.ipynb",
-        "update": 1656035139.0
+        "update": 1657767859.0
     },
     {
         "name": "Deep Painterly Harmonization",
@@ -6326,45 +6562,169 @@
         "update": 1656246202.0
     },
     {
-        "name": "Detic",
-        "description": "Detecting Twenty-thousand Classes using Image-level Supervision",
+        "name": "Pose with Style",
+        "description": "Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN",
         "author": [
             [
-                "Xingyi Zhou",
-                "https://www.cs.utexas.edu/~zhouxy/"
+                "Badour AlBahar",
+                "https://badouralbahar.github.io/"
             ],
             [
-                "Rohit Girdhar",
-                "https://github.com/rohitgirdhar"
+                "Jingwan Lu",
+                "https://research.adobe.com/person/jingwan-lu/"
             ],
             [
-                "Armand Joulin",
-                "https://github.com/ajoulin"
+                "Jimei Yang",
+                "https://github.com/jimeiyang"
             ],
             [
-                "Philipp Krähenbühl",
-                "https://github.com/philkr"
+                "Zhixin Shu",
+                "https://zhixinshu.github.io/"
             ],
             [
-                "Ishan Misra",
-                "http://imisra.github.io/"
+                "Eli Shechtman",
+                "https://research.adobe.com/person/eli-shechtman/"
+            ],
+            [
+                "Jia-Bin Huang",
+                "https://jbhuang0604.github.io/"
             ]
         ],
         "links": [
             [
-                "git",
-                "https://github.com/facebookresearch/Detic"
+                "project",
+                "https://pose-with-style.github.io/"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/d_ETeAVLilw"
             ],
             [
                 "arxiv",
-                "https://arxiv.org/abs/2201.02605"
+                "https://arxiv.org/abs/2109.06166"
             ],
             [
                 "git",
-                "https://github.com/lvis-dataset/lvis-api"
+                "https://github.com/BadourAlBahar/pose-with-style"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
             ]
         ],
-        "colab": "https://colab.research.google.com/drive/1QtTW9-ukX2HKZGvt0QvVGqjuqEykoZKI",
-        "update": 1654580960.311
+        "colab": "https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/HomeStylist.ipynb",
+        "update": 1642599844.0
+    },
+    {
+        "name": "CLIPasso",
+        "description": "Semantically-Aware Object Sketching",
+        "author": [
+            [
+                "Yael Vinker",
+                "https://yaelvi116.wixsite.com/mysite"
+            ],
+            [
+                "Ehsan Pajouheshgar",
+                "https://pajouheshgar.github.io/"
+            ],
+            [
+                "Jessica Y. Bo",
+                "https://jessica-bo.github.io/"
+            ],
+            [
+                "Roman Bachmann",
+                "https://roman-bachmann.github.io/"
+            ],
+            [
+                "Amit Haim Bermano",
+                "https://www.cs.tau.ac.il/~amberman/"
+            ],
+            [
+                "Daniel Cohen-Or",
+                "https://danielcohenor.com/"
+            ],
+            [
+                "Amir Zamir",
+                "https://vilab.epfl.ch/zamir/"
+            ],
+            [
+                "Ariel Shamir",
+                "https://faculty.runi.ac.il/arik/site/index.asp"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://clipasso.github.io/clipasso/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2202.05822"
+            ],
+            [
+                "demo",
+                "https://replicate.com/yael-vinker/clipasso"
+            ],
+            [
+                "git",
+                "https://github.com/yael-vinker/CLIPasso"
+            ],
+            [
+                "git",
+                "https://github.com/BachiLi/diffvg"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.14843"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/yael-vinker/CLIPasso/blob/main/CLIPasso.ipynb",
+        "update": 1647867324.0
+    },
+    {
+        "name": "Make-A-Scene",
+        "description": "Scene-Based Text-to-Image Generation with Human Priors",
+        "author": [
+            [
+                "Oran Gafni",
+                "https://github.com/ogafni"
+            ],
+            [
+                "Adam Polyak",
+                "https://scholar.google.com/citations?user=CP62OTMAAAAJ"
+            ],
+            [
+                "Oron Ashual",
+                "https://scholar.google.com/citations?user=CUA9JCkAAAAJ"
+            ],
+            [
+                "Shelly Sheynin",
+                "https://github.com/shellysheynin"
+            ],
+            [
+                "Devi Parikh",
+                "https://faculty.cc.gatech.edu/~parikh/"
+            ],
+            [
+                "Yaniv Taigman",
+                "https://ytaigman.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2203.13131"
+            ],
+            [
+                "git",
+                "https://github.com/CasualGANPapers/Make-A-Scene"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/ZM06MjPdoxw"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1SPyQ-epTsAOAu8BEohUokN4-b5RM_TnE",
+        "update": 1656707674.176
     }
 ]
