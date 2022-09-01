@@ -3,7 +3,7 @@ from datetime import datetime
 from json import load
 from os.path import join
 
-badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips', 'paperswithcode'}
+badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips', 'paperswithcode', 'huggingface'}
 
 def colab_url(url):
     return f'[![Open In Colab](images/colab.svg)]({url})'

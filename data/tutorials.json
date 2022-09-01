@@ -201,7 +201,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb",
-        "update": 1654635512.0
+        "update": 1659462093.0
     },
     {
         "name": "DCGAN",
@@ -249,7 +249,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb",
-        "update": 1636579234.0
+        "update": 1660745938.0
     },
     {
         "name": "Simple audio recognition",
@@ -297,7 +297,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb",
-        "update": 1638130820.0
+        "update": 1660237661.0
     },
     {
         "name": "CNN",
@@ -525,7 +525,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/nmt_with_attention.ipynb",
-        "update": 1645561308.0
+        "update": 1659556994.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -723,7 +723,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1658942447.0
+        "update": 1661381755.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -757,7 +757,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1658942447.0
+        "update": 1661381755.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -791,7 +791,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1658942447.0
+        "update": 1661381755.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -821,7 +821,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1658942447.0
+        "update": 1661381755.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -851,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1658942447.0
+        "update": 1661381755.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -885,7 +885,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1658942447.0
+        "update": 1661381755.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -903,7 +903,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1658942447.0
+        "update": 1661381755.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -929,7 +929,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1658942447.0
+        "update": 1661381755.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -1021,7 +1021,77 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/research/object_detection/colab_tutorials/deepmac_colab.ipynb",
-        "update": 1617321805.0
+        "update": 1660073413.0
+    },
+    {
+        "name": "GazeML",
+        "description": "Eye region landmarks detection",
+        "author": [
+            [
+                "shaoanlu",
+                "https://shaoanlu.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/shaoanlu/GazeML-keras"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=cLUHKYfZN5s"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/shaoanlu/GazeML-keras/blob/master/demo_colab.ipynb",
+        "update": 1554272200.0
+    },
+    {
+        "name": "Few-shot face translation",
+        "description": "A GAN based approach for one model to swap them all: model is capable of producing faces that has its gaze direction, glasses, and hiar occlusions being consistent with given source face",
+        "author": [
+            [
+                "shaoanlu",
+                "https://shaoanlu.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/shaoanlu/fewshot-face-translation-GAN"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1903.07291"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1905.01723"
+            ],
+            [
+                "link",
+                "https://drum.lib.umd.edu/handle/1903/21337"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/shaoanlu/fewshot-face-translation-GAN/blob/master/colab_demo.ipynb",
+        "update": 1567380828.0
+    },
+    {
+        "name": "Face toolbox",
+        "description": "A collection of deep learning frameworks ported to Keras for face detection, face segmentation, face parsing, iris detection, and face verification",
+        "author": [
+            [
+                "shaoanlu",
+                "https://shaoanlu.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/shaoanlu/face_toolbox_keras"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/shaoanlu/face-toolbox-keras/blob/master/demo.ipynb",
+        "update": 1570083478.0
     },
     {
         "name": "Train a GPT-2 Text-Generating Model",
@@ -1491,7 +1561,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb",
-        "update": 1562143261.0
+        "update": 1660036530.0
     },
     {
         "name": "TF-Ranking",
@@ -2413,7 +2483,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/microsoft/torchgeo/blob/main/docs/tutorials/indices.ipynb",
-        "update": 1654445923.0
+        "update": 1660746259.0
     },
     {
         "name": "Imagededup",
@@ -2853,7 +2923,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/NVIDIA/NeMo/blob/master/tutorials/00_NeMo_Primer.ipynb",
-        "update": 1645570405.0
+        "update": 1660220429.0
     },
     {
         "name": "DeepStyle",
@@ -3155,7 +3225,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/tutorial.ipynb",
-        "update": 1658128650.0
+        "update": 1659608398.0
     },
     {
         "name": "MuJoCo",
@@ -3225,7 +3295,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/dm_control/mujoco/tutorial.ipynb",
-        "update": 1658128650.0
+        "update": 1659604809.0
     },
     {
         "name": "Haiku",
@@ -3263,7 +3333,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm-haiku/blob/main/examples/haiku_lstms.ipynb",
-        "update": 1623939904.0
+        "update": 1660215432.0
     },
     {
         "name": "MyoSuite",
@@ -3305,7 +3375,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1U6vo6Q_rPhDaq6oUMV7EAZRm6s0fD1wn",
-        "update": 1653312758.826
+        "update": 1660414124.925
     },
     {
         "name": "Epistemic Neural Networks",
@@ -3360,6 +3430,128 @@
         ],
         "colab": "https://colab.research.google.com/github/deepmind/enn/blob/master/enn/colabs/enn_demo.ipynb",
         "update": 1657648975.0
+    },
+    {
+        "name": "ACME",
+        "description": "A library of reinforcement learning components and agents",
+        "author": [
+            [
+                "Matt Hoffman",
+                "https://www.mwhoffman.com/"
+            ],
+            [
+                "Bobak Shahriari",
+                "https://github.com/bshahr"
+            ],
+            [
+                "John Aslanides",
+                "https://www.aslanides.io/"
+            ],
+            [
+                "Gabriel Barth-Maron",
+                "https://github.com/fastturtle"
+            ],
+            [
+                "Feryal Behbahani",
+                "https://feryal.github.io/"
+            ],
+            [
+                "Tamara Norman",
+                "https://www.linkedin.com/in/tamara-norman-76a779138/"
+            ],
+            [
+                "Abbas Abdolmaleki",
+                "https://scholar.google.com/citations?user=cCYTVWQAAAAJ"
+            ],
+            [
+                "Albin Cassirer",
+                "https://github.com/acassirer"
+            ],
+            [
+                "Fan Yang",
+                "https://github.com/ddmbr"
+            ],
+            [
+                "Kate Baumli",
+                "https://github.com/katebaumli"
+            ],
+            [
+                "Sarah Henderson",
+                "https://www.linkedin.com/in/sarah-henderson-agilecoach/"
+            ],
+            [
+                "Alex Novikov",
+                "https://scholar.google.ru/citations?user=jMUkLqwAAAAJ"
+            ],
+            [
+                "Sergio Gómez Colmenarejo",
+                "https://scholar.google.ru/citations?user=0Dkf68EAAAAJ"
+            ],
+            [
+                "Serkan Cabi",
+                "https://scholar.google.ru/citations?&user=l-HhJaUAAAAJ"
+            ],
+            [
+                "Caglar Gulcehre",
+                "https://www.caglarg.com/"
+            ],
+            [
+                "Tom Le Paine",
+                "http://tomlepaine.github.io/"
+            ],
+            [
+                "Andrew Cowie",
+                "https://scholar.google.ru/citations?&user=aTvi5mUAAAAJ"
+            ],
+            [
+                "Ziyu Wang",
+                "https://ziyuw.github.io/"
+            ],
+            [
+                "Bilal Piot",
+                "https://scholar.google.ru/citations?&user=fqxNUREAAAAJ"
+            ],
+            [
+                "Nando de Freitas",
+                "https://github.com/nandodf"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/deepmind/acme"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2006.00979"
+            ],
+            [
+                "docs",
+                "https://dm-acme.readthedocs.io/en/latest/"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/dm_env"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/NUwDr42bPOw"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/J1XCWjuyRaI"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/pFMuQWpHI5k"
+            ],
+            [
+                "blog post",
+                "https://www.deepmind.com/publications/acme-a-new-framework-for-distributed-reinforcement-learning"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/deepmind/acme/blob/master/examples/tutorial.ipynb",
+        "update": 1645198987.0
     },
     {
         "name": "Accelerate",
@@ -3443,7 +3635,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb",
-        "update": 1658988016.0
+        "update": 1661159262.0
     },
     {
         "name": "Evidently",
@@ -3635,6 +3827,6 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/GEM-benchmark/NL-Augmenter/blob/main/notebooks/Write_a_sample_transformation.ipynb",
-        "update": 1639602216.0
+        "update": 1659766890.0
     }
 ]

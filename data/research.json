@@ -576,76 +576,6 @@
         "update": 1599880270.0
     },
     {
-        "name": "GazeML",
-        "description": "Eye region landmarks detection",
-        "author": [
-            [
-                "shaoanlu",
-                "https://shaoanlu.github.io/"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/shaoanlu/GazeML-keras"
-            ],
-            [
-                "youtube",
-                "https://www.youtube.com/watch?v=cLUHKYfZN5s"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/shaoanlu/GazeML-keras/blob/master/demo_colab.ipynb",
-        "update": 1554272200.0
-    },
-    {
-        "name": "Few-shot face translation",
-        "description": "A GAN based approach for one model to swap them all: model is capable of producing faces that has its gaze direction, glasses, and hiar occlusions being consistent with given source face",
-        "author": [
-            [
-                "shaoanlu",
-                "https://shaoanlu.github.io/"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/shaoanlu/fewshot-face-translation-GAN"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1903.07291"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1905.01723"
-            ],
-            [
-                "link",
-                "https://drum.lib.umd.edu/handle/1903/21337"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/shaoanlu/fewshot-face-translation-GAN/blob/master/colab_demo.ipynb",
-        "update": 1567380828.0
-    },
-    {
-        "name": "Face toolbox",
-        "description": "A collection of deep learning frameworks ported to Keras for face detection, face segmentation, face parsing, iris detection, and face verification",
-        "author": [
-            [
-                "shaoanlu",
-                "https://shaoanlu.github.io/"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/shaoanlu/face_toolbox_keras"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/shaoanlu/face-toolbox-keras/blob/master/demo.ipynb",
-        "update": 1570083478.0
-    },
-    {
         "name": "Group Normalization",
         "description": "A simple alternative to BN. GN divides the channels into groups and computes within each group the mean and variance for normalization.",
         "author": [
@@ -997,7 +927,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1sK0uc-GJxmdnaxHhYqD2afRknakpdTNZ",
-        "update": 1649344062.239
+        "update": 1660332544.466
     },
     {
         "name": "Analyzing Tennis Serve",
@@ -1382,6 +1312,126 @@
         "update": 1644421484.286
     },
     {
+        "name": "Demucs",
+        "description": "Hybrid Spectrogram and Waveform Source Separation",
+        "author": [
+            [
+                "Alexandre Défossez",
+                "https://ai.honu.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2111.03600"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2010.01733"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2109.05418"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1805.02410"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/demucs/"
+            ],
+            [
+                "git",
+                "https://github.com/adefossez/mdx21_demucs"
+            ],
+            [
+                "git",
+                "https://github.com/CarlGao4/Demucs-Gui"
+            ],
+            [
+                "git",
+                "https://github.com/kuielab/mdx-net-submission"
+            ],
+            [
+                "git",
+                "https://github.com/f90/Wave-U-Net"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1dC9nVxk3V_VPjUADsnFu8EiT-xnU1tGH",
+        "update": 1648049819.06
+    },
+    {
+        "name": "ConvNeXt",
+        "description": "A pure ConvNet model constructed entirely from standard ConvNet modules",
+        "author": [
+            [
+                "Zhuang Liu",
+                "https://liuzhuang13.github.io/"
+            ],
+            [
+                "Hanzi Mao",
+                "https://hanzimao.me/"
+            ],
+            [
+                "Chao-Yuan Wu",
+                "https://chaoyuan.org/"
+            ],
+            [
+                "Christoph Feichtenhofer",
+                "https://feichtenhofer.github.io/"
+            ],
+            [
+                "Trevor Darrell",
+                "https://people.eecs.berkeley.edu/~trevor/"
+            ],
+            [
+                "Saining Xie",
+                "https://www.sainingxie.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/ConvNeXt"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.03545"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/QzCjXqFnWPE"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/idiIllIQOfU"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/QqejV0LNDHA"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/akhaliq/convnext"
+            ],
+            [
+                "git",
+                "https://github.com/rwightman/pytorch-image-models"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/deit"
+            ],
+            [
+                "git",
+                "https://github.com/microsoft/unilm/tree/master/beit"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1CBYTIZ4tBMsVL5cqu9N_-Q3TBprqsfEO",
+        "update": 1642559181.197
+    },
+    {
         "name": "CartoonGAN",
         "description": "The implementation of the cartoon GAN model with PyTorch",
         "author": [
@@ -1521,7 +1571,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1659281643.0
+        "update": 1661447848.0
     },
     {
         "name": "ByteTrack",
@@ -2345,7 +2395,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb",
-        "update": 1647429868.0
+        "update": 1661407755.0
     },
     {
         "name": "Arnheim",
@@ -2983,7 +3033,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eyaler/avatars4all/blob/master/melaflefon.ipynb",
-        "update": 1613155107.0
+        "update": 1660876140.0
     },
     {
         "name": "MSG-Net",
@@ -4257,7 +4307,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb",
-        "update": 1653039617.0
+        "update": 1660061554.0
     },
     {
         "name": "Big Sleep",
@@ -4878,7 +4928,7 @@
                 "https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini--Vmlldzo4NjIxODA"
             ],
             [
-                "demo",
+                "huggingface",
                 "https://huggingface.co/spaces/flax-community/dalle-mini"
             ],
             [
@@ -5538,6 +5588,88 @@
         ],
         "colab": "https://colab.research.google.com/drive/1BXNHZBai-pXtP-ncliouXo_kUiG1Pq7M",
         "update": 1634627369.928
+    },
+    {
+        "name": "Instant-NGP",
+        "description": "Instant Neural Graphics Primitives with a Multiresolution Hash Encoding",
+        "author": [
+            [
+                "Thomas Müller",
+                "https://tom94.net/"
+            ],
+            [
+                "Alex Evans",
+                "https://research.nvidia.com/person/alex-evans"
+            ],
+            [
+                "Christoph Schied",
+                "https://research.nvidia.com/person/christoph-schied"
+            ],
+            [
+                "Alexander Keller",
+                "https://research.nvidia.com/person/alex-keller"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://nvlabs.github.io/instant-ngp/"
+            ],
+            [
+                "blog post",
+                "https://developer.nvidia.com/blog/getting-started-with-nvidia-instant-nerfs/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.05989"
+            ],
+            [
+                "tutorial",
+                "https://www.nvidia.com/en-us/on-demand/session/siggraph2022-sigg22-s-16/"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/instant-ngp"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/tiny-cuda-nn"
+            ],
+            [
+                "git",
+                "https://github.com/IDLabMedia/large-lightfields-dataset"
+            ],
+            [
+                "git",
+                "https://github.com/nickponline/dd-nerf-dataset"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/j8tMk-GE8hY"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/8GbENSmdVeE"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/DJ2hcC1orc4"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/z3-fjYzd0BA"
+            ],
+            [
+                "git",
+                "https://github.com/ocornut/imgui"
+            ],
+            [
+                "git",
+                "https://github.com/nothings/stb"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/NVlabs/instant-ngp/blob/master/notebooks/instant_ngp.ipynb",
+        "update": 1660114051.0
     },
     {
         "name": "Person Remover",
@@ -6280,6 +6412,14 @@
             [
                 "git",
                 "https://github.com/SwinTransformer/Video-Swin-Transformer"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/YqlhXgq6hcs"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/MTTR/MTTR-Referring-Video-Object-Segmentation"
             ]
         ],
         "colab": "https://colab.research.google.com/drive/12p0jpSx3pJNfZk-y_L44yeHZlhsKVra-",
@@ -6318,56 +6458,6 @@
         ],
         "colab": "https://colab.research.google.com/drive/190tKQf0aFj-Hi8STUrLc2m4DeOviv7NO",
         "update": 1641149798.191
-    },
-    {
-        "name": "Demucs",
-        "description": "Hybrid Spectrogram and Waveform Source Separation",
-        "author": [
-            [
-                "Alexandre Défossez",
-                "https://ai.honu.io/"
-            ]
-        ],
-        "links": [
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2111.03600"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2010.01733"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2109.05418"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1805.02410"
-            ],
-            [
-                "git",
-                "https://github.com/facebookresearch/demucs/"
-            ],
-            [
-                "git",
-                "https://github.com/adefossez/mdx21_demucs"
-            ],
-            [
-                "git",
-                "https://github.com/CarlGao4/Demucs-Gui"
-            ],
-            [
-                "git",
-                "https://github.com/kuielab/mdx-net-submission"
-            ],
-            [
-                "git",
-                "https://github.com/f90/Wave-U-Net"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/drive/1dC9nVxk3V_VPjUADsnFu8EiT-xnU1tGH",
-        "update": 1648049819.06
     },
     {
         "name": "Disco Diffusion",
@@ -6413,7 +6503,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/alembics/disco-diffusion/blob/master/Disco_Diffusion.ipynb",
-        "update": 1657767859.0
+        "update": 1661102145.0
     },
     {
         "name": "Deep Painterly Harmonization",
@@ -6725,6 +6815,278 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1SPyQ-epTsAOAu8BEohUokN4-b5RM_TnE",
-        "update": 1656707674.176
+        "update": 1660275880.152
+    },
+    {
+        "name": "Score SDE",
+        "description": "Score-Based Generative Modeling through Stochastic Differential Equations",
+        "author": [
+            [
+                "Yang Song",
+                "https://yang-song.net/"
+            ],
+            [
+                "Jascha Sohl-Dickstein",
+                "http://www.sohldickstein.com/"
+            ],
+            [
+                "Diederik Kingma",
+                "http://dpkingma.com/"
+            ],
+            [
+                "Abhishek Kumar",
+                "https://abhishek.umiacs.io/"
+            ],
+            [
+                "Stefano Ermon",
+                "https://cs.stanford.edu/~ermon/"
+            ],
+            [
+                "Ben Poole",
+                "https://cs.stanford.edu/~poole/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/yang-song/score_sde"
+            ],
+            [
+                "git",
+                "https://github.com/yang-song/score_sde_pytorch"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2011.13456"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1907.05600"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2006.09011"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2006.11239"
+            ],
+            [
+                "git",
+                "https://github.com/google/ml_collections"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/L9ZegT87QK8"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/yang-song/score_sde/blob/main/Score_SDE_demo.ipynb",
+        "update": 1616090469.0
+    },
+    {
+        "name": "Fourier Feature Networks",
+        "description": "Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains",
+        "author": [
+            [
+                "Matthew Tancik",
+                "https://www.matthewtancik.com/"
+            ],
+            [
+                "Pratul Srinivasan",
+                "https://pratulsrinivasan.github.io/"
+            ],
+            [
+                "Ben Mildenhall",
+                "https://bmild.github.io/"
+            ],
+            [
+                "Sara Fridovich-Keil",
+                "https://people.eecs.berkeley.edu/~sfk/"
+            ],
+            [
+                "Nithin Raghavan",
+                "https://cseweb.ucsd.edu//~n2raghavan/"
+            ],
+            [
+                "Utkarsh Singhal",
+                "https://scholar.google.com/citations?user=lvA86MYAAAAJ"
+            ],
+            [
+                "Ravi Ramamoorthi",
+                "https://cseweb.ucsd.edu//~ravir/"
+            ],
+            [
+                "Jonathan Barron",
+                "https://jonbarron.info/"
+            ],
+            [
+                "Ren Ng",
+                "https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://bmild.github.io/fourfeat/"
+            ],
+            [
+                "neurips",
+                "https://proceedings.neurips.cc/paper/2020/hash/55053683268957697aa39fba6f231c68-Abstract.html"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/nVA6K6Sn2S4"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1806.07572"
+            ],
+            [
+                "neurips",
+                "https://papers.nips.cc/paper/2007/hash/013a006f03dbc5392effeb8f18fda755-Abstract.html"
+            ],
+            [
+                "git",
+                "https://github.com/tancik/fourier-feature-networks"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tancik/fourier-feature-networks/blob/master/Demo.ipynb",
+        "update": 1661678581.0
+    },
+    {
+        "name": "GANgealing",
+        "description": "Framework for learning discriminative models and their GAN-generated training data jointly end-to-end",
+        "author": [
+            [
+                "William Peebles",
+                "https://www.wpeebles.com/"
+            ],
+            [
+                "Jun-Yan Zhu",
+                "https://www.cs.cmu.edu/~junyanz/"
+            ],
+            [
+                "Richard Zhang",
+                "http://richzhang.github.io/"
+            ],
+            [
+                "Antonio Torralba",
+                "https://groups.csail.mit.edu/vision/torralbalab/"
+            ],
+            [
+                "Alexei Efros",
+                "https://people.eecs.berkeley.edu/~efros/"
+            ],
+            [
+                "Eli Shechtman",
+                "https://research.adobe.com/person/eli-shechtman/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/wpeebles/gangealing"
+            ],
+            [
+                "project",
+                "https://www.wpeebles.com/gangealing"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2112.05143"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Qa1ASS_NuzE"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/qtOkktTNs-k"
+            ],
+            [
+                "git",
+                "https://github.com/nileshkulkarni/acsm"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ],
+            [
+                "git",
+                "https://jitengmu.github.io/CoordGAN/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1JkUjhTjR8MyLxwarJjqnh836BICfocTu",
+        "update": 1661983857.218
+    },
+    {
+        "name": "Global Flow Local Attention",
+        "description": "Differentiable global-flow local-attention framework to reassemble the inputs at the feature level",
+        "author": [
+            [
+                "Yurui Ren",
+                "https://renyurui.github.io/"
+            ],
+            [
+                "Xiaoming Yu",
+                "https://xiaoming-yu.github.io/"
+            ],
+            [
+                "Junming Chen",
+                "https://github.com/R-JunmingChen"
+            ],
+            [
+                "Thomas Li",
+                "https://ieeexplore.ieee.org/author/37086497292"
+            ],
+            [
+                "Ge Li",
+                "https://ieeexplore.ieee.org/author/37085815762"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://renyurui.github.io/GFLA-web/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2003.00696"
+            ],
+            [
+                "git",
+                "https://github.com/RenYurui/Global-Flow-Local-Attention"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1605.03557"
+            ],
+            [
+                "medium",
+                "https://gt3rs.medium.com/compile-with-nvcc-3566fbdfdbf"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Ju0hBzCwsyU"
+            ],
+            [
+                "git",
+                "https://github.com/ondyari/FaceForensics"
+            ],
+            [
+                "data",
+                "https://shapenet.org/"
+            ],
+            [
+                "git",
+                "https://github.com/NVIDIA/vid2vid"
+            ],
+            [
+                "git",
+                "https://github.com/tengteng95/Pose-Transfer"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/RenYurui/Global-Flow-Local-Attention/blob/master/demo.ipynb",
+        "update": 1588254021.0
     }
 ]
