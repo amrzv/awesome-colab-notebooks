@@ -34,6 +34,100 @@
         "update": 1535546403.0
     },
     {
+        "name": "Classification of chest vs. adominal X-rays",
+        "description": "The goal of this tutorial is to build a deep learning classifier to accurately differentiate between chest and abdominal X-rays",
+        "author": [
+            [
+                "tmoneyx01",
+                "https://github.com/tmoneyx01"
+            ]
+        ],
+        "links": [
+            [
+                "annotator",
+                "https://public.md.ai/annotator/project/PVq9raBJ"
+            ],
+            [
+                "git",
+                "https://github.com/mdai/mdai-client-py"
+            ],
+            [
+                "docs",
+                "https://docs.md.ai/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mdai/ml-lessons/blob/master/lesson1-xray-images-classification.ipynb",
+        "update": 1583556420.0
+    },
+    {
+        "name": "Lung X-Rays Semantic Segmentation",
+        "description": "This lesson applies a U-Net for Semantic Segmentation of the lung fields on chest x-rays",
+        "author": [
+            [
+                "tmoneyx01",
+                "https://github.com/tmoneyx01"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1505.04597"
+            ],
+            [
+                "annotator",
+                "https://public.md.ai/annotator/project/aGq4k6NW"
+            ],
+            [
+                "git",
+                "https://github.com/mdai/mdai-client-py"
+            ],
+            [
+                "data",
+                "https://ceb.nlm.nih.gov/repositories/tuberculosis-chest-x-ray-image-data-sets/"
+            ],
+            [
+                "docs",
+                "https://docs.md.ai/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mdai/ml-lessons/blob/master/lesson2-lung-xrays-segmentation.ipynb",
+        "update": 1583556420.0
+    },
+    {
+        "name": "RSNA Pneumonia Detection Challenge (Kaggel API)",
+        "description": "The basics of parsing the competition dataset, training using a detector basd on the Mask-RCNN algorithm for object detection and instance segmentation",
+        "author": [
+            [
+                "tmoneyx01",
+                "https://github.com/tmoneyx01"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1703.06870"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/c/rsna-pneumonia-detection-challenge"
+            ],
+            [
+                "annotator",
+                "https://public.md.ai/annotator/project/LxR6zdR2/workspace"
+            ],
+            [
+                "git",
+                "https://github.com/mdai/mdai-client-py"
+            ],
+            [
+                "docs",
+                "https://docs.md.ai/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mdai/ml-lessons/blob/master/lesson3-rsna-pneumonia-detection-kaggle.ipynb",
+        "update": 1535962706.0
+    },
+    {
         "name": "Transfer learning and fine-tuning",
         "description": "You will learn how to classify images of cats and dogs by using transfer learning from a pre-trained network",
         "author": [
@@ -97,7 +191,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/style_transfer.ipynb",
-        "update": 1656236422.0
+        "update": 1664202765.0
     },
     {
         "name": "Adversarial FGSM",
@@ -279,7 +373,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/audio/simple_audio.ipynb",
-        "update": 1650945160.0
+        "update": 1663627081.0
     },
     {
         "name": "Image classification",
@@ -629,7 +723,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/transformer.ipynb",
-        "update": 1653405864.0
+        "update": 1663617349.0
     },
     {
         "name": "Word2Vec",
@@ -723,7 +817,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1661381755.0
+        "update": 1663341903.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -757,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1661381755.0
+        "update": 1663341903.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -791,7 +885,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1661381755.0
+        "update": 1663341903.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -821,7 +915,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1661381755.0
+        "update": 1663341903.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -851,7 +945,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1661381755.0
+        "update": 1663341903.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -885,7 +979,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1661381755.0
+        "update": 1663341903.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -903,7 +997,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1661381755.0
+        "update": 1663341903.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -929,7 +1023,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1661381755.0
+        "update": 1663883068.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -1148,6 +1242,72 @@
         ],
         "colab": "https://colab.research.google.com/drive/144MdX5aLqrQ3-YW-po81CQMrD6kpgpYh",
         "update": 1621222464.69
+    },
+    {
+        "name": "Train a GPT-2 Model on Tweets",
+        "description": "Train the model on your downloaded tweets, and generate massive amounts of Tweets from it",
+        "author": [
+            [
+                "Max Woolf",
+                "https://minimaxir.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/minimaxir/download-tweets-ai-text-gen"
+            ],
+            [
+                "GPT-2",
+                "https://openai.com/blog/better-language-models/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1qxcQ2A1nNjFudAGN_mcMOnvV9sF_PkEb",
+        "update": 1579148034.702
+    },
+    {
+        "name": "automl-gs on a TPU",
+        "description": "Give an input CSV file and a target field you want to predict to automl-gs, and get a trained high-performing machine learning or deep learning model plus native Python code pipelines allowing you to integrate that model into any prediction workflow",
+        "author": [
+            [
+                "Max Woolf",
+                "https://minimaxir.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/minimaxir/automl-gs"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1sbF8cqnOsdzN9Bdt74eER5s_xXcdvatV",
+        "update": 1553580859.738
+    },
+    {
+        "name": "textgenrnn",
+        "description": "Generate text using a pretrained neural network with a few lines of code, or easily train your own text-generating neural network of any size and complexity",
+        "author": [
+            [
+                "Max Woolf",
+                "https://minimaxir.com/"
+            ]
+        ],
+        "links": [
+            [
+                "blog post",
+                "http://minimaxir.com/2018/05/text-neural-networks/"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=RW7mP6BfZuY"
+            ],
+            [
+                "git",
+                "https://github.com/minimaxir/textgenrnn"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1mMKGnVxirJnqDViH7BDJxFqWrsXlPSoK",
+        "update": 1626144610.804
     },
     {
         "name": "YOLOv4",
@@ -1564,6 +1724,36 @@
         "update": 1660036530.0
     },
     {
+        "name": "Analyzing Tennis Serve",
+        "description": "We'll use the Video Intelligence API to analyze a tennis serve, including the angle of the arms and legs during the serve",
+        "author": [
+            [
+                "Dale Markowitz",
+                "https://daleonai.com/"
+            ]
+        ],
+        "links": [
+            [
+                "blog post",
+                "https://daleonai.com/machine-learning-for-sports"
+            ],
+            [
+                "git",
+                "https://github.com/google/making_with_ml/tree/master/sports_ai"
+            ],
+            [
+                "medium",
+                "https://manivannan-ai.medium.com/find-the-angle-between-three-points-from-2d-using-python-348c513e2cd"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=yLrOy2Xedgk"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/google/making_with_ml/blob/master/sports_ai/Sports_AI_Analysis.ipynb",
+        "update": 1594745619.0
+    },
+    {
         "name": "TF-Ranking",
         "description": "End-to-end walkthrough of training a TensorFlow Ranking neural network model which incorporates sparse textual features",
         "author": [
@@ -1832,6 +2022,118 @@
         ],
         "colab": "https://colab.research.google.com/drive/11GK7k7G1CG1qHbdA9Pz1RtQ3vlCkuohV",
         "update": 1596758022.342
+    },
+    {
+        "name": "MyoSuite",
+        "description": "A collection of musculoskeletal environments and tasks simulated with the MuJoCo physics engine and wrapped in the OpenAI gym API to enable the application of Machine Learning to bio-mechanic control problems",
+        "author": [
+            [
+                "Vittorio Caggiano",
+                "https://github.com/Vittorio-Caggiano"
+            ],
+            [
+                "Huawei Wang",
+                "https://huaweiwang.github.io/"
+            ],
+            [
+                "Guillaume Durandau",
+                "https://people.utwente.nl/g.v.durandau"
+            ],
+            [
+                "Massimo Sartori",
+                "https://people.utwente.nl/m.sartori"
+            ],
+            [
+                "Vikash Kumar",
+                "https://vikashplus.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2205.13600"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/myosuite"
+            ],
+            [
+                "docs",
+                "https://myosuite.readthedocs.io/en/latest/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1U6vo6Q_rPhDaq6oUMV7EAZRm6s0fD1wn",
+        "update": 1660414124.925
+    },
+    {
+        "name": "BANMo",
+        "description": "Given multiple casual videos capturing a deformable object, BANMo reconstructs an animatable 3D model, including an implicit canonical 3D shape, appearance, skinning weights, and time-varying articulations, without pre-defined shape templates or registered cameras",
+        "author": [
+            [
+                "Gengshan Yang",
+                "https://gengshan-y.github.io/"
+            ],
+            [
+                "Minh Vo",
+                "https://minhpvo.github.io/"
+            ],
+            [
+                "Natalia Neverova",
+                "https://nneverova.github.io/"
+            ],
+            [
+                "Deva Ramanan",
+                "http://www.cs.cmu.edu/~deva/"
+            ],
+            [
+                "Andrea Vedaldi",
+                "https://www.robots.ox.ac.uk/~vedaldi/"
+            ],
+            [
+                "Hanbyul Joo",
+                "https://jhugestar.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/banmo"
+            ],
+            [
+                "project",
+                "https://banmo-www.github.io/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2112.12761"
+            ],
+            [
+                "git",
+                "https://github.com/kwea123/nerf_pl"
+            ],
+            [
+                "git",
+                "https://github.com/gengshan-y/rigidmask"
+            ],
+            [
+                "git",
+                "https://github.com/ShichenLiu/SoftRas"
+            ],
+            [
+                "git",
+                "https://github.com/ThibaultGROUEIX/ChamferDistancePytorch"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/1NUa-yvFGA0"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/jDTy-liFoCQ"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1dQJn1vsuz0DkyRZbOA1SulkVQ0V1kMUP",
+        "update": 1655585285.341
     },
     {
         "name": "Spleeter",
@@ -2179,7 +2481,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eleurent/highway-env/blob/master/scripts/parking_model_based.ipynb",
-        "update": 1647685079.0
+        "update": 1664097170.0
     },
     {
         "name": "GAN steerability",
@@ -2483,7 +2785,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/microsoft/torchgeo/blob/main/docs/tutorials/indices.ipynb",
-        "update": 1660746259.0
+        "update": 1662930202.0
     },
     {
         "name": "Imagededup",
@@ -2923,7 +3225,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/NVIDIA/NeMo/blob/master/tutorials/00_NeMo_Primer.ipynb",
-        "update": 1660220429.0
+        "update": 1664231141.0
     },
     {
         "name": "DeepStyle",
@@ -3225,7 +3527,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/tutorial.ipynb",
-        "update": 1659608398.0
+        "update": 1662559689.0
     },
     {
         "name": "MuJoCo",
@@ -3295,7 +3597,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/dm_control/mujoco/tutorial.ipynb",
-        "update": 1659604809.0
+        "update": 1662559689.0
     },
     {
         "name": "Haiku",
@@ -3334,48 +3636,6 @@
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm-haiku/blob/main/examples/haiku_lstms.ipynb",
         "update": 1660215432.0
-    },
-    {
-        "name": "MyoSuite",
-        "description": "A collection of musculoskeletal environments and tasks simulated with the MuJoCo physics engine and wrapped in the OpenAI gym API to enable the application of Machine Learning to bio-mechanic control problems",
-        "author": [
-            [
-                "Vittorio Caggiano",
-                "https://github.com/Vittorio-Caggiano"
-            ],
-            [
-                "Huawei Wang",
-                "https://huaweiwang.github.io/"
-            ],
-            [
-                "Guillaume Durandau",
-                "https://people.utwente.nl/g.v.durandau"
-            ],
-            [
-                "Massimo Sartori",
-                "https://people.utwente.nl/m.sartori"
-            ],
-            [
-                "Vikash Kumar",
-                "https://vikashplus.github.io/"
-            ]
-        ],
-        "links": [
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2205.13600"
-            ],
-            [
-                "git",
-                "https://github.com/facebookresearch/myosuite"
-            ],
-            [
-                "docs",
-                "https://myosuite.readthedocs.io/en/latest/"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/drive/1U6vo6Q_rPhDaq6oUMV7EAZRm6s0fD1wn",
-        "update": 1660414124.925
     },
     {
         "name": "Epistemic Neural Networks",
@@ -3551,7 +3811,167 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/acme/blob/master/examples/tutorial.ipynb",
-        "update": 1645198987.0
+        "update": 1664181377.0
+    },
+    {
+        "name": "Sonnet",
+        "description": "Library built on top of TensorFlow 2 designed to provide simple, composable abstractions for machine learning research",
+        "author": [
+            [
+                "Malcolm Reynolds",
+                "https://github.com/malcolmreynolds"
+            ],
+            [
+                "Jack Rae",
+                ""
+            ],
+            [
+                "Andreas Fidjeland",
+                "https://github.com/akfidjeland"
+            ],
+            [
+                "Fabio Viola",
+                "https://github.com/fabioviola"
+            ],
+            [
+                "Adrià Puigdomènech",
+                "https://github.com/adria-p"
+            ],
+            [
+                "Frederic Besse",
+                "https://github.com/fbesse"
+            ],
+            [
+                "Tim Green",
+                "http://tfgg.me/"
+            ],
+            [
+                "Sébastien Racanière",
+                "https://scholar.google.com/citations?user=o-h0vrQAAAAJ"
+            ],
+            [
+                "Gabriel Barth-Maron",
+                "https://scholar.google.com/citations?user=mr1r8tgAAAAJ"
+            ],
+            [
+                "Diego de Las Casas",
+                "https://github.com/diegolascasas"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/deepmind/sonnet"
+            ],
+            [
+                "docs",
+                "https://sonnet.readthedocs.io/en/latest/index.html"
+            ],
+            [
+                "blog post",
+                "https://www.deepmind.com/blog/open-sourcing-sonnet-a-new-library-for-constructing-neural-networks"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/rlpQjnUvoKw"
+            ],
+            [
+                "tf",
+                "https://www.tensorflow.org/guide/checkpoint"
+            ],
+            [
+                "tf",
+                "https://www.tensorflow.org/guide/saved_model"
+            ],
+            [
+                "neurips",
+                "https://papers.nips.cc/paper/2016/hash/fb87582825f9d28a8d42c5e5e5e8b23d-Abstract.html"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/deepmind/sonnet/blob/v2/examples/little_gan_on_mnist.ipynb",
+        "update": 1587100781.0
+    },
+    {
+        "name": "bsuite",
+        "description": "A collection of carefully-designed experiments that investigate core capabilities of an RL agent with two main objectives",
+        "author": [
+            [
+                "Ian Osband",
+                "http://iosband.github.io/"
+            ],
+            [
+                "Yotam Doron",
+                "http://www.yotamdoron.com/"
+            ],
+            [
+                "Matteo Hessel",
+                "https://github.com/mtthss"
+            ],
+            [
+                "John Aslanides",
+                "https://www.aslanides.io/"
+            ],
+            [
+                "Eren Sezener",
+                "http://erensezener.com/"
+            ],
+            [
+                "Andre Saraiva",
+                "https://andresnds.wordpress.com/"
+            ],
+            [
+                "Katrina McKinney",
+                "https://medium.com/@katrinamckinney"
+            ],
+            [
+                "Tor Lattimore",
+                "http://tor-lattimore.com/"
+            ],
+            [
+                "Csaba Szepesvari",
+                "https://sites.ualberta.ca/~szepesva/"
+            ],
+            [
+                "Satinder Singh",
+                "http://web.eecs.umich.edu/~baveja/"
+            ],
+            [
+                "Benjamin Van Roy",
+                "https://web.stanford.edu/~bvr/"
+            ],
+            [
+                "Richard Sutton",
+                "http://www.incompleteideas.net/"
+            ],
+            [
+                "David Silver",
+                "https://www.davidsilver.uk/"
+            ],
+            [
+                "Hado Van Hasselt",
+                "https://hadovanhasselt.com/"
+            ]
+        ],
+        "links": [
+            [
+                "paper",
+                "https://openreview.net/forum?id=rygf-kSYwH"
+            ],
+            [
+                "git",
+                "https://github.com/deepmind/bsuite"
+            ],
+            [
+                "git",
+                "https://github.com/openai/gym"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Wcv4eU_qtZU"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1rU20zJ281sZuMD1DHbsODFr1DbASL0RH",
+        "update": 1613174366.054
     },
     {
         "name": "Accelerate",
@@ -3632,10 +4052,30 @@
             [
                 "medium",
                 "https://towardsdatascience.com/hugging-face-just-released-the-diffusers-library-846f32845e65"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/CompVis/text2img-latent-diffusion"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/CompVis/celeba-latent-diffusion"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/fusing/celeba-diffusion"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/huggingface/diffuse-the-rest"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/Shuang59/Composable-Diffusion"
             ]
         ],
         "colab": "https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb",
-        "update": 1661159262.0
+        "update": 1664266556.0
     },
     {
         "name": "Evidently",
@@ -3828,5 +4268,987 @@
         ],
         "colab": "https://colab.research.google.com/github/GEM-benchmark/NL-Augmenter/blob/main/notebooks/Write_a_sample_transformation.ipynb",
         "update": 1659766890.0
+    },
+    {
+        "name": "Person Remover",
+        "description": "Project that combines Pix2Pix and YOLO arhitectures in order to remove people or other objects from photos",
+        "author": [
+            [
+                "Javier Gamazo",
+                "https://www.javiergamazo.com/"
+            ],
+            [
+                "Daryl Autar",
+                "https://github.com/Daryl149"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/javirk/Person_remover"
+            ],
+            [
+                "git",
+                "https://github.com/javirk/Person-remover-partial-convolutions"
+            ],
+            [
+                "git",
+                "https://github.com/zzh8829/yolov3-tf2"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=_dRjY9gMcxE"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1JDpH8MAjaKoekQ_H9ZaxYJ9_axiDtDGm",
+        "update": 1598098239.644
+    },
+    {
+        "name": "Background Matting",
+        "description": "The notebook is split into three parts: required setup, running the algorithm on photos, and running it on videos",
+        "author": [
+            [
+                "Andrey Ryabtsev",
+                "https://github.com/andreyryabtsev"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2004.00626"
+            ],
+            [
+                "blog post",
+                "https://towardsdatascience.com/background-matting-the-world-is-your-green-screen-83a3c4f0f635"
+            ],
+            [
+                "git",
+                "https://github.com/senguptaumd/Background-Matting"
+            ],
+            [
+                "data",
+                "https://drive.google.com/open?id=1j3BMrRFhFpfzJAe6P2WDtfanoeSCLPiq"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/gist/andreyryabtsev/243aa3eefa6e06891dda7b1583d1d08f/backmatting.ipynb",
+        "update": 1589806735.0
+    },
+    {
+        "name": "RNN for Predictive Maintenance",
+        "description": "LSTM network in order to predict remaining useful life of aircraft engines",
+        "author": [
+            [
+                "Umberto Griffo",
+                "https://github.com/umbertogriffo"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM"
+            ],
+            [
+                "git",
+                "https://github.com/Azure/lstms_for_predictive_maintenance/blob/master/Deep%20Learning%20Basics%20for%20Predictive%20Maintenance.ipynb"
+            ],
+            [
+                "link",
+                "https://gallery.azure.ai/Experiment/Predictive-Maintenance-Step-2A-of-3-train-and-evaluate-regression-models-2"
+            ],
+            [
+                "data",
+                "https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1tjIOud2Cc6smmvZsbl-QDBA6TLA2iEtd",
+        "update": 1585901739.618
+    },
+    {
+        "name": "Earth Engine Python API and Folium Interactive Mapping",
+        "description": "This notebook demonstrates how to setup the Earth Engine and provides several examples for visualizing Earth Engine processed data interactively using the folium library",
+        "author": [
+            [
+                "Qiusheng Wu",
+                "https://wetlands.io/"
+            ]
+        ],
+        "links": [
+            [
+                "api",
+                "https://developers.google.com/earth-engine/python_install"
+            ],
+            [
+                "git",
+                "https://github.com/python-visualization/folium"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/giswqs/qgis-earthengine-examples/blob/master/Folium/ee-api-folium-setup.ipynb",
+        "update": 1579526571.0
+    },
+    {
+        "name": "Traffic counting",
+        "description": "Making Road Traffic Counting App based on Computer Vision and OpenCV",
+        "author": [
+            [
+                "Andrey Nikishaev",
+                "https://github.com/creotiv"
+            ]
+        ],
+        "links": [
+            [
+                "medium",
+                "https://medium.com/machine-learning-world/tutorial-making-road-traffic-counting-app-based-on-computer-vision-and-opencv-166937911660"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/watch?v=_o5iLbRHKao"
+            ],
+            [
+                "git",
+                "https://github.com/creotiv/object_detection_projects/tree/master/opencv_traffic_counting"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/12N4m_RYKqrpozRzh9qe7nQE_sIqQH9U8",
+        "update": 1578663579.317
+    },
+    {
+        "name": "Imaging-AMARETTO",
+        "description": "An imaging genomics software tool to systematically interrogate multi-omics networks for relevance to radiography and histopathology imaging biomarkers of clinical outcomes with application to studies of brain tumors",
+        "author": [
+            [
+                "Nathalie Pochet",
+                "http://portals.broadinstitute.org/pochetlab/"
+            ],
+            [
+                "Olivier Gevaert",
+                "https://profiles.stanford.edu/olivier-gevaert"
+            ],
+            [
+                "Mohsen Nabian",
+                "https://github.com/monabiyan"
+            ],
+            [
+                "Celine Everaert",
+                "http://www.crig.ugent.be/en/node/510"
+            ],
+            [
+                "Jayendra Shinde",
+                "https://jayendrashinde91.github.io/"
+            ],
+            [
+                "Artur Manukyan",
+                "https://artur-man.github.io/"
+            ],
+            [
+                "Thorin Tabor",
+                "http://thorin.tabcreations.com/"
+            ],
+            [
+                "Mikel Hernaez",
+                "http://mikelhernaez.github.io/"
+            ],
+            [
+                "Jill Mesirov",
+                "https://en.wikipedia.org/wiki/Jill_P._Mesirov"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "http://portals.broadinstitute.org/pochetlab/amaretto.html"
+            ],
+            [
+                "git",
+                "https://github.com/broadinstitute/ImagingAMARETTO"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/14u1KZJ3Gf-9qjDycyBKzBiN5VzzOa2xU",
+        "update": 1575041033.629
+    },
+    {
+        "name": "Breast Cancer detection",
+        "description": "A Neural Network for detecting breast cancer in cell scans!",
+        "author": [
+            [
+                "Peter Teoh",
+                "https://github.com/tthtlc"
+            ],
+            [
+                "Laurence Moroney",
+                "https://laurencemoroney.com/"
+            ]
+        ],
+        "links": [
+            [
+                "medium",
+                "https://medium.com/@lmoroney_google/use-tensorflow-to-build-a-breast-cancer-detection-neural-network-3b2ff5cf68cb"
+            ],
+            [
+                "data",
+                "https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/12DKmhi5z5Qx84iJQ8FTq5hHsG5UUHUcG",
+        "update": 1556419846.973
+    },
+    {
+        "name": "Edge Detection",
+        "description": "Edge detection in OpenCV and skimage",
+        "author": [
+            [
+                "Yuhuang Hu",
+                "https://dgyblog.com/"
+            ]
+        ],
+        "links": [
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Edge_detection"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/10ZIvyVgDjGlWd09LJZzwboQs-4RPlCut",
+        "update": 1550255216.592
+    },
+    {
+        "name": "HoF",
+        "description": "This notebook will walk you step by step through the process of using a pre-trained model to detect faces in an image",
+        "author": [
+            [
+                "Lucas Persona",
+                "http://www.lucaspersona.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/the-house-of-black-and-white/hall-of-faces"
+            ],
+            [
+                "data",
+                "http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/"
+            ],
+            [
+                "yolo",
+                "https://pjreddie.com/darknet/yolo/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1lJWquGmKoMm68qNuwjSnfMjjIi-UTzI1",
+        "update": 1524486647.85
+    },
+    {
+        "name": "HuggingArtists",
+        "description": "Choose your favorite Artist and train a language model to write new lyrics based on their unique voice",
+        "author": [
+            [
+                "Aleksey Korshuk",
+                "https://github.com/AlekseyKorshuk"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/AlekseyKorshuk/huggingartists"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/AlekseyKorshuk/huggingartists"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/huggingartists"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/AlekseyKorshuk/huggingartists/blob/master/huggingartists-demo.ipynb",
+        "update": 1656158058.0
+    },
+    {
+        "name": "CLIPDraw",
+        "description": "Synthesize drawings to match a text prompt",
+        "author": [
+            [
+                "Kevin Frans",
+                "https://www.kvfrans.com/"
+            ],
+            [
+                "Lisa Soros",
+                "https://scholar.google.com/citations?user=iUkpvMUAAAAJ"
+            ],
+            [
+                "Olaf Witkowski",
+                "https://olafwitkowski.com/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.14843"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1508.06576"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2105.00162"
+            ],
+            [
+                "blog post",
+                "https://kvfrans.com/clipdraw-exploring-text-to-drawing-synthesis/"
+            ],
+            [
+                "git",
+                "https://github.com/kvfrans/clipdraw"
+            ],
+            [
+                "git",
+                "https://github.com/BachiLi/diffvg/blob/master/apps/painterly_rendering.py"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb",
+        "update": 1651174599.0
+    },
+    {
+        "name": "OpenCLIP",
+        "description": "An open source implementation of CLIP",
+        "author": [
+            [
+                "Ross Wightman",
+                "https://rwightman.com/"
+            ],
+            [
+                "Cade Gordon",
+                "https://cadegordon.io/"
+            ],
+            [
+                "Vaishaal Shankar",
+                "http://vaishaal.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/mlfoundations/open_clip"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2109.01903"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.00020"
+            ],
+            [
+                "data",
+                "https://ai.google.com/research/ConceptualCaptions/download"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2111.02114"
+            ],
+            [
+                "data",
+                "https://laion.ai/blog/laion-5b/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2107.04649"
+            ],
+            [
+                "git",
+                "https://github.com/mlfoundations/wise-ft"
+            ],
+            [
+                "git",
+                "https://github.com/webdataset/webdataset"
+            ],
+            [
+                "git",
+                "https://github.com/webdataset/tarp"
+            ],
+            [
+                "data",
+                "https://laion.ai/blog/laion-400-open-dataset/"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/datasets/laion/laion2B-en"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/laion/CLIP-ViT-B-32-laion2B-s34B-b79K"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-s32B-b82K"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/laion/CLIP-ViT-g-14-laion2B-s12B-b42K"
+            ],
+            [
+                "git",
+                "https://github.com/google-research-datasets/conceptual-12m"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1902.10811"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2107.04649"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/mlfoundations/open_clip/blob/master/docs/Interacting_with_open_clip.ipynb",
+        "update": 1649268848.0
+    },
+    {
+        "name": "ArcaneGAN",
+        "description": "Process video in the style of the Arcane animated series",
+        "author": [
+            [
+                "Alexander Spirin",
+                "https://github.com/Sxela"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/Sxela/ArcaneGAN"
+            ],
+            [
+                "git",
+                "https://github.com/Sxela/stylegan3_blending"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Fi199uFW6jE"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/AJG4X7IokG8"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1r1hhciakk5wHaUn1eJk7TP58fV9mjy_W",
+        "update": 1645095391.826
+    },
+    {
+        "name": "Text2Animation",
+        "description": "Generate images from text phrases with VQGAN and CLIP with animation and keyframes",
+        "author": [
+            [
+                "Katherine Crowson",
+                "https://kath.io/"
+            ],
+            [
+                "Ryan Murdock",
+                "https://twitter.com/advadnoun"
+            ],
+            [
+                "Chigozie Nri",
+                "https://github.com/chigozienri"
+            ],
+            [
+                "Denis Malimonov",
+                "https://github.com/tg-bomze"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/chigozienri/VQGAN-CLIP-animations"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2012.09841"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.00020"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/channel/UCToztRy9FSTIhEen_1x4FAw"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Text2Animation.ipynb",
+        "update": 1632908592.0
+    },
+    {
+        "name": "Toon-Me",
+        "description": "A fun project to toon portrait images",
+        "author": [
+            [
+                "Vijish Madhavan",
+                "https://github.com/vijishmadhavan"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1710.10196"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1707.02921"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1603.08155"
+            ],
+            [
+                "git",
+                "https://github.com/vijishmadhavan/Toon-Me"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb",
+        "update": 1611303874.0
+    },
+    {
+        "name": "MindsEye",
+        "description": "Graphical user interface built to run multimodal ai art models for free from a Google Colab, without needing edit a single line of code or know any programming",
+        "author": [
+            [
+                "multimodal.art",
+                "https://multimodal.art/"
+            ],
+            [
+                "João Paulo Apolinário Passos",
+                "http://www.apolinariopassos.com.br/portfolio/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/multimodalart/mindseye"
+            ],
+            [
+                "project",
+                "https://multimodal.art/mindseye"
+            ],
+            [
+                "git",
+                "https://github.com/openai/guided-diffusion"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1cg0LZ5OfN9LAIB37Xq49as0fSJxcKtC5",
+        "update": 1657101595.331
+    },
+    {
+        "name": "DALL·E Flow",
+        "description": "An interactive workflow for generating high-definition images from text prompt",
+        "author": [
+            [
+                "Han Xiao",
+                "https://hanxiao.io/"
+            ],
+            [
+                "Delgermurun Purevkhuu",
+                "https://delgermurun.com/"
+            ],
+            [
+                "Alex Cureton-Griffiths",
+                "http://blog.alexcg.net/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/jina-ai/dalle-flow"
+            ],
+            [
+                "git",
+                "https://github.com/Jack000/glid-3-xl"
+            ],
+            [
+                "git",
+                "https://github.com/jina-ai/docarray"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/CompVis/stable-diffusion-v-1-4-original"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/playlist?list=PL3UBBWOUVhFYRUa_gpYYKBqEAkO4sxmne"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/c/jina-ai"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb",
+        "update": 1663064186.0
+    },
+    {
+        "name": "CLIP-as-service",
+        "description": "A low-latency high-scalability service for embedding images and text",
+        "author": [
+            [
+                "Han Xiao",
+                "https://hanxiao.io/"
+            ]
+        ],
+        "links": [
+            [
+                "webpage",
+                "https://clip-as-service.jina.ai/"
+            ],
+            [
+                "git",
+                "https://github.com/jina-ai/clip-as-service"
+            ],
+            [
+                "git",
+                "https://github.com/jina-ai/docarray"
+            ],
+            [
+                "data",
+                "https://sites.google.com/view/totally-looks-like-dataset"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/playlist?list=PL3UBBWOUVhFYRUa_gpYYKBqEAkO4sxmne"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/c/jina-ai"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/jina-ai/clip-as-service/blob/main/docs/hosting/cas-on-colab.ipynb",
+        "update": 1655664169.0
+    },
+    {
+        "name": "Jina",
+        "description": "MLOps framework that empowers anyone to build cross-modal and multi-modal applications on the cloud",
+        "author": [
+            [
+                "Han Xiao",
+                "https://hanxiao.io/"
+            ]
+        ],
+        "links": [
+            [
+                "docs",
+                "https://docs.jina.ai/"
+            ],
+            [
+                "git",
+                "https://github.com/jina-ai/jina"
+            ],
+            [
+                "hub",
+                "https://hub.jina.ai/"
+            ],
+            [
+                "git",
+                "https://github.com/jina-ai/example-grafana-prometheus/blob/main/grafana-dashboards/flow.json"
+            ],
+            [
+                "data",
+                "https://sites.google.com/view/totally-looks-like-dataset"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/playlist?list=PL3UBBWOUVhFYRUa_gpYYKBqEAkO4sxmne"
+            ],
+            [
+                "youtube",
+                "https://www.youtube.com/c/jina-ai"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/jina-ai/jina/blob/master/docs/Using_Jina_on_Colab.ipynb",
+        "update": 1654970420.0
+    },
+    {
+        "name": "Stable Diffusion",
+        "description": "A latent text-to-image diffusion model",
+        "author": [
+            [
+                "Robin Rombach",
+                "https://github.com/rromb"
+            ],
+            [
+                "Andreas Blattmann",
+                "https://github.com/ablattmann"
+            ],
+            [
+                "Dominik Lorenz",
+                "https://github.com/qp-qp"
+            ],
+            [
+                "Patrick Esser",
+                "https://github.com/pesser"
+            ],
+            [
+                "Björn Ommer",
+                "https://ommer-lab.com/people/ommer/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/CompVis/stable-diffusion"
+            ],
+            [
+                "git",
+                "https://arxiv.org/abs/2112.10752"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2205.11487"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/CompVis"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/datasets/laion/laion2B-en"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/datasets/laion/laion-high-resolution"
+            ],
+            [
+                "git",
+                "https://github.com/christophschuhmann/improved-aesthetic-predictor"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2207.12598"
+            ],
+            [
+                "git",
+                "https://github.com/ShieldMnt/invisible-watermark"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2202.09778"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2108.01073"
+            ],
+            [
+                "git",
+                "https://github.com/openai/guided-diffusion"
+            ],
+            [
+                "git",
+                "https://github.com/lucidrains/denoising-diffusion-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/lucidrains/x-transformers"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/CompVis/stable-diffusion/blob/main/scripts/latent_imagenet_diffusion.ipynb",
+        "update": 1660131049.0
+    },
+    {
+        "name": "Tortoise",
+        "description": "A multi-voice TTS system trained with an emphasis on quality",
+        "author": [
+            [
+                "James Betker",
+                "https://nonint.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/neonbjb/tortoise-tts"
+            ],
+            [
+                "examples",
+                "https://nonint.com/static/tortoise_v2_examples.html"
+            ],
+            [
+                "git",
+                "https://github.com/neonbjb/DL-Art-School"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2102.12092"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2102.09672"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.07889"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/patrickvonplaten"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/J3-jfS29RF4"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/osanseviero/tortoisse-tts"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/neonbjb/tortoise-tts/blob/main/tortoise_tts.ipynb",
+        "update": 1651539439.0
+    },
+    {
+        "name": "TTS",
+        "description": "A library for advanced Text-to-Speech generation, built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality",
+        "author": [
+            [
+                "Eren Gölge",
+                "https://github.com/erogol"
+            ],
+            [
+                "Aya-AlJafari",
+                "https://github.com/Aya-AlJafari"
+            ],
+            [
+                "Edresson Casanova",
+                "https://github.com/Edresson"
+            ],
+            [
+                "Josh Meyer",
+                "http://jrmeyer.github.io/"
+            ],
+            [
+                "Kelly Davis",
+                "https://github.com/kdavis-coqui"
+            ],
+            [
+                "Reuben Morais",
+                "https://github.com/reuben"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/coqui-ai/TTS"
+            ],
+            [
+                "samples",
+                "https://erogol.github.io/ddc-samples/"
+            ],
+            [
+                "blog post",
+                "https://coqui.ai/blog/tts/solving-attention-problems-of-tts-models-with-double-decoder-consistency"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/ADnBCz0Wd1U"
+            ],
+            [
+                "git",
+                "https://github.com/coqui-ai/TTS-papers"
+            ],
+            [
+                "docs",
+                "https://tts.readthedocs.io/en/latest/"
+            ],
+            [
+                "webpage",
+                "https://coqui.ai/"
+            ],
+            [
+                "youtubue",
+                "https://youtu.be/Yglxf2WbkLU"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/alpI-DnVlO0"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/coqui-ai/TTS/blob/dev/notebooks/Tutorial_2_train_your_first_TTS_model.ipynb",
+        "update": 1654154580.0
+    },
+    {
+        "name": "MMAction2",
+        "description": "An open-source toolbox for video understanding based on PyTorch",
+        "author": [
+            [
+                "MMAction2 Contributors",
+                "https://openmmlab.com/aboutus"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/open-mmlab/mmaction2"
+            ],
+            [
+                "docs",
+                "https://mmaction2.readthedocs.io/"
+            ],
+            [
+                "git",
+                "https://github.com/open-mmlab/mmcv"
+            ],
+            [
+                "git",
+                "https://github.com/SwinTransformer/Video-Swin-Transformer"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.13230"
+            ],
+            [
+                "https://arxiv.org/abs/2107.10161",
+                "arxiv"
+            ],
+            [
+                "git",
+                "https://github.com/Cogito2012/DEAR"
+            ],
+            [
+                "git",
+                "https://github.com/xvjiarui/VFS"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.17263"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.13586"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2102.05095"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2003.13042"
+            ],
+            [
+                "git",
+                "https://github.com/holistic-video-understanding/HVU-Dataset"
+            ],
+            [
+                "data",
+                "https://sdolivia.github.io/FineGym/"
+            ],
+            [
+                "data",
+                "http://www.svcl.ucsd.edu/projects/resound/dataset.html"
+            ],
+            [
+                "data",
+                "https://research.google.com/ava/index.html"
+            ],
+            [
+                "data",
+                "https://www.deepmind.com/open-source/kinetics"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/open-mmlab/mmaction2/blob/master/demo/mmaction2_tutorial.ipynb",
+        "update": 1654770642.0
     }
 ]
