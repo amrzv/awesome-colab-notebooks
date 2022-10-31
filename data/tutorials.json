@@ -391,7 +391,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb",
-        "update": 1660237661.0
+        "update": 1666812296.0
     },
     {
         "name": "CNN",
@@ -533,7 +533,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/reinforcement_learning/actor_critic.ipynb",
-        "update": 1654773005.0
+        "update": 1666795120.0
     },
     {
         "name": "Classify text with BERT",
@@ -589,7 +589,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb",
-        "update": 1654635512.0
+        "update": 1666807866.0
     },
     {
         "name": "NMT with attention",
@@ -619,7 +619,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/nmt_with_attention.ipynb",
-        "update": 1659556994.0
+        "update": 1665081552.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -723,7 +723,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/transformer.ipynb",
-        "update": 1663617349.0
+        "update": 1666024486.0
     },
     {
         "name": "Word2Vec",
@@ -765,7 +765,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/word2vec.ipynb",
-        "update": 1658229014.0
+        "update": 1663900902.0
     },
     {
         "name": "Word embeddings",
@@ -817,7 +817,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1663341903.0
+        "update": 1666024887.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -851,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1663341903.0
+        "update": 1666024887.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -885,7 +885,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1663341903.0
+        "update": 1666045664.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -915,7 +915,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1663341903.0
+        "update": 1666024887.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -945,7 +945,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1663341903.0
+        "update": 1666024887.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -979,7 +979,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1663341903.0
+        "update": 1666024887.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -997,7 +997,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1663341903.0
+        "update": 1666024887.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -1023,7 +1023,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1663883068.0
+        "update": 1666024887.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -1621,7 +1621,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/google/jax/blob/master/docs/notebooks/autodiff_cookbook.ipynb",
-        "update": 1652459728.0
+        "update": 1664787550.0
     },
     {
         "name": "EfficientNetV2",
@@ -1831,7 +1831,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5",
-        "update": 1653097627.286
+        "update": 1665523010.879
     },
     {
         "name": "Droidlet",
@@ -3225,7 +3225,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/NVIDIA/NeMo/blob/master/tutorials/00_NeMo_Primer.ipynb",
-        "update": 1664231141.0
+        "update": 1665508959.0
     },
     {
         "name": "DeepStyle",
@@ -3527,7 +3527,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/tutorial.ipynb",
-        "update": 1662559689.0
+        "update": 1666082342.0
     },
     {
         "name": "MuJoCo",
@@ -3597,7 +3597,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/dm_control/mujoco/tutorial.ipynb",
-        "update": 1662559689.0
+        "update": 1666082342.0
     },
     {
         "name": "Haiku",
@@ -3997,7 +3997,7 @@
     },
     {
         "name": "Diffusers",
-        "description": "provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves as a modular toolbox for inference and training of diffusion models",
+        "description": "Provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves as a modular toolbox for inference and training of diffusion models",
         "author": [
             [
                 "Hugging Face",
@@ -5158,7 +5158,7 @@
                 "https://coqui.ai/"
             ],
             [
-                "youtubue",
+                "youtube",
                 "https://youtu.be/Yglxf2WbkLU"
             ],
             [
@@ -5167,7 +5167,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/coqui-ai/TTS/blob/dev/notebooks/Tutorial_2_train_your_first_TTS_model.ipynb",
-        "update": 1654154580.0
+        "update": 1666704999.0
     },
     {
         "name": "MMAction2",
@@ -5200,8 +5200,8 @@
                 "https://arxiv.org/abs/2106.13230"
             ],
             [
-                "https://arxiv.org/abs/2107.10161",
-                "arxiv"
+                "arxiv",
+                "https://arxiv.org/abs/2107.10161"
             ],
             [
                 "git",

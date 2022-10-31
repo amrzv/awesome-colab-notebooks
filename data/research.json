@@ -235,7 +235,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb",
-        "update": 1664477014.0
+        "update": 1664569530.0
     },
     {
         "name": "Motion Supervised co-part Segmentation",
@@ -495,7 +495,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1642708247.0
+        "update": 1665625561.0
     },
     {
         "name": "Waifu2x",
@@ -1318,6 +1318,64 @@
         "update": 1642559181.197
     },
     {
+        "name": "Omnivore",
+        "description": "A single model which excels at classifying images, videos, and single-view 3D data using exactly the same model parameters",
+        "author": [
+            [
+                "Rohit Girdhar",
+                "http://rohitgirdhar.github.io/"
+            ],
+            [
+                "Mannat Singh",
+                "https://scholar.google.com/citations?user=QOO8OCcAAAAJ"
+            ],
+            [
+                "Nikhila Ravi",
+                "https://nikhilaravi.com/"
+            ],
+            [
+                "Laurens Maaten",
+                "https://lvdmaaten.github.io/"
+            ],
+            [
+                "Armand Joulin",
+                "https://ai.facebook.com/people/armand-joulin/"
+            ],
+            [
+                "Ishan Misra",
+                "https://imisra.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://facebookresearch.github.io/omnivore/"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/omnivore"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.08377"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/akhaliq/omnivore"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2206.08356"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/dataset/epic-kitchens-100"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/facebookresearch/omnivore/blob/main/inference_tutorial.ipynb",
+        "update": 1655201794.0
+    },
+    {
         "name": "CartoonGAN",
         "description": "The implementation of the cartoon GAN model with PyTorch",
         "author": [
@@ -1401,7 +1459,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1664128994.0
+        "update": 1666961321.0
     },
     {
         "name": "ByteTrack",
@@ -2230,6 +2288,96 @@
         "update": 1663856858.0
     },
     {
+        "name": "AlphaTensor",
+        "description": "Discovering faster matrix multiplication algorithms with reinforcement learning",
+        "author": [
+            [
+                "Alhussein Fawzi",
+                "http://www.alhusseinfawzi.info/"
+            ],
+            [
+                "Matej Balog",
+                "http://matejbalog.eu/"
+            ],
+            [
+                "Aja Huang",
+                "https://en.wikipedia.org/wiki/Aja_Huang"
+            ],
+            [
+                "Thomas Hubert",
+                "https://scholar.google.com/citations?user=WXG0QfMAAAAJ"
+            ],
+            [
+                "Bernardino Romera-Paredes",
+                "https://sites.google.com/site/romeraparedes/"
+            ],
+            [
+                "Mohammadamin Barekatain",
+                "http://barekatain.me/"
+            ],
+            [
+                "Alexander Novikov",
+                "https://scholar.google.com/citations?user=jMUkLqwAAAAJ"
+            ],
+            [
+                "Francisco Ruiz",
+                "https://franrruiz.github.io/"
+            ],
+            [
+                "Julian Schrittwieser",
+                "https://www.furidamu.org/"
+            ],
+            [
+                "Grzegorz Swirszcz",
+                "https://sites.google.com/site/grzegorzswirszcz/home"
+            ],
+            [
+                "David Silver",
+                "https://www.davidsilver.uk/"
+            ],
+            [
+                "Demis Hassabis",
+                "https://en.wikipedia.org/wiki/Demis_Hassabis"
+            ],
+            [
+                "Pushmeet Kohli",
+                "https://sites.google.com/site/pushmeet/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/deepmind/alphatensor"
+            ],
+            [
+                "paper",
+                "https://www.nature.com/articles/s41586-022-05172-4"
+            ],
+            [
+                "blog post",
+                "https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/3N3Bl5AA5QU"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/gpYnDls4PdQ"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/IYgZS2EvnLI"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/8ILk4Wjo5rc"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/deepmind/alphatensor/blob/master/nonequivalence/inspect_factorizations_notebook.ipynb",
+        "update": 1664867148.0
+    },
+    {
         "name": "Neural Style Transfer",
         "description": "Implementation of Neural Style Transfer in Keras 2.0+",
         "author": [
@@ -2781,7 +2929,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/saic-mdal/hidt/blob/master/notebooks/HighResolutionDaytimeTranslation.ipynb",
-        "update": 1594983798.0
+        "update": 1611509424.0
     },
     {
         "name": "Wav2Lip",
@@ -6957,7 +7105,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1-AWeWhPvCTBX0KfMtgtMk10uPU05ihoA",
-        "update": 1663896746.675
+        "update": 1666659513.895
     },
     {
         "name": "PoolFormer",
@@ -7190,5 +7338,195 @@
         ],
         "colab": "https://colab.research.google.com/drive/1DREfdpnaBhqISg0fuQlAAIwyGVn1loH_",
         "update": 1664524419.537
+    },
+    {
+        "name": "Panini-Net",
+        "description": "GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration",
+        "author": [
+            [
+                "Yinhuai Wang",
+                "https://github.com/wyhuai"
+            ],
+            [
+                "Yujie Hu",
+                "https://villa.jianzhang.tech/people/yujie-hu/"
+            ],
+            [
+                "Jian Zhang",
+                "http://jianzhang.tech/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/jianzhangcs/panini"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2203.08444"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/ffhq-dataset"
+            ],
+            [
+                "git",
+                "https://github.com/tkarras/progressive_growing_of_gans"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/GeeveGeorge/Panini-Net-Colab/blob/main/PaniniNet_Working.ipynb",
+        "update": 1649810969.0
+    },
+    {
+        "name": "ConvMixer",
+        "description": "An extremely simple model that is similar in spirit to the ViT and the even-more-basic MLP-Mixer in that it operates directly on patches as input, separates the mixing of spatial and channel dimensions, and maintains equal size and resolution throughout the network",
+        "author": [
+            [
+                "Asher Trockman",
+                "http://ashertrockman.com/"
+            ],
+            [
+                "Zico Kolter",
+                "http://zicokolter.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/locuslab/convmixer"
+            ],
+            [
+                "git",
+                "https://github.com/locuslab/convmixer-cifar10"
+            ],
+            [
+                "git",
+                "https://github.com/rwightman/pytorch-image-models"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.09792"
+            ],
+            [
+                "medium",
+                "https://medium.com/codex/an-overview-on-convmixer-patches-are-all-you-need-8502a8d87011"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Gl0s0GDqN3c?t=990"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/locuslab/convmixer/blob/main/pytorch-image-models/notebooks/EffResNetComparison.ipynb",
+        "update": 1633462410.0
+    },
+    {
+        "name": "UniFormer",
+        "description": "Unified Transformer for Efficient Spatiotemporal Representation Learning",
+        "author": [
+            [
+                "Kunchang Li",
+                "https://github.com/Andy1621"
+            ],
+            [
+                "Yali Wang",
+                "https://scholar.google.com/citations?user=hD948dkAAAAJ"
+            ],
+            [
+                "Peng Gao",
+                "https://gaopengcuhk.github.io/"
+            ],
+            [
+                "Guanglu Song",
+                "https://songguanglu.github.io/"
+            ],
+            [
+                "Yu Liu",
+                "https://liuyu.us/"
+            ],
+            [
+                "Hongsheng Li",
+                "http://www.ee.cuhk.edu.hk/~hsli/"
+            ],
+            [
+                "Yu Qiao",
+                "http://mmlab.siat.ac.cn/yuqiao/index.html"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/Sense-X/UniFormer"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.04676"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.09450"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.10858"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.17239"
+            ],
+            [
+                "git",
+                "https://github.com/zihangJiang/TokenLabeling"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/deit"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/fvcore"
+            ],
+            [
+                "git",
+                "https://github.com/rwightman/pytorch-image-models"
+            ],
+            [
+                "git",
+                "https://github.com/facebookincubator/submitit"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/SlowFast"
+            ],
+            [
+                "git",
+                "https://github.com/SwinTransformer/Swin-Transformer-Object-Detection"
+            ],
+            [
+                "git",
+                "https://github.com/whai362/PVT/tree/v2/segmentation"
+            ],
+            [
+                "git",
+                "https://github.com/HRNet/HRFormer/tree/main/pose"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/Sense-X/uniformer_image_demo"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/Sense-X/uniformer_video_demo"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/Andy1621/uniformer_image_detection"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/Andy1621/uniformer_image_segmentation"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/open-mmlab/mmsegmentation/blob/master/demo/MMSegmentation_Tutorial.ipynb",
+        "update": 1657873894.0
     }
 ]
