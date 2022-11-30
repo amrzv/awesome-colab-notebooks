@@ -745,7 +745,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1sK0uc-GJxmdnaxHhYqD2afRknakpdTNZ",
-        "update": 1660332544.466
+        "update": 1669494884.726
     },
     {
         "name": "StylEx",
@@ -1245,7 +1245,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1dC9nVxk3V_VPjUADsnFu8EiT-xnU1tGH",
-        "update": 1648049819.06
+        "update": 1669043551.684
     },
     {
         "name": "ConvNeXt",
@@ -1402,6 +1402,72 @@
         "update": 1637760742.0
     },
     {
+        "name": "VToonify",
+        "description": "Leverages the mid- and high-resolution layers of StyleGAN to render high-quality artistic portraits based on the multi-scale content features extracted by an encoder to better preserve the frame details",
+        "author": [
+            [
+                "Shuai Yang",
+                "https://williamyang1991.github.io/"
+            ],
+            [
+                "Liming Jiang",
+                "https://liming-jiang.com/"
+            ],
+            [
+                "Ziwei Liu",
+                "https://liuziwei7.github.io/"
+            ],
+            [
+                "Chen Change Loy",
+                "https://www.mmlab-ntu.com/person/ccloy/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://www.mmlab-ntu.com/project/vtoonify/"
+            ],
+            [
+                "git",
+                "https://github.com/williamyang1991/VToonify"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2209.11224"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/0_OmVhDgYuY"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/PKUWilliamYang/VToonify"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/PKUWilliamYang/VToonify/tree/main/models"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/zllrunning/face-parsing.PyTorch"
+            ],
+            [
+                "git",
+                "https://github.com/zhujiapeng/LowRankGAN"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2001.02890"
+            ]
+        ],
+        "colab": "http://colab.research.google.com/github/williamyang1991/VToonify/blob/master/notebooks/inference_playground.ipynb",
+        "update": 1665100318.0
+    },
+    {
         "name": "YOLOv3",
         "description": "You Only Look Once",
         "author": [
@@ -1459,7 +1525,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1666961321.0
+        "update": 1669138665.0
     },
     {
         "name": "ByteTrack",
@@ -1890,6 +1956,80 @@
         "update": 1649071068.0
     },
     {
+        "name": "Stable Dreamfusion",
+        "description": "Using a pretrained 2D text-to-image diffusion model to perform text-to-3D synthesis",
+        "author": [
+            [
+                "Jiaxiang Tang",
+                "https://me.kiui.moe/"
+            ],
+            [
+                "Ben Poole",
+                "https://cs.stanford.edu/~poole/"
+            ],
+            [
+                "Ajay Jain",
+                "https://ajayj.com/"
+            ],
+            [
+                "Jonathan Barron",
+                "https://jonbarron.info/"
+            ],
+            [
+                "Ben Mildenhall",
+                "https://bmild.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://dreamfusion3d.github.io/"
+            ],
+            [
+                "git",
+                "https://github.com/ashawkey/stable-dreamfusion"
+            ],
+            [
+                "git",
+                "https://github.com/ashawkey/torch-ngp"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/runwayml/stable-diffusion-v1-5"
+            ],
+            [
+                "pt",
+                "https://pytorch.org/docs/stable/cpp_extension.html#torch.utils.cpp_extension.load"
+            ],
+            [
+                "git",
+                "https://github.com/hoffstadt/DearPyGui"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2209.14988"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/uM5NPodZZ1U?t=219"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/zWD5ZR5GtJM"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/L3G0dx1Q0R8"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/dIgDbBTztUM"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1MXT3yfOFvO0ooKEfiUUvTKwUkrrlCHpF",
+        "update": 1668675822.29
+    },
+    {
         "name": "NFNet",
         "description": "An adaptive gradient clipping technique, a significantly improved class of Normalizer-Free ResNets",
         "author": [
@@ -2153,7 +2293,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb",
-        "update": 1661949573.0
+        "update": 1665581342.0
     },
     {
         "name": "Arnheim",
@@ -2285,7 +2425,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/functa/blob/main/modulation_visualization_colab.ipynb",
-        "update": 1663856858.0
+        "update": 1663999606.0
     },
     {
         "name": "AlphaTensor",
@@ -6108,6 +6248,80 @@
         ],
         "colab": "https://colab.research.google.com/gist/JingyunLiang/deb335792768ad9eb73854a8efca4fe0/vrt-demo-on-video-restoration.ipynb",
         "update": 1655304191.0
+    },
+    {
+        "name": "Swin2SR",
+        "description": "Novel Swin Transformer V2, to improve SwinIR for image super-resolution, and in particular, the compressed input scenario",
+        "author": [
+            [
+                "Marcos Conde",
+                "https://mv-lab.github.io/"
+            ],
+            [
+                "Ui-Jin Choi",
+                "https://github.com/Choiuijin1125"
+            ],
+            [
+                "Maxime Burchi",
+                "https://scholar.google.com/citations?user=7S_l2eAAAAAJ"
+            ],
+            [
+                "Radu Timofte",
+                "https://www.informatik.uni-wuerzburg.de/computervision/home/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/mv-lab/swin2sr"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2209.11345"
+            ],
+            [
+                "git",
+                "https://github.com/cszn/KAIR/"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/code/jesucristo/super-resolution-demo-swin2sr-official/"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/jjourney1125/swin2sr"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/datasets/jesucristo/super-resolution-benchmarks"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/jinssaa/official-swin2sr-demo-results/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2108.10257"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2208.11184"
+            ],
+            [
+                "git",
+                "https://github.com/mv-lab/AISP"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2111.09883"
+            ],
+            [
+                "git",
+                "https://github.com/microsoft/Swin-Transformer"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1paPrt62ydwLv2U2eZqfcFsePI4X4WRR1",
+        "update": 1664795206.185
     },
     {
         "name": "XLS-R",

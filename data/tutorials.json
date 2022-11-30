@@ -533,7 +533,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/reinforcement_learning/actor_critic.ipynb",
-        "update": 1666795120.0
+        "update": 1669287742.0
     },
     {
         "name": "Classify text with BERT",
@@ -619,7 +619,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/nmt_with_attention.ipynb",
-        "update": 1665081552.0
+        "update": 1667794477.0
     },
     {
         "name": "GLUE using BERT on TPU",
@@ -723,7 +723,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/transformer.ipynb",
-        "update": 1666024486.0
+        "update": 1667795722.0
     },
     {
         "name": "Word2Vec",
@@ -817,7 +817,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1666024887.0
+        "update": 1669739796.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -851,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1666024887.0
+        "update": 1669739796.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -885,7 +885,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1666045664.0
+        "update": 1669739796.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -915,7 +915,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1666024887.0
+        "update": 1669739796.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -945,7 +945,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1666024887.0
+        "update": 1669739796.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -979,7 +979,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1666024887.0
+        "update": 1669739796.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -997,7 +997,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1666024887.0
+        "update": 1669739796.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -1023,7 +1023,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/high_performance_simulation_with_kubernetes.ipynb",
-        "update": 1666024887.0
+        "update": 1669739796.0
     },
     {
         "name": "Introduction to the TensorFlow Models NLP library",
@@ -2134,6 +2134,56 @@
         ],
         "colab": "https://colab.research.google.com/drive/1dQJn1vsuz0DkyRZbOA1SulkVQ0V1kMUP",
         "update": 1655585285.341
+    },
+    {
+        "name": "AV-HuBERT",
+        "description": "Self-supervised representation learning framework for audio-visual speech",
+        "author": [
+            [
+                "Bowen Shi",
+                "https://home.ttic.edu/~bshi/"
+            ],
+            [
+                "Wei-Ning Hsu",
+                "http://people.csail.mit.edu/wnhsu/"
+            ],
+            [
+                "Kushal Lakhotia",
+                "https://about.me/hikushalhere"
+            ],
+            [
+                "Abdelrahman Mohamed",
+                "http://www.cs.toronto.edu/~asamir/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/av_hubert"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.02184"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.01763"
+            ],
+            [
+                "blog post",
+                "https://ai.facebook.com/blog/ai-that-understands-speech-by-looking-as-well-as-hearing/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1810.04805"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1911.04890"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1bNXkfpHiVHzXQH8WjGhzQ-fsDxolpUjD",
+        "update": 1644689162.002
     },
     {
         "name": "Spleeter",
@@ -5167,7 +5217,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/coqui-ai/TTS/blob/dev/notebooks/Tutorial_2_train_your_first_TTS_model.ipynb",
-        "update": 1666704999.0
+        "update": 1669035007.0
     },
     {
         "name": "MMAction2",
@@ -5250,5 +5300,227 @@
         ],
         "colab": "https://colab.research.google.com/github/open-mmlab/mmaction2/blob/master/demo/mmaction2_tutorial.ipynb",
         "update": 1654770642.0
+    },
+    {
+        "name": "pymdp",
+        "description": "Package for simulating Active Inference agents in Markov Decision Process environments",
+        "author": [
+            [
+                "Conor Heins",
+                "https://github.com/conorheins"
+            ],
+            [
+                "Alec Tschantz",
+                "https://github.com/alec-tschantz"
+            ],
+            [
+                "Beren Millidge",
+                "https://www.beren.io/"
+            ],
+            [
+                "Brennan Klein",
+                "https://github.com/jkbren"
+            ],
+            [
+                "Arun Niranjan",
+                "https://github.com/Arun-Niranjan"
+            ],
+            [
+                "Daphne Demekas",
+                "https://github.com/daphnedemekas"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/infer-actively/pymdp"
+            ],
+            [
+                "docs",
+                "https://pymdp-rtd.readthedocs.io/en/stable/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.03904"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/infer-actively/pymdp/blob/master/docs/notebooks/active_inference_from_scratch.ipynb",
+        "update": 1661363069.0
+    },
+    {
+        "name": "AmpliGraph",
+        "description": "A suite of neural machine learning models for relational Learning, a branch of machine learning that deals with supervised learning on knowledge graphs",
+        "author": [
+            [
+                "Luca Costabello",
+                "https://luca.costabello.info/"
+            ],
+            [
+                "Adrianna Janik",
+                "https://github.com/adrijanik"
+            ],
+            [
+                "Chan Le Van",
+                "https://github.com/chanlevan"
+            ],
+            [
+                "Nicholas McCarthy",
+                "https://github.com/NicholasMcCarthy"
+            ],
+            [
+                "Rory McGrath",
+                "http://www.rorymcgrath.ie/"
+            ],
+            [
+                "Sumit Pai",
+                "https://github.com/sumitpai"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/Accenture/AmpliGraph"
+            ],
+            [
+                "docs",
+                "https://docs.ampligraph.org"
+            ],
+            [
+                "arxiv",
+                "http://arxiv.org/abs/1702.05563"
+            ],
+            [
+                "arxiv",
+                "http://arxiv.org/abs/1705.10744"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2105.08683"
+            ],
+            [
+                "arxiv",
+                "http://arxiv.org/abs/1612.03975"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1912.10000"
+            ],
+            [
+                "neurips",
+                "https://papers.nips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html"
+            ],
+            [
+                "neurips",
+                "https://papers.nips.cc/paper/2013/hash/b337e84de8752b27eda3a12363109e80-Abstract.html"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1412.6575"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/gX_KHaU8ChI"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/Accenture/AmpliGraph/blob/master/docs/tutorials/AmpliGraphBasicsTutorial.ipynb",
+        "update": 1565691998.0
+    },
+    {
+        "name": "BasicSR",
+        "description": "Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc.",
+        "author": [
+            [
+                "Xintao Wang",
+                "https://xinntao.github.io/"
+            ],
+            [
+                "Liangbin Xie",
+                "https://liangbinxie.github.io/"
+            ],
+            [
+                "Ke Yu",
+                "https://github.com/yuke93"
+            ],
+            [
+                "Kelvin Chan",
+                "https://ckkelvinchan.github.io/"
+            ],
+            [
+                "Chen Change Loy",
+                "https://www.mmlab-ntu.com/person/ccloy/"
+            ],
+            [
+                "Chao Dong",
+                "https://scholar.google.com/citations?user=OSDCB0UAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/XPixelGroup/BasicSR"
+            ],
+            [
+                "docs",
+                "https://basicsr.readthedocs.io/en/latest/"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/ESRGAN"
+            ],
+            [
+                "git",
+                "https://github.com/xindongzhang/ECBSR"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2012.02181"
+            ],
+            [
+                "git",
+                "https://github.com/Lotayou/Face-Renovation"
+            ],
+            [
+                "git",
+                "https://github.com/csxmli2016/DFDNet"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/facexlib"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/HandyView"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/HandyFigure"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/SFTGAN"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/DNI"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/HandyCrawler"
+            ],
+            [
+                "git",
+                "https://github.com/xinntao/HandyWriting"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/KaMYsxWkmww"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1JQScYICvEC3VqaabLu-lxvq9h7kSV1ML",
+        "update": 1623075800.789
     }
 ]
