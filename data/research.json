@@ -235,7 +235,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb",
-        "update": 1664569530.0
+        "update": 1670493379.0
     },
     {
         "name": "Motion Supervised co-part Segmentation",
@@ -438,36 +438,6 @@
         "update": 1599880270.0
     },
     {
-        "name": "Group Normalization",
-        "description": "A simple alternative to BN. GN divides the channels into groups and computes within each group the mean and variance for normalization.",
-        "author": [
-            [
-                "shaoanlu",
-                "https://shaoanlu.github.io/"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/shaoanlu/GroupNormalization-keras"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1803.08494"
-            ],
-            [
-                "blog post",
-                "https://shaoanlu.wordpress.com/2018/03/26/experiment-with-group-normalization/"
-            ],
-            [
-                "git",
-                "https://github.com/zalandoresearch/fashion-mnist"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/shaoanlu/GroupNormalization-keras/blob/master/group_norm_experiments.ipynb",
-        "update": 1522041641.0
-    },
-    {
         "name": "DFL-Colab",
         "description": "This project provides you IPython Notebook to use DeepFaceLab",
         "author": [
@@ -495,55 +465,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1665625561.0
-    },
-    {
-        "name": "Waifu2x",
-        "description": "This is the Google Colab implementation of tsurumeso's chainer implementation of waifu2x",
-        "author": [
-            [
-                "Margesh Phirke",
-                "https://github.com/mphirke"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/mphirke/Google-Colab-waifu2x-chainer"
-            ],
-            [
-                "demo",
-                "http://waifu2x.udp.jp/"
-            ],
-            [
-                "arxiv",
-                "http://arxiv.org/abs/1501.00092"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/mphirke/waifu2x-chainer/blob/master/Waifu2x_Colab_Implementation.ipynb",
-        "update": 1566575812.0
-    },
-    {
-        "name": "BERT on TF Hub",
-        "description": "Predicting Movie Review Sentiment with BERT on TF Hub",
-        "author": [
-            [
-                "Dale Markowitz",
-                "https://daleonai.com/"
-            ]
-        ],
-        "links": [
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1810.04805"
-            ],
-            [
-                "git",
-                "https://github.com/google-research/bert"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb",
-        "update": 1550001623.0
+        "update": 1670166416.0
     },
     {
         "name": "T5",
@@ -551,7 +473,7 @@
         "author": [
             [
                 "Colin Raffel",
-                "https://colinraffel.com"
+                "https://colinraffel.com/"
             ],
             [
                 "Noam Shazeer",
@@ -746,6 +668,84 @@
         ],
         "colab": "https://colab.research.google.com/drive/1sK0uc-GJxmdnaxHhYqD2afRknakpdTNZ",
         "update": 1669494884.726
+    },
+    {
+        "name": "OWL-ViT",
+        "description": "Simple Open-Vocabulary Object Detection with Vision Transformers",
+        "author": [
+            [
+                "Matthias Minderer",
+                "http://matthias.minderer.net/"
+            ],
+            [
+                "Alexey Gritsenko",
+                "https://github.com/AlexeyG"
+            ],
+            [
+                "Austin Stone",
+                "https://github.com/AustinCStone"
+            ],
+            [
+                "Maxim Neumann",
+                "https://github.com/maximneumann"
+            ],
+            [
+                "Dirk Weissenborn",
+                "https://github.com/dirkweissenborn"
+            ],
+            [
+                "Alexey Dosovitskiy",
+                "https://scholar.google.com/citations?user=FXNJRDoAAAAJ"
+            ],
+            [
+                "Aravindh Mahendran",
+                "https://github.com/aravindhm"
+            ],
+            [
+                "Anurag Arnab",
+                "https://github.com/anuragarnab"
+            ],
+            [
+                "Mostafa Dehghani",
+                "https://mostafadehghani.com/"
+            ],
+            [
+                "Zhuoran Shen",
+                "https://cmsflash.github.io/"
+            ],
+            [
+                "Xiao Wang",
+                "https://scholar.google.com/citations?user=ukyXqzMAAAAJ"
+            ],
+            [
+                "Xiaohua Zhai",
+                "https://github.com/xiaohuazhai"
+            ],
+            [
+                "Thomas Kipf",
+                "https://tkipf.github.io/"
+            ],
+            [
+                "Neil Houlsby",
+                "https://neilhoulsby.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2205.06230"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/docs/transformers/model_doc/owlvit"
+            ],
+            [
+                "git",
+                "https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/zeroshot_object_detection_with_owlvit.ipynb",
+        "update": 1669017958.0
     },
     {
         "name": "StylEx",
@@ -1107,11 +1107,11 @@
             ],
             [
                 "Rohit Girdhar",
-                "https://github.com/rohitgirdhar"
+                "https://rohitgirdhar.github.io/"
             ],
             [
                 "Armand Joulin",
-                "https://github.com/ajoulin"
+                "https://ai.facebook.com/people/armand-joulin/"
             ],
             [
                 "Philipp Krähenbühl",
@@ -1119,7 +1119,7 @@
             ],
             [
                 "Ishan Misra",
-                "http://imisra.github.io/"
+                "https://imisra.github.io/"
             ]
         ],
         "links": [
@@ -1376,6 +1376,178 @@
         "update": 1655201794.0
     },
     {
+        "name": "ESM",
+        "description": "Evolutionary Scale Modeling: Pretrained language models for proteins",
+        "author": [
+            [
+                "Zeming Lin",
+                "https://research.facebook.com/people/lin-zeming/"
+            ],
+            [
+                "Roshan Rao",
+                "https://rmrao.github.io/"
+            ],
+            [
+                "Brian Hie",
+                "https://brianhie.com/"
+            ],
+            [
+                "Zhongkai Zhu",
+                "https://www.linkedin.com/in/zhongkai-zhu-03a27424"
+            ],
+            [
+                "Allan dos Santos Costa",
+                "https://scholar.google.com/citations?user=Zb4RsFsAAAAJ"
+            ],
+            [
+                "Maryam Fazel-Zarandi",
+                "https://www.maryamfazel.com/"
+            ],
+            [
+                "Tom Sercu",
+                "https://tom.sercu.me/"
+            ],
+            [
+                "Salvatore Candido",
+                "https://scholar.google.com/citations?user=BDgbhmEAAAAJ"
+            ],
+            [
+                "Alexander Rives",
+                "https://scholar.google.com/citations?user=vqb78-gAAAAJ"
+            ],
+            [
+                "Joshua Meier",
+                "https://scholar.google.com/citations?user=2M0OltAAAAAJ"
+            ],
+            [
+                "Robert Verkuil",
+                "https://dblp.org/pid/296/8930.html"
+            ],
+            [
+                "Jason Liu",
+                "https://www.linkedin.com/in/liujiayi/"
+            ],
+            [
+                "Chloe Hsu",
+                "https://chloe-hsu.com/"
+            ],
+            [
+                "Adam Lerer",
+                "https://scholar.google.com/citations?user=Ad6O4-0AAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/esm"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/docs/transformers/model_doc/esm"
+            ],
+            [
+                "paper",
+                "https://doi.org/10.1101/2022.07.20.500902"
+            ],
+            [
+                "paper",
+                "https://doi.org/10.1101/2021.07.09.450648"
+            ],
+            [
+                "paper",
+                "https://doi.org/10.1101/2022.04.10.487779"
+            ],
+            [
+                "ICML",
+                "https://proceedings.mlr.press/v139/rao21a.html"
+            ],
+            [
+                "pubmed",
+                "https://pubmed.ncbi.nlm.nih.gov/33876751/"
+            ],
+            [
+                "paper",
+                "https://doi.org/10.1101/2022.12.21.521521"
+            ],
+            [
+                "ESM Atlas",
+                "https://esmatlas.com/"
+            ],
+            [
+                "doi",
+                "https://doi.org/10.1101/622803"
+            ],
+            [
+                "FSDP",
+                "https://fairscale.readthedocs.io/en/stable/api/nn/fsdp.html"
+            ],
+            [
+                "data",
+                "https://ftp.uniprot.org/pub/databases/uniprot/previous_releases/release-2018_03/uniref/"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/N-eisTvUYrk"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/GHoE4VkDehY"
+            ],
+            [
+                "git",
+                "https://github.com/sokrypton/ColabFold"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/ESMFold.ipynb",
+        "update": 1667397998.0
+    },
+    {
+        "name": "CutLER",
+        "description": "Simple approach for training unsupervised object detection and segmentation models",
+        "author": [
+            [
+                "Xudong Wang",
+                "https://people.eecs.berkeley.edu/~xdwang/"
+            ],
+            [
+                "Rohit Girdhar",
+                "https://rohitgirdhar.github.io/"
+            ],
+            [
+                "Stella Yu",
+                "https://www1.icsi.berkeley.edu/~stellayu/"
+            ],
+            [
+                "Ishan Misra",
+                "https://imisra.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/CutLER"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2301.11320"
+            ],
+            [
+                "project",
+                "http://people.eecs.berkeley.edu/~xdwang/projects/CutLER/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1706.02677"
+            ],
+            [
+                "docs",
+                "https://detectron2.readthedocs.io/en/latest/tutorials/datasets.html"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1NgEyFHvOfuA2MZZnfNPWg1w5gSr3HOBb",
+        "update": 1674065613.942
+    },
+    {
         "name": "CartoonGAN",
         "description": "The implementation of the cartoon GAN model with PyTorch",
         "author": [
@@ -1468,6 +1640,146 @@
         "update": 1665100318.0
     },
     {
+        "name": "DualStyleGAN",
+        "description": "More challenging exemplar-based high-resolution portrait style transfer by introducing a novel DualStyleGAN with flexible control of dual styles of the original face domain and the extended artistic portrait domain",
+        "author": [
+            [
+                "Shuai Yang",
+                "https://williamyang1991.github.io/"
+            ],
+            [
+                "Liming Jiang",
+                "https://liming-jiang.com/"
+            ],
+            [
+                "Ziwei Liu",
+                "https://liuziwei7.github.io/"
+            ],
+            [
+                "Chen Change Loy",
+                "https://www.mmlab-ntu.com/person/ccloy/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/williamyang1991/DualStyleGAN"
+            ],
+            [
+                "project",
+                "https://www.mmlab-ntu.com/project/dualstylegan/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2203.13248"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/scZTu77jixI"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/Gradio-Blocks/DualStyleGAN"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/hysts/DualStyleGAN"
+            ],
+            [
+                "data",
+                "https://cs.nju.edu.cn/rl/WebCaricature.htm"
+            ],
+            [
+                "data",
+                "https://www.gwern.net/Crops#danbooru2019-portraits"
+            ],
+            [
+                "git",
+                "https://github.com/lowfuel/progrock-stable"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/TreB1eN/InsightFace_Pytorch"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/williamyang1991/DualStyleGAN/blob/master/notebooks/inference_playground.ipynb",
+        "update": 1648101215.0
+    },
+    {
+        "name": "GP-UNIT",
+        "description": "Novel framework, Generative Prior-guided UNsupervised Image-to-image Translation, to improve the overall quality and applicability of the translation algorithm",
+        "author": [
+            [
+                "Shuai Yang",
+                "https://williamyang1991.github.io/"
+            ],
+            [
+                "Liming Jiang",
+                "https://liming-jiang.com/"
+            ],
+            [
+                "Ziwei Liu",
+                "https://liuziwei7.github.io/"
+            ],
+            [
+                "Chen Change Loy",
+                "https://www.mmlab-ntu.com/person/ccloy/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/williamyang1991/GP-UNIT"
+            ],
+            [
+                "project",
+                "https://www.mmlab-ntu.com/project/gpunit/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2204.03641"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/dDApWs_oDrM"
+            ],
+            [
+                "git",
+                "https://github.com/clovaai/stargan-v2#datasets-and-pre-trained-networks"
+            ],
+            [
+                "git",
+                "https://github.com/switchablenorms/CelebAMask-HQ"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/metfaces-dataset"
+            ],
+            [
+                "ImageNet",
+                "https://image-net.org/download.php"
+            ],
+            [
+                "git",
+                "https://github.com/TreB1eN/InsightFace_Pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/SPADE"
+            ],
+            [
+                "git",
+                "https://github.com/nvlabs/imaginaire"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/williamyang1991/GP-UNIT/blob/main/notebooks/inference_playground.ipynb",
+        "update": 1648893510.0
+    },
+    {
         "name": "YOLOv3",
         "description": "You Only Look Once",
         "author": [
@@ -1495,7 +1807,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov3/blob/master/tutorial.ipynb",
-        "update": 1636919318.0
+        "update": 1672138266.0
     },
     {
         "name": "YOLOv5",
@@ -1525,7 +1837,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1669138665.0
+        "update": 1673019931.0
     },
     {
         "name": "ByteTrack",
@@ -1615,7 +1927,7 @@
             ],
             [
                 "Jia-Bin Huang",
-                "https://filebox.ece.vt.edu/~jbhuang/"
+                "https://jbhuang0604.github.io/"
             ]
         ],
         "links": [
@@ -1653,7 +1965,7 @@
             ],
             [
                 "Jia-Bin Huang",
-                "https://filebox.ece.vt.edu/~jbhuang/"
+                "https://jbhuang0604.github.io/"
             ]
         ],
         "links": [
@@ -1793,7 +2105,7 @@
             ],
             [
                 "Björn Ommer",
-                "https://hci.iwr.uni-heidelberg.de/people/bommer"
+                "https://ommer-lab.com/people/ommer/"
             ]
         ],
         "links": [
@@ -1827,7 +2139,7 @@
             ],
             [
                 "Björn Ommer",
-                "https://hci.iwr.uni-heidelberg.de/people/bommer"
+                "https://ommer-lab.com/people/ommer/"
             ]
         ],
         "links": [
@@ -1869,7 +2181,7 @@
             ],
             [
                 "Björn Ommer",
-                "https://hci.iwr.uni-heidelberg.de/people/bommer"
+                "https://ommer-lab.com/people/ommer/"
             ]
         ],
         "links": [
@@ -1972,7 +2284,7 @@
                 "https://ajayj.com/"
             ],
             [
-                "Jonathan Barron",
+                "Jon Barron",
                 "https://jonbarron.info/"
             ],
             [
@@ -2027,7 +2339,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1MXT3yfOFvO0ooKEfiUUvTKwUkrrlCHpF",
-        "update": 1668675822.29
+        "update": 1670556346.804
     },
     {
         "name": "NFNet",
@@ -2109,7 +2421,7 @@
             ],
             [
                 "Rachel Prudden",
-                "https://scholar.google.com/citations?user=uf39AF8AAAAJ"
+                "https://computerscience.exeter.ac.uk/staff/rep218"
             ],
             [
                 "Amol Mandhane",
@@ -2117,7 +2429,7 @@
             ],
             [
                 "Aidan Clark",
-                "https://scholar.google.com/citations?user=uf39AF8AAAAJ"
+                "https://scholar.google.com/citations?user=_19DrfIAAAAJ"
             ],
             [
                 "Andrew Brock",
@@ -2235,7 +2547,7 @@
             ],
             [
                 "Bernardino Romera-Paredes",
-                "https://scholar.google.com/citations?user=_LC9U6EAAAAJ"
+                "https://sites.google.com/site/romeraparedes/"
             ],
             [
                 "Stanislav Nikolov",
@@ -2293,7 +2605,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb",
-        "update": 1665581342.0
+        "update": 1673539466.0
     },
     {
         "name": "Arnheim",
@@ -2548,60 +2860,6 @@
         "update": 1611301206.0
     },
     {
-        "name": "Mask R-CNN",
-        "description": "Code and visualizations to test, debug, and evaluate the Mask R-CNN model",
-        "author": [
-            [
-                "Jirka Borovec",
-                "https://github.com/Borda"
-            ],
-            [
-                "Waleed Abdulla",
-                "https://waleedka.github.io/"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/matterport/Mask_RCNN"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1703.06870"
-            ],
-            [
-                "blog post",
-                "https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46"
-            ],
-            [
-                "data",
-                "http://cocodataset.org/#home"
-            ],
-            [
-                "youtube",
-                "https://www.youtube.com/watch?v=OOT3UIXZztE"
-            ],
-            [
-                "kaggle",
-                "https://www.kaggle.com/c/data-science-bowl-2018"
-            ],
-            [
-                "medium",
-                "https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0"
-            ],
-            [
-                "git",
-                "https://github.com/jremillard/images-to-osm"
-            ],
-            [
-                "git",
-                "https://github.com/huuuuusy/Mask-RCNN-Shiny"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/matterport/Mask_RCNN/blob/master/samples/coco/inspect_model.ipynb",
-        "update": 1548119467.0
-    },
-    {
         "name": "BERT score",
         "description": "An automatic evaluation metric for text generation",
         "author": [
@@ -2622,40 +2880,6 @@
         ],
         "colab": "https://colab.research.google.com/drive/1kpL8Y_AnUUiCxFjhxSrxCsc6-sDMNb_Q",
         "update": 1595008645.686
-    },
-    {
-        "name": "XLNet",
-        "description": "Generalized Autoregressive Pretraining for Language Understanding",
-        "author": [
-            [
-                "Zhilin Yang",
-                "http://kimiyoung.github.io/"
-            ]
-        ],
-        "links": [
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1906.08237"
-            ],
-            [
-                "git",
-                "https://github.com/zihangdai/xlnet"
-            ],
-            [
-                "data",
-                "https://ai.stanford.edu/~amaas/data/sentiment/"
-            ],
-            [
-                "data",
-                "https://rajpurkar.github.io/SQuAD-explorer/"
-            ],
-            [
-                "data",
-                "https://www.cs.cmu.edu/~glai1/data/race/"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/zihangdai/xlnet/blob/master/notebooks/colab_imdb_gpu.ipynb",
-        "update": 1561737505.0
     },
     {
         "name": "SIREN",
@@ -3024,6 +3248,64 @@
         ],
         "colab": "https://colab.research.google.com/drive/1dfaecX7xF3nP6fyXc8XBljV5QY1lc1TR",
         "update": 1652625609.406
+    },
+    {
+        "name": "MotionDiffuse",
+        "description": "The first diffusion model-based text-driven motion generation framework, which demonstrates several desired properties over existing methods",
+        "author": [
+            [
+                "Mingyuan Zhang",
+                "https://mingyuan-zhang.github.io/"
+            ],
+            [
+                "Zhongang Cai",
+                "https://caizhongang.github.io/"
+            ],
+            [
+                "Liang Pan",
+                "https://github.com/paul007pl"
+            ],
+            [
+                "Fangzhou Hong",
+                "https://hongfz16.github.io/"
+            ],
+            [
+                "Xinying Guo",
+                "https://gxyes.github.io/"
+            ],
+            [
+                "Lei Yang",
+                "https://scholar.google.com/citations?user=jZH2IPYAAAAJ"
+            ],
+            [
+                "Ziwei Liu",
+                "https://liuziwei7.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://mingyuan-zhang.github.io/projects/MotionDiffuse.html"
+            ],
+            [
+                "git",
+                "https://github.com/mingyuan-zhang/MotionDiffuse"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/U5PTnw490SA"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2208.15001"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/mingyuan/MotionDiffuse"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1Dp6VsZp2ozKuu9ccMmsDjyij_vXfCYb3",
+        "update": 1665675834.251
     },
     {
         "name": "HiDT",
@@ -3407,7 +3689,7 @@
             ],
             [
                 "git",
-                "http://goo.gl/magenta/musicvae-py"
+                "https://github.com/magenta/magenta/tree/main/magenta/models/music_vae"
             ],
             [
                 "web app",
@@ -3431,7 +3713,7 @@
             ],
             [
                 "Colin Raffel",
-                "https://colinraffel.com/"
+                "https://colinraffel.com//"
             ],
             [
                 "Jesse Engel",
@@ -3473,7 +3755,7 @@
             ],
             [
                 "Colin Raffel",
-                "https://colinraffel.com/"
+                "https://colinraffel.com//"
             ],
             [
                 "Curtis Hawthorne",
@@ -3665,7 +3947,7 @@
             ],
             [
                 "git",
-                "https://goo.gl/magenta/onsets-frames-code"
+                "https://github.com/magenta/magenta/tree/main/magenta/models/onsets_frames_transcription"
             ]
         ],
         "colab": "https://colab.research.google.com/notebooks/magenta/onsets_frames_transcription/onsets_frames_transcription.ipynb",
@@ -3691,7 +3973,7 @@
             ],
             [
                 "git",
-                "http://goo.gl/magenta/gansynth-code"
+                "https://github.com/magenta/magenta/tree/main/magenta/models/gansynth"
             ]
         ],
         "colab": "https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb",
@@ -3719,7 +4001,7 @@
             ],
             [
                 "Karen Simonyan",
-                "https://scholar.google.co.uk/citations?user=L7lMQkQAAAAJ"
+                "https://scholar.google.com/citations?user=L7lMQkQAAAAJ"
             ],
             [
                 "Mohammad Norouzi",
@@ -3825,7 +4107,7 @@
             ],
             [
                 "Daniel Cohen-Or",
-                "https://www.cs.tau.ac.il/~dcor/"
+                "https://danielcohenor.com/"
             ]
         ],
         "links": [
@@ -4005,7 +4287,7 @@
             ],
             [
                 "Omer Tov",
-                "https://scholar.google.com/citations?user=lbo_R54AAAAJ"
+                "https://github.com/omertov"
             ],
             [
                 "Ron Mokady",
@@ -4199,7 +4481,7 @@
             ],
             [
                 "Jia-Bin Huang",
-                "https://filebox.ece.vt.edu/~jbhuang/"
+                "https://jbhuang0604.github.io/"
             ]
         ],
         "links": [
@@ -4825,7 +5107,7 @@
             ],
             [
                 "Bolei Zhou",
-                "http://bzhou.ie.cuhk.edu.hk/"
+                "https://boleizhou.github.io/"
             ]
         ],
         "links": [
@@ -4863,7 +5145,7 @@
             ],
             [
                 "Bolei Zhou",
-                "http://bzhou.ie.cuhk.edu.hk/"
+                "https://boleizhou.github.io/"
             ]
         ],
         "links": [
@@ -4877,7 +5159,7 @@
             ],
             [
                 "git",
-                "https://github.com/genforce/higanc"
+                "https://github.com/genforce/higan"
             ],
             [
                 "youtube",
@@ -4913,7 +5195,7 @@
             ],
             [
                 "Bolei Zhou",
-                "http://bzhou.ie.cuhk.edu.hk/"
+                "https://boleizhou.github.io/"
             ]
         ],
         "links": [
@@ -5109,7 +5391,7 @@
             ],
             [
                 "data",
-                "https://colinraffel.com/projects/lmd/"
+                "https://colinraffel.com//projects/lmd/"
             ],
             [
                 "arxiv",
@@ -5245,7 +5527,7 @@
             ],
             [
                 "Liangbin Xie",
-                "https://github.com/LiangbinXie"
+                "https://liangbinxie.github.io/"
             ],
             [
                 "Chao Dong",
@@ -5555,7 +5837,7 @@
             ],
             [
                 "Jaakko Lehtinen",
-                "https://github.com/jtlehtin"
+                "https://users.aalto.fi/~lehtinj7/"
             ],
             [
                 "Timo Aila",
@@ -5699,7 +5981,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/NVlabs/instant-ngp/blob/master/notebooks/instant_ngp.ipynb",
-        "update": 1660114051.0
+        "update": 1674027590.0
     },
     {
         "name": "LaMa",
@@ -5777,7 +6059,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/saic-mdal/lama/blob/master/colab/LaMa_inpainting.ipynb",
-        "update": 1653509533.0
+        "update": 1672234289.0
     },
     {
         "name": "RVM",
@@ -5847,7 +6129,7 @@
             ],
             [
                 "Colin Raffel",
-                "https://colinraffel.com/"
+                "https://colinraffel.com//"
             ],
             [
                 "Stephen Bach",
@@ -6159,7 +6441,7 @@
             ],
             [
                 "Radu Timofte",
-                "http://people.ee.ethz.ch/~timofter/"
+                "https://www.informatik.uni-wuerzburg.de/computervision/home/"
             ]
         ],
         "links": [
@@ -6217,7 +6499,7 @@
             ],
             [
                 "Radu Timofte",
-                "http://people.ee.ethz.ch/~timofter/"
+                "https://www.informatik.uni-wuerzburg.de/computervision/home/"
             ],
             [
                 "Luc Van Gool",
@@ -6349,7 +6631,7 @@
             ],
             [
                 "Naman Goyal",
-                "https://scholar.google.com/citations?user=CRbM_P4AAAAJ"
+                "https://github.com/ngoyal2707"
             ],
             [
                 "Kritika Singh",
@@ -6529,7 +6811,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/alembics/disco-diffusion/blob/master/Disco_Diffusion.ipynb",
-        "update": 1661102145.0
+        "update": 1672535698.0
     },
     {
         "name": "Deep Painterly Harmonization",
@@ -6752,7 +7034,7 @@
                 "https://roman-bachmann.github.io/"
             ],
             [
-                "Amit Haim Bermano",
+                "Amit Bermano",
                 "https://www.cs.tau.ac.il/~amberman/"
             ],
             [
@@ -6942,7 +7224,7 @@
                 "https://cseweb.ucsd.edu//~ravir/"
             ],
             [
-                "Jonathan Barron",
+                "Jon Barron",
                 "https://jonbarron.info/"
             ],
             [
@@ -6977,7 +7259,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tancik/fourier-feature-networks/blob/master/Demo.ipynb",
-        "update": 1661678581.0
+        "update": 1673977869.0
     },
     {
         "name": "GANgealing",
@@ -6993,7 +7275,7 @@
             ],
             [
                 "Richard Zhang",
-                "http://richzhang.github.io/"
+                "https://richzhang.github.io/"
             ],
             [
                 "Antonio Torralba",
@@ -7125,7 +7407,7 @@
             ],
             [
                 "Bo Zhang",
-                "https://www.microsoft.com/en-us/research/people/zhanbo/"
+                "https://bo-zhang.me/"
             ],
             [
                 "Dongdong Chen",
@@ -7137,7 +7419,7 @@
             ],
             [
                 "Dong Chen",
-                "https://www.microsoft.com/en-us/research/people/doch/"
+                "http://www.dongchen.pro/"
             ],
             [
                 "Jing Liao",
@@ -7211,7 +7493,7 @@
             ],
             [
                 "Shuyang Gu",
-                "http://home.ustc.edu.cn/~gsy777/"
+                "https://github.com/cientgu"
             ],
             [
                 "Zhicong Tang",
@@ -7742,5 +8024,633 @@
         ],
         "colab": "https://colab.research.google.com/github/open-mmlab/mmsegmentation/blob/master/demo/MMSegmentation_Tutorial.ipynb",
         "update": 1657873894.0
+    },
+    {
+        "name": "EPro-PnP",
+        "description": "Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation",
+        "author": [
+            [
+                "Hansheng Chen",
+                "https://lakonik.github.io/"
+            ],
+            [
+                "Pichao Wang",
+                "https://wangpichao.github.io/"
+            ],
+            [
+                "Fan Wang",
+                "https://scholar.google.com/citations?user=WCRGTHsAAAAJ"
+            ],
+            [
+                "Wei Tian",
+                "https://scholar.google.com/citations?user=aYKQn88AAAAJ"
+            ],
+            [
+                "Lu Xiong",
+                "https://ieeexplore.ieee.org/author/37401835800"
+            ],
+            [
+                "Hao Li",
+                "https://scholar.google.com/citations?user=pHN-QIwAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/tjiiv-cprg/EPro-PnP"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2203.13254"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/TonBodQ6EUU"
+            ],
+            [
+                "nuScenes",
+                "https://www.nuscenes.org/object-detection?externalData=no&mapData=no&modalities=Camera"
+            ],
+            [
+                "git",
+                "https://github.com/megvii-research/petr"
+            ],
+            [
+                "git",
+                "https://github.com/HuangJunJie2017/BEVDet"
+            ],
+            [
+                "git",
+                "https://github.com/fudan-zvg/PolarFormer"
+            ],
+            [
+                "git",
+                "https://github.com/zhiqi-li/BEVFormer"
+            ],
+            [
+                "git",
+                "https://github.com/open-mmlab/mmdetection3d"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tjiiv-cprg/EPro-PnP/blob/main/demo/fit_identity.ipynb",
+        "update": 1657620152.0
+    },
+    {
+        "name": "diffsort",
+        "description": "Differentiable Sorting Networks",
+        "author": [
+            [
+                "Felix Petersen",
+                "http://petersen.ai/"
+            ],
+            [
+                "Christian Borgelt",
+                "https://borgelt.net/"
+            ],
+            [
+                "Hilde Kuehne",
+                "https://hildekuehne.github.io/"
+            ],
+            [
+                "Oliver Deussen",
+                "https://www.cgmi.uni-konstanz.de/personen/prof-dr-oliver-deussen/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/Felix-Petersen/diffsort"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2105.04019"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2203.09630"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Rl-sFaE1z4M"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1q0TZFFYB9FlOJYWKt0_7ZaXQT190anhm",
+        "update": 1642380675.757
+    },
+    {
+        "name": "StyleSDF",
+        "description": "A high resolution, 3D-consistent image and shape generation technique",
+        "author": [
+            [
+                "Roy Or-El",
+                "https://homes.cs.washington.edu/~royorel/"
+            ],
+            [
+                "Xuan Luo",
+                "https://roxanneluo.github.io/"
+            ],
+            [
+                "Mengyi Shan",
+                "https://shanmy.github.io/"
+            ],
+            [
+                "Eli Shechtman",
+                "https://research.adobe.com/person/eli-shechtman/"
+            ],
+            [
+                "Jeong Joon Park",
+                "https://jjparkcv.github.io/"
+            ],
+            [
+                "Ira Kemelmacher-Shlizerman",
+                "https://www.irakemelmacher.com/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://stylesdf.github.io/"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/SerdarHelli/StyleSDF-3D"
+            ],
+            [
+                "git",
+                "https://github.com/royorel/StyleSDF"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2112.11427"
+            ],
+            [
+                "git",
+                "https://github.com/rosinality/stylegan2-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/yenchenlin/nerf-pytorch"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/royorel/StyleSDF/blob/main/StyleSDF_demo.ipynb",
+        "update": 1646436325.0
+    },
+    {
+        "name": "Musika",
+        "description": "Music generation system that can be trained on hundreds of hours of music using a single consumer GPU, and that allows for much faster than real-time generation of music of arbitrary length on a consumer CPU",
+        "author": [
+            [
+                "Marco Pasini",
+                "https://github.com/marcoppasini"
+            ],
+            [
+                "Jan Schlüter",
+                "https://www.ofai.at/~jan.schlueter/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/marcoppasini/musika"
+            ],
+            [
+                "project",
+                "https://marcoppasini.github.io/musika"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/QBl8y2Z_i7Y"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2208.08706"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/0l7OSM-bFvc"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/spaces/marcop/musika"
+            ],
+            [
+                "git",
+                "https://github.com/hendriks73/tempo-cnn"
+            ],
+            [
+                "data",
+                "https://magenta.tensorflow.org/datasets/maestro"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2005.08526"
+            ],
+            [
+                "git",
+                "https://github.com/CPJKU/madmom"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1PowSw3doBURwLE-OTCiWkO8HVbS5paRb",
+        "update": 1667041050.128
+    },
+    {
+        "name": "HRFAE",
+        "description": "An encoder-decoder architecture for face age editing",
+        "author": [
+            [
+                "Xu Yao",
+                "https://xu-yao.github.io/"
+            ],
+            [
+                "Gilles Puy",
+                "https://sites.google.com/site/puygilles/home"
+            ],
+            [
+                "Alasdair Newson",
+                "https://sites.google.com/site/alasdairnewson/"
+            ],
+            [
+                "Yann Gousseau",
+                "https://gousseau.wp.imt.fr/"
+            ],
+            [
+                "Pierre Hellier",
+                "https://scholar.google.com/citations?user=U2BX6Q8AAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/InterDigitalInc/HRFAE"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2005.04410"
+            ],
+            [
+                "data",
+                "https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/"
+            ],
+            [
+                "git",
+                "https://github.com/vadimkantorov/caffemodel2pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/ffhq-dataset"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/InterDigitalInc/HRFAE/blob/master/test.ipynb",
+        "update": 1589441587.0
+    },
+    {
+        "name": "IDE-3D",
+        "description": "Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis",
+        "author": [
+            [
+                "Jingxiang Sun",
+                "https://mrtornado24.github.io/"
+            ],
+            [
+                "Xuan Wang",
+                "https://xuanwangvc.github.io/"
+            ],
+            [
+                "Yichun Shi",
+                "https://seasonsh.github.io/"
+            ],
+            [
+                "Lizhen Wang",
+                "https://lizhenwangt.github.io/"
+            ],
+            [
+                "Jue Wang",
+                "https://juewang725.github.io/"
+            ],
+            [
+                "Yebin Liu",
+                "http://www.liuyebin.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/MrTornado24/IDE-3D"
+            ],
+            [
+                "git",
+                "https://arxiv.org/abs/2205.15517"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/eg3d"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/ffhq-dataset"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan3"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Kj5XY_J2Alk"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/MrTornado24/IDE-3D/blob/main/inversion/notebooks/inference_playground.ipynb",
+        "update": 1662646857.0
+    },
+    {
+        "name": "HybrIK",
+        "description": "Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation",
+        "author": [
+            [
+                "Jiefeng Li",
+                "https://jeffli.site/"
+            ],
+            [
+                "Chao Xu",
+                "https://www.isdas.cn/"
+            ],
+            [
+                "Zhicun Chen",
+                "https://github.com/chenzhicun"
+            ],
+            [
+                "Siyuan Bian",
+                "https://github.com/biansy000"
+            ],
+            [
+                "Lixin Yang",
+                "https://lixiny.github.io/"
+            ],
+            [
+                "Cewu Lu",
+                "https://www.mvig.org/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/Jeff-sjtu/HybrIK"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2011.14672"
+            ],
+            [
+                "supp",
+                "https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_HybrIK_A_Hybrid_CVPR_2021_supplemental.zip"
+            ],
+            [
+                "project",
+                "https://jeffli.site/HybrIK/"
+            ],
+            [
+                "git",
+                "https://github.com/mks0601/3DMPPE_POSENET_RELEASE"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/tvwnXXH7xIw"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/sota/3d-human-pose-estimation-on-3dpw?p=hybrik-a-hybrid-analytical-neural-inverse"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1n41l7I2NxWseuruVQEU8he2XqzSXhu2f",
+        "update": 1672557691.19
+    },
+    {
+        "name": "Decision Transformers",
+        "description": "An architecture that casts the problem of RL as conditional sequence modeling",
+        "author": [
+            [
+                "Lili Chen",
+                "http://www.lilichen.me/"
+            ],
+            [
+                "Kevin Lu",
+                "https://kzl.github.io/"
+            ],
+            [
+                "Aravind Rajeswaran",
+                "https://aravindr93.github.io/"
+            ],
+            [
+                "Kimin Lee",
+                "https://sites.google.com/view/kiminlee"
+            ],
+            [
+                "Aditya Grover",
+                "https://aditya-grover.github.io/"
+            ],
+            [
+                "Michael Laskin",
+                "https://www.mishalaskin.com/"
+            ],
+            [
+                "Pieter Abbeel",
+                "http://people.eecs.berkeley.edu/~pabbeel/"
+            ],
+            [
+                "Aravind Srinivas",
+                "https://github.com/aravindsrinivas"
+            ],
+            [
+                "Igor Mordatch",
+                "https://scholar.google.com/citations?user=Vzr1RukAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/kzl/decision-transformer"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.01345"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/k08N5a0gG0A"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/models?other=gym-continous-control"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Autoregressive_model"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/edbeeching/decision-transformer-gym-hopper-expert"
+            ],
+            [
+                "project",
+                "https://sites.google.com/berkeley.edu/decision-transformer"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/-buULmf7dec"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/83QN9S-0I84"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/w4Bw8WYL8Ps"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/docs/transformers/model_doc/decision_transformer"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1K3UuajwoPY1MzRKNkONNRS3gS5DxZ-qF",
+        "update": 1662467667.684
+    },
+    {
+        "name": "BLIP",
+        "description": "VLP framework which transfers flexibly to both vision-language understanding and generation tasks",
+        "author": [
+            [
+                "Junnan Li",
+                "https://github.com/LiJunnan1992"
+            ],
+            [
+                "Dongxu Li",
+                "https://sites.google.com/view/dongxu-li/home"
+            ],
+            [
+                "Caiming Xiong",
+                "http://cmxiong.com/"
+            ],
+            [
+                "Steven Hoi",
+                "https://sites.google.com/view/stevenhoi"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/salesforce/BLIP"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2201.12086"
+            ],
+            [
+                "blog post",
+                "https://blog.salesforceairesearch.com/blip-bootstrapping-language-image-pretraining/"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/fairscale"
+            ],
+            [
+                "git",
+                "https://github.com/salesforce/ALPRO"
+            ],
+            [
+                "git",
+                "https://github.com/dmlc/decord"
+            ],
+            [
+                "git",
+                "https://github.com/salesforce/ALBEF"
+            ],
+            [
+                "git",
+                "https://github.com/rwightman/pytorch-image-models/tree/main/timm"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/X2k7n4FuI7c"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/salesforce/BLIP/blob/main/demo.ipynb",
+        "update": 1646258349.0
+    },
+    {
+        "name": "PyMAF",
+        "description": "Pyramidal Mesh Alignment Feedback loop in regression network for well-aligned body mesh recovery and extend it for the recovery of expressive full-body models",
+        "author": [
+            [
+                "Hongwen Zhang",
+                "https://hongwenzhang.github.io/"
+            ],
+            [
+                "Yating Tian",
+                "https://github.com/tinatiansjz"
+            ],
+            [
+                "Yuxiang Zhang",
+                "https://zhangyux15.github.io/"
+            ],
+            [
+                "Mengcheng Li",
+                "https://github.com/Dw1010"
+            ],
+            [
+                "Liang An",
+                "https://anl13.github.io/"
+            ],
+            [
+                "Zhenan Sun",
+                "http://www.cbsr.ia.ac.cn/users/znsun/"
+            ],
+            [
+                "Yebin Liu",
+                "https://www.liuyebin.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/HongwenZhang/PyMAF"
+            ],
+            [
+                "project",
+                "https://www.liuyebin.com/pymaf-x/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2207.06400"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2103.16507"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/eft"
+            ],
+            [
+                "git",
+                "https://github.com/HongwenZhang/DaNet-DensePose2SMPL"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/DensePose"
+            ],
+            [
+                "git",
+                "https://github.com/Microsoft/human-pose-estimation.pytorch"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/yqEmznSKjYI"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/ylOB0wCeV34"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/11RXLsH9BdoSCwY6G-IX7KgqDxVoImu6K",
+        "update": 1665070340.2
     }
 ]

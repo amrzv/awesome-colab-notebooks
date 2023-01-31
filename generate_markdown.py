@@ -1,55 +1,102 @@
-from collections import defaultdict
+from collections import Counter, defaultdict
 from datetime import datetime
 from json import load
+from numpy import mean
 from os.path import join
 
-badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips', 'paperswithcode', 'huggingface'}
+badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips', 'paperswithcode', 'huggingface', 'docs'}
 
-def colab_url(url):
+def colab_url(url: str) -> str:
     return f'[![Open In Colab](images/colab.svg)]({url})'
 
-def parse_link(link_tuple, height=20):
+def doi_url(url: str) -> str:
+    doi = url.split('org/')[1]
+    return f'[![](https://api.juleskreuer.eu/citation-badge.php?doi={doi})]({url})'
+
+def git_url(url: str) -> str:
+    repo = '/'.join(url.split('com/')[1].split('/')[:2])
+    return f'[![](https://img.shields.io/github/stars/{repo}?style=social)]({url})'
+
+def read_json(filepath: str):
+    with open(filepath, 'r', encoding='utf-8') as f:
+        return load(f)
+
+def parse_link(link_tuple: list[list[str, str]], height=20) -> str:
     name, url = link_tuple
     if name in badges:
         return f'[<img src="images/{name}.svg" alt="{name}" height={height}/>]({url})'
     return f'[{name}]({url})'
 
-def parse_links(list_of_links):
+def parse_authors(authors: list[tuple[str, str]], num_of_visible: int) -> str:
+    num_authros = len(authors)
+    if len(authors) == 1:
+        return '[{}]({})'.format(*authors[0])
+    if len(authors) <= num_of_visible + 1:
+        return '<ul>' + ' '.join(f'<li>[{author}]({link})</li>' for author,link in authors[:num_of_visible + 1]) + '</ul>'
+    return '<ul>' + ' '.join(f'<li>[{author}]({link})</li>' for author,link in authors[:num_of_visible]) + '<details><summary>others</summary>' + ' '.join(f'<li>[{author}]({link})</li>' for author,link in authors[num_of_visible:]) + '</ul></details>'
+
+def parse_links(list_of_links: list[tuple[str, str]]) -> str:
     if len(list_of_links) == 0:
         return ''
-    d = defaultdict(list)
+    dct = defaultdict(list)
     for name,url in list_of_links:
-        d[name].append(url)
-    if len(d) == 1:
-        return ', '.join(parse_link(link_tuple) for link_tuple in list_of_links)
-    return '<ul>' + ''.join('<li>' + ', '.join(parse_link((name, url)) for url in d[name]) + '</li>' for name in d.keys()) + '</ul>'
+        dct[name].append(url)
+    line = ''
+    if 'doi' in dct:
+        line += doi_url(dct['doi'][0]) + ' '
+        dct.pop('doi')
+    if 'git' in dct:
+        line += git_url(dct['git'][0]) + ' '
+        if len(dct['git']) == 1:
+            dct.pop('git')
+        else:
+            dct['git'].pop(0)
+    if len(dct) == 0:
+        return line
 
-def generate_table(fn):
-    with open(fn, 'r', encoding='utf-8') as f:
-        data = load(f)
+    return line + '<ul>' + ''.join('<li>' + ', '.join(parse_link((name, url)) for url in dct[name]) + '</li>' for name in dct.keys()) + '</ul>'
+
+def get_top_authors(topK: int = 15) -> tuple[str, int]:
+    research = read_json(join('data', 'research.json'))
+    tutorials = read_json(join('data', 'tutorials.json'))
+    
+    authors, num_of_authors = [], []
+    for project in research + tutorials:
+        authors.extend([tuple(author) for author in project['author']])
+        num_of_authors.append(len(project['author']))
+    cnt = Counter(authors)
+    most_common = cnt.most_common()
+    contributions = most_common[topK][1]
+    idx = topK
+    while most_common[idx][1] == contributions:
+        idx += 1
+    num_of_visible = mean(num_of_authors, dtype=int)
+    
+    return '\n'.join(f'- [{author}]({link})' for (author,link),_ in most_common[:idx]), num_of_visible
+
+def generate_table(fn: str, num_visible_authors: int):
+    data = read_json(fn)
     colabs = sorted(data, key=lambda kv: kv['update'], reverse=True)
 
     print('| name | description | authors | links | colaboratory | update |')
     print('|------|-------------|:--------|:------|:------------:|:------:|')
     for line in colabs:
-        if len(line['author']) > 1:
-            line['author'] = '<ul>' + ' '.join(f'<li>[{author}]({link})</li>' for author,link in line['author']) + '</ul>'
-        else:
-            if len(line['author'][0]) == 2:
-                line['author'] = '[{}]({})'.format(*line['author'][0])
-            else:
-                line['author'] = line['author'][0][0]
+        line['author'] = parse_authors(line['author'], num_visible_authors)
         line['links'] = parse_links(sorted(line['links'], key=lambda x: x[0]))
         line['url'] = colab_url(line['colab'])
         line['update'] = datetime.fromtimestamp(line['update']).strftime('%d.%m.%Y')
         print('| {name} | {description} | {author} | {links} | {url} | {update} |'.format(**line))
 
 def generate_markdown():
+    top_authors, num_visible_authors = get_top_authors()
+    print('[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/amrzv/awesome-colab-notebooks)](https://hits.seeyoufarm.com)')
     print('# Awesome colab notebooks collection for ML experiments')
     print('## Research')
-    generate_table(join('data', 'research.json'))
+    generate_table(join('data', 'research.json'), num_visible_authors)
     print('## Tutorials')
-    generate_table(join('data', 'tutorials.json'))
+    generate_table(join('data', 'tutorials.json'), num_visible_authors)
+    print('# Most popular authors')
+    print(top_authors)
     print('\n[![Stargazers over time](https://starchart.cc/amrzv/awesome-colab-notebooks.svg)](https://starchart.cc/amrzv/awesome-colab-notebooks)')
     print(f'\n(generated by [generate_markdown.py](generate_markdown.py) based on [research.json](data/research.json) and [tutorials.json](data/tutorials.json))')
 
