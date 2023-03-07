@@ -4,7 +4,7 @@ from json import load
 from numpy import mean
 from os.path import join
 
-badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips', 'paperswithcode', 'huggingface', 'docs'}
+badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips', 'paperswithcode', 'huggingface', 'docs', 'slack', 'twitter'}
 
 def colab_url(url: str) -> str:
     return f'[![Open In Colab](images/colab.svg)]({url})'
