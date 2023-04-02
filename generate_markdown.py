@@ -1,7 +1,7 @@
 from collections import Counter, defaultdict
 from datetime import datetime
 from json import load
-from numpy import mean
+from numpy import mean, median
 from os.path import join
 
 badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips', 'paperswithcode', 'huggingface', 'docs', 'slack', 'twitter'}
@@ -70,7 +70,7 @@ def get_top_authors(topK: int = 15) -> tuple[str, int]:
     idx = topK
     while most_common[idx][1] == contributions:
         idx += 1
-    num_of_visible = mean(num_of_authors, dtype=int)
+    num_of_visible = int(min(mean(num_of_authors), median(num_of_authors)))
     
     return '\n'.join(f'- [{author}]({link})' for (author,link),_ in most_common[:idx]), num_of_visible
 

@@ -465,7 +465,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb",
-        "update": 1670170016.0
+        "update": 1679212939.0
     },
     {
         "name": "T5",
@@ -923,7 +923,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt",
-        "update": 1609866428.455
+        "update": 1679843559.379
     },
     {
         "name": "IC-GAN",
@@ -1903,7 +1903,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1676675184.0
+        "update": 1680339771.0
     },
     {
         "name": "YOLOv6",
@@ -2843,7 +2843,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb",
-        "update": 1678122836.0
+        "update": 1679910649.0
     },
     {
         "name": "Arnheim",
@@ -3204,36 +3204,6 @@
         "update": 1607275506.0
     },
     {
-        "name": "Jukebox",
-        "description": "A neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles",
-        "author": [
-            [
-                "Christine Payne",
-                "http://christinemcleavey.com/"
-            ]
-        ],
-        "links": [
-            [
-                "blog post",
-                "https://openai.com/blog/jukebox"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2005.00341"
-            ],
-            [
-                "explorer",
-                "http://jukebox.openai.com/"
-            ],
-            [
-                "git",
-                "https://github.com/openai/jukebox"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb",
-        "update": 1588612610.0
-    },
-    {
         "name": "Open-Unmix",
         "description": "A deep neural network reference implementation for music source separation, applicable for researchers, audio engineers and artists",
         "author": [
@@ -3304,6 +3274,36 @@
         ],
         "colab": "https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/master/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb",
         "update": 1604243816.0
+    },
+    {
+        "name": "Jukebox",
+        "description": "A neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles",
+        "author": [
+            [
+                "Christine Payne",
+                "http://christinemcleavey.com/"
+            ]
+        ],
+        "links": [
+            [
+                "blog post",
+                "https://openai.com/blog/jukebox"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2005.00341"
+            ],
+            [
+                "explorer",
+                "http://jukebox.openai.com/"
+            ],
+            [
+                "git",
+                "https://github.com/openai/jukebox"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb",
+        "update": 1588612610.0
     },
     {
         "name": "GLIDE",
@@ -3396,6 +3396,68 @@
         ],
         "colab": "https://colab.research.google.com/github/openai/clip/blob/master/Interacting_with_CLIP.ipynb",
         "update": 1611930123.0
+    },
+    {
+        "name": "Whisper",
+        "description": "Automatic speech recognition system trained on 680,000 hours of multilingual and multitask supervised data collected from the web",
+        "author": [
+            [
+                "Alec Radford",
+                "http://newmu.github.io/"
+            ],
+            [
+                "Jong Wook Kim",
+                "https://jongwook.kim/"
+            ],
+            [
+                "Tao Xu",
+                "https://github.com/bayesian"
+            ],
+            [
+                "Greg Brockman",
+                "https://gregbrockman.com/"
+            ],
+            [
+                "Christine McLeavey",
+                "http://christinemcleavey.com/"
+            ],
+            [
+                "Ilya Sutskever",
+                "http://www.cs.toronto.edu/~ilya/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/openai/whisper"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2212.04356"
+            ],
+            [
+                "blog post",
+                "https://openai.com/research/whisper"
+            ],
+            [
+                "git",
+                "https://github.com/kkroening/ffmpeg-python"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/OCBZtgQGt1I"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/8SQV-B83tPU"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/nE5iVtwKerA"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb",
+        "update": 1663769383.0
     },
     {
         "name": "AvatarCLIP",
@@ -3639,7 +3701,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eyaler/avatars4all/blob/master/melaflefon.ipynb",
-        "update": 1676340249.0
+        "update": 1680250725.0
     },
     {
         "name": "MSG-Net",
@@ -4892,6 +4954,64 @@
         ],
         "colab": "https://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb",
         "update": 1660065154.0
+    },
+    {
+        "name": "textual-inversion",
+        "description": "An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion",
+        "author": [
+            [
+                "Rinon Gal",
+                "https://rinongal.github.io/"
+            ],
+            [
+                "Yuval Alaluf",
+                "https://yuval-alaluf.github.io/"
+            ],
+            [
+                "Yuval Atzmon",
+                "https://research.nvidia.com/person/yuval-atzmon"
+            ],
+            [
+                "Or Patashnik",
+                "https://orpatashnik.github.io/"
+            ],
+            [
+                "Amit Bermano",
+                "https://www.cs.tau.ac.il/~amberman/"
+            ],
+            [
+                "Gal Chechik",
+                "https://research.nvidia.com/person/gal-chechik"
+            ],
+            [
+                "Daniel Cohen-Or",
+                "https://danielcohenor.com/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://textual-inversion.github.io/"
+            ],
+            [
+                "git",
+                "https://github.com/rinongal/textual_inversion"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2208.01618"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/f3oXa7_SYek"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/opD_H9bED9Y"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/rinongal/textual_inversion/blob/master/scripts/latent_imagenet_diffusion.ipynb",
+        "update": 1661105143.0
     },
     {
         "name": "Big Sleep",
@@ -7764,6 +7884,72 @@
         "update": 1656617899.73
     },
     {
+        "name": "Visual ChatGPT",
+        "description": "Connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting",
+        "author": [
+            [
+                "Chenfei Wu",
+                "https://github.com/chenfei-wu"
+            ],
+            [
+                "Shengming Yin",
+                "https://github.com/shengming-yin"
+            ],
+            [
+                "Weizhen Qi",
+                "https://github.com/WeizhenQ"
+            ],
+            [
+                "Xiaodong Wang",
+                "https://wang-xiaodong1899.github.io/"
+            ],
+            [
+                "Zecheng Tang",
+                "https://github.com/CODINNLG"
+            ],
+            [
+                "Nan Duan",
+                "https://nanduan.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/microsoft/visual-chatgpt"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2303.04671"
+            ],
+            [
+                "git",
+                "https://github.com/hwchase17/langchain"
+            ],
+            [
+                "git",
+                "https://github.com/lllyasviel/ControlNet"
+            ],
+            [
+                "git",
+                "https://github.com/timothybrooks/instruct-pix2pix"
+            ],
+            [
+                "git",
+                "https://github.com/timojl/clipseg"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/0UfXlFUwLms"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/7YEiEyfPF5U"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/11BtP3h-w0dZjA-X8JsS9_eo8OeGYvxXB",
+        "update": 1678846576.322
+    },
+    {
         "name": "ICON",
         "description": "Given a set of images, method estimates a detailed 3D surface from each image and then combines these into an animatable avatar",
         "author": [
@@ -9132,5 +9318,55 @@
         ],
         "colab": "https://colab.research.google.com/drive/1wEze0kQ0gt9B3bQmmbtbSXCoCTpq5vg-",
         "update": 1674064502.981
+    },
+    {
+        "name": "NAFNet",
+        "description": "Nonlinear Activation Free Network for Image Restoration",
+        "author": [
+            [
+                "Liangyu Chen",
+                "https://github.com/mayorx"
+            ],
+            [
+                "Xiaojie Chu",
+                "https://github.com/chuxiaojie"
+            ],
+            [
+                "Xiangyu Zhang",
+                "https://scholar.google.com/citations?user=yuB-cfoAAAAJ"
+            ],
+            [
+                "Jian Sun",
+                "http://www.jiansun.org/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/megvii-research/NAFNet"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2204.04676"
+            ],
+            [
+                "doi",
+                "https://doi.org/10.1007/978-3-031-20071-7_2"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2204.08714"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/sota/image-deblurring-on-gopro?p=simple-baselines-for-image-restoration"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/sota/image-denoising-on-sidd?p=simple-baselines-for-image-restoration"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1dkO5AyktmBoWwxBwoKFUurIDn0m4qDXT",
+        "update": 1650000908.624
     }
 ]

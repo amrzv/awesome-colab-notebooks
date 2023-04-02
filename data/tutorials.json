@@ -343,7 +343,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb",
-        "update": 1671443326.0
+        "update": 1678324111.0
     },
     {
         "name": "Simple audio recognition",
@@ -373,7 +373,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/audio/simple_audio.ipynb",
-        "update": 1672222638.0
+        "update": 1677331499.0
     },
     {
         "name": "Image classification",
@@ -391,7 +391,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb",
-        "update": 1666815896.0
+        "update": 1678050799.0
     },
     {
         "name": "CNN",
@@ -465,7 +465,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/segmentation.ipynb",
-        "update": 1673645107.0
+        "update": 1679037942.0
     },
     {
         "name": "Integrated gradients",
@@ -723,7 +723,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/transformer.ipynb",
-        "update": 1667799322.0
+        "update": 1680031631.0
     },
     {
         "name": "Word2Vec",
@@ -817,7 +817,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1677171430.0
+        "update": 1679959469.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -851,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1677171430.0
+        "update": 1680201011.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -885,7 +885,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1677171430.0
+        "update": 1679959469.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -915,7 +915,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1677171430.0
+        "update": 1679959469.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -945,7 +945,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1677171430.0
+        "update": 1679959469.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -979,7 +979,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1677171430.0
+        "update": 1679959469.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -997,7 +997,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1677171430.0
+        "update": 1679959469.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -2665,7 +2665,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eleurent/highway-env/blob/master/scripts/parking_model_based.ipynb",
-        "update": 1664100770.0
+        "update": 1679146096.0
     },
     {
         "name": "GAN steerability",
@@ -2969,7 +2969,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/microsoft/torchgeo/blob/main/docs/tutorials/indices.ipynb",
-        "update": 1677431677.0
+        "update": 1680045971.0
     },
     {
         "name": "Imagededup",
@@ -3613,7 +3613,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/quantum/blob/master/docs/tutorials/hello_many_worlds.ipynb",
-        "update": 1659042609.0
+        "update": 1679338820.0
     },
     {
         "name": "dm_control",
@@ -3711,7 +3711,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/tutorial.ipynb",
-        "update": 1675785248.0
+        "update": 1679394132.0
     },
     {
         "name": "MuJoCo",
@@ -3781,7 +3781,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/dm_control/mujoco/tutorial.ipynb",
-        "update": 1675785248.0
+        "update": 1679394132.0
     },
     {
         "name": "Haiku",
@@ -5309,7 +5309,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/qunash/stable-diffusion-2-gui/blob/main/stable_diffusion_2_0.ipynb",
-        "update": 1675456844.0
+        "update": 1679002276.0
     },
     {
         "name": "Stable Diffusion Videos",
@@ -5661,7 +5661,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/Accenture/AmpliGraph/blob/main/docs/tutorials/AmpliGraphBasicsTutorial.ipynb",
-        "update": 1677853780.0
+        "update": 1677165780.0
     },
     {
         "name": "BasicSR",
@@ -5951,7 +5951,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ise-uiuc/tzer/blob/main/bug-report.ipynb",
-        "update": 1646190945.0
+        "update": 1678395597.0
     },
     {
         "name": "Anomalib",
@@ -6017,7 +6017,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/openvinotoolkit/anomalib/blob/main/notebooks/000_getting_started/001_getting_started.ipynb",
-        "update": 1677839131.0
+        "update": 1678484960.0
     },
     {
         "name": "OCTIS",
@@ -6423,7 +6423,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/rl-baselines-zoo.ipynb",
-        "update": 1673956096.0
+        "update": 1680123742.0
     },
     {
         "name": "CleanRL",
@@ -6949,7 +6949,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/google/brax/blob/main/notebooks/basics.ipynb",
-        "update": 1648223156.0
+        "update": 1680180863.0
     },
     {
         "name": "PyG",
@@ -7199,6 +7199,64 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/mosaicml/composer/blob/dev/examples/getting_started.ipynb",
-        "update": 1677707620.0
+        "update": 1679947359.0
+    },
+    {
+        "name": "deep-significance",
+        "description": "Easy-to-use package containing different significance tests and utility functions specifically tailored towards research needs and usability",
+        "author": [
+            [
+                "Dennis Ulmer",
+                "http://dennisulmer.eu/"
+            ],
+            [
+                "Christian Hardmeier",
+                "https://christianhardmeier.rax.ch/"
+            ],
+            [
+                "Jes Frellsen",
+                "https://frellsen.org/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/Kaleidophon/deep-significance"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2204.06815"
+            ],
+            [
+                "docs",
+                "https://deep-significance.readthedocs.io/en/latest/"
+            ],
+            [
+                "blog post",
+                "https://machinelearningmastery.com/statistical-hypothesis-tests/"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Multiple_comparisons_problem"
+            ],
+            [
+                "doi",
+                "https://doi.org/10.18653/v1/p19-1266"
+            ],
+            [
+                "git",
+                "https://github.com/rtmdrr/replicability-analysis-NLP"
+            ],
+            [
+                "git",
+                "https://github.com/rtmdrr/testSignificanceNLP"
+            ],
+            [
+                "git",
+                "https://github.com/rtmdrr/DeepComparison"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/Kaleidophon/deep-significance/blob/main/paper/deep-significance%20demo.ipynb",
+        "update": 1649769869.0
     }
 ]
