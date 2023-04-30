@@ -723,7 +723,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/transformer.ipynb",
-        "update": 1680031631.0
+        "update": 1680898869.0
     },
     {
         "name": "Word2Vec",
@@ -817,7 +817,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/building_your_own_federated_learning_algorithm.ipynb",
-        "update": 1679959469.0
+        "update": 1681936058.0
     },
     {
         "name": "Federated Learning for Image Classification",
@@ -851,7 +851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_image_classification.ipynb",
-        "update": 1680201011.0
+        "update": 1681936058.0
     },
     {
         "name": "Federated Learning for Text Generation",
@@ -885,7 +885,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb",
-        "update": 1679959469.0
+        "update": 1681936058.0
     },
     {
         "name": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
@@ -915,7 +915,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_1.ipynb",
-        "update": 1679959469.0
+        "update": 1681936058.0
     },
     {
         "name": "Custom Federated Algorithms, Part 2: Implementing Federated Averaging",
@@ -945,7 +945,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/custom_federated_algorithms_2.ipynb",
-        "update": 1679959469.0
+        "update": 1681936058.0
     },
     {
         "name": "TFF for Federated Learning Research: Model and Update Compression",
@@ -979,7 +979,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/tff_for_federated_learning_research_compression.ipynb",
-        "update": 1679959469.0
+        "update": 1681936058.0
     },
     {
         "name": "High-performance simulations with TFF",
@@ -997,7 +997,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/simulations.ipynb",
-        "update": 1679959469.0
+        "update": 1681936058.0
     },
     {
         "name": "High-performance Simulation with Kubernetes",
@@ -1613,7 +1613,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb",
-        "update": 1660040130.0
+        "update": 1680956773.0
     },
     {
         "name": "Analyzing Tennis Serve",
@@ -1955,7 +1955,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1U6vo6Q_rPhDaq6oUMV7EAZRm6s0fD1wn",
-        "update": 1660414124.925
+        "update": 1682753192.886
     },
     {
         "name": "BANMo",
@@ -2665,7 +2665,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eleurent/highway-env/blob/master/scripts/parking_model_based.ipynb",
-        "update": 1679146096.0
+        "update": 1682188326.0
     },
     {
         "name": "GAN steerability",
@@ -3711,7 +3711,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/tutorial.ipynb",
-        "update": 1679394132.0
+        "update": 1682003087.0
     },
     {
         "name": "MuJoCo",
@@ -3781,7 +3781,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/dm_control/blob/master/dm_control/mujoco/tutorial.ipynb",
-        "update": 1679394132.0
+        "update": 1682003087.0
     },
     {
         "name": "Haiku",
@@ -4863,7 +4863,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/mlfoundations/open_clip/blob/master/docs/Interacting_with_open_clip.ipynb",
-        "update": 1649272448.0
+        "update": 1681657982.0
     },
     {
         "name": "ArcaneGAN",
@@ -5455,7 +5455,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/coqui-ai/TTS/blob/dev/notebooks/Tutorial_2_train_your_first_TTS_model.ipynb",
-        "update": 1669038607.0
+        "update": 1682508177.0
     },
     {
         "name": "MMAction2",
@@ -5537,7 +5537,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/open-mmlab/mmaction2/blob/master/demo/mmaction2_tutorial.ipynb",
-        "update": 1670404363.0
+        "update": 1681434794.0
     },
     {
         "name": "pymdp",
@@ -5805,7 +5805,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1Ervk6HPNS6AYVr3xVdQnY5a-TjjmLCdQ",
-        "update": 1674008251.231
+        "update": 1681329492.161
     },
     {
         "name": "py-irt",
@@ -6017,7 +6017,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/openvinotoolkit/anomalib/blob/main/notebooks/000_getting_started/001_getting_started.ipynb",
-        "update": 1678484960.0
+        "update": 1682670177.0
     },
     {
         "name": "OCTIS",
@@ -6381,7 +6381,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/stable_baselines_getting_started.ipynb",
-        "update": 1673956096.0
+        "update": 1681463238.0
     },
     {
         "name": "RL Baselines3 Zoo",
@@ -6423,7 +6423,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/sb3/rl-baselines-zoo.ipynb",
-        "update": 1680123742.0
+        "update": 1681463238.0
     },
     {
         "name": "CleanRL",
@@ -7199,7 +7199,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/mosaicml/composer/blob/dev/examples/getting_started.ipynb",
-        "update": 1679947359.0
+        "update": 1681917307.0
     },
     {
         "name": "deep-significance",
@@ -7258,5 +7258,285 @@
         ],
         "colab": "https://colab.research.google.com/github/Kaleidophon/deep-significance/blob/main/paper/deep-significance%20demo.ipynb",
         "update": 1649769869.0
+    },
+    {
+        "name": "PyTerrier",
+        "description": "A Python framework for performing information retrieval experiments",
+        "author": [
+            [
+                "Craig Macdonald",
+                "https://www.dcs.gla.ac.uk/~craigm/"
+            ],
+            [
+                "Nicola Tonellotto",
+                "https://github.com/tonellotto"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/terrier-org/pyterrier"
+            ],
+            [
+                "docs",
+                "https://pyterrier.readthedocs.io"
+            ],
+            [
+                "git",
+                "https://github.com/terrier-org/ecir2021tutorial"
+            ],
+            [
+                "git",
+                "https://github.com/terrierteam/pyterrier_ance"
+            ],
+            [
+                "git",
+                "https://github.com/terrierteam/pyterrier_colbert"
+            ],
+            [
+                "git",
+                "https://github.com/terrierteam/pyterrier_pisa"
+            ],
+            [
+                "git",
+                "https://github.com/terrierteam/pyterrier_t5"
+            ],
+            [
+                "git",
+                "https://github.com/terrierteam/pyterrier_doc2query"
+            ],
+            [
+                "git",
+                "https://github.com/terrierteam/pyterrier_deepct"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2007.14271"
+            ],
+            [
+                "doi",
+                "https://doi.org/10.1145/3459637.3482013"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/terrier-org/pyterrier/blob/master/examples/notebooks/non_en_retrieval.ipynb",
+        "update": 1667409125.0
+    },
+    {
+        "name": "StableLM",
+        "description": "Stability AI Language Models",
+        "author": [
+            [
+                "Stability AI",
+                "https://stability.ai/careers"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/Stability-AI/StableLM"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/lmsys/vicuna-13b-delta-v0"
+            ],
+            [
+                "git",
+                "https://github.com/facebookresearch/llama"
+            ],
+            [
+                "git",
+                "https://github.com/tatsu-lab/stanford_alpaca"
+            ],
+            [
+                "git",
+                "https://github.com/nomic-ai/gpt4all"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/datasets/RyokoAI/ShareGPT52K"
+            ],
+            [
+                "git",
+                "https://github.com/databrickslabs/dolly"
+            ],
+            [
+                "git",
+                "https://github.com/anthropics/hh-rlhf"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/stabilityai"
+            ],
+            [
+                "git",
+                "https://github.com/ggerganov/llama.cpp"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/dypPSs4t77g"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/nWf1StvtoRw"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/Hg-s2RTaTFE"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/qXtJjoEfTnA"
+            ],
+            [
+                "blog post",
+                "https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/Stability-AI/StableLM/blob/main/notebooks/stablelm-alpha.ipynb",
+        "update": 1682600742.0
+    },
+    {
+        "name": "normflows",
+        "description": "PyTorch implementation of discrete normalizing flows",
+        "author": [
+            [
+                "Vincent Stimper",
+                "https://is.mpg.de/person/vstimper"
+            ],
+            [
+                "David Liu",
+                "https://davindicode.github.io/"
+            ],
+            [
+                "Andrew Campbell",
+                "https://github.com/andrew-cr"
+            ],
+            [
+                "Vincent Berenz",
+                "http://vincentberenz.is.tuebingen.mpg.de/"
+            ],
+            [
+                "Lukas Ryll",
+                "https://github.com/lukasryll"
+            ],
+            [
+                "Bernhard Schölkopf",
+                "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ"
+            ],
+            [
+                "José Miguel Hernández-Lobato",
+                "https://jmhl.org/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/VincentStimper/normalizing-flows"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2302.12014"
+            ],
+            [
+                "docs",
+                "https://vincentstimper.github.io/normalizing-flows/"
+            ],
+            [
+                "git",
+                "https://github.com/VincentStimper/resampled-base-flows"
+            ],
+            [
+                "git",
+                "https://github.com/VincentStimper/hmc-hyperparameter-tuning"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Von_Mises_distribution"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/VincentStimper/normalizing-flows/blob/master/examples/paper_example_nsf_colab.ipynb",
+        "update": 1677232602.0
+    },
+    {
+        "name": "Open-Assistant",
+        "description": "Chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so",
+        "author": [
+            [
+                "Andreas Köpf",
+                "https://github.com/andreaskoepf"
+            ],
+            [
+                "Yannic Kilcher",
+                "https://github.com/yk"
+            ],
+            [
+                "Huu Nguyen",
+                "https://github.com/ontocord"
+            ],
+            [
+                "Christoph Schuhmann",
+                "http://christoph-schuhmann.de/"
+            ],
+            [
+                "Keith Stevens",
+                "https://fozziethebeat.github.io/"
+            ],
+            [
+                "Abdullah Barhoum",
+                "https://github.com/AbdBarho"
+            ],
+            [
+                "Nguyen Minh Duc",
+                "https://github.com/notmd"
+            ],
+            [
+                "Oliver Stanley",
+                "https://olliestanley.github.io/"
+            ],
+            [
+                "James Melvin Ebenezer",
+                "https://github.com/melvinebenezer"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/LAION-AI/Open-Assistant"
+            ],
+            [
+                "website",
+                "https://open-assistant.io/"
+            ],
+            [
+                "docs",
+                "https://projects.laion.ai/Open-Assistant/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2203.02155"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/64Izfm24FKA"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/ddG2fM9i4Kk"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/FQIHLFLrTw0"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/OpenAssistant"
+            ],
+            [
+                "medium",
+                "https://generativeai.pub/open-assistant-a-free-and-open-source-alternative-to-chatgpt-67d15229813"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/LAION-AI/Open-Assistant/blob/main/notebooks/data-augmentation/stackexchange-builder/stackexchange-builder.ipynb",
+        "update": 1673733069.0
     }
 ]

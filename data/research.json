@@ -88,6 +88,204 @@
         "update": 1607411003.0
     },
     {
+        "name": "StyleGAN 2",
+        "description": "Generation of faces, cars, etc.",
+        "author": [
+            [
+                "Mikael Christensen",
+                "https://github.com/Syntopia"
+            ]
+        ],
+        "links": [
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1912.04958"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH",
+        "update": 1636142903.17
+    },
+    {
+        "name": "StyleGAN3",
+        "description": "Alias-Free Generative Adversarial Networks",
+        "author": [
+            [
+                "Tero Karras",
+                "https://research.nvidia.com/person/tero-karras"
+            ],
+            [
+                "Miika Aittala",
+                "https://research.nvidia.com/person/Miika-Aittala"
+            ],
+            [
+                "Samuli Laine",
+                "https://research.nvidia.com/person/Samuli-Laine"
+            ],
+            [
+                "Erik Härkönen",
+                "https://github.com/harskish"
+            ],
+            [
+                "Janne Hellsten",
+                "https://research.nvidia.com/person/Janne-Hellsten"
+            ],
+            [
+                "Jaakko Lehtinen",
+                "https://users.aalto.fi/~lehtinj7/"
+            ],
+            [
+                "Timo Aila",
+                "https://research.nvidia.com/person/timo-aila"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan3"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan3-detector"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/ffhq-dataset"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/metfaces-dataset"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2-ada-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2-ada"
+            ],
+            [
+                "project",
+                "https://nvlabs.github.io/stylegan3"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2106.12423"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1706.08500"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1801.01401"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1904.06991"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1812.04948"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1606.03498"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1BXNHZBai-pXtP-ncliouXo_kUiG1Pq7M",
+        "update": 1634627369.928
+    },
+    {
+        "name": "StyleGAN-Human",
+        "description": "A Data-Centric Odyssey of Human Generation",
+        "author": [
+            [
+                "Jianglin Fu",
+                "https://github.com/arleneF"
+            ],
+            [
+                "Shikai Li",
+                "https://github.com/leeskyed"
+            ],
+            [
+                "Yuming Jiang",
+                "https://yumingj.github.io/"
+            ],
+            [
+                "Kwan-Yee Lin",
+                "https://kwanyeelin.github.io/"
+            ],
+            [
+                "Chen Qian",
+                "https://scholar.google.com/citations?user=AerkT0YAAAAJ"
+            ],
+            [
+                "Chen Change Loy",
+                "https://www.mmlab-ntu.com/person/ccloy/"
+            ],
+            [
+                "Wayne Wu",
+                "https://wywu.github.io/"
+            ],
+            [
+                "Ziwei Liu",
+                "https://liuziwei7.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/stylegan-human/stylegan-human"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2204.11823"
+            ],
+            [
+                "project",
+                "https://stylegan-human.github.io/"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/nIrb9hwsdcI"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan2-ada-pytorch"
+            ],
+            [
+                "git",
+                "https://github.com/NVlabs/stylegan3"
+            ],
+            [
+                "paperswithcode",
+                "https://paperswithcode.com/dataset/market-1501"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/86b49sCz0Gg"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/g3nmM6MdxwY"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/p2uwqh_SFL8"
+            ],
+            [
+                "doi",
+                "https://doi.org/10.1007/978-3-031-19787-1_1"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1sgxoDM55iM07FS54vz9ALg1XckiYA2On",
+        "update": 1660883751.06
+    },
+    {
         "name": "GPT-2",
         "description": "Retrain an advanced text generating neural network on any text dataset using gpt-2-simple!",
         "author": [
@@ -400,24 +598,6 @@
         ],
         "colab": "https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb",
         "update": 1663572869.0
-    },
-    {
-        "name": "StyleGAN 2",
-        "description": "Generation of faces, cars, etc.",
-        "author": [
-            [
-                "Mikael Christensen",
-                "https://github.com/Syntopia"
-            ]
-        ],
-        "links": [
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1912.04958"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH",
-        "update": 1636142903.17
     },
     {
         "name": "Faceswap-GAN",
@@ -1614,6 +1794,100 @@
         "update": 1597942578.0
     },
     {
+        "name": "Segment Anything",
+        "description": "The Segment Anything Model produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image",
+        "author": [
+            [
+                "Alexander Kirillov",
+                "https://alexander-kirillov.github.io/"
+            ],
+            [
+                "Eric Mintun",
+                "https://ericmintun.github.io/"
+            ],
+            [
+                "Nikhila Ravi",
+                "https://nikhilaravi.com/"
+            ],
+            [
+                "Hanzi Mao",
+                "https://hanzimao.me/"
+            ],
+            [
+                "Chloé Rolland",
+                "https://www.linkedin.com/in/chlo%C3%A9-rolland-223135a/"
+            ],
+            [
+                "Laura Gustafson",
+                "https://scholar.google.com/citations?user=c8IpF9gAAAAJ"
+            ],
+            [
+                "Tete Xiao",
+                "https://tetexiao.com/"
+            ],
+            [
+                "Spencer Whitehead",
+                "https://www.spencerwhitehead.com/"
+            ],
+            [
+                "Alex Berg",
+                "http://acberg.com/"
+            ],
+            [
+                "Wan-Yen Lo",
+                "https://github.com/wanyenlo"
+            ],
+            [
+                "Piotr Dollar",
+                "https://pdollar.github.io/"
+            ],
+            [
+                "Ross Girshick",
+                "https://www.rossgirshick.info/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/facebookresearch/segment-anything"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2304.02643"
+            ],
+            [
+                "blog post",
+                "https://ai.facebook.com/research/publications/segment-anything/"
+            ],
+            [
+                "website",
+                "https://segment-anything.com/"
+            ],
+            [
+                "blog post",
+                "https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/"
+            ],
+            [
+                "data",
+                "https://ai.facebook.com/datasets/segment-anything/"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/2O_vecl28OA"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/fVeW9a6wItM"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/FjYE0tKWOiY"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/facebookresearch/segment-anything/blob/main/notebooks/predictor_example.ipynb",
+        "update": 1681141817.0
+    },
+    {
         "name": "CartoonGAN",
         "description": "The implementation of the cartoon GAN model with PyTorch",
         "author": [
@@ -1873,7 +2147,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov3/blob/master/tutorial.ipynb",
-        "update": 1676663532.0
+        "update": 1682106110.0
     },
     {
         "name": "YOLOv5",
@@ -1903,7 +2177,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb",
-        "update": 1680339771.0
+        "update": 1682106449.0
     },
     {
         "name": "YOLOv6",
@@ -2577,7 +2851,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1MXT3yfOFvO0ooKEfiUUvTKwUkrrlCHpF",
-        "update": 1670556346.804
+        "update": 1680575748.565
     },
     {
         "name": "NFNet",
@@ -2843,7 +3117,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb",
-        "update": 1679910649.0
+        "update": 1681197797.0
     },
     {
         "name": "Arnheim",
@@ -5125,7 +5399,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb",
-        "update": 1652695257.0
+        "update": 1680518655.0
     },
     {
         "name": "VideoGPT",
@@ -6168,96 +6442,6 @@
         ],
         "colab": "https://colab.research.google.com/drive/1pxTIMweAKApJZ3ZFqyBee3HtMqFpnwQ0",
         "update": 1643911942.079
-    },
-    {
-        "name": "StyleGAN3",
-        "description": "Alias-Free Generative Adversarial Networks",
-        "author": [
-            [
-                "Tero Karras",
-                "https://research.nvidia.com/person/tero-karras"
-            ],
-            [
-                "Miika Aittala",
-                "https://research.nvidia.com/person/Miika-Aittala"
-            ],
-            [
-                "Samuli Laine",
-                "https://research.nvidia.com/person/Samuli-Laine"
-            ],
-            [
-                "Erik Härkönen",
-                "https://github.com/harskish"
-            ],
-            [
-                "Janne Hellsten",
-                "https://research.nvidia.com/person/Janne-Hellsten"
-            ],
-            [
-                "Jaakko Lehtinen",
-                "https://users.aalto.fi/~lehtinj7/"
-            ],
-            [
-                "Timo Aila",
-                "https://research.nvidia.com/person/timo-aila"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/NVlabs/stylegan3"
-            ],
-            [
-                "git",
-                "https://github.com/NVlabs/stylegan3-detector"
-            ],
-            [
-                "git",
-                "https://github.com/NVlabs/ffhq-dataset"
-            ],
-            [
-                "git",
-                "https://github.com/NVlabs/metfaces-dataset"
-            ],
-            [
-                "git",
-                "https://github.com/NVlabs/stylegan2-ada-pytorch"
-            ],
-            [
-                "git",
-                "https://github.com/NVlabs/stylegan2-ada"
-            ],
-            [
-                "project",
-                "https://nvlabs.github.io/stylegan3"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/2106.12423"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1706.08500"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1801.01401"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1904.06991"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1812.04948"
-            ],
-            [
-                "arxiv",
-                "https://arxiv.org/abs/1606.03498"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/drive/1BXNHZBai-pXtP-ncliouXo_kUiG1Pq7M",
-        "update": 1634627369.928
     },
     {
         "name": "Instant-NGP",
@@ -8447,7 +8631,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/open-mmlab/mmsegmentation/blob/master/demo/MMSegmentation_Tutorial.ipynb",
-        "update": 1657877494.0
+        "update": 1680243990.0
     },
     {
         "name": "EPro-PnP",
@@ -9145,7 +9329,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/AudioLDM_pub.ipynb",
-        "update": 1678095115.0
+        "update": 1682882656.0
     },
     {
         "name": "TabPFN",
@@ -9368,5 +9552,195 @@
         ],
         "colab": "https://colab.research.google.com/drive/1dkO5AyktmBoWwxBwoKFUurIDn0m4qDXT",
         "update": 1650000908.624
+    },
+    {
+        "name": "ViDT+",
+        "description": "An Extendable, Efficient and Effective Transformer-based Object Detector",
+        "author": [
+            [
+                "Hwanjun Song",
+                "https://songhwanjun.github.io/"
+            ],
+            [
+                "Deqing Sun",
+                "https://deqings.github.io/"
+            ],
+            [
+                "Sanghyuk Chun",
+                "https://sanghyukchun.github.io/home/"
+            ],
+            [
+                "Varun Jampani",
+                "https://varunjampani.github.io/"
+            ],
+            [
+                "Dongyoon Han",
+                "https://sites.google.com/site/dyhan0920/"
+            ],
+            [
+                "Byeongho Heo",
+                "https://sites.google.com/view/byeongho-heo/home"
+            ],
+            [
+                "Wonjae Kim",
+                "https://wonjae.kim/"
+            ],
+            [
+                "Ming-Hsuan Yang",
+                "http://faculty.ucmerced.edu/mhyang/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/naver-ai/vidt/tree/vidt-plus"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2204.07962"
+            ],
+            [
+                "git",
+                "https://github.com/fundamentalvision/Deformable-DETR"
+            ],
+            [
+                "git",
+                "https://github.com/EherSenaw/ViDT_colab"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2110.03921"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/EherSenaw/ViDT_colab/blob/main/vidt_colab.ipynb",
+        "update": 1650432362.0
+    },
+    {
+        "name": "DiffCSE",
+        "description": "Unsupervised contrastive learning framework for learning sentence embeddings",
+        "author": [
+            [
+                "Yung-Sung Chuang",
+                "https://people.csail.mit.edu/yungsung/"
+            ],
+            [
+                "Rumen Dangovski",
+                "http://super-ms.mit.edu/rumen.html"
+            ],
+            [
+                "Hongyin Luo",
+                "https://luohongyin.github.io/"
+            ],
+            [
+                "Yang Zhang",
+                "https://mitibmwatsonailab.mit.edu/people/yang-zhang/"
+            ],
+            [
+                "Shiyu Chang",
+                "https://code-terminator.github.io/"
+            ],
+            [
+                "Marin Soljačić",
+                "http://www.mit.edu/~soljacic/marin.html"
+            ],
+            [
+                "Shang-Wen Li",
+                "https://swdanielli.github.io/"
+            ],
+            [
+                "Scott Wen-tau Yih",
+                "https://scottyih.org/"
+            ],
+            [
+                "Yoon Kim",
+                "https://people.csail.mit.edu/yoonkim/"
+            ],
+            [
+                "James Glass",
+                "http://groups.csail.mit.edu/sls/people/glass.shtml"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/voidism/diffcse"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2204.10298"
+            ],
+            [
+                "huggingface",
+                "https://huggingface.co/voidism"
+            ],
+            [
+                "twitter",
+                "https://twitter.com/YungSungChuang/status/1517518077902000129"
+            ],
+            [
+                "git",
+                "https://github.com/princeton-nlp/SimCSE"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.08821"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2111.00899"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/voidism/DiffCSE/blob/master/diffcse_evaluation.ipynb",
+        "update": 1650755146.0
+    },
+    {
+        "name": "EVA3D",
+        "description": "High-quality unconditional 3D human generative model that only requires 2D image collections for training",
+        "author": [
+            [
+                "Fangzhou Hong",
+                "https://hongfz16.github.io/"
+            ],
+            [
+                "Zhaoxi Chen",
+                "https://frozenburning.github.io/"
+            ],
+            [
+                "Yushi Lan",
+                "https://github.com/NIRVANALAN"
+            ],
+            [
+                "Liang Pan",
+                "https://github.com/paul007pl"
+            ],
+            [
+                "Ziwei Liu",
+                "https://liuziwei7.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/hongfz16/EVA3D"
+            ],
+            [
+                "project",
+                "https://hongfz16.github.io/projects/EVA3D.html"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2210.04888"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/JNV0FJ0aDWM"
+            ],
+            [
+                "youtube",
+                "https://youtu.be/M-kyvzTQrBI"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/hongfz16/EVA3D/blob/main/notebook/EVA3D_Demo.ipynb",
+        "update": 1680776511.0
     }
 ]
