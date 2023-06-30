@@ -72,10 +72,9 @@ def get_top_authors(topK) -> tuple[str, int]:
     most_common = cnt.most_common()
     contributions = most_common[topK][1]
     idx = topK
-    while most_common[idx][1] == contributions:
+    while idx < len(most_common) and most_common[idx][1] == contributions:
         idx += 1
     num_of_visible = int(min(mean(num_of_authors), median(num_of_authors)))
-    print(f'idx={idx}')
     TOP_K = idx
     
     return '<ul>' + ' '.join(f'<li>[{author}]({link})</li>' for (author,link),_ in most_common[:idx]) + '</ul>', num_of_visible
@@ -90,14 +89,26 @@ def get_top_repos(topK) -> str:
                 repos.add((link[1], link[2]))
                 break
     repos = sorted(repos, key=lambda f: f[1], reverse=True)[:topK]
-    print(len(repos), repos)
     
-    return '<ul>' + ' '.join(f"<li>{'/'.join(url.split('com/')[1].split('/')[:2])} {git_url(url)}</li>" for url,_ in repos) + '</ul>'
+    return '<ul>' + ' '.join(f"<li>{'/'.join(url.split('com/')[1].split('/')[:2])}\t{git_url(url)}</li>" for url,_ in repos) + '</ul>'
+
+def get_top_papers(topK) -> str:
+    research = read_json(join('data', 'research.json'))
+    tutorials = read_json(join('data', 'tutorials.json'))
+    repos = []
+    for project in research + tutorials:
+        for link in project['links']:
+            if link[0] == 'doi':
+                repos.append((project['name'], link[1], link[2]))
+                break
+    repos = sorted(repos, key=lambda f: f[2], reverse=True)[:topK]
+    
+    return '<ul>' + ' '.join(f"<li>{name}\t{doi_url(url)}</li>" for name,url,_ in repos) + '</ul>'
 
 def get_best_of_the_best(authors: str, topK: int) -> str:
-    table = f'''| authors | repositories |
-|---|---|
-| {authors} | {get_top_repos(topK)} |'''
+    table = f'''| authors | repositories | papers |
+|---|---|---|
+| {authors} | {get_top_repos(topK)} | {get_top_papers(topK)}'''
     return table
 
 def generate_table(fn: str, num_visible_authors: int, f):
