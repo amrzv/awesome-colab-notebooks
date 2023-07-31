@@ -6,7 +6,7 @@ from os.path import join
 
 badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips', 'paperswithcode', 'huggingface', 'docs', 'slack', 'twitter', 'deepmind', 'discord'}
 
-TOP_K = 15
+TOP_K = 20
 
 def colab_url(url: str) -> str:
     return f'[![Open In Colab](images/colab.svg)]({url})'
@@ -95,13 +95,14 @@ def get_top_repos(topK) -> str:
 def get_top_papers(topK) -> str:
     research = read_json(join('data', 'research.json'))
     tutorials = read_json(join('data', 'tutorials.json'))
-    repos = []
+    repos = {}
     for project in research + tutorials:
         for link in project['links']:
             if link[0] == 'doi':
-                repos.append((project['name'], link[1], link[2]))
+                if link[1] not in repos or link[2] > repos[link[1]][1]:
+                    repos[link[1]] = (project['name'], link[2])
                 break
-    repos = sorted(repos, key=lambda f: f[2], reverse=True)[:topK]
+    repos = sorted([(name, url, citations) for url, (name, citations) in repos.items()], key=lambda f: f[2], reverse=True)[:topK]
     
     return '<ul>' + ' '.join(f"<li>{name}\t{doi_url(url)}</li>" for name,url,_ in repos) + '</ul>'
 
