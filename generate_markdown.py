@@ -4,7 +4,7 @@ from json import load
 from numpy import mean, median
 from os.path import join
 
-badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips', 'paperswithcode', 'huggingface', 'docs', 'slack', 'twitter', 'deepmind', 'discord'}
+badges = {'colab', 'youtube', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips', 'paperswithcode', 'huggingface', 'docs', 'slack', 'twitter', 'deepmind', 'discord', 'docker'}
 
 TOP_K = 20
 
@@ -82,13 +82,17 @@ def get_top_authors(topK) -> tuple[str, int]:
 def get_top_repos(topK) -> str:
     research = read_json(join('data', 'research.json'))
     tutorials = read_json(join('data', 'tutorials.json'))
-    repos = set()
+    repos = {}
     for project in research + tutorials:
         for link in project['links']:
             if link[0] == 'git':
-                repos.add((link[1], link[2]))
+                _, url, stars = link
+                idx = url.index('/', 19) + 1
+                idx = url.find('/', idx)
+                key = url[:idx] if idx != -1 else url
+                repos[key] = stars
                 break
-    repos = sorted(repos, key=lambda f: f[1], reverse=True)[:topK]
+    repos = sorted(repos.items(), key=lambda f: f[1], reverse=True)[:topK]
     
     return '<ul>' + ' '.join(f"<li>{'/'.join(url.split('com/')[1].split('/')[:2])}\t{git_url(url)}</li>" for url,_ in repos) + '</ul>'
 
