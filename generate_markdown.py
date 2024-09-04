@@ -3,8 +3,9 @@ from datetime import datetime
 from json import load
 from numpy import mean, median
 from os.path import join
+from pathlib import Path
 
-badges = {'colab', 'yt', 'git', 'wiki', 'kaggle', 'arxiv', 'tf', 'pt', 'medium', 'reddit', 'neurips', 'pwc', 'hf', 'docs', 'slack', 'twitter', 'deepmind', 'discord', 'docker'}
+badges = set(image.stem for image in Path('images').glob('*.svg'))
 
 TOP_K = 20
 
@@ -30,7 +31,6 @@ def parse_link(link_tuple: list[list[str]], height=20) -> str:
     return f'[{name}]({url})'
 
 def parse_authors(authors: list[tuple[str, str]], num_of_visible: int) -> str:
-    num_authros = len(authors)
     if len(authors) == 1:
         return '[{}]({})'.format(*authors[0])
     if len(authors) <= num_of_visible + 1:
@@ -41,8 +41,8 @@ def parse_links(list_of_links: list[tuple[str, str]]) -> str:
     if len(list_of_links) == 0:
         return ''
     dct = defaultdict(list)
-    for tupl in list_of_links:
-        name, url = tupl[0], tupl[1]
+    for name_url in list_of_links:
+        name, url = name_url[0], name_url[1]
         dct[name].append(url)
     line = ''
     if 'doi' in dct:
