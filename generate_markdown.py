@@ -94,7 +94,7 @@ def get_top_repos(topK) -> str:
                 break
     repos = sorted(repos.items(), key=lambda f: f[1], reverse=True)[:topK]
     
-    return '<ul>' + ' '.join(f"<li>{'/'.join(url.split('com/')[1].split('/')[:2])}\t{git_url(url)}</li>" for url,_ in repos) + '</ul>'
+    return '<ul>' + ' '.join(f"<li>{url.split('com/')[1].split('/')[1]}\t{git_url(url)}</li>" for url,_ in repos) + '</ul>'
 
 def get_top_papers(topK) -> str:
     research = read_json(join('data', 'research.json'))
