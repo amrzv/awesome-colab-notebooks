@@ -4,6 +4,9 @@ from json import load
 from numpy import mean, median
 from os.path import join
 from pathlib import Path
+from google.cloud import bigquery
+from pypistats import overall, recent
+from tqdm import tqdm
 
 badges = set(image.stem for image in Path('images').glob('*.svg'))
 
@@ -19,6 +22,9 @@ def doi_url(url: str) -> str:
 def git_url(url: str) -> str:
     repo = '/'.join(url.split('com/')[1].split('/')[:2])
     return f'[![](https://img.shields.io/github/stars/{repo}?style=social)]({url})'
+
+def pypi_url(package: str, period='dm') -> str:
+    return f'[![](https://img.shields.io/pypi/{period}/{package}?style=flat&logo=pypi&label=%E2%80%8D&labelColor=f7f7f4&color=006dad)](https://pypi.org/{package}/)'
 
 def read_json(filepath: str):
     with open(filepath, 'r', encoding='utf-8') as f:
@@ -110,10 +116,11 @@ def get_top_papers(topK) -> str:
     
     return '<ul>' + ' '.join(f"<li>{name}\t{doi_url(url)}</li>" for name,url,_ in repos) + '</ul>'
 
-def get_best_of_the_best(authors: str, topK: int) -> str:
-    table = f'''| authors | repositories | papers |
-|---|---|---|
-| {authors} | {get_top_repos(topK)} | {get_top_papers(topK)} |'''
+def get_best_of_the_best(authors: str, packages, topK: int) -> str:
+    packages_str = '<ul>' + ' '.join(f'<li>{package}\t{pypi_url(package)}</li>' for package,_,_ in sorted(packages, key=lambda p: p[2], reverse=True)[:topK]) + '</ul>'
+    table = f'''| authors | repositories | papers | packages |
+|---|---|---|---|
+| {authors} | {get_top_repos(topK)} | {get_top_papers(topK)} | {packages_str} |'''
     return table
 
 def generate_table(fn: str, num_visible_authors: int):
@@ -131,7 +138,54 @@ def generate_table(fn: str, num_visible_authors: int):
         to_write.append('| {name} | {description} | {author} | {links} | {url} | {update} |'.format(**line))
     return to_write
 
-def get_trending(topK: int):
+def get_pypi_downloads(engine: str = 'pypistats'):
+    research = read_json(join('data', 'research.json'))
+    tutorials = read_json(join('data', 'tutorials.json'))
+    packages = set()
+    for project in research + tutorials:
+        for url in project['links']:
+            if url[0] == 'pypi':
+                packages.add(url[1].rstrip('/').split('/')[-1])
+    if engine == 'bigquery':
+        def get_query(date_filtering: str) -> str:
+            return f"""
+            SELECT
+                file.project,
+                COUNT(*) AS num_downloads
+            FROM
+                `bigquery-public-data.pypi.file_downloads`
+            WHERE
+                file.project IN ('{"', '".join(packages)}')
+                AND DATE(timestamp) BETWEEN {date_filtering}
+            GROUP BY
+                file.project
+            """
+        client = bigquery.Client()
+        last_month = 'DATE_SUB(DATE_TRUNC(CURRENT_DATE(), MONTH), INTERVAL 1 MONTH) AND DATE_SUB(DATE_TRUNC(CURRENT_DATE(), MONTH), INTERVAL 1 DAY)'
+        total = 'DATE_SUB(CURRENT_DATE(), INTERVAL 1 YEAR) AND CURRENT_DATE()'
+        query_last_month = client.query(get_query(last_month))
+        query_total = client.query(get_query(total))
+        # query_job = client.query(f"""
+        #     SELECT
+        #         file.project,
+        #         COUNTIF(DATE(timestamp) BETWEEN DATE_SUB(DATE_TRUNC(CURRENT_DATE(), MONTH), INTERVAL 1 MONTH)
+        #         AND DATE_SUB(DATE_TRUNC(CURRENT_DATE(), MONTH), INTERVAL 1 DAY)) AS num_downloads_last_month,
+        #         COUNT(*) AS total_num_downloads
+        #     FROM
+        #         `bigquery-public-data.pypi.file_downloads`
+        #     WHERE
+        #         file.project IN ('{"', '".join(packages)}')
+        #     GROUP BY
+        #         file.project
+        # """)
+        res_last_month = {row.project: row.num_downloads for row in query_last_month.result()}
+        res_total = {row.project: row.num_downloads for row in query_total.result()}
+
+        return [(package, res_last_month[package], res_total[package]) for package in packages]
+    return [(package, int(recent(package, format='pandas').last_month), int(overall(package, format='pandas').query('category == "Total"').downloads)) for package in tqdm(packages)]
+
+
+def get_trending(packages, topK: int):
     old_stars = read_json('data/stars.json')
     old_citations = read_json('data/citations.json')
     research = read_json(join('data', 'research.json'))
@@ -153,29 +207,32 @@ def get_trending(topK: int):
                 used.add('doi')
     trending_repos = sorted(new_stars, key=lambda url: new_stars[url] / old_stars.get(url, float('inf')), reverse=True)[:topK]
     trending_papers = sorted(new_citations, key=lambda name: new_citations[name][1] / max(old_citations.get(name, ['', float('inf')])[1], 1), reverse=True)[:topK]
-    repos_str = '<ul>' + ' '.join(f"<li>{'/'.join(url.split('com/')[1].split('/')[:2])}\t{git_url(url)}</li>" for url in trending_repos) + '</ul>'
+    trending_packages = sorted(packages, key=lambda p: p[1]/ (p[2] - p[1]), reverse=True)[:topK]
+    repos_str = '<ul>' + ' '.join(f"<li>{url.split('com/')[1].split('/')[1]}\t{git_url(url)}</li>" for url in trending_repos) + '</ul>'
     papers_str = '<ul>' + ' '.join(f"<li>{name}\t{doi_url(new_citations[name][0])}</li>" for name in trending_papers) + '</ul>'
+    packages_str = '<ul>' + ' '.join(f'<li>{package}\t{pypi_url(package, period="dw")}</li>' for package,_,_ in trending_packages) + '</ul>'
     
-    return f'''| repositories | papers |
-|---|---|
-| {repos_str} | {papers_str} |'''
+    return f'''| repositories | papers | packages |
+|---|---|---|
+| {repos_str} | {papers_str} | {packages_str} |'''
 
 def generate_markdown():
     top_authors, num_visible_authors = get_top_authors(TOP_K)
+    packages = get_pypi_downloads()
     to_write = [
         '[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/amrzv/awesome-colab-notebooks)](https://hits.seeyoufarm.com)',
         '![awesome-colab-notebooks](https://count.getloli.com/get/@awesome-colab-notebooks?theme=rule34)',
         '\nThe page might not be rendered properly. Please open [README.md](https://github.com/amrzv/awesome-colab-notebooks/blob/main/README.md) file directly',
         '# Awesome colab notebooks collection for ML experiments',
         '## Trending',
-        get_trending(TOP_K),
+        get_trending(packages, TOP_K),
         '## Research',
         *generate_table(join('data', 'research.json'), num_visible_authors),
         '## Tutorials',
         *generate_table(join('data', 'tutorials.json'), num_visible_authors),
         '# Best of the best',
-        get_best_of_the_best(top_authors, TOP_K),
-        '\n[![Stargazers over time](https://starchart.cc/amrzv/awesome-colab-notebooks.svg)](https://starchart.cc/amrzv/awesome-colab-notebooks)',
+        get_best_of_the_best(top_authors, packages, TOP_K),
+        '\n[![Stargazers over time](https://starchart.cc/amrzv/awesome-colab-notebooks.svg?variant=adaptive)](https://starchart.cc/amrzv/awesome-colab-notebooks)',
         '\n(generated by [generate_markdown.py](generate_markdown.py) based on [research.json](data/research.json) and [tutorials.json](data/tutorials.json))'
     ]
     with open('README.md', 'w', encoding='utf-8') as f:
