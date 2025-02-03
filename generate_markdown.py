@@ -1,15 +1,18 @@
 from collections import Counter, defaultdict
 from datetime import datetime
 from json import load
-from numpy import mean, median
 from os.path import join
 from pathlib import Path
+from urllib.request import urlopen
+from cv2 import IMREAD_GRAYSCALE, THRESH_BINARY, imdecode, threshold
 from google.cloud import bigquery
+from matplotlib import font_manager
+from numpy import any, asarray, mean, median
 from pypistats import overall, recent
 from tqdm import tqdm
+from wordcloud import WordCloud
 
-badges = set(image.stem for image in Path('images').glob('*.svg'))
-
+BADGES = set(image.stem for image in Path('images').glob('*.svg'))
 TOP_K = 20
 
 def colab_url(url: str) -> str:
@@ -30,9 +33,20 @@ def read_json(filepath: str):
     with open(filepath, 'r', encoding='utf-8') as f:
         return load(f)
 
-def parse_link(link_tuple: list[list[str]], height=20) -> str:
+def load_projects():
+    for entity in ['cources', 'research', 'tutorials']:
+        yield from read_json(join('data', f'{entity}.json')) 
+
+def get_git_name_stars(git_url: tuple[str, str, int]) -> tuple[str, int]:
+    _, url, stars = git_url
+    idx = url.index('/', 19) + 1
+    idx = url.find('/', idx)
+    name = url[:idx] if idx != -1 else url
+    return (name, stars)
+
+def parse_link(link_tuple: tuple[str, str], height=20) -> str:
     name, url = link_tuple
-    if name in badges:
+    if name in BADGES:
         return f'[<img src="images/{name}.svg" alt="{name}" height={height}/>]({url})'
     return f'[{name}]({url})'
 
@@ -67,11 +81,8 @@ def parse_links(list_of_links: list[tuple[str, str]]) -> str:
 
 def get_top_authors(topK) -> tuple[str, int]:
     global TOP_K
-    research = read_json(join('data', 'research.json'))
-    tutorials = read_json(join('data', 'tutorials.json'))
-    
     authors, num_of_authors = [], []
-    for project in research + tutorials:
+    for project in load_projects():
         authors.extend([tuple(author) for author in project['author']])
         num_of_authors.append(len(project['author']))
     cnt = Counter(authors)
@@ -86,27 +97,37 @@ def get_top_authors(topK) -> tuple[str, int]:
     return '<ul>' + ' '.join(f'<li>[{author}]({link})</li>' for (author,link),_ in most_common[:idx]) + '</ul>', num_of_visible
 
 def get_top_repos(topK) -> str:
-    research = read_json(join('data', 'research.json'))
-    tutorials = read_json(join('data', 'tutorials.json'))
     repos = {}
-    for project in research + tutorials:
+    for project in load_projects():
         for link in project['links']:
             if link[0] == 'git':
-                _, url, stars = link
-                idx = url.index('/', 19) + 1
-                idx = url.find('/', idx)
-                key = url[:idx] if idx != -1 else url
-                repos[key] = stars
+                name, stars = get_git_name_stars(link)
+                repos[name] = stars
                 break
     repos = sorted(repos.items(), key=lambda f: f[1], reverse=True)[:topK]
     
     return '<ul>' + ' '.join(f"<li>{url.split('com/')[1].split('/')[1]}\t{git_url(url)}</li>" for url,_ in repos) + '</ul>'
 
+def generate_cloud():
+    def get_font_path(font_name='Comic Sans MS'):
+        for path in font_manager.findSystemFonts(fontext='ttf'):
+            font = font_manager.FontProperties(fname=path)
+            if font_name in font.get_name():
+                return path
+    with urlopen('https://img.icons8.com/color/480/google-colab.png') as resp: 
+        image = asarray(bytearray(resp.read()), dtype="uint8")
+    _, bw_img = threshold(imdecode(image, IMREAD_GRAYSCALE), 127, 255, THRESH_BINARY)
+    mask = bw_img[any(bw_img, axis=1)]
+    mask = mask[:, any(mask, axis=0)]
+    text = ' '.join(' '.join([p['name'], p['description']]) for p in load_projects())
+    wc = WordCloud(mask=~mask, collocation_threshold=10, colormap='plasma', font_path=get_font_path())
+    wc.generate(text)
+    with open(join('images', 'cloud.svg'), 'w') as f:
+        f.write(wc.to_svg())
+
 def get_top_papers(topK) -> str:
-    research = read_json(join('data', 'research.json'))
-    tutorials = read_json(join('data', 'tutorials.json'))
     repos = {}
-    for project in research + tutorials:
+    for project in load_projects():
         for link in project['links']:
             if link[0] == 'doi':
                 if link[1] not in repos or link[2] > repos[link[1]][1]:
@@ -139,10 +160,8 @@ def generate_table(fn: str, num_visible_authors: int):
     return to_write
 
 def get_pypi_downloads(engine: str = 'pypistats'):
-    research = read_json(join('data', 'research.json'))
-    tutorials = read_json(join('data', 'tutorials.json'))
     packages = set()
-    for project in research + tutorials:
+    for project in load_projects():
         for url in project['links']:
             if url[0] == 'pypi':
                 packages.add(url[1].rstrip('/').split('/')[-1])
@@ -188,18 +207,13 @@ def get_pypi_downloads(engine: str = 'pypistats'):
 def get_trending(packages, topK: int):
     old_stars = read_json('data/stars.json')
     old_citations = read_json('data/citations.json')
-    research = read_json(join('data', 'research.json'))
-    tutorials = read_json(join('data', 'tutorials.json'))
     new_stars, new_citations = {}, {}
-    for project in research + tutorials:
+    for project in load_projects():
         used = set()
         for link in project['links']:
             if link[0] == 'git' and 'git' not in used:
-                _, url, stars = link
-                idx = url.index('/', 19) + 1
-                idx = url.find('/', idx)
-                key = url[:idx] if idx != -1 else url
-                new_stars[key] = stars
+                name, stars = get_git_name_stars(link)
+                new_stars[name] = stars
                 used.add('git')
             elif link[0] == 'doi' and 'doi' not in used:
                 _, url, citations = link
@@ -221,19 +235,28 @@ def generate_markdown():
     packages = get_pypi_downloads()
     to_write = [
         '[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/amrzv/awesome-colab-notebooks)](https://hits.seeyoufarm.com)',
-        '![awesome-colab-notebooks](https://count.getloli.com/get/@awesome-colab-notebooks?theme=rule34)',
+        '![awesome-colab-notebooks](https://count.getloli.com/get/@awesome-colab-notebooks?theme=rule34)\n',
+        '[![Word Cloud](images/cloud.svg)](images/cloud.svg)',
         '\nThe page might not be rendered properly. Please open [README.md](https://github.com/amrzv/awesome-colab-notebooks/blob/main/README.md) file directly',
         '# Awesome colab notebooks collection for ML experiments',
         '## Trending',
         get_trending(packages, TOP_K),
+        '## Cources',
+        '<details>\n<summary>COURCES</summary>\n',
+        *generate_table(join('data', 'cources.json'), num_visible_authors),
+        '\n</details>\n',
         '## Research',
+        '<details>\n<summary>RESEARCH</summary>\n',
         *generate_table(join('data', 'research.json'), num_visible_authors),
+        '\n</details>\n',
         '## Tutorials',
+        '<details>\n<summary>TUTORIALS</summary>\n',
         *generate_table(join('data', 'tutorials.json'), num_visible_authors),
+        '\n</details>\n',
         '# Best of the best',
         get_best_of_the_best(top_authors, packages, TOP_K),
         '\n[![Stargazers over time](https://starchart.cc/amrzv/awesome-colab-notebooks.svg?variant=adaptive)](https://starchart.cc/amrzv/awesome-colab-notebooks)',
-        '\n(generated by [generate_markdown.py](generate_markdown.py) based on [research.json](data/research.json) and [tutorials.json](data/tutorials.json))'
+        '\n(generated by [generate_markdown.py](generate_markdown.py) based on [research.json](data/research.json), [tutorials.json](data/tutorials.json), [cources.json](data/cources.json))'
     ]
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write('\n'.join(to_write))

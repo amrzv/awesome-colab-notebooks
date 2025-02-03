@@ -1,0 +1,456 @@
+[
+    {
+        "name": "Generative AI for Beginners - A Course",
+        "description": "A 12 Lesson course teaching everything you need to know to start building Generative AI applications",
+        "author": [
+            [
+                "microsoft",
+                "https://www.microsoft.com/"
+            ]
+        ],
+        "links": [
+            [
+                "project",
+                "https://microsoft.github.io/generative-ai-for-beginners/"
+            ],
+            [
+                "discord",
+                "https://aka.ms/genai-discord"
+            ],
+            [
+                "git",
+                "https://github.com/microsoft/xr-development-for-beginners",
+                489
+            ],
+            [
+                "git",
+                "https://github.com/microsoft/Web-Dev-For-Beginners"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/microsoft/generative-ai-for-beginners/blob/main/06-text-generation-apps/notebook-azure-openai.ipynb",
+        "update": 1708594932.0
+    },
+    {
+        "name": "Deep RL Course",
+        "description": "The Hugging Face Deep Reinforcement Learning Course",
+        "author": [
+            [
+                "Thomas Simonini",
+                "https://www.simoninithomas.com/"
+            ],
+            [
+                "Omar Sanseviero",
+                "https://osanseviero.github.io/hackerllama/"
+            ],
+            [
+                "Sayak Paul",
+                "https://sayak.dev/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/huggingface/deep-rl-class",
+                4016
+            ],
+            [
+                "hf",
+                "https://huggingface.co/deep-rl-course/unit0/introduction"
+            ],
+            [
+                "syllabus",
+                "https://simoninithomas.github.io/deep-rl-course"
+            ],
+            [
+                "git",
+                "https://github.com/alex-petrenko/sample-factory"
+            ],
+            [
+                "pt",
+                "https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
+            ],
+            [
+                "yt",
+                "https://youtu.be/2GwBez0D20A"
+            ],
+            [
+                "hf",
+                "https://huggingface.co/spaces/huggingface-projects/Deep-Reinforcement-Learning-Leaderboard"
+            ],
+            [
+                "yt",
+                "https://youtu.be/CsuIANBnSq8"
+            ],
+            [
+                "yt",
+                "https://youtu.be/AQKAOXJa6qg"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit1/unit1.ipynb",
+        "update": 1719265708.0
+    },
+    {
+        "name": "Machine learning course",
+        "description": "This course is broad and shallow, but author will provide additional links so that you can deepen your understanding of the ML method you need",
+        "author": [
+            [
+                "Тимчишин Віталій",
+                "https://github.com/fbeilstein"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/fbeilstein/machine_learning",
+                171
+            ],
+            [
+                "yt",
+                "https://www.youtube.com/playlist?list=PLkDeTjsoxDVgnb2lIYo9-1l4XYhrIyS6A"
+            ],
+            [
+                "blog post",
+                "https://vas3k.com/blog/machine_learning/"
+            ],
+            [
+                "yt",
+                "https://youtu.be/-RdOwhmqP5s"
+            ],
+            [
+                "yt",
+                "https://youtu.be/R13BD8qKeTg"
+            ],
+            [
+                "yt",
+                "https://youtu.be/ZkjP5RJLQF4"
+            ],
+            [
+                "yt",
+                "https://youtu.be/J4Wdy0Wc_xQ"
+            ],
+            [
+                "yt",
+                "https://youtu.be/mBcLRGuAFUk"
+            ],
+            [
+                "yt",
+                "https://youtu.be/YIGtalP1mv0"
+            ],
+            [
+                "yt",
+                "https://youtu.be/Yz5pySyEtsU"
+            ],
+            [
+                "yt",
+                "https://youtu.be/x5zLaWT5KPs"
+            ],
+            [
+                "yt",
+                "https://youtu.be/yBwpo-L80Mc"
+            ],
+            [
+                "yt",
+                "https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/fbeilstein/machine_learning/blob/master/lecture_01_introduction.ipynb",
+        "update": 1630595244.0
+    },
+    {
+        "name": "NYU-DLSP20",
+        "description": "This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition",
+        "author": [
+            [
+                "Yann LeCun",
+                "https://yann.lecun.com/"
+            ],
+            [
+                "Alfredo Canziani",
+                "https://atcold.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/Atcold/NYU-DLSP20",
+                6721
+            ],
+            [
+                "website",
+                "https://atcold.github.io/NYU-DLSP20/"
+            ],
+            [
+                "discord",
+                "https://discord.gg/CthuqsX8Pb"
+            ],
+            [
+                "reddit",
+                "https://www.reddit.com/r/NYU_DeepLearning/"
+            ],
+            [
+                "yt",
+                "https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq"
+            ],
+            [
+                "git",
+                "https://github.com/Atcold/NYU-DLSP21"
+            ],
+            [
+                "git",
+                "https://github.com/Atcold/NYU-DLFL22"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/Atcold/NYU-DLSP20/blob/master/00-logic_neuron_programming.ipynb",
+        "update": 1572414730.0
+    },
+    {
+        "name": "ARENA",
+        "description": "Provide talented individuals with the skills, tools, and environment necessary for upskilling in ML engineering, for the purpose of contributing directly to AI alignment in technical roles",
+        "author": [
+            [
+                "Callum McDougall",
+                "https://www.perfectlynormal.co.uk/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/callummcdougall/ARENA_3.0",
+                437
+            ],
+            [
+                "website",
+                "https://arena-resources.notion.site/"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2211.00593"
+            ],
+            [
+                "slack",
+                "https://join.slack.com/t/arena-uk/shared_invite/zt-2noug8mpy-TRYbCnc3pzj7ITNrZIjKww"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1vuQOB2Gd7OcfzH2y9djXm9OdZA_DcxYz",
+        "update": 1735548188.97
+    },
+    {
+        "name": "DSP theory",
+        "description": "Theory of digital signal processing: signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc",
+        "author": [
+            [
+                "Alexander Kapitanov",
+                "https://github.com/hukenovs"
+            ],
+            [
+                "Vladimir Fadeev",
+                "https://github.com/kirlf"
+            ],
+            [
+                "Karina Kvanchiani",
+                "https://github.com/karinakvanchiani"
+            ],
+            [
+                "Elizaveta Petrova",
+                "https://github.com/kleinsbotle"
+            ],
+            [
+                "Andrei Makhliarchuk",
+                "https://github.com/anotherhelloworld"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/hukenovs/dsp-theory",
+                1021
+            ],
+            [
+                "blog post",
+                "https://habr.com/ru/articles/460445/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_1_signals.ipynb",
+        "update": 1666089256.0
+    },
+    {
+        "name": "mlcourse.ai",
+        "description": "Open Machine Learning Course",
+        "author": [
+            [
+                "Yury Kashnitsky",
+                "https://yorko.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/Yorko/mlcourse.ai",
+                9900
+            ],
+            [
+                "slack",
+                "https://opendatascience.slack.com/archives/C91N8TL83/p1567408586359500"
+            ],
+            [
+                "project",
+                "https://mlcourse.ai/book/index.html"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/kashnitsky/mlcourse"
+            ],
+            [
+                "medium",
+                "https://medium.com/open-machine-learning-course"
+            ],
+            [
+                "blog post",
+                "https://habr.com/company/ods/blog/344044/"
+            ],
+            [
+                "yt",
+                "https://www.youtube.com/playlist?list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/Yorko/mlcourse.ai/blob/main/jupyter_english/topic01_pandas_data_analysis/topic1_pandas_data_analysis.ipynb",
+        "update": 1724080153.0
+    },
+    {
+        "name": "Machine Learning Simplified",
+        "description": "A Gentle Introduction to Supervised Learning",
+        "author": [
+            [
+                "Andrew Wolf",
+                "https://5x12.ai/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/5x12/themlsbook",
+                427
+            ],
+            [
+                "website",
+                "https://www.themlsbook.com/"
+            ],
+            [
+                "reddit",
+                "https://www.reddit.com/r/Python/comments/t8st9l/i_wrote_a_book_on_machine_learning_w_python_code/"
+            ],
+            [
+                "reddit",
+                "https://www.reddit.com/r/learnmachinelearning/comments/snxlly/machine_learning_simplified_book/"
+            ],
+            [
+                "medium",
+                "https://medium.com/geekculture/i-found-a-great-machine-learning-book-deed11db2688"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/5x12/themlsbook/blob/master/chapter2/knn.ipynb",
+        "update": 1724960156.0
+    },
+    {
+        "name": "Anthropic courses",
+        "description": "Anthropic's educational courses",
+        "author": [
+            [
+                "Anthropic",
+                "https://www.anthropic.com/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/anthropics/courses",
+                8836
+            ],
+            [
+                "docs",
+                "https://docs.anthropic.com/en/docs/resources/courses"
+            ],
+            [
+                "reddit",
+                "https://www.reddit.com/r/ClaudeAI/comments/1f7czsx/anthropics_official_educational_courses_on_prompt/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/anthropics/courses/blob/master/anthropic_api_fundamentals/01_getting_started.ipynb",
+        "update": 1724351244.0
+    },
+    {
+        "name": "The Autodiff Cookbook",
+        "description": "You'll go through a whole bunch of neat autodiff ideas that you can cherry pick for your own work, starting with the basics",
+        "author": [
+            [
+                "Alex Wiltschko",
+                "https://github.com/alexbw"
+            ],
+            [
+                "Matthew Johnson",
+                "http://people.csail.mit.edu/mattjj/"
+            ]
+        ],
+        "links": [
+            [
+                "book",
+                "https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html"
+            ],
+            [
+                "book",
+                "https://mitpress.mit.edu/books/functional-differential-geometry"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Truncated_Newton_method"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Pullback_(differential_geometry)"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Holomorphic_function"
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Cauchy%E2%80%93Riemann_equations"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1406.2572"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1706.04454"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1802.03451"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1811.07062"
+            ],
+            [
+                "tutorial",
+                "http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/"
+            ],
+            [
+                "git",
+                "https://github.com/google/jax/issues/446#issuecomment-467105048",
+                31140
+            ],
+            [
+                "git",
+                "https://github.com/google/jax#auto-vectorization-with-vmap"
+            ],
+            [
+                "git",
+                "https://github.com/hips/autograd"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/google/jax/blob/main/docs/notebooks/autodiff_cookbook.ipynb",
+        "update": 1726843953.0
+    }
+]
