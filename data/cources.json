@@ -20,7 +20,7 @@
             [
                 "git",
                 "https://github.com/microsoft/xr-development-for-beginners",
-                489
+                503
             ],
             [
                 "git",
@@ -51,7 +51,7 @@
             [
                 "git",
                 "https://github.com/huggingface/deep-rl-class",
-                4016
+                4130
             ],
             [
                 "hf",
@@ -173,7 +173,7 @@
             [
                 "git",
                 "https://github.com/Atcold/NYU-DLSP20",
-                6721
+                6733
             ],
             [
                 "website",
@@ -216,7 +216,7 @@
             [
                 "git",
                 "https://github.com/callummcdougall/ARENA_3.0",
-                437
+                470
             ],
             [
                 "website",
@@ -263,7 +263,7 @@
             [
                 "git",
                 "https://github.com/hukenovs/dsp-theory",
-                1021
+                1036
             ],
             [
                 "blog post",
@@ -286,7 +286,7 @@
             [
                 "git",
                 "https://github.com/Yorko/mlcourse.ai",
-                9900
+                9927
             ],
             [
                 "slack",
@@ -364,7 +364,7 @@
             [
                 "git",
                 "https://github.com/anthropics/courses",
-                8836
+                9525
             ],
             [
                 "docs",
@@ -439,7 +439,7 @@
             [
                 "git",
                 "https://github.com/google/jax/issues/446#issuecomment-467105048",
-                31140
+                31509
             ],
             [
                 "git",

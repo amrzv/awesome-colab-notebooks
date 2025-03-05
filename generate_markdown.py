@@ -262,6 +262,7 @@ def generate_markdown():
         f.write('\n'.join(to_write))
 
 def main():
+    generate_cloud()
     generate_markdown()
 
 if __name__ == '__main__':  
