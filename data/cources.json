@@ -20,7 +20,7 @@
             [
                 "git",
                 "https://github.com/microsoft/xr-development-for-beginners",
-                503
+                517
             ],
             [
                 "git",
@@ -51,7 +51,7 @@
             [
                 "git",
                 "https://github.com/huggingface/deep-rl-class",
-                4130
+                4226
             ],
             [
                 "hf",
@@ -102,7 +102,7 @@
             [
                 "git",
                 "https://github.com/fbeilstein/machine_learning",
-                171
+                173
             ],
             [
                 "yt",
@@ -173,7 +173,7 @@
             [
                 "git",
                 "https://github.com/Atcold/NYU-DLSP20",
-                6733
+                6747
             ],
             [
                 "website",
@@ -216,7 +216,7 @@
             [
                 "git",
                 "https://github.com/callummcdougall/ARENA_3.0",
-                470
+                496
             ],
             [
                 "website",
@@ -263,7 +263,7 @@
             [
                 "git",
                 "https://github.com/hukenovs/dsp-theory",
-                1036
+                1048
             ],
             [
                 "blog post",
@@ -286,7 +286,7 @@
             [
                 "git",
                 "https://github.com/Yorko/mlcourse.ai",
-                9927
+                9974
             ],
             [
                 "slack",
@@ -329,7 +329,7 @@
             [
                 "git",
                 "https://github.com/5x12/themlsbook",
-                427
+                428
             ],
             [
                 "website",
@@ -364,7 +364,7 @@
             [
                 "git",
                 "https://github.com/anthropics/courses",
-                9525
+                9824
             ],
             [
                 "docs",
@@ -439,7 +439,7 @@
             [
                 "git",
                 "https://github.com/google/jax/issues/446#issuecomment-467105048",
-                31509
+                31855
             ],
             [
                 "git",
@@ -452,5 +452,56 @@
         ],
         "colab": "https://colab.research.google.com/github/google/jax/blob/main/docs/notebooks/autodiff_cookbook.ipynb",
         "update": 1726843953.0
+    },
+    {
+        "name": "Introduction to Deep Learning course",
+        "description": "",
+        "author": [
+            [
+                "Tatiana Gaintseva",
+                "https://atmyre.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/aifoundation-edu/DL_intro",
+                44
+            ],
+            [
+                "wiki",
+                "https://en.wikipedia.org/wiki/Kernel_method"
+            ],
+            [
+                "tf",
+                "https://playground.tensorflow.org/"
+            ],
+            [
+                "yt",
+                "https://www.youtube.com/playlist?list=PL0Ks75aof3ThuLLtLIVl_KPUDDQlTDyJI"
+            ],
+            [
+                "yt",
+                "https://youtu.be/oa3IVkENrdM"
+            ],
+            [
+                "yt",
+                "https://www.youtube.com/live/qvauAflpnyo"
+            ],
+            [
+                "yt",
+                "https://youtu.be/Q7vT0--5VII"
+            ],
+            [
+                "medium",
+                "https://medium.com/@zxr.nju/what-is-the-kernel-trick-why-is-it-important-98a98db0961d"
+            ],
+            [
+                "medium",
+                "https://medium.com/analytics-vidhya/how-relu-works-f317a947bdc6"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/aifoundation-edu/DL_intro/blob/main/01_Intro_to_Neural_Networks/01_NN_intro.ipynb",
+        "update": 1737674128.0
     }
 ]
