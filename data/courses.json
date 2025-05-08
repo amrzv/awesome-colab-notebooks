@@ -20,7 +20,7 @@
             [
                 "git",
                 "https://github.com/microsoft/xr-development-for-beginners",
-                517
+                525
             ],
             [
                 "git",
@@ -51,7 +51,7 @@
             [
                 "git",
                 "https://github.com/huggingface/deep-rl-class",
-                4226
+                4290
             ],
             [
                 "hf",
@@ -173,7 +173,7 @@
             [
                 "git",
                 "https://github.com/Atcold/NYU-DLSP20",
-                6747
+                6759
             ],
             [
                 "website",
@@ -216,7 +216,7 @@
             [
                 "git",
                 "https://github.com/callummcdougall/ARENA_3.0",
-                496
+                528
             ],
             [
                 "website",
@@ -263,7 +263,7 @@
             [
                 "git",
                 "https://github.com/hukenovs/dsp-theory",
-                1048
+                1076
             ],
             [
                 "blog post",
@@ -286,7 +286,7 @@
             [
                 "git",
                 "https://github.com/Yorko/mlcourse.ai",
-                9974
+                10023
             ],
             [
                 "slack",
@@ -329,7 +329,7 @@
             [
                 "git",
                 "https://github.com/5x12/themlsbook",
-                428
+                430
             ],
             [
                 "website",
@@ -364,7 +364,7 @@
             [
                 "git",
                 "https://github.com/anthropics/courses",
-                9824
+                11454
             ],
             [
                 "docs",
@@ -439,7 +439,7 @@
             [
                 "git",
                 "https://github.com/google/jax/issues/446#issuecomment-467105048",
-                31855
+                32156
             ],
             [
                 "git",
@@ -466,7 +466,7 @@
             [
                 "git",
                 "https://github.com/aifoundation-edu/DL_intro",
-                44
+                47
             ],
             [
                 "wiki",
@@ -503,5 +503,87 @@
         ],
         "colab": "https://colab.research.google.com/github/aifoundation-edu/DL_intro/blob/main/01_Intro_to_Neural_Networks/01_NN_intro.ipynb",
         "update": 1737674128.0
+    },
+    {
+        "name": "Deep Learning School course (ML + CV)",
+        "description": "",
+        "author": [
+            [
+                "Nina Konovalova",
+                "https://github.com/Nina-Konovalova"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/DeepLearningSchool/part_1_ml_cv",
+                36
+            ],
+            [
+                "website",
+                "https://dls.samcs.ru/"
+            ],
+            [
+                "yt",
+                "https://www.youtube.com/playlist?list=PL0Ks75aof3TiHbkJ95vxNlQefujrj1N2w"
+            ],
+            [
+                "yt",
+                "https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y"
+            ],
+            [
+                "kaggle",
+                "https://www.kaggle.com/datasets/abrambeyer/openintro-possum"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_01_ml_intro/Practice/part_1_data_analysis.ipynb",
+        "update": 1739550227.0
+    },
+    {
+        "name": "LLM Engineering Essentials course",
+        "description": "12-week course, created by experts from academia and industry, is designed specifically for developers and engineers",
+        "author": [
+            [
+                "Stanislav Fedotov",
+                "https://github.com/st-fedotov"
+            ],
+            [
+                "Alexey Bukhtiyarov",
+                "https://github.com/leshanbog"
+            ],
+            [
+                "Nikita Pavlichenko",
+                "https://www.pavlichenko.info/"
+            ],
+            [
+                "Sergei Petrov",
+                "https://www.linkedin.com/in/sergei-petrov-12589210b/"
+            ],
+            [
+                "Sergei Skvortsov",
+                "https://github.com/southfreebird"
+            ],
+            [
+                "Alex Umnov",
+                "https://github.com/AlexUmnov"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/Nebius-Academy/LLM-Engineering-Essentials",
+                401
+            ],
+            [
+                "website",
+                "https://academy.nebius.com/llm-engineering-essentials"
+            ],
+            [
+                "twitter",
+                "https://x.com/karpathy/status/1886192184808149383"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic1/1.1_intro_to_llm_apis.ipynb",
+        "update": 1746702923.0
     }
 ]
