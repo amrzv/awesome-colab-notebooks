@@ -12,7 +12,7 @@
             [
                 "git",
                 "https://github.com/callummcdougall/ARENA_3.0",
-                566
+                606
             ],
             [
                 "website",
@@ -43,7 +43,7 @@
             [
                 "git",
                 "https://github.com/anthropics/courses",
-                13172
+                16401
             ],
             [
                 "docs",
@@ -78,7 +78,7 @@
             [
                 "git",
                 "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-                7630
+                15442
             ],
             [
                 "docs",
@@ -133,7 +133,7 @@
             [
                 "git",
                 "https://github.com/hukenovs/dsp-theory",
-                1097
+                1115
             ],
             [
                 "blog post",
@@ -156,7 +156,7 @@
             [
                 "git",
                 "https://github.com/DeepLearningSchool/part_1_ml_cv",
-                38
+                39
             ],
             [
                 "website",
@@ -199,7 +199,7 @@
             [
                 "git",
                 "https://github.com/huggingface/deep-rl-class",
-                4345
+                4401
             ],
             [
                 "hf",
@@ -258,7 +258,7 @@
             [
                 "git",
                 "https://github.com/microsoft/xr-development-for-beginners",
-                531
+                543
             ],
             [
                 "git",
@@ -352,7 +352,7 @@
             [
                 "git",
                 "https://github.com/Nebius-Academy/LLM-Engineering-Essentials",
-                577
+                647
             ],
             [
                 "website",
@@ -379,7 +379,7 @@
             [
                 "git",
                 "https://github.com/5x12/themlsbook",
-                426
+                428
             ],
             [
                 "website",
@@ -485,7 +485,7 @@
             [
                 "git",
                 "https://github.com/Atcold/NYU-DLSP20",
-                6762
+                6769
             ],
             [
                 "website",
@@ -576,7 +576,7 @@
             [
                 "git",
                 "https://github.com/google/jax/issues/446#issuecomment-467105048",
-                32423
+                32713
             ],
             [
                 "git",
@@ -603,7 +603,7 @@
             [
                 "git",
                 "https://github.com/tensorflow/examples/tree/master/courses/udacity_deep_learning",
-                8120
+                8142
             ],
             [
                 "udacity",
@@ -638,7 +638,7 @@
             [
                 "git",
                 "https://github.com/Yorko/mlcourse.ai",
-                10063
+                10110
             ],
             [
                 "slack",
