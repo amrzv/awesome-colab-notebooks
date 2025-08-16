@@ -12,7 +12,7 @@
             [
                 "git",
                 "https://github.com/callummcdougall/ARENA_3.0",
-                606
+                647
             ],
             [
                 "website",
@@ -43,7 +43,7 @@
             [
                 "git",
                 "https://github.com/anthropics/courses",
-                16401
+                16742
             ],
             [
                 "docs",
@@ -78,7 +78,7 @@
             [
                 "git",
                 "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-                15442
+                17259
             ],
             [
                 "docs",
@@ -133,7 +133,7 @@
             [
                 "git",
                 "https://github.com/hukenovs/dsp-theory",
-                1115
+                1123
             ],
             [
                 "blog post",
@@ -156,7 +156,7 @@
             [
                 "git",
                 "https://github.com/DeepLearningSchool/part_1_ml_cv",
-                39
+                41
             ],
             [
                 "website",
@@ -199,7 +199,7 @@
             [
                 "git",
                 "https://github.com/huggingface/deep-rl-class",
-                4401
+                4438
             ],
             [
                 "hf",
@@ -258,7 +258,7 @@
             [
                 "git",
                 "https://github.com/microsoft/xr-development-for-beginners",
-                543
+                544
             ],
             [
                 "git",
@@ -281,7 +281,7 @@
             [
                 "git",
                 "https://github.com/aifoundation-edu/DL_intro",
-                50
+                52
             ],
             [
                 "wiki",
@@ -320,6 +320,37 @@
         "update": 1737674128.0
     },
     {
+        "name": "Introduction to TensorFlow Lite",
+        "description": "Learn how to deploy deep learning models on mobile and embedded devices with TensorFlow Lite",
+        "author": [
+            [
+                "Daniel Situnayake",
+                "https://situnayake.com/"
+            ],
+            [
+                "Paige Bailey",
+                "https://webpaige.dev/"
+            ],
+            [
+                "Juan Delgado",
+                "https://www.linkedin.com/in/juan-delgado-845749179"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_lite",
+                8161
+            ],
+            [
+                "udacity",
+                "https://www.udacity.com/course/intro-to-tensorflow-lite--ud190"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_lite/tflite_c01_linear_regression.ipynb",
+        "update": 1599619888.0
+    },
+    {
         "name": "LLM Engineering Essentials course",
         "description": "12-week course, created by experts from academia and industry, is designed specifically for developers and engineers",
         "author": [
@@ -352,7 +383,7 @@
             [
                 "git",
                 "https://github.com/Nebius-Academy/LLM-Engineering-Essentials",
-                647
+                691
             ],
             [
                 "website",
@@ -414,7 +445,7 @@
             [
                 "git",
                 "https://github.com/fbeilstein/machine_learning",
-                173
+                175
             ],
             [
                 "yt",
@@ -485,7 +516,7 @@
             [
                 "git",
                 "https://github.com/Atcold/NYU-DLSP20",
-                6769
+                6773
             ],
             [
                 "website",
@@ -576,7 +607,7 @@
             [
                 "git",
                 "https://github.com/google/jax/issues/446#issuecomment-467105048",
-                32713
+                33022
             ],
             [
                 "git",
@@ -603,7 +634,7 @@
             [
                 "git",
                 "https://github.com/tensorflow/examples/tree/master/courses/udacity_deep_learning",
-                8142
+                8161
             ],
             [
                 "udacity",
@@ -638,7 +669,7 @@
             [
                 "git",
                 "https://github.com/Yorko/mlcourse.ai",
-                10110
+                10152
             ],
             [
                 "slack",

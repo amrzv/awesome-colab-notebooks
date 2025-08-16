@@ -20,12 +20,12 @@
             [
                 "git",
                 "https://github.com/sniklaus/3d-ken-burns",
-                1540
+                1544
             ],
             [
                 "doi",
                 "https://doi.org/10.1145/3355089.3356528",
-                142
+                144
             ]
         ],
         "colab": "https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/3D_Ken_Burns.ipynb",
@@ -60,7 +60,7 @@
             [
                 "git",
                 "https://github.com/vt-vl-lab/3d-photo-inpainting",
-                7003
+                7011
             ],
             [
                 "project",
@@ -69,7 +69,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR42600.2020.00805",
-                202
+                206
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1706ToQrkIZshRSJSHvZ1RuCiM__YX3Bz",
@@ -155,7 +155,7 @@
             [
                 "git",
                 "https://github.com/Vahe1994/AQLM",
-                1269
+                1280
             ],
             [
                 "arxiv",
@@ -188,6 +188,86 @@
         ],
         "colab": "https://colab.research.google.com/github/Vahe1994/AQLM/blob/main/notebooks/colab_example.ipynb",
         "update": 1709894341.0
+    },
+    {
+        "name": "AST",
+        "description": "Audio Spectrogram Transformer, the first convolution-free, purely attention-based model for audio classification",
+        "author": [
+            [
+                "Yuan Gong",
+                "https://yuangongnd.github.io/"
+            ],
+            [
+                "Yu-An Chung",
+                "https://iamyuanchung.github.io/"
+            ],
+            [
+                "James Glass",
+                "AST: Audio Spectrogram Transformer"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/YuanGongND/ast",
+                1323
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2104.01778"
+            ],
+            [
+                "doi",
+                "https://doi.org/10.21437/Interspeech.2021-698",
+                533
+            ],
+            [
+                "medium",
+                "https://sh-tsang.medium.com/review-ast-audio-spectrogram-transformer-a108a5775d2f"
+            ],
+            [
+                "yt",
+                "https://youtu.be/iKqmvNSGuyw"
+            ],
+            [
+                "yt",
+                "https://youtu.be/9vGeIyeRRNQ"
+            ],
+            [
+                "git",
+                "https://github.com/YuanGongND/ltu"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2203.06760"
+            ],
+            [
+                "git",
+                "https://github.com/YuanGongND/ssast"
+            ],
+            [
+                "git",
+                "https://github.com/YuanGongND/psla"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2110.09784"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2102.01243"
+            ],
+            [
+                "yt",
+                "https://www.youtube.com/live/CSRDbqGY0Vw"
+            ],
+            [
+                "doi",
+                "https://doi.org/10.1109/TASLP.2021.3120633"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/YuanGongND/ast/blob/master/colab/AST_Inference_Demo.ipynb",
+        "update": 1666125649.0
     },
     {
         "name": "AWQ",
@@ -238,7 +318,7 @@
             [
                 "git",
                 "https://github.com/mit-han-lab/llm-awq",
-                3133
+                3189
             ],
             [
                 "arxiv",
@@ -255,7 +335,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3714983.3714987",
-                21
+                25
             ],
             [
                 "demo",
@@ -416,7 +496,7 @@
             [
                 "git",
                 "https://github.com/google-deepmind/alphaevolve_results",
-                202
+                213
             ],
             [
                 "deepmind",
@@ -559,7 +639,7 @@
             [
                 "git",
                 "https://github.com/deepmind/alphafold/",
-                13653
+                13735
             ],
             [
                 "blog post",
@@ -592,7 +672,7 @@
             [
                 "doi",
                 "https://doi.org/10.1038/s41586-021-03819-2",
-                31537
+                32441
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb",
@@ -659,7 +739,7 @@
             [
                 "git",
                 "https://github.com/google-deepmind/alphatensor",
-                2763
+                2771
             ],
             [
                 "deepmind",
@@ -684,7 +764,7 @@
             [
                 "doi",
                 "https://doi.org/10.1038/s41586-022-05172-4",
-                299
+                307
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/alphatensor/blob/master/nonequivalence/inspect_factorizations_notebook.ipynb",
@@ -711,7 +791,7 @@
             [
                 "git",
                 "https://github.com/bryandlee/animegan2-pytorch",
-                4443
+                4451
             ],
             [
                 "git",
@@ -732,7 +812,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-981-15-5577-0_18",
-                68
+                69
             ]
         ],
         "colab": "https://colab.research.google.com/github/bryandlee/animegan2-pytorch/blob/master/colab_demo.ipynb",
@@ -755,7 +835,7 @@
             [
                 "git",
                 "https://github.com/TachibanaYoshino/AnimeGANv3",
-                1918
+                1938
             ],
             [
                 "project",
@@ -788,7 +868,7 @@
             [
                 "doi",
                 "http://doi.org/10.1587/transinf.2023EDP7061",
-                1
+                2
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1XYNWwM8Xq-U7KaTOqNap6A-Yq1f-V-FB",
@@ -823,7 +903,7 @@
             [
                 "git",
                 "https://github.com/mit-han-lab/anycost-gan",
-                784
+                786
             ],
             [
                 "project",
@@ -860,7 +940,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR46437.2021.01474",
-                60
+                61
             ]
         ],
         "colab": "https://colab.research.google.com/github/mit-han-lab/anycost-gan/blob/master/notebooks/intro_colab.ipynb",
@@ -919,7 +999,7 @@
             [
                 "git",
                 "https://github.com/deepmind/arnheim",
-                234
+                235
             ],
             [
                 "git",
@@ -948,6 +1028,66 @@
         ],
         "colab": "https://colab.research.google.com/github/deepmind/arnheim/blob/master/arnheim_2.ipynb",
         "update": 1636635016.0
+    },
+    {
+        "name": "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose",
+        "description": "Deep neural network model that takes an audio signal A of a source person and a very short video V of a target person as input, and outputs a synthesized high-quality talking face video with personalized head pose (making use of the visual information in V), expression and lip synchronization (by considering both A and V)",
+        "author": [
+            [
+                "Ran Yi",
+                "https://yiranran.github.io/"
+            ],
+            [
+                "Zipeng Ye",
+                "https://scholar.google.com/citations?user=faIXk9EAAAAJ"
+            ],
+            [
+                "Juyong Zhang",
+                "https://juyong.github.io/index.html"
+            ],
+            [
+                "Hujun Bao",
+                "https://ieeexplore.ieee.org/author/37271755400"
+            ],
+            [
+                "Yong-Jin Liu",
+                "https://scholar.google.com/citations?user=GNDtwWQAAAAJ"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose",
+                766
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2002.10137"
+            ],
+            [
+                "doi",
+                "https://doi.org/10.1109/TMM.2022.3207606",
+                12
+            ],
+            [
+                "git",
+                "https://github.com/Juyong/3DFace"
+            ],
+            [
+                "git",
+                "https://github.com/microsoft/Deep3DFaceReconstruction"
+            ],
+            [
+                "git",
+                "https://github.com/deepinsight/insightface"
+            ],
+            [
+                "yt",
+                "https://youtu.be/TEShHzqoTwk"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/drive/1gqcqTSAGAyj48n0fmApvSPG_43BzKP37",
+        "update": 1588143441.488
     },
     {
         "name": "AudioLDM",
@@ -994,7 +1134,7 @@
             [
                 "git",
                 "https://github.com/haoheliu/AudioLDM",
-                2690
+                2717
             ],
             [
                 "arxiv",
@@ -1069,7 +1209,7 @@
             [
                 "git",
                 "https://github.com/Audio-AGI/AudioSep",
-                1752
+                1768
             ],
             [
                 "arxiv",
@@ -1120,7 +1260,7 @@
             [
                 "git",
                 "https://github.com/hongfz16/AvatarCLIP",
-                1087
+                1090
             ],
             [
                 "arxiv",
@@ -1173,7 +1313,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3528223.3530094",
-                167
+                171
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1dfaecX7xF3nP6fyXc8XBljV5QY1lc1TR",
@@ -1196,7 +1336,7 @@
             [
                 "git",
                 "https://github.com/Tiiiger/bert_score",
-                1762
+                1788
             ],
             [
                 "pypi",
@@ -1239,7 +1379,7 @@
             [
                 "git",
                 "https://github.com/PeterL1n/BackgroundMattingV2",
-                7054
+                7072
             ],
             [
                 "arxiv",
@@ -1248,7 +1388,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR46437.2021.00865",
-                168
+                172
             ],
             [
                 "project",
@@ -1299,7 +1439,7 @@
             [
                 "git",
                 "https://github.com/ckkelvinchan/BasicVSR_PlusPlus",
-                685
+                697
             ],
             [
                 "arxiv",
@@ -1320,7 +1460,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.00588",
-                337
+                349
             ],
             [
                 "yt",
@@ -1343,7 +1483,7 @@
             [
                 "git",
                 "https://github.com/jessevig/bertviz",
-                7519
+                7586
             ],
             [
                 "arxiv",
@@ -1352,7 +1492,7 @@
             [
                 "doi",
                 "https://doi.org/10.18653/v1/P19-3007",
-                261
+                268
             ],
             [
                 "arxiv",
@@ -1423,7 +1563,7 @@
             [
                 "git",
                 "https://github.com/ZhengPeng7/BiRefNet",
-                2436
+                2520
             ],
             [
                 "arxiv",
@@ -1476,7 +1616,7 @@
             [
                 "doi",
                 "https://doi.org/10.26599/AIR.2024.9150038",
-                7
+                9
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1B6aKZ3ekcvKMkSBn0N5mCASLUYMp0whK",
@@ -1519,7 +1659,7 @@
             [
                 "git",
                 "https://github.com/google-research/big_transfer",
-                1526
+                1530
             ],
             [
                 "arxiv",
@@ -1532,7 +1672,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-030-58558-7_29",
-                441
+                449
             ],
             [
                 "yt",
@@ -1629,7 +1769,7 @@
             [
                 "git",
                 "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
-                15549
+                15586
             ],
             [
                 "demo",
@@ -1642,7 +1782,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR42600.2020.00282",
-                169
+                170
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA",
@@ -1681,7 +1821,7 @@
             [
                 "git",
                 "https://github.com/ifzhang/ByteTrack",
-                5409
+                5500
             ],
             [
                 "git",
@@ -1718,7 +1858,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-031-20047-2_1",
-                1169
+                1216
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1bDilg4cmXFa8HCKHbsZ_p16p0vrhLyu0",
@@ -1761,7 +1901,7 @@
             [
                 "git",
                 "https://github.com/qianlim/CAPE",
-                323
+                324
             ],
             [
                 "arxiv",
@@ -1770,7 +1910,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR42600.2020.00650",
-                262
+                269
             ],
             [
                 "yt",
@@ -1841,7 +1981,7 @@
             [
                 "git",
                 "https://github.com/openai/CLIP",
-                29718
+                30133
             ],
             [
                 "paper",
@@ -1916,7 +2056,7 @@
             [
                 "git",
                 "https://github.com/yael-vinker/CLIPasso",
-                914
+                922
             ],
             [
                 "git",
@@ -1943,7 +2083,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR.2018.00986",
-                300
+                303
             ],
             [
                 "project",
@@ -1978,7 +2118,7 @@
             [
                 "git",
                 "https://github.com/rmokady/CLIP_prefix_caption",
-                1380
+                1387
             ],
             [
                 "arxiv",
@@ -2037,7 +2177,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/co-tracker",
-                4433
+                4488
             ],
             [
                 "arxiv",
@@ -2092,7 +2232,7 @@
             [
                 "git",
                 "https://github.com/sczhou/CodeFormer",
-                17278
+                17349
             ],
             [
                 "arxiv",
@@ -2167,7 +2307,7 @@
             [
                 "git",
                 "https://github.com/Doubiiu/CodeTalker",
-                582
+                586
             ],
             [
                 "project",
@@ -2212,7 +2352,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52729.2023.01229",
-                86
+                99
             ]
         ],
         "colab": "https://colab.research.google.com/github/Doubiiu/CodeTalker/blob/main/demo.ipynb",
@@ -2299,7 +2439,7 @@
             [
                 "git",
                 "https://github.com/THUDM/CogVideo",
-                11659
+                11796
             ],
             [
                 "arxiv",
@@ -2478,7 +2618,7 @@
             [
                 "git",
                 "https://github.com/THUDM/CogView",
-                1789
+                1791
             ],
             [
                 "demo",
@@ -2537,7 +2677,7 @@
             [
                 "git",
                 "https://github.com/rohitgandikota/sliders",
-                1075
+                1082
             ],
             [
                 "arxiv",
@@ -2584,7 +2724,7 @@
             [
                 "git",
                 "https://github.com/locuslab/convmixer",
-                1074
+                1075
             ],
             [
                 "git",
@@ -2643,7 +2783,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/ConvNeXt",
-                6052
+                6085
             ],
             [
                 "arxiv",
@@ -2680,7 +2820,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.01167",
-                4548
+                4764
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1CBYTIZ4tBMsVL5cqu9N_-Q3TBprqsfEO",
@@ -2703,7 +2843,7 @@
             [
                 "git",
                 "https://github.com/tensorflow/models/tree/master/official/nlp/modeling",
-                77600
+                77622
             ],
             [
                 "git",
@@ -2742,7 +2882,7 @@
             [
                 "git",
                 "https://github.com/Algolzw/daclip-uir",
-                767
+                776
             ],
             [
                 "arxiv",
@@ -2797,7 +2937,7 @@
             [
                 "git",
                 "https://github.com/piddnad/DDColor",
-                1338
+                1355
             ],
             [
                 "arxiv",
@@ -2928,7 +3068,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/dinov2",
-                11024
+                11300
             ],
             [
                 "arxiv",
@@ -2995,7 +3135,7 @@
             [
                 "git",
                 "https://github.com/jantic/DeOldify",
-                18355
+                18376
             ],
             [
                 "arxiv",
@@ -3038,7 +3178,7 @@
             [
                 "git",
                 "https://github.com/jantic/DeOldify",
-                18355
+                18376
             ],
             [
                 "arxiv",
@@ -3125,7 +3265,7 @@
             [
                 "git",
                 "https://github.com/kzl/decision-transformer",
-                2602
+                2620
             ],
             [
                 "arxiv",
@@ -3196,7 +3336,7 @@
             [
                 "git",
                 "https://github.com/luanfujun/deep-painterly-harmonization",
-                6067
+                6063
             ],
             [
                 "arxiv",
@@ -3243,7 +3383,7 @@
             [
                 "git",
                 "https://github.com/horseee/DeepCache",
-                906
+                914
             ],
             [
                 "arxiv",
@@ -3302,12 +3442,12 @@
             [
                 "git",
                 "https://github.com/DeepLabCut/DeepLabCut",
-                5129
+                5175
             ],
             [
                 "doi",
                 "https://doi.org/10.1038/s41593-018-0209-y",
-                3965
+                4064
             ],
             [
                 "website",
@@ -3422,7 +3562,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/demucs",
-                9092
+                9194
             ],
             [
                 "git",
@@ -3473,7 +3613,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/Detic",
-                1955
+                1962
             ],
             [
                 "arxiv",
@@ -3486,7 +3626,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-031-20077-9_21",
-                306
+                317
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1QtTW9-ukX2HKZGvt0QvVGqjuqEykoZKI",
@@ -3509,7 +3649,7 @@
             [
                 "git",
                 "https://github.com/zsyOAOA/DifFace",
-                690
+                694
             ],
             [
                 "arxiv",
@@ -3522,7 +3662,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/TPAMI.2024.3432651",
-                14
+                15
             ],
             [
                 "git",
@@ -3589,7 +3729,7 @@
             [
                 "git",
                 "https://github.com/XPixelGroup/DiffBIR",
-                3764
+                3799
             ],
             [
                 "arxiv",
@@ -3723,7 +3863,7 @@
             [
                 "git",
                 "https://github.com/alembics/disco-diffusion",
-                7457
+                7454
             ],
             [
                 "git",
@@ -3833,7 +3973,7 @@
             [
                 "git",
                 "https://github.com/google-research/google-research/tree/master/dreamfields",
-                35953
+                36137
             ],
             [
                 "yt",
@@ -3858,7 +3998,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.00094",
-                275
+                278
             ]
         ],
         "colab": "https://colab.research.google.com/drive/17GtPqdUCbG5CsmTnQFecPpoq_zpNKX7A",
@@ -3893,7 +4033,7 @@
             [
                 "git",
                 "https://github.com/dreamgaussian/dreamgaussian",
-                4167
+                4182
             ],
             [
                 "arxiv",
@@ -3944,7 +4084,7 @@
             [
                 "git",
                 "https://github.com/williamyang1991/DualStyleGAN",
-                1679
+                1682
             ],
             [
                 "project",
@@ -3989,7 +4129,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.00754",
-                96
+                98
             ]
         ],
         "colab": "https://colab.research.google.com/github/williamyang1991/DualStyleGAN/blob/master/notebooks/inference_playground.ipynb",
@@ -4024,7 +4164,7 @@
             [
                 "git",
                 "https://github.com/MCG-NKU/E2FGVI",
-                1080
+                1085
             ],
             [
                 "arxiv",
@@ -4069,7 +4209,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.01704",
-                106
+                109
             ]
         ],
         "colab": "https://colab.research.google.com/drive/12rwY2gtG8jVWlNx9pjmmM8uGmh5ue18G",
@@ -4104,7 +4244,7 @@
             [
                 "git",
                 "https://github.com/yuangan/EAT_code",
-                292
+                295
             ],
             [
                 "arxiv",
@@ -4113,7 +4253,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV51070.2023.02069",
-                22
+                23
             ],
             [
                 "project",
@@ -4188,7 +4328,7 @@
             [
                 "git",
                 "https://github.com/YuliangXiu/ECON",
-                1166
+                1172
             ],
             [
                 "arxiv",
@@ -4253,7 +4393,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52729.2023.00057",
-                102
+                110
             ],
             [
                 "reddit",
@@ -4296,7 +4436,7 @@
             [
                 "git",
                 "https://github.com/tjiiv-cprg/EPro-PnP",
-                1146
+                1152
             ],
             [
                 "arxiv",
@@ -4404,7 +4544,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/esm",
-                3676
+                3726
             ],
             [
                 "hf",
@@ -4441,7 +4581,7 @@
             [
                 "doi",
                 "https://doi.org/10.1101/622803",
-                162
+                164
             ],
             [
                 "FSDP",
@@ -4586,7 +4726,7 @@
             [
                 "git",
                 "https://github.com/MarcoForte/FBA_Matting",
-                485
+                486
             ],
             [
                 "arxiv",
@@ -4669,7 +4809,7 @@
             [
                 "git",
                 "https://github.com/vt-vl-lab/FGVC",
-                1555
+                1557
             ],
             [
                 "project",
@@ -4682,7 +4822,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-030-58610-2_42",
-                96
+                101
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1pb6FjWdwq_q445rG2NP0dubw7LKNUkqc",
@@ -4733,7 +4873,7 @@
             [
                 "git",
                 "https://github.com/google-research/frame-interpolation",
-                3023
+                3040
             ],
             [
                 "data",
@@ -4766,11 +4906,83 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-031-20071-7_15",
-                78
+                81
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1sK0uc-GJxmdnaxHhYqD2afRknakpdTNZ",
         "update": 1714699976.07
+    },
+    {
+        "name": "FSGAN",
+        "description": "Face Swapping GAN for face swapping and reenactment",
+        "author": [
+            [
+                "Yuval Nirkin",
+                "https://nirkin.com/"
+            ],
+            [
+                "Yosi Keller",
+                "https://yosikeller.github.io/"
+            ],
+            [
+                "Tal Hassner",
+                "https://talhassner.github.io/home/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/YuvalNirkin/fsgan",
+                778
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1908.05932"
+            ],
+            [
+                "doi",
+                "https://doi.org/10.1109/ICCV.2019.00728",
+                422
+            ],
+            [
+                "yt",
+                "https://youtu.be/BsITEVX6hkE"
+            ],
+            [
+                "yt",
+                "https://youtu.be/duo-tHbSdMk"
+            ],
+            [
+                "yt",
+                "https://youtu.be/cfEqjXkCcCI"
+            ],
+            [
+                "yt",
+                "https://youtu.be/4rNUkmEqgng"
+            ],
+            [
+                "git",
+                "https://github.com/ondyari/FaceForensics"
+            ],
+            [
+                "doi",
+                "https://doi.org/10.1109/TPAMI.2022.3155571"
+            ],
+            [
+                "project",
+                "https://nirkin.com/fsgan/"
+            ],
+            [
+                "project",
+                "https://nirkin.com/fsgan-v2/"
+            ],
+            [
+                "medium",
+                "https://odsc.medium.com/fsgan-subject-agnostic-face-swapping-and-reenactment-2f033b0ea83c"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/YuvalNirkin/fsgan/blob/master/fsgan/inference/face_swapping.ipynb",
+        "update": 1668597605.0
     },
     {
         "name": "Fast Segment Anything",
@@ -4813,7 +5025,7 @@
             [
                 "git",
                 "https://github.com/CASIA-IVA-Lab/FastSAM",
-                7963
+                8013
             ],
             [
                 "arxiv",
@@ -4917,7 +5129,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV51070.2023.01460",
-                111
+                117
             ],
             [
                 "reddit",
@@ -4952,7 +5164,7 @@
             [
                 "doi",
                 "https://doi.org/10.18653/v1/N19-1423",
-                3391
+                3598
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/models/blob/master/official/colab/fine_tuning_bert.ipynb",
@@ -4975,7 +5187,7 @@
             [
                 "git",
                 "https://github.com/AliaksandrSiarohin/first-order-model",
-                14881
+                14899
             ],
             [
                 "project",
@@ -5030,7 +5242,7 @@
             [
                 "git",
                 "https://github.com/mayuelala/FollowYourPose",
-                1327
+                1330
             ],
             [
                 "arxiv",
@@ -5063,7 +5275,7 @@
             [
                 "doi",
                 "https://doi.org/10.1609/aaai.v38i5.28206",
-                39
+                43
             ],
             [
                 "video",
@@ -5138,7 +5350,7 @@
             [
                 "git",
                 "https://github.com/tancik/fourier-feature-networks",
-                1311
+                1322
             ]
         ],
         "colab": "https://colab.research.google.com/github/tancik/fourier-feature-networks/blob/master/Demo.ipynb",
@@ -5173,7 +5385,7 @@
             [
                 "git",
                 "https://github.com/TianxingWu/FreeInit",
-                512
+                528
             ],
             [
                 "arxiv",
@@ -5198,7 +5410,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-031-72646-0_22",
-                5
+                7
             ]
         ],
         "colab": "https://colab.research.google.com/github/camenduru/FreeInit-colab/blob/main/FreeInit_colab.ipynb",
@@ -5233,7 +5445,7 @@
             [
                 "git",
                 "https://github.com/deepmind/functa",
-                157
+                158
             ],
             [
                 "arxiv",
@@ -5280,7 +5492,7 @@
             [
                 "git",
                 "https://github.com/magenta/magenta/tree/main/magenta/models/gansynth",
-                19550
+                19603
             ]
         ],
         "colab": "https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb",
@@ -5303,7 +5515,7 @@
             [
                 "git",
                 "https://github.com/mchong6/GANsNRoses",
-                1156
+                1157
             ],
             [
                 "git",
@@ -5362,7 +5574,7 @@
             [
                 "git",
                 "https://github.com/TencentARC/GFPGAN",
-                36894
+                36967
             ],
             [
                 "git",
@@ -5379,7 +5591,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR46437.2021.00905",
-                352
+                364
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo",
@@ -5426,7 +5638,7 @@
             [
                 "git",
                 "https://github.com/openai/glide-text2im",
-                3645
+                3654
             ],
             [
                 "arxiv",
@@ -5497,7 +5709,7 @@
             [
                 "git",
                 "https://github.com/microsoft/GLIP",
-                2447
+                2474
             ],
             [
                 "arxiv",
@@ -5510,7 +5722,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.01069",
-                515
+                537
             ],
             [
                 "arxiv",
@@ -5648,7 +5860,7 @@
             [
                 "git",
                 "https://github.com/yangxy/GPEN",
-                2552
+                2566
             ],
             [
                 "arxiv",
@@ -5687,7 +5899,7 @@
             [
                 "git",
                 "https://github.com/openai/gpt-2",
-                23749
+                24011
             ],
             [
                 "git",
@@ -5734,7 +5946,7 @@
             [
                 "git",
                 "https://github.com/graphdeco-inria/gaussian-splatting",
-                17637
+                18025
             ],
             [
                 "yt",
@@ -5775,7 +5987,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3592433",
-                1532
+                1712
             ],
             [
                 "medium",
@@ -5822,7 +6034,7 @@
             [
                 "git",
                 "https://github.com/G-U-N/Gen-L-Video",
-                298
+                300
             ],
             [
                 "arxiv",
@@ -5924,7 +6136,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV48922.2021.01409",
-                47
+                49
             ]
         ],
         "colab": "https://colab.research.google.com/github/CompVis/geometry-free-view-synthesis/blob/master/scripts/braindance.ipynb",
@@ -6011,7 +6223,7 @@
             [
                 "git",
                 "https://github.com/google-deepmind/graphcast",
-                6165
+                6222
             ],
             [
                 "arxiv",
@@ -6044,7 +6256,7 @@
             [
                 "doi",
                 "https://doi.org/10.1126/science.adi2336",
-                474
+                523
             ],
             [
                 "deepmind",
@@ -6115,7 +6327,7 @@
             [
                 "git",
                 "https://github.com/magenta/magenta/tree/main/magenta/models/music_vae",
-                19550
+                19603
             ],
             [
                 "web app",
@@ -6178,7 +6390,7 @@
             [
                 "git",
                 "https://github.com/IDEA-Research/GroundingDINO",
-                8399
+                8625
             ],
             [
                 "arxiv",
@@ -6246,7 +6458,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-grounding-dino.ipynb",
-        "update": 1687953828.0
+        "update": 1752155115.0
     },
     {
         "name": "HMR",
@@ -6273,7 +6485,7 @@
             [
                 "git",
                 "https://github.com/akanazawa/hmr",
-                1613
+                1615
             ],
             [
                 "arxiv",
@@ -6286,7 +6498,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR.2018.00744",
-                1314
+                1326
             ],
             [
                 "yt",
@@ -6349,7 +6561,7 @@
             [
                 "git",
                 "https://github.com/wenquanlu/HandRefiner",
-                797
+                795
             ],
             [
                 "arxiv",
@@ -6524,7 +6736,7 @@
             [
                 "git",
                 "https://github.com/eqimp/hogwild_llm",
-                112
+                116
             ],
             [
                 "project",
@@ -6560,7 +6772,7 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/eqimp/hogwild_llm/blob/main/colab_example.ipynb",
-        "update": 1745495619.0
+        "update": 1752570726.0
     },
     {
         "name": "HybrIK",
@@ -6595,7 +6807,7 @@
             [
                 "git",
                 "https://github.com/Jeff-sjtu/HybrIK",
-                1439
+                1467
             ],
             [
                 "arxiv",
@@ -6624,7 +6836,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR46437.2021.00339",
-                278
+                284
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1n41l7I2NxWseuruVQEU8he2XqzSXhu2f",
@@ -6663,7 +6875,7 @@
             [
                 "git",
                 "https://github.com/yuval-alaluf/hyperstyle",
-                1023
+                1026
             ],
             [
                 "arxiv",
@@ -6724,7 +6936,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.01796",
-                184
+                187
             ]
         ],
         "colab": "https://colab.research.google.com/github/yuval-alaluf/hyperstyle/blob/master/notebooks/inference_playground.ipynb",
@@ -6759,7 +6971,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/ic_gan",
-                535
+                536
             ],
             [
                 "arxiv",
@@ -6826,7 +7038,7 @@
             [
                 "git",
                 "https://github.com/yuliangxiu/icon",
-                1645
+                1647
             ],
             [
                 "git",
@@ -6875,7 +7087,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.01294",
-                213
+                221
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1-AWeWhPvCTBX0KfMtgtMk10uPU05ihoA",
@@ -6914,7 +7126,7 @@
             [
                 "git",
                 "https://github.com/MrTornado24/IDE-3D",
-                483
+                484
             ],
             [
                 "git",
@@ -6939,11 +7151,78 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3550454.3555506",
-                84
+                90
             ]
         ],
         "colab": "https://colab.research.google.com/github/MrTornado24/IDE-3D/blob/main/inversion/notebooks/inference_playground.ipynb",
         "update": 1662657657.0
+    },
+    {
+        "name": "IT³",
+        "description": "Idempotent Test-Time Training, approach that enables on-the-fly adaptation to distribution shifts using only the current test instance, without any auxiliary task design",
+        "author": [
+            [
+                "Nikita Durasov",
+                "https://www.norange.io/about/"
+            ],
+            [
+                "Assaf Shocher",
+                "https://assafshocher.github.io/"
+            ],
+            [
+                "Doruk Oner",
+                "https://scholar.google.com/citations?user=ESA2CsAAAAAJ"
+            ],
+            [
+                "Gal Chechik",
+                "https://research.nvidia.com/person/gal-chechik"
+            ],
+            [
+                "Alexei Efros",
+                "https://people.eecs.berkeley.edu/~efros/"
+            ],
+            [
+                "Pascal Fua",
+                "https://people.epfl.ch/pascal.fua/bio"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/nikitadurasov/ittt",
+                14
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2410.04201"
+            ],
+            [
+                "project",
+                "https://www.norange.io/projects/ittt/"
+            ],
+            [
+                "yt",
+                "https://youtu.be/eKGKpN8fFRM"
+            ],
+            [
+                "ICML",
+                "https://icml.cc/virtual/2025/poster/45551"
+            ],
+            [
+                "git",
+                "https://github.com/nikitadurasov/torch-ttt"
+            ],
+            [
+                "yt",
+                "https://youtu.be/n5opIsl9WRA"
+            ],
+            [
+                "pypi",
+                "https://pypi.org/project/torch-ttt/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/nikitadurasov/ittt/blob/main/exps/mnist/it3_torch_ttt.ipynb",
+        "update": 1750850239.0
     },
     {
         "name": "Instance-aware Image Colorization",
@@ -6962,7 +7241,7 @@
             [
                 "git",
                 "https://github.com/ericsujw/InstColorization",
-                723
+                725
             ],
             [
                 "project",
@@ -6975,7 +7254,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR42600.2020.00799",
-                162
+                165
             ]
         ],
         "colab": "https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb",
@@ -7022,7 +7301,7 @@
             [
                 "git",
                 "https://github.com/NVlabs/instant-ngp",
-                16734
+                16828
             ],
             [
                 "git",
@@ -7063,7 +7342,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3528223.3530127",
-                2167
+                2289
             ]
         ],
         "colab": "https://colab.research.google.com/github/NVlabs/instant-ngp/blob/master/notebooks/instant_ngp.ipynb",
@@ -7102,7 +7381,7 @@
             [
                 "git",
                 "https://github.com/TencentARC/InstantMesh",
-                3941
+                3997
             ],
             [
                 "arxiv",
@@ -7165,7 +7444,7 @@
             [
                 "git",
                 "https://github.com/genforce/interfacegan",
-                1538
+                1544
             ],
             [
                 "yt",
@@ -7194,7 +7473,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR42600.2020.00926",
-                690
+                702
             ]
         ],
         "colab": "https://colab.research.google.com/github/genforce/interfacegan/blob/master/docs/InterFaceGAN.ipynb",
@@ -7221,7 +7500,7 @@
             [
                 "git",
                 "https://github.com/zsyOAOA/InvSR",
-                1180
+                1220
             ],
             [
                 "arxiv",
@@ -7292,12 +7571,12 @@
             [
                 "git",
                 "https://github.com/google-deepmind/ithaca",
-                560
+                565
             ],
             [
                 "doi",
                 "https://doi.org/10.1038/s41586-022-04448-z",
-                112
+                119
             ],
             [
                 "project",
@@ -7344,7 +7623,7 @@
             [
                 "git",
                 "https://github.com/mchong6/JoJoGAN",
-                1430
+                1431
             ],
             [
                 "arxiv",
@@ -7361,7 +7640,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-031-19787-1_8",
-                35
+                40
             ]
         ],
         "colab": "https://colab.research.google.com/github/mchong6/JoJoGAN/blob/master/stylize.ipynb",
@@ -7396,7 +7675,7 @@
             [
                 "git",
                 "https://github.com/CompVis/latent-diffusion",
-                13053
+                13159
             ],
             [
                 "arxiv",
@@ -7433,7 +7712,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.01042",
-                7157
+                7656
             ]
         ],
         "colab": "https://colab.research.google.com/github/CompVis/latent-diffusion/blob/master/scripts/latent_imagenet_diffusion.ipynb",
@@ -7452,7 +7731,7 @@
             [
                 "git",
                 "https://github.com/microsoft/lida",
-                3070
+                3099
             ],
             [
                 "arxiv",
@@ -7469,7 +7748,7 @@
             [
                 "doi",
                 "https://doi.org/10.18653/v1/2023.acl-demo.11",
-                45
+                49
             ],
             [
                 "git",
@@ -7524,7 +7803,7 @@
             [
                 "git",
                 "https://github.com/haotian-liu/LLaVA",
-                22982
+                23215
             ],
             [
                 "arxiv",
@@ -7655,7 +7934,7 @@
             [
                 "git",
                 "https://github.com/cloneofsimo/lora",
-                7378
+                7406
             ],
             [
                 "git",
@@ -7794,7 +8073,7 @@
             [
                 "git",
                 "https://github.com/saic-mdal/lama",
-                9001
+                9096
             ],
             [
                 "git",
@@ -7815,7 +8094,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/WACV51458.2022.00323",
-                578
+                601
             ]
         ],
         "colab": "https://colab.research.google.com/github/saic-mdal/lama/blob/master/colab/LaMa_inpainting.ipynb",
@@ -7851,7 +8130,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICASSP39728.2021.9413896",
-                21
+                22
             ]
         ],
         "colab": "https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/master/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb",
@@ -7912,7 +8191,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV.2019.00880",
-                105
+                108
             ]
         ],
         "colab": "https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/custom_learningtopaint.ipynb",
@@ -7980,7 +8259,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-030-58539-6_44",
-                83
+                85
             ]
         ],
         "colab": "https://colab.research.google.com/github/royorel/Lifespan_Age_Transformation_Synthesis/blob/master/LATS_demo.ipynb",
@@ -8011,7 +8290,7 @@
             [
                 "git",
                 "https://github.com/YuanxunLu/LiveSpeechPortraits",
-                1265
+                1271
             ],
             [
                 "git",
@@ -8036,7 +8315,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3478513.3480484",
-                130
+                134
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1tKvi-9kY3GkEK8lgtfTSM70rMFo_TY50",
@@ -8079,7 +8358,7 @@
             [
                 "git",
                 "https://github.com/KwaiVGI/LivePortrait",
-                16513
+                16753
             ],
             [
                 "arxiv",
@@ -8186,7 +8465,7 @@
             [
                 "git",
                 "https://github.com/yxuansu/magic",
-                256
+                257
             ],
             [
                 "arxiv",
@@ -8269,7 +8548,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/fairseq/tree/main/examples/mms",
-                31601
+                31690
             ],
             [
                 "arxiv",
@@ -8332,7 +8611,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-030-11018-5_32",
-                77
+                82
             ]
         ],
         "colab": "https://colab.research.google.com/github/zhanghang1989/PyTorch-Multi-Style-Transfer/blob/master/msgnet.ipynb",
@@ -8371,7 +8650,7 @@
             [
                 "git",
                 "https://github.com/mttr2021/MTTR",
-                657
+                658
             ],
             [
                 "git",
@@ -8388,7 +8667,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.00493",
-                102
+                105
             ]
         ],
         "colab": "https://colab.research.google.com/drive/12p0jpSx3pJNfZk-y_L44yeHZlhsKVra-",
@@ -8435,7 +8714,7 @@
             [
                 "git",
                 "https://github.com/magic-research/magic-animate",
-                10785
+                10829
             ],
             [
                 "arxiv",
@@ -8569,7 +8848,7 @@
             [
                 "git",
                 "https://github.com/yzhou359/MakeItTalk",
-                1012
+                1014
             ],
             [
                 "yt",
@@ -8582,7 +8861,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3414685.3417774",
-                227
+                238
             ]
         ],
         "colab": "https://colab.research.google.com/github/iboyles/makeittalknow/blob/main/working_quick_demo_of_makeittalk_07_2023.ipynb",
@@ -8625,7 +8904,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/Mask2Former",
-                2860
+                2912
             ],
             [
                 "arxiv",
@@ -8646,7 +8925,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.00135",
-                1604
+                1682
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1uIWE5KbGFSjrxey2aRd5pWkKNY1_SaNq",
@@ -8681,7 +8960,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/moco",
-                5011
+                5030
             ],
             [
                 "arxiv",
@@ -8690,7 +8969,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR42600.2020.00975",
-                7466
+                7680
             ],
             [
                 "arxiv",
@@ -8757,7 +9036,7 @@
             [
                 "git",
                 "https://github.com/ChaoningZhang/MobileSAM",
-                5258
+                5312
             ],
             [
                 "arxiv",
@@ -8872,7 +9151,7 @@
             [
                 "git",
                 "https://github.com/AnswerDotAI/ModernBERT",
-                1430
+                1470
             ],
             [
                 "arxiv",
@@ -8955,12 +9234,12 @@
             [
                 "git",
                 "https://github.com/snap-research/articulated-animation",
-                1263
+                1266
             ],
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR46437.2021.01344",
-                140
+                151
             ]
         ],
         "colab": "https://colab.research.google.com/github/AliaksandrSiarohin/articulated-animation/blob/master/demo.ipynb",
@@ -8991,7 +9270,7 @@
             [
                 "git",
                 "https://github.com/AliaksandrSiarohin/motion-cosegmentation",
-                656
+                660
             ],
             [
                 "git",
@@ -9000,7 +9279,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICPR48806.2021.9412520",
-                10
+                11
             ]
         ],
         "colab": "https://colab.research.google.com/github/AliaksandrSiarohin/motion-cosegmentation/blob/master/part_swap.ipynb",
@@ -9047,7 +9326,7 @@
             [
                 "git",
                 "https://github.com/mingyuan-zhang/MotionDiffuse",
-                933
+                939
             ],
             [
                 "yt",
@@ -9110,7 +9389,7 @@
             [
                 "git",
                 "https://github.com/maszhongming/Multi-LoRA-Composition",
-                478
+                479
             ],
             [
                 "arxiv",
@@ -9275,7 +9554,7 @@
             [
                 "git",
                 "https://github.com/marcoppasini/musika",
-                676
+                680
             ],
             [
                 "project",
@@ -9342,7 +9621,7 @@
             [
                 "git",
                 "https://github.com/megvii-research/NAFNet",
-                2576
+                2613
             ],
             [
                 "arxiv",
@@ -9351,7 +9630,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-031-20071-7_2",
-                641
+                676
             ],
             [
                 "arxiv",
@@ -9402,7 +9681,7 @@
             [
                 "git",
                 "https://github.com/deepmind/deepmind-research/tree/master/nfnets",
-                14093
+                14186
             ],
             [
                 "git",
@@ -9465,7 +9744,7 @@
             [
                 "git",
                 "https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth",
-                19550
+                19603
             ],
             [
                 "data",
@@ -9545,7 +9824,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV48922.2021.00230",
-                40
+                43
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1l-fUzyM38KJMZyKMBWw_vu7ZUyDwgdYH",
@@ -9609,7 +9888,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR46437.2021.00843",
-                190
+                192
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1hXVvYdAwLA0EFg2zrafJUE0bFgB_F7PU",
@@ -9652,7 +9931,7 @@
             [
                 "git",
                 "https://github.com/google/nerfies",
-                1848
+                1855
             ],
             [
                 "project",
@@ -9665,7 +9944,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV48922.2021.00581",
-                693
+                709
             ],
             [
                 "yt",
@@ -9760,7 +10039,7 @@
             [
                 "doi",
                 "https://doi.org/10.1167/16.12.326",
-                885
+                927
             ]
         ],
         "colab": "https://colab.research.google.com/github/titu1994/Neural-Style-Transfer/blob/master/NeuralStyleTransfer.ipynb",
@@ -9807,7 +10086,7 @@
             [
                 "git",
                 "https://github.com/NVlabs/neuralangelo",
-                4515
+                4532
             ],
             [
                 "arxiv",
@@ -9914,7 +10193,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/metaseq/tree/main/projects/OPT",
-                6526
+                6528
             ],
             [
                 "arxiv",
@@ -10021,7 +10300,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-031-20080-9_42",
-                143
+                152
             ]
         ],
         "colab": "https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/zeroshot_object_detection_with_owlvit.ipynb",
@@ -10064,7 +10343,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/omnivore",
-                565
+                568
             ],
             [
                 "arxiv",
@@ -10085,7 +10364,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.01563",
-                125
+                131
             ]
         ],
         "colab": "https://colab.research.google.com/github/facebookresearch/omnivore/blob/main/inference_tutorial.ipynb",
@@ -10132,7 +10411,7 @@
             [
                 "git",
                 "https://github.com/magenta/magenta/tree/main/magenta/models/onsets_frames_transcription",
-                19550
+                19603
             ]
         ],
         "colab": "https://colab.research.google.com/notebooks/magenta/onsets_frames_transcription/onsets_frames_transcription.ipynb",
@@ -10155,7 +10434,7 @@
             [
                 "doi",
                 "https://doi.org/10.21105/joss.01667",
-                152
+                155
             ],
             [
                 "project",
@@ -10164,7 +10443,7 @@
             [
                 "git",
                 "https://github.com/sigsep/open-unmix-pytorch",
-                1387
+                1398
             ],
             [
                 "data",
@@ -10279,7 +10558,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV.2019.00239",
-                887
+                898
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1GFSsqP2BWz4gtq0e-nki00ZHSirXwFyY",
@@ -10314,7 +10593,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/pifuhd",
-                9694
+                9718
             ],
             [
                 "yt",
@@ -10327,7 +10606,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR42600.2020.00016",
-                563
+                572
             ]
         ],
         "colab": "https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt",
@@ -10358,7 +10637,7 @@
             [
                 "git",
                 "https://github.com/danielroich/PTI",
-                925
+                926
             ],
             [
                 "arxiv",
@@ -10375,7 +10654,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3544777",
-                256
+                266
             ]
         ],
         "colab": "https://colab.research.google.com/github/danielroich/PTI/blob/main/notebooks/inference_playground.ipynb",
@@ -10402,7 +10681,7 @@
             [
                 "git",
                 "https://github.com/jianzhangcs/panini",
-                123
+                122
             ],
             [
                 "arxiv",
@@ -10419,7 +10698,7 @@
             [
                 "doi",
                 "https://doi.org/10.1609/aaai.v36i3.20159",
-                13
+                14
             ]
         ],
         "colab": "https://colab.research.google.com/github/GeeveGeorge/Panini-Net-Colab/blob/main/PaniniNet_Working.ipynb",
@@ -10454,7 +10733,7 @@
             [
                 "git",
                 "https://github.com/kan-bayashi/ParallelWaveGAN",
-                1609
+                1612
             ],
             [
                 "git",
@@ -10467,7 +10746,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICASSP40776.2020.9053795",
-                440
+                454
             ]
         ],
         "colab": "https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb",
@@ -10502,7 +10781,7 @@
             [
                 "git",
                 "https://github.com/magenta/magenta/tree/master/magenta/models/performance_rnn",
-                19550
+                19603
             ]
         ],
         "colab": "https://colab.research.google.com/notebooks/magenta/performance_rnn/performance_rnn.ipynb",
@@ -10541,7 +10820,7 @@
             [
                 "git",
                 "https://github.com/TencentARC/PhotoMaker",
-                10014
+                10054
             ],
             [
                 "arxiv",
@@ -10648,7 +10927,7 @@
             [
                 "git",
                 "https://github.com/PixArt-alpha/PixArt-sigma",
-                1817
+                1825
             ],
             [
                 "arxiv",
@@ -10719,7 +10998,7 @@
             [
                 "git",
                 "https://github.com/eladrich/pixel2style2pixel",
-                3250
+                3258
             ],
             [
                 "git",
@@ -10736,7 +11015,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR46437.2021.00232",
-                779
+                796
             ]
         ],
         "colab": "https://colab.research.google.com/github/eladrich/pixel2style2pixel/blob/master/notebooks/inference_playground.ipynb",
@@ -10767,7 +11046,7 @@
             [
                 "git",
                 "https://github.com/google-deepmind/deepmind-research/tree/master/polygen",
-                14093
+                14186
             ],
             [
                 "arxiv",
@@ -10834,7 +11113,7 @@
             [
                 "git",
                 "https://github.com/sail-sg/poolformer",
-                1344
+                1347
             ],
             [
                 "arxiv",
@@ -10859,7 +11138,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.01055",
-                757
+                780
             ]
         ],
         "colab": "https://colab.research.google.com/github/sail-sg/poolformer/blob/main/misc/poolformer_demo.ipynb",
@@ -10941,7 +11220,7 @@
             [
                 "git",
                 "https://github.com/mit-han-lab/proxylessnas",
-                1442
+                1445
             ],
             [
                 "arxiv",
@@ -11008,7 +11287,7 @@
             [
                 "git",
                 "https://github.com/ToTheBeginning/PuLID",
-                3407
+                3446
             ],
             [
                 "arxiv",
@@ -11071,7 +11350,7 @@
             [
                 "git",
                 "https://github.com/HongwenZhang/PyMAF",
-                633
+                634
             ],
             [
                 "project",
@@ -11150,7 +11429,7 @@
             [
                 "git",
                 "https://github.com/HongwenZhang/PyMAF-X",
-                259
+                262
             ],
             [
                 "arxiv",
@@ -11183,7 +11462,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/TPAMI.2023.3271691",
-                64
+                67
             ],
             [
                 "yt",
@@ -11206,7 +11485,7 @@
             [
                 "git",
                 "https://github.com/QwenLM/Qwen",
-                18647
+                18954
             ],
             [
                 "git",
@@ -11325,7 +11604,7 @@
             [
                 "git",
                 "https://github.com/QwenLM/Qwen-VL",
-                6053
+                6148
             ],
             [
                 "arxiv",
@@ -11444,7 +11723,7 @@
             [
                 "git",
                 "https://github.com/QwenLM/Qwen2.5-Omni",
-                3271
+                3440
             ],
             [
                 "arxiv",
@@ -11539,7 +11818,7 @@
             [
                 "git",
                 "https://github.com/Arthur151/ROMP",
-                1436
+                1437
             ],
             [
                 "arxiv",
@@ -11627,7 +11906,7 @@
             [
                 "git",
                 "https://github.com/PeterL1n/RobustVideoMatting",
-                8995
+                9038
             ],
             [
                 "git",
@@ -11640,7 +11919,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/WACV51458.2022.00319",
-                113
+                120
             ]
         ],
         "colab": "https://colab.research.google.com/drive/10z-pNKRnVNsp0Lq9tH1J_XPZ7CBC_uHm",
@@ -11671,7 +11950,7 @@
             [
                 "git",
                 "https://github.com/PeterL1n/RobustVideoMatting",
-                8995
+                9038
             ],
             [
                 "project",
@@ -11692,7 +11971,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/WACV51458.2022.00319",
-                113
+                120
             ],
             [
                 "yt",
@@ -11751,7 +12030,7 @@
             [
                 "git",
                 "https://github.com/yuval-alaluf/restyle-encoder",
-                1041
+                1042
             ],
             [
                 "git",
@@ -11764,7 +12043,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV48922.2021.00664",
-                243
+                247
             ]
         ],
         "colab": "https://colab.research.google.com/github/yuval-alaluf/restyle-encoder/blob/master/notebooks/inference_playground.ipynb",
@@ -11799,7 +12078,7 @@
             [
                 "git",
                 "https://github.com/xinntao/Real-ESRGAN",
-                31612
+                32030
             ],
             [
                 "git",
@@ -11824,7 +12103,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCVW54120.2021.00217",
-                895
+                933
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1k2Zod6kSHEvraybHl50Lys0LerhyTMCo",
@@ -11855,7 +12134,7 @@
             [
                 "git",
                 "https://github.com/ckkelvinchan/RealBasicVSR",
-                978
+                989
             ],
             [
                 "arxiv",
@@ -11868,7 +12147,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.00587",
-                66
+                68
             ],
             [
                 "reddit",
@@ -11931,7 +12210,7 @@
             [
                 "git",
                 "https://github.com/xinyu1205/recognize-anything",
-                3307
+                3365
             ],
             [
                 "arxiv",
@@ -12003,7 +12282,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR46437.2021.01202",
-                50
+                51
             ]
         ],
         "colab": "https://colab.research.google.com/github/CompVis/brushstroke-parameterized-style-transfer/blob/tensorflow_v2/notebooks/BrushstrokeStyleTransfer_TF2.ipynb",
@@ -12058,7 +12337,7 @@
             [
                 "git",
                 "https://github.com/davidbau/rewriting",
-                535
+                536
             ],
             [
                 "git",
@@ -12110,7 +12389,7 @@
             [
                 "git",
                 "https://github.com/yuval-alaluf/SAM",
-                705
+                707
             ],
             [
                 "git",
@@ -12123,7 +12402,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3450626.3459805",
-                100
+                103
             ]
         ],
         "colab": "http://colab.research.google.com/github/yuval-alaluf/SAM/blob/master/notebooks/animation_inference_playground.ipynb",
@@ -12226,7 +12505,7 @@
             [
                 "git",
                 "https://github.com/vsitzmann/siren",
-                1849
+                1862
             ],
             [
                 "yt",
@@ -12305,7 +12584,7 @@
             [
                 "git",
                 "https://github.com/caizhongang/SMPLer-X",
-                1120
+                1126
             ],
             [
                 "arxiv",
@@ -12415,7 +12694,7 @@
             [
                 "git",
                 "https://github.com/nkolot/SPIN",
-                863
+                864
             ],
             [
                 "project",
@@ -12440,7 +12719,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV.2019.00234",
-                755
+                764
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1uH2JtavOtDrFl6RsipyIncCSr19GWW4x",
@@ -12495,7 +12774,7 @@
             [
                 "git",
                 "https://github.com/NJU-PCALab/STAR",
-                1254
+                1289
             ],
             [
                 "arxiv",
@@ -12558,7 +12837,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV.2019.00802",
-                64
+                65
             ]
         ],
         "colab": "https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/vae_svg_decoding.ipynb",
@@ -12605,7 +12884,7 @@
             [
                 "git",
                 "https://github.com/OpenTalker/SadTalker",
-                12966
+                13066
             ],
             [
                 "arxiv",
@@ -12666,7 +12945,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52729.2023.00836",
-                126
+                144
             ]
         ],
         "colab": "https://colab.research.google.com/github/OpenTalker/SadTalker/blob/main/quick_demo.ipynb",
@@ -12722,7 +13001,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52729.2023.01214",
-                209
+                214
             ],
             [
                 "reddit",
@@ -12773,7 +13052,7 @@
             [
                 "git",
                 "https://github.com/yang-song/score_sde",
-                1689
+                1707
             ],
             [
                 "git",
@@ -12841,7 +13120,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR46437.2021.00158",
-                362
+                365
             ]
         ],
         "colab": "https://colab.research.google.com/github/genforce/sefa/blob/master/docs/SeFa.ipynb",
@@ -12904,7 +13183,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/segment-anything",
-                50752
+                51437
             ],
             [
                 "arxiv",
@@ -13023,7 +13302,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/segment-anything-2",
-                16085
+                16443
             ],
             [
                 "meta",
@@ -13118,7 +13397,7 @@
             [
                 "git",
                 "https://github.com/z-x-yang/Segment-and-Track-Anything",
-                2990
+                3012
             ],
             [
                 "arxiv",
@@ -13356,7 +13635,7 @@
             [
                 "git",
                 "https://github.com/google-research/big_vision/blob/main/big_vision/models/vit.py",
-                2988
+                3055
             ],
             [
                 "git",
@@ -13486,7 +13765,7 @@
             [
                 "git",
                 "https://github.com/neuralchen/SimSwap",
-                4952
+                4987
             ],
             [
                 "git",
@@ -13495,7 +13774,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3394171.3413630",
-                229
+                245
             ]
         ],
         "colab": "https://colab.research.google.com/github/neuralchen/SimSwap/blob/master/SimSwap%20colab.ipynb",
@@ -13582,7 +13861,7 @@
             [
                 "git",
                 "https://github.com/deepmind/deepmind-research/tree/master/nowcasting",
-                14093
+                14186
             ],
             [
                 "tf",
@@ -13599,7 +13878,7 @@
             [
                 "doi",
                 "https://doi.org/10.1038/s41586-021-03854-z",
-                553
+                566
             ]
         ],
         "colab": "https://colab.research.google.com/github/deepmind/deepmind-research/blob/master/nowcasting/Open_sourced_dataset_and_model_snapshot_for_precipitation_nowcasting.ipynb",
@@ -13622,7 +13901,7 @@
             [
                 "git",
                 "https://github.com/jiupinjia/SkyAR",
-                2025
+                2028
             ],
             [
                 "arxiv",
@@ -13635,7 +13914,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/TIP.2022.3192717",
-                9
+                11
             ]
         ],
         "colab": "https://colab.research.google.com/github/jiupinjia/SkyAR/blob/master/colab_demo.ipynb",
@@ -13690,7 +13969,7 @@
             [
                 "git",
                 "https://github.com/v-iashin/SpecVQGAN",
-                363
+                365
             ],
             [
                 "git",
@@ -13757,7 +14036,7 @@
             [
                 "git",
                 "https://github.com/ashawkey/stable-dreamfusion",
-                8662
+                8690
             ],
             [
                 "git",
@@ -13828,7 +14107,7 @@
             [
                 "git",
                 "https://github.com/HVision-NKU/StoryDiffusion",
-                6306
+                6319
             ],
             [
                 "project",
@@ -13915,7 +14194,7 @@
             [
                 "git",
                 "https://github.com/google/explaining-in-style",
-                221
+                222
             ],
             [
                 "arxiv",
@@ -13952,7 +14231,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV48922.2021.00073",
-                86
+                87
             ]
         ],
         "colab": "https://colab.research.google.com/github/google/explaining-in-style/blob/main/Explaining_in_Style_AttFind.ipynb",
@@ -13987,7 +14266,7 @@
             [
                 "git",
                 "https://github.com/orpatashnik/StyleCLIP",
-                4097
+                4107
             ],
             [
                 "arxiv",
@@ -14020,7 +14299,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV48922.2021.00209",
-                720
+                736
             ]
         ],
         "colab": "https://colab.research.google.com/github/orpatashnik/StyleCLIP/blob/main/notebooks/StyleCLIP_global_torch.ipynb",
@@ -14059,7 +14338,7 @@
             [
                 "git",
                 "https://github.com/wonjongg/StyleCariGAN",
-                297
+                298
             ],
             [
                 "git",
@@ -14111,7 +14390,7 @@
             [
                 "git",
                 "https://github.com/NVlabs/stylegan2",
-                11129
+                11142
             ],
             [
                 "git",
@@ -14120,7 +14399,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR42600.2020.00813",
-                3843
+                3935
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH",
@@ -14163,7 +14442,7 @@
             [
                 "git",
                 "https://github.com/NVlabs/stylegan3",
-                6739
+                6770
             ],
             [
                 "git",
@@ -14262,7 +14541,7 @@
             [
                 "git",
                 "https://github.com/stylegan-human/stylegan-human",
-                1180
+                1181
             ],
             [
                 "arxiv",
@@ -14307,7 +14586,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-031-19787-1_1",
-                73
+                75
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1sgxoDM55iM07FS54vz9ALg1XckiYA2On",
@@ -14342,7 +14621,7 @@
             [
                 "git",
                 "https://github.com/rinongal/StyleGAN-nada",
-                1182
+                1184
             ],
             [
                 "git",
@@ -14371,7 +14650,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3528223.3530164",
-                370
+                385
             ]
         ],
         "colab": "https://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb",
@@ -14418,7 +14697,7 @@
             [
                 "git",
                 "https://github.com/royorel/StyleSDF",
-                535
+                534
             ],
             [
                 "arxiv",
@@ -14435,7 +14714,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.01314",
-                151
+                153
             ]
         ],
         "colab": "https://colab.research.google.com/github/royorel/StyleSDF/blob/main/StyleSDF_demo.ipynb",
@@ -14483,7 +14762,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR46437.2021.01543",
-                67
+                69
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1ch_41GtcQNQT1NLOA21vQJ_rQOjjv9D8",
@@ -14514,7 +14793,7 @@
             [
                 "git",
                 "https://github.com/mv-lab/swin2sr",
-                638
+                646
             ],
             [
                 "arxiv",
@@ -14563,7 +14842,7 @@
             [
                 "doi",
                 "https://doi.org/10.1007/978-3-031-25063-7_42",
-                92
+                98
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1paPrt62ydwLv2U2eZqfcFsePI4X4WRR1",
@@ -14610,7 +14889,7 @@
             [
                 "git",
                 "https://github.com/JingyunLiang/SwinIR",
-                4959
+                5019
             ],
             [
                 "git",
@@ -14627,7 +14906,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCVW54120.2021.00210",
-                2709
+                2821
             ]
         ],
         "colab": "https://colab.research.google.com/gist/JingyunLiang/a5e3e54bc9ef8d7bf594f6fee8208533/swinir-demo-on-real-world-image-sr.ipynb",
@@ -14810,7 +15089,7 @@
             [
                 "git",
                 "https://github.com/bigscience-workshop/promptsource",
-                2892
+                2917
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1xx7SgdLaAu23YFBirXmaQViDr8caowX_",
@@ -14857,7 +15136,7 @@
             [
                 "git",
                 "https://github.com/Mael-zys/T2M-GPT",
-                687
+                694
             ],
             [
                 "arxiv",
@@ -14902,7 +15181,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52729.2023.01415",
-                120
+                131
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1Vy69w2q2d-Hg19F-KibqG0FRdpSj3L4O",
@@ -14953,7 +15232,7 @@
             [
                 "git",
                 "https://github.com/google-research/text-to-text-transfer-transformer",
-                6383
+                6405
             ],
             [
                 "arxiv",
@@ -15140,7 +15419,7 @@
             [
                 "git",
                 "https://github.com/google-research/t5x",
-                2839
+                2857
             ],
             [
                 "arxiv",
@@ -15219,7 +15498,7 @@
             [
                 "git",
                 "https://github.com/google-deepmind/tapnet",
-                1576
+                1616
             ],
             [
                 "arxiv",
@@ -15290,7 +15569,7 @@
             [
                 "git",
                 "https://github.com/automl/TabPFN",
-                4003
+                4201
             ],
             [
                 "arxiv",
@@ -15361,7 +15640,7 @@
             [
                 "git",
                 "https://github.com/pkhungurn/talking-head-anime-demo",
-                2015
+                2017
             ],
             [
                 "git",
@@ -15404,7 +15683,7 @@
             [
                 "git",
                 "https://github.com/CompVis/taming-transformers",
-                6239
+                6273
             ],
             [
                 "project",
@@ -15413,7 +15692,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR46437.2021.01268",
-                1359
+                1413
             ]
         ],
         "colab": "https://colab.research.google.com/github/CompVis/taming-transformers/blob/master/scripts/taming-transformers.ipynb",
@@ -15477,7 +15756,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR46437.2021.00229",
-                265
+                270
             ]
         ],
         "colab": "http://colab.research.google.com/github/weihaox/TediGAN/blob/master/playground.ipynb",
@@ -15516,7 +15795,7 @@
             [
                 "git",
                 "https://github.com/yumingj/Text2Human",
-                846
+                847
             ],
             [
                 "project",
@@ -15545,7 +15824,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3528223.3530104",
-                85
+                87
             ],
             [
                 "yt",
@@ -15600,7 +15879,7 @@
             [
                 "git",
                 "https://github.com/threedle/text2mesh",
-                959
+                963
             ],
             [
                 "kaggle",
@@ -15647,7 +15926,7 @@
             [
                 "git",
                 "https://github.com/Picsart-AI-Research/Text2Video-Zero",
-                4192
+                4204
             ],
             [
                 "arxiv",
@@ -15700,7 +15979,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV51070.2023.01462",
-                187
+                197
             ]
         ],
         "colab": "https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_all.ipynb",
@@ -15723,7 +16002,7 @@
             [
                 "git",
                 "https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model",
-                3581
+                3586
             ],
             [
                 "arxiv",
@@ -15756,7 +16035,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.00364",
-                117
+                127
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1DREfdpnaBhqISg0fuQlAAIwyGVn1loH_",
@@ -15787,7 +16066,7 @@
             [
                 "git",
                 "https://github.com/google-research/timesfm",
-                4869
+                4943
             ],
             [
                 "arxiv",
@@ -15882,7 +16161,7 @@
             [
                 "git",
                 "https://github.com/showlab/Tune-A-Video",
-                4342
+                4345
             ],
             [
                 "arxiv",
@@ -15919,7 +16198,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV51070.2023.00701",
-                262
+                284
             ]
         ],
         "colab": "https://colab.research.google.com/github/showlab/Tune-A-Video/blob/main/notebooks/Tune-A-Video.ipynb",
@@ -15962,7 +16241,7 @@
             [
                 "git",
                 "https://github.com/OpenGVLab/UniFormerV2",
-                321
+                325
             ],
             [
                 "arxiv",
@@ -16011,7 +16290,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/ICCV51070.2023.00157",
-                32
+                37
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1Z6RzLcno_eLGD_E96mlWoyGieGbKxPQr",
@@ -16030,7 +16309,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/vjepa2",
-                1793
+                1979
             ],
             [
                 "arxiv",
@@ -16125,7 +16404,7 @@
             [
                 "git",
                 "https://github.com/Plachtaa/VALL-E-X",
-                7889
+                7907
             ],
             [
                 "arxiv",
@@ -16192,7 +16471,7 @@
             [
                 "git",
                 "https://github.com/mkocabas/VIBE",
-                3030
+                3042
             ],
             [
                 "arxiv",
@@ -16233,7 +16512,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR42600.2020.00530",
-                738
+                752
             ],
             [
                 "yt",
@@ -16288,7 +16567,7 @@
             [
                 "git",
                 "https://github.com/jaywalnut310/vits",
-                7545
+                7590
             ],
             [
                 "arxiv",
@@ -16351,7 +16630,7 @@
             [
                 "git",
                 "https://github.com/microsoft/VQ-Diffusion",
-                946
+                950
             ],
             [
                 "arxiv",
@@ -16372,7 +16651,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/CVPR52688.2022.01043",
-                413
+                432
             ]
         ],
         "colab": "https://colab.research.google.com/drive/1Ws0_wK2cnsWEnfB7HtmPT4bjCPElb40C",
@@ -16415,7 +16694,7 @@
             [
                 "git",
                 "https://github.com/JingyunLiang/VRT",
-                1461
+                1470
             ],
             [
                 "git",
@@ -16436,7 +16715,7 @@
             [
                 "doi",
                 "https://doi.org/10.1109/TIP.2024.3372454",
-                83
+                91
             ]
         ],
         "colab": "https://colab.research.google.com/gist/JingyunLiang/deb335792768ad9eb73854a8efca4fe0/vrt-demo-on-video-restoration.ipynb",
@@ -16508,7 +16787,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3550454.3555437",
-                53
+                55
             ]
         ],
         "colab": "http://colab.research.google.com/github/williamyang1991/VToonify/blob/master/notebooks/inference_playground.ipynb",
@@ -16634,7 +16913,7 @@
             [
                 "git",
                 "https://github.com/google-research/vision_transformer",
-                11539
+                11642
             ],
             [
                 "arxiv",
@@ -16753,7 +17032,7 @@
             [
                 "git",
                 "https://github.com/OpenTalker/video-retalking",
-                7099
+                7116
             ],
             [
                 "arxiv",
@@ -16762,7 +17041,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3550469.3555399",
-                58
+                63
             ],
             [
                 "git",
@@ -16841,7 +17120,7 @@
             [
                 "git",
                 "https://github.com/microsoft/visual-chatgpt",
-                34430
+                34411
             ],
             [
                 "arxiv",
@@ -16904,7 +17183,7 @@
             [
                 "git",
                 "https://github.com/jasonppy/VoiceCraft",
-                8312
+                8358
             ],
             [
                 "arxiv",
@@ -16971,7 +17250,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/wmar",
-                35
+                37
             ],
             [
                 "arxiv",
@@ -17034,7 +17313,7 @@
             [
                 "git",
                 "https://github.com/Rudrabha/Wav2Lip",
-                12151
+                12255
             ],
             [
                 "yt",
@@ -17047,7 +17326,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3394171.3413532",
-                494
+                528
             ]
         ],
         "colab": "https://colab.research.google.com/github/eyaler/avatars4all/blob/master/melaflefon.ipynb",
@@ -17086,7 +17365,7 @@
             [
                 "git",
                 "https://github.com/openai/whisper",
-                84539
+                86103
             ],
             [
                 "arxiv",
@@ -17236,7 +17515,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/xlsr/README.md",
-                31601
+                31690
             ],
             [
                 "git",
@@ -17279,7 +17558,7 @@
             [
                 "git",
                 "https://github.com/THU-MIG/yolov10",
-                10835
+                10902
             ],
             [
                 "arxiv",
@@ -17398,7 +17677,7 @@
             [
                 "git",
                 "https://github.com/meituan/YOLOv6",
-                5818
+                5826
             ],
             [
                 "arxiv",
@@ -17477,7 +17756,7 @@
             [
                 "git",
                 "https://github.com/WongKinYiu/yolov7",
-                13889
+                13924
             ],
             [
                 "arxiv",
@@ -17564,7 +17843,7 @@
             [
                 "git",
                 "https://github.com/WongKinYiu/yolov9",
-                9306
+                9337
             ],
             [
                 "arxiv",
@@ -17647,7 +17926,7 @@
             [
                 "git",
                 "https://github.com/ttchengab/zest_code",
-                409
+                412
             ],
             [
                 "arxiv",
@@ -17730,7 +18009,7 @@
             [
                 "git",
                 "https://github.com/SUDO-AI-3D/zero123plus",
-                1926
+                1936
             ],
             [
                 "arxiv",
@@ -17805,7 +18084,7 @@
             [
                 "git",
                 "https://github.com/facebookresearch/audio2photoreal",
-                2818
+                2827
             ],
             [
                 "project",
@@ -17852,7 +18131,7 @@
             [
                 "git",
                 "https://github.com/Felix-Petersen/diffsort",
-                115
+                117
             ],
             [
                 "arxiv",
@@ -17903,7 +18182,7 @@
             [
                 "git",
                 "https://github.com/omertov/encoder4editing",
-                963
+                968
             ],
             [
                 "git",
@@ -17912,7 +18191,7 @@
             [
                 "doi",
                 "https://doi.org/10.1145/3450626.3459838",
-                470
+                484
             ]
         ],
         "colab": "https://colab.research.google.com/github/omertov/encoder4editing/blob/master/notebooks/inference_playground.ipynb",
@@ -17959,7 +18238,7 @@
             [
                 "git",
                 "https://github.com/rinongal/textual_inversion",
-                3018
+                3026
             ],
             [
                 "arxiv",
