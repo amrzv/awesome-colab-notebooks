@@ -12,7 +12,7 @@
             [
                 "git",
                 "https://github.com/callummcdougall/ARENA_3.0",
-                647
+                698
             ],
             [
                 "website",
@@ -43,7 +43,7 @@
             [
                 "git",
                 "https://github.com/anthropics/courses",
-                16742
+                17074
             ],
             [
                 "docs",
@@ -78,7 +78,7 @@
             [
                 "git",
                 "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-                17259
+                18361
             ],
             [
                 "docs",
@@ -133,7 +133,7 @@
             [
                 "git",
                 "https://github.com/hukenovs/dsp-theory",
-                1123
+                1130
             ],
             [
                 "blog post",
@@ -142,6 +142,53 @@
         ],
         "colab": "https://colab.research.google.com/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_1_signals.ipynb",
         "update": 1666089256.0
+    },
+    {
+        "name": "Deep Learning Course at the University of Amsterdam",
+        "description": "Series of Jupyter notebooks that are designed to help you understanding the \"theory\" from the lectures by seeing corresponding implementations",
+        "author": [
+            [
+                "Pascal Mettes",
+                "https://staff.fnwi.uva.nl/p.s.m.mettes/"
+            ],
+            [
+                "Melika Davood Zadeh",
+                "https://www.researchgate.net/profile/Melika-Davood-Zadeh"
+            ],
+            [
+                "Mohammadreza Salehidehnavi",
+                "https://smsd75.github.io/"
+            ],
+            [
+                "Danilo de Goede",
+                "https://ivi.fnwi.uva.nl/vislab/author/danilo-de-goede/"
+            ],
+            [
+                "Phillip Lippe",
+                "https://phlippe.github.io/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/phlippe/uvadlc_notebooks",
+                2973
+            ],
+            [
+                "yt",
+                "https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA"
+            ],
+            [
+                "docs",
+                "https://uvadlc-notebooks.readthedocs.io/en/latest/index.html"
+            ],
+            [
+                "website",
+                "https://uvadlc.github.io/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb",
+        "update": 1729193661.0
     },
     {
         "name": "Deep Learning School course (ML + CV)",
@@ -156,7 +203,7 @@
             [
                 "git",
                 "https://github.com/DeepLearningSchool/part_1_ml_cv",
-                41
+                43
             ],
             [
                 "website",
@@ -199,7 +246,7 @@
             [
                 "git",
                 "https://github.com/huggingface/deep-rl-class",
-                4438
+                4509
             ],
             [
                 "hf",
@@ -258,7 +305,7 @@
             [
                 "git",
                 "https://github.com/microsoft/xr-development-for-beginners",
-                544
+                547
             ],
             [
                 "git",
@@ -281,7 +328,7 @@
             [
                 "git",
                 "https://github.com/aifoundation-edu/DL_intro",
-                52
+                51
             ],
             [
                 "wiki",
@@ -340,7 +387,7 @@
             [
                 "git",
                 "https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_lite",
-                8161
+                8184
             ],
             [
                 "udacity",
@@ -348,6 +395,37 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_lite/tflite_c01_linear_regression.ipynb",
+        "update": 1599619888.0
+    },
+    {
+        "name": "Intro to TensorFlow for Deep Learning",
+        "description": "Dive into deep learning with this practical course on TensorFlow and the Keras API",
+        "author": [
+            [
+                "Magnus Hyttsten",
+                "https://www.linkedin.com/in/magnushyttsten"
+            ],
+            [
+                "Jaun Delgado",
+                "https://www.linkedin.com/in/juan-delgado-845749179"
+            ],
+            [
+                "Paige Bailey",
+                "https://webpaige.dev/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_for_deep_learning",
+                8184
+            ],
+            [
+                "udacity",
+                "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb",
         "update": 1599619888.0
     },
     {
@@ -383,7 +461,7 @@
             [
                 "git",
                 "https://github.com/Nebius-Academy/LLM-Engineering-Essentials",
-                691
+                741
             ],
             [
                 "website",
@@ -410,7 +488,7 @@
             [
                 "git",
                 "https://github.com/5x12/themlsbook",
-                428
+                429
             ],
             [
                 "website",
@@ -516,7 +594,7 @@
             [
                 "git",
                 "https://github.com/Atcold/NYU-DLSP20",
-                6773
+                6776
             ],
             [
                 "website",
@@ -607,7 +685,7 @@
             [
                 "git",
                 "https://github.com/google/jax/issues/446#issuecomment-467105048",
-                33022
+                33439
             ],
             [
                 "git",
@@ -634,7 +712,7 @@
             [
                 "git",
                 "https://github.com/tensorflow/examples/tree/master/courses/udacity_deep_learning",
-                8161
+                8184
             ],
             [
                 "udacity",
@@ -669,7 +747,7 @@
             [
                 "git",
                 "https://github.com/Yorko/mlcourse.ai",
-                10152
+                10215
             ],
             [
                 "slack",
