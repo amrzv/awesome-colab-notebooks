@@ -120,7 +120,7 @@ def generate_cloud():
     mask = bw_img[any(bw_img, axis=1)]
     mask = mask[:, any(mask, axis=0)]
     text = ' '.join(' '.join([p['name'], p['description']]) for p in load_projects())
-    wc = WordCloud(mask=~mask, collocation_threshold=10, colormap='plasma', font_path=get_font_path())  # #0d1117
+    wc = WordCloud(mask=~mask, collocation_threshold=10, background_color='#0d1117', colormap='plasma', font_path=get_font_path())
     wc.generate(text)
     with open(join('images', 'cloud.svg'), 'w') as f:
         f.write(wc.to_svg())

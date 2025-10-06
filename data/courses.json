@@ -12,7 +12,7 @@
             [
                 "git",
                 "https://github.com/callummcdougall/ARENA_3.0",
-                698
+                728
             ],
             [
                 "website",
@@ -43,7 +43,7 @@
             [
                 "git",
                 "https://github.com/anthropics/courses",
-                17074
+                17157
             ],
             [
                 "docs",
@@ -78,7 +78,7 @@
             [
                 "git",
                 "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-                18361
+                18603
             ],
             [
                 "docs",
@@ -133,7 +133,7 @@
             [
                 "git",
                 "https://github.com/hukenovs/dsp-theory",
-                1130
+                1138
             ],
             [
                 "blog post",
@@ -172,7 +172,7 @@
             [
                 "git",
                 "https://github.com/phlippe/uvadlc_notebooks",
-                2973
+                2990
             ],
             [
                 "yt",
@@ -203,7 +203,7 @@
             [
                 "git",
                 "https://github.com/DeepLearningSchool/part_1_ml_cv",
-                43
+                48
             ],
             [
                 "website",
@@ -246,7 +246,7 @@
             [
                 "git",
                 "https://github.com/huggingface/deep-rl-class",
-                4509
+                4548
             ],
             [
                 "hf",
@@ -279,6 +279,10 @@
             [
                 "yt",
                 "https://youtu.be/AQKAOXJa6qg"
+            ],
+            [
+                "discord",
+                "https://discord.gg/ydHrjt3WP5"
             ]
         ],
         "colab": "https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit1/unit1.ipynb",
@@ -305,7 +309,7 @@
             [
                 "git",
                 "https://github.com/microsoft/xr-development-for-beginners",
-                547
+                550
             ],
             [
                 "git",
@@ -314,6 +318,37 @@
         ],
         "colab": "https://colab.research.google.com/github/microsoft/generative-ai-for-beginners/blob/main/06-text-generation-apps/notebook-azure-openai.ipynb",
         "update": 1708594932.0
+    },
+    {
+        "name": "Intro to TensorFlow for Deep Learning",
+        "description": "Dive into deep learning with this practical course on TensorFlow and the Keras API",
+        "author": [
+            [
+                "Magnus Hyttsten",
+                "https://www.linkedin.com/in/magnushyttsten"
+            ],
+            [
+                "Juan Delgado",
+                "https://www.linkedin.com/in/juan-delgado-845749179"
+            ],
+            [
+                "Paige Bailey",
+                "https://webpaige.dev/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_for_deep_learning",
+                8187
+            ],
+            [
+                "udacity",
+                "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb",
+        "update": 1599619888.0
     },
     {
         "name": "Introduction to Deep Learning course",
@@ -328,7 +363,7 @@
             [
                 "git",
                 "https://github.com/aifoundation-edu/DL_intro",
-                51
+                50
             ],
             [
                 "wiki",
@@ -387,7 +422,7 @@
             [
                 "git",
                 "https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_lite",
-                8184
+                8187
             ],
             [
                 "udacity",
@@ -395,37 +430,6 @@
             ]
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_lite/tflite_c01_linear_regression.ipynb",
-        "update": 1599619888.0
-    },
-    {
-        "name": "Intro to TensorFlow for Deep Learning",
-        "description": "Dive into deep learning with this practical course on TensorFlow and the Keras API",
-        "author": [
-            [
-                "Magnus Hyttsten",
-                "https://www.linkedin.com/in/magnushyttsten"
-            ],
-            [
-                "Jaun Delgado",
-                "https://www.linkedin.com/in/juan-delgado-845749179"
-            ],
-            [
-                "Paige Bailey",
-                "https://webpaige.dev/"
-            ]
-        ],
-        "links": [
-            [
-                "git",
-                "https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_for_deep_learning",
-                8184
-            ],
-            [
-                "udacity",
-                "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187"
-            ]
-        ],
-        "colab": "https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb",
         "update": 1599619888.0
     },
     {
@@ -461,7 +465,7 @@
             [
                 "git",
                 "https://github.com/Nebius-Academy/LLM-Engineering-Essentials",
-                741
+                757
             ],
             [
                 "website",
@@ -488,7 +492,7 @@
             [
                 "git",
                 "https://github.com/5x12/themlsbook",
-                429
+                428
             ],
             [
                 "website",
@@ -523,7 +527,7 @@
             [
                 "git",
                 "https://github.com/fbeilstein/machine_learning",
-                175
+                177
             ],
             [
                 "yt",
@@ -594,7 +598,7 @@
             [
                 "git",
                 "https://github.com/Atcold/NYU-DLSP20",
-                6776
+                6780
             ],
             [
                 "website",
@@ -623,6 +627,113 @@
         ],
         "colab": "https://colab.research.google.com/github/Atcold/NYU-DLSP20/blob/master/00-logic_neuron_programming.ipynb",
         "update": 1572414730.0
+    },
+    {
+        "name": "Practical RL",
+        "description": "An open course on reinforcement learning in the wild",
+        "author": [
+            [
+                "Pavel Shvechikov",
+                "https://github.com/pshvechikov"
+            ],
+            [
+                "Nikita Putintsev",
+                "https://github.com/qwasser"
+            ],
+            [
+                "Alexander Fritsler",
+                "https://github.com/Fritz449"
+            ],
+            [
+                "Oleg Vasilev",
+                "Oleg Vasilev"
+            ],
+            [
+                "Dmitry Nikulin",
+                "https://github.com/pastafarianist"
+            ],
+            [
+                "Mikhail Konobeev",
+                "https://github.com/mknbv"
+            ],
+            [
+                "Ivan Kharitonov",
+                "https://kharitonov-ivan.github.io/"
+            ],
+            [
+                "Ravil Khisamov",
+                "https://github.com/zshrav"
+            ],
+            [
+                "Anna Klepova",
+                "https://github.com/q0o0p"
+            ],
+            [
+                "Fedor Ratnikov",
+                "https://github.com/justheuristic"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/yandexdataschool/Practical_RL",
+                6284
+            ],
+            [
+                "slides",
+                "https://yadi.sk/d/loPpY45J3EAYfU"
+            ],
+            [
+                "feedback",
+                "https://docs.google.com/forms/d/e/1FAIpQLSdurWw97Sm9xCyYwC8g3iB5EibITnoPJW2IkOVQYE_kcXPh6Q/viewform"
+            ],
+            [
+                "yt",
+                "https://youtu.be/2pWv7GOvuf0"
+            ],
+            [
+                "yt",
+                "https://youtu.be/aUrX-rP_ss4"
+            ],
+            [
+                "yt",
+                "https://youtu.be/lfHX2hHRMVQ"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1703.03864"
+            ],
+            [
+                "yt",
+                "https://youtu.be/ejxfTy4lI6I"
+            ],
+            [
+                "yt",
+                "https://youtu.be/zwYV11a__HQ"
+            ],
+            [
+                "yt",
+                "https://youtu.be/D58nLNLkb0I"
+            ],
+            [
+                "yt",
+                "https://youtu.be/xpyKmjJuqhk"
+            ],
+            [
+                "git",
+                "https://github.com/Farama-Foundation/Gymnasium"
+            ],
+            [
+                "yt",
+                "https://youtu.be/KWlFFtmxjeg"
+            ],
+            [
+                "yt",
+                "https://youtu.be/ASQJTNAYdcA"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/master/week01_intro/deep_crossentropy_method.ipynb",
+        "update": 1740948092.0
     },
     {
         "name": "The Autodiff Cookbook",
@@ -685,7 +796,7 @@
             [
                 "git",
                 "https://github.com/google/jax/issues/446#issuecomment-467105048",
-                33439
+                33615
             ],
             [
                 "git",
@@ -712,7 +823,7 @@
             [
                 "git",
                 "https://github.com/tensorflow/examples/tree/master/courses/udacity_deep_learning",
-                8184
+                8187
             ],
             [
                 "udacity",
@@ -735,6 +846,57 @@
         "update": 1611100644.0
     },
     {
+        "name": "Understanding Language Models",
+        "description": "Course deals with language models, in particular (but not exclusively so) on transformer-based language models like GPT-x or LLama",
+        "author": [
+            [
+                "Michael Franke",
+                "https://michael-franke.github.io/"
+            ],
+            [
+                "Carsten Eickhoff",
+                "https://github.com/eickhoff"
+            ],
+            [
+                "Polina Tsvilodub",
+                "https://polina-tsvilodub.github.io/home/"
+            ]
+        ],
+        "links": [
+            [
+                "git",
+                "https://github.com/CogSciPrag/Understanding-LLMs-course",
+                29
+            ],
+            [
+                "website",
+                "https://cogsciprag.github.io/Understanding-LLMs-course/intro.html"
+            ],
+            [
+                "yt",
+                "https://youtu.be/zjkBMFhNj_g"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/1301.3781"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2001.08361"
+            ],
+            [
+                "arxiv",
+                "https://arxiv.org/abs/2303.18223"
+            ],
+            [
+                "book",
+                "https://web.stanford.edu/~jurafsky/slp3/"
+            ]
+        ],
+        "colab": "https://colab.research.google.com/github/CogSciPrag/Understanding-LLMs-course/blob/main/understanding-llms/tutorials/01-introduction.ipynb",
+        "update": 1744880588.0
+    },
+    {
         "name": "mlcourse.ai",
         "description": "Open Machine Learning Course",
         "author": [
@@ -747,7 +909,7 @@
             [
                 "git",
                 "https://github.com/Yorko/mlcourse.ai",
-                10215
+                10231
             ],
             [
                 "slack",
