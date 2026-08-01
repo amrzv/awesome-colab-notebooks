@@ -364,28 +364,6 @@
         "stars": 1315
     },
     {
-        "name": "ARENA",
-        "description": "Provide talented individuals with the skills, tools, and environment necessary for upskilling in ML engineering, for the purpose of contributing directly to AI alignment in technical roles",
-        "authors": [
-            {
-                "name": "Callum McDougall",
-                "url": "https://www.perfectlynormal.co.uk/"
-            }
-        ],
-        "links": [
-            "https://github.com/callummcdougall/ARENA_3.0",
-            {
-                "url": "https://arena-resources.notion.site/",
-                "name": "website"
-            },
-            "https://arxiv.org/abs/2211.00593",
-            "https://join.slack.com/t/arena-uk/shared_invite/zt-2noug8mpy-TRYbCnc3pzj7ITNrZIjKww"
-        ],
-        "colab": "https://colab.research.google.com/drive/1vuQOB2Gd7OcfzH2y9djXm9OdZA_DcxYz",
-        "update": 1735548188.97,
-        "stars": 1034
-    },
-    {
         "name": "AST",
         "description": "Audio Spectrogram Transformer, the first convolution-free, purely attention-based model for audio classification",
         "authors": [
@@ -1604,47 +1582,6 @@
         "colab": "https://colab.research.google.com/github/openvinotoolkit/anomalib/blob/main/notebooks/000_getting_started/001_getting_started.ipynb",
         "update": 1736345163.0,
         "stars": 5641
-    },
-    {
-        "name": "Anthropic courses",
-        "description": "Anthropic's educational courses",
-        "authors": [
-            {
-                "name": "Anthropic",
-                "url": "https://www.anthropic.com/"
-            }
-        ],
-        "links": [
-            "https://github.com/anthropics/courses",
-            "https://docs.anthropic.com/en/docs/resources/courses",
-            "https://www.reddit.com/r/ClaudeAI/comments/1f7czsx/anthropics_official_educational_courses_on_prompt/",
-            "https://pypi.org/project/anthropic/",
-            "https://github.com/anthropics/anthropic-sdk-python"
-        ],
-        "colab": "https://colab.research.google.com/github/anthropics/courses/blob/master/anthropic_api_fundamentals/01_getting_started.ipynb",
-        "update": 1724351244.0,
-        "stars": 20615
-    },
-    {
-        "name": "Anthropic's Prompt Engineering Interactive Tutorial",
-        "description": "Course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude",
-        "authors": [
-            {
-                "name": "Anthropic",
-                "url": "https://www.anthropic.com/"
-            }
-        ],
-        "links": [
-            "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-            "https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview",
-            "https://medium.com/coding-nexus/mastering-prompt-engineering-for-ai-a-free-hands-on-guide-with-anthropics-tutorial-6f2cabcbde5a",
-            "https://youtu.be/T9aRN5JkmL8",
-            "https://youtu.be/hkhDdcM5V94",
-            "https://github.com/anthropics/anthropic-sdk-python"
-        ],
-        "colab": "https://colab.research.google.com/github/anthropics/prompt-eng-interactive-tutorial/blob/master/Anthropic%201P/00_Tutorial_How-To.ipynb",
-        "update": 1712075515.0,
-        "stars": 34717
     },
     {
         "name": "Anycost GAN",
@@ -6515,39 +6452,6 @@
         "stars": 478
     },
     {
-        "name": "DSP theory",
-        "description": "Theory of digital signal processing: signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc",
-        "authors": [
-            {
-                "name": "Alexander Kapitanov",
-                "url": "https://github.com/hukenovs"
-            },
-            {
-                "name": "Vladimir Fadeev",
-                "url": "https://github.com/kirlf"
-            },
-            {
-                "name": "Karina Kvanchiani",
-                "url": "https://github.com/karinakvanchiani"
-            },
-            {
-                "name": "Elizaveta Petrova",
-                "url": "https://github.com/kleinsbotle"
-            },
-            {
-                "name": "Andrei Makhliarchuk",
-                "url": "https://github.com/anotherhelloworld"
-            }
-        ],
-        "links": [
-            "https://github.com/hukenovs/dsp-theory",
-            "https://habr.com/ru/articles/460445/"
-        ],
-        "colab": "https://colab.research.google.com/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_1_signals.ipynb",
-        "update": 1666089256.0,
-        "stars": 1207
-    },
-    {
         "name": "DWPose",
         "description": "https://github.com/IDEA-Research/DWPose",
         "authors": [
@@ -6942,67 +6846,6 @@
         "citations": 543
     },
     {
-        "name": "Deep Learning Course at the University of Amsterdam",
-        "description": "Series of Jupyter notebooks that are designed to help you understanding the \"theory\" from the lectures by seeing corresponding implementations",
-        "authors": [
-            {
-                "name": "Pascal Mettes",
-                "url": "https://staff.fnwi.uva.nl/p.s.m.mettes/"
-            },
-            {
-                "name": "Melika Davood Zadeh",
-                "url": "https://www.researchgate.net/profile/Melika-Davood-Zadeh"
-            },
-            {
-                "name": "Mohammadreza Salehidehnavi",
-                "url": "https://smsd75.github.io/"
-            },
-            {
-                "name": "Danilo de Goede",
-                "url": "https://ivi.fnwi.uva.nl/vislab/author/danilo-de-goede/"
-            },
-            {
-                "name": "Phillip Lippe",
-                "url": "https://phlippe.github.io/"
-            }
-        ],
-        "links": [
-            "https://github.com/phlippe/uvadlc_notebooks",
-            "https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA",
-            "https://uvadlc-notebooks.readthedocs.io/en/latest/index.html",
-            {
-                "url": "https://uvadlc.github.io/",
-                "name": "website"
-            }
-        ],
-        "colab": "https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb",
-        "update": 1729193661.0,
-        "stars": 3131
-    },
-    {
-        "name": "Deep Learning School course (ML + CV)",
-        "description": "",
-        "authors": [
-            {
-                "name": "Nina Konovalova",
-                "url": "https://github.com/Nina-Konovalova"
-            }
-        ],
-        "links": [
-            "https://github.com/DeepLearningSchool/part_1_ml_cv",
-            {
-                "url": "https://dls.samcs.ru/",
-                "name": "website"
-            },
-            "https://www.youtube.com/playlist?list=PL0Ks75aof3TiHbkJ95vxNlQefujrj1N2w",
-            "https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y",
-            "https://www.kaggle.com/datasets/abrambeyer/openintro-possum"
-        ],
-        "colab": "https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_01_ml_intro/Practice/part_1_data_analysis.ipynb",
-        "update": 1772626039.0,
-        "stars": 115
-    },
-    {
         "name": "Deep Painterly Harmonization",
         "description": "Algorithm produces significantly better results than photo compositing or global stylization techniques and that it enables creative painterly edits that would be otherwise difficult to achieve",
         "authors": [
@@ -7055,91 +6898,6 @@
         "update": 1551407473.0,
         "stars": 21955,
         "citations": 22396
-    },
-    {
-        "name": "Deep RL Course",
-        "description": "The Hugging Face Deep Reinforcement Learning Course",
-        "authors": [
-            {
-                "name": "Thomas Simonini",
-                "url": "https://www.simoninithomas.com/"
-            },
-            {
-                "name": "Omar Sanseviero",
-                "url": "https://osanseviero.github.io/hackerllama/"
-            },
-            {
-                "name": "Sayak Paul",
-                "url": "https://sayak.dev/"
-            }
-        ],
-        "links": [
-            "https://github.com/huggingface/deep-rl-class",
-            "https://huggingface.co/deep-rl-course/unit0/introduction",
-            "https://simoninithomas.github.io/deep-rl-course",
-            "https://github.com/alex-petrenko/sample-factory",
-            "https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html",
-            "https://youtu.be/2GwBez0D20A",
-            "https://huggingface.co/spaces/huggingface-projects/Deep-Reinforcement-Learning-Leaderboard",
-            "https://youtu.be/CsuIANBnSq8",
-            "https://youtu.be/AQKAOXJa6qg",
-            "https://discord.gg/ydHrjt3WP5"
-        ],
-        "colab": "https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit1/unit1.ipynb",
-        "update": 1719265708.0,
-        "stars": 4845
-    },
-    {
-        "name": "Deep Reinforcement Learning",
-        "description": "CS 285 at UC Berkeley",
-        "authors": [
-            {
-                "name": "Sergey Levine",
-                "url": "https://people.eecs.berkeley.edu/~svlevine/"
-            },
-            {
-                "name": "Kyle Stachowicz",
-                "url": "https://kylestaschowicz.com"
-            },
-            {
-                "name": "Vivek Myers",
-                "url": "https://vmyers.github.io"
-            },
-            {
-                "name": "Joey Hong",
-                "url": "https://joeyhong123.github.io"
-            },
-            {
-                "name": "Kevin Black",
-                "url": "https://kvablack.github.io"
-            },
-            {
-                "name": "Michael Janner",
-                "url": "https://people.eecs.berkeley.edu/~janner/"
-            },
-            {
-                "name": "Vitchyr Pong",
-                "url": "https://vitchyr.github.io"
-            },
-            {
-                "name": "Aviral Kumar",
-                "url": "https://aviralkumar2907.github.io"
-            }
-        ],
-        "links": [
-            "https://github.com/berkeleydeeprlcourse/homework_fall2023",
-            {
-                "url": "http://rail.eecs.berkeley.edu/deeprlcourse/",
-                "name": "website"
-            },
-            "https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps",
-            "https://youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9",
-            "https://www.coursera.org/course/neuralnets",
-            "https://www.coursera.org/learn/machine-learning/"
-        ],
-        "colab": "https://colab.research.google.com/github/berkeleydeeprlcourse/homework_fall2023/blob/master/hw1/cs285/scripts/run_hw1.ipynb",
-        "update": 1693263257.0,
-        "stars": 330
     },
     {
         "name": "Deep Voice 3",
@@ -11130,28 +10888,6 @@
         "stars": 159
     },
     {
-        "name": "Generative AI for Beginners - A Course",
-        "description": "A 12 Lesson course teaching everything you need to know to start building Generative AI applications",
-        "authors": [
-            {
-                "name": "microsoft",
-                "url": "https://www.microsoft.com/"
-            }
-        ],
-        "links": [
-            {
-                "url": "https://microsoft.github.io/generative-ai-for-beginners/",
-                "name": "project"
-            },
-            "https://aka.ms/genai-discord",
-            "https://github.com/microsoft/xr-development-for-beginners",
-            "https://github.com/microsoft/Web-Dev-For-Beginners"
-        ],
-        "colab": "https://colab.research.google.com/github/microsoft/generative-ai-for-beginners/blob/main/06-text-generation-apps/notebook-azure-openai.ipynb",
-        "update": 1708594932.0,
-        "stars": 562
-    },
-    {
         "name": "Generative AI for Marketing Using Google Cloud",
         "description": "Showcasing Google Cloud's generative AI for marketing scenarios via application frontend, backend, and detailed, step-by-step guidance for setting up and utilizing generative AI tools, including examples of their use in crafting marketing materials like blog posts and social media content, nl2sql analysis, and campaign personalization",
         "authors": [
@@ -13336,80 +13072,6 @@
         "citations": 767
     },
     {
-        "name": "Intro to TensorFlow for Deep Learning",
-        "description": "Dive into deep learning with this practical course on TensorFlow and the Keras API",
-        "authors": [
-            {
-                "name": "Magnus Hyttsten",
-                "url": "https://www.linkedin.com/in/magnushyttsten"
-            },
-            {
-                "name": "Juan Delgado",
-                "url": "https://www.linkedin.com/in/juan-delgado-845749179"
-            },
-            {
-                "name": "Paige Bailey",
-                "url": "https://webpaige.dev/"
-            }
-        ],
-        "links": [
-            "https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_for_deep_learning",
-            "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187"
-        ],
-        "colab": "https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb",
-        "update": 1599619888.0,
-        "stars": 8262
-    },
-    {
-        "name": "Introduction to Deep Learning course",
-        "description": "",
-        "authors": [
-            {
-                "name": "Tatiana Gaintseva",
-                "url": "https://atmyre.github.io/"
-            }
-        ],
-        "links": [
-            "https://github.com/aifoundation-edu/DL_intro",
-            "https://en.wikipedia.org/wiki/Kernel_method",
-            "https://playground.tensorflow.org/",
-            "https://www.youtube.com/playlist?list=PL0Ks75aof3ThuLLtLIVl_KPUDDQlTDyJI",
-            "https://youtu.be/oa3IVkENrdM",
-            "https://www.youtube.com/live/qvauAflpnyo",
-            "https://youtu.be/Q7vT0--5VII",
-            "https://medium.com/@zxr.nju/what-is-the-kernel-trick-why-is-it-important-98a98db0961d",
-            "https://medium.com/analytics-vidhya/how-relu-works-f317a947bdc6"
-        ],
-        "colab": "https://colab.research.google.com/github/aifoundation-edu/DL_intro/blob/main/01_Intro_to_Neural_Networks/01_NN_intro.ipynb",
-        "update": 1737674128.0,
-        "stars": 51
-    },
-    {
-        "name": "Introduction to TensorFlow Lite",
-        "description": "Learn how to deploy deep learning models on mobile and embedded devices with TensorFlow Lite",
-        "authors": [
-            {
-                "name": "Daniel Situnayake",
-                "url": "https://situnayake.com/"
-            },
-            {
-                "name": "Paige Bailey",
-                "url": "https://webpaige.dev/"
-            },
-            {
-                "name": "Juan Delgado",
-                "url": "https://www.linkedin.com/in/juan-delgado-845749179"
-            }
-        ],
-        "links": [
-            "https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_lite",
-            "https://www.udacity.com/course/intro-to-tensorflow-lite--ud190"
-        ],
-        "colab": "https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_lite/tflite_c01_linear_regression.ipynb",
-        "update": 1599619888.0,
-        "stars": 8262
-    },
-    {
         "name": "Introduction to the TensorFlow Models NLP library",
         "description": "You will learn how to build transformer-based models for common NLP tasks including pretraining, span labelling and classification using the building blocks from NLP modeling library",
         "authors": [
@@ -14137,47 +13799,6 @@
         "update": 1719358593.0,
         "stars": 3652,
         "citations": 67
-    },
-    {
-        "name": "LLM Engineering Essentials course",
-        "description": "12-week course, created by experts from academia and industry, is designed specifically for developers and engineers",
-        "authors": [
-            {
-                "name": "Stanislav Fedotov",
-                "url": "https://github.com/st-fedotov"
-            },
-            {
-                "name": "Alexey Bukhtiyarov",
-                "url": "https://github.com/leshanbog"
-            },
-            {
-                "name": "Nikita Pavlichenko",
-                "url": "https://www.pavlichenko.info/"
-            },
-            {
-                "name": "Sergei Petrov",
-                "url": "https://www.linkedin.com/in/sergei-petrov-12589210b/"
-            },
-            {
-                "name": "Sergei Skvortsov",
-                "url": "https://github.com/southfreebird"
-            },
-            {
-                "name": "Alex Umnov",
-                "url": "https://github.com/AlexUmnov"
-            }
-        ],
-        "links": [
-            "https://github.com/Nebius-Academy/LLM-Engineering-Essentials",
-            {
-                "url": "https://academy.nebius.com/llm-engineering-essentials",
-                "name": "website"
-            },
-            "https://x.com/karpathy/status/1886192184808149383"
-        ],
-        "colab": "https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic1/1.1_intro_to_llm_apis.ipynb",
-        "update": 1747913949.0,
-        "stars": 809
     },
     {
         "name": "LLM-grounded Diffusion",
@@ -15790,57 +15411,6 @@
         "update": 1655757537.613,
         "stars": 656,
         "citations": 148
-    },
-    {
-        "name": "Machine Learning Simplified",
-        "description": "A Gentle Introduction to Supervised Learning",
-        "authors": [
-            {
-                "name": "Andrew Wolf",
-                "url": "https://5x12.ai/"
-            }
-        ],
-        "links": [
-            "https://github.com/5x12/themlsbook",
-            {
-                "url": "https://www.themlsbook.com/",
-                "name": "website"
-            },
-            "https://www.reddit.com/r/Python/comments/t8st9l/i_wrote_a_book_on_machine_learning_w_python_code/",
-            "https://www.reddit.com/r/learnmachinelearning/comments/snxlly/machine_learning_simplified_book/",
-            "https://medium.com/geekculture/i-found-a-great-machine-learning-book-deed11db2688"
-        ],
-        "colab": "https://colab.research.google.com/github/5x12/themlsbook/blob/master/chapter2/knn.ipynb",
-        "update": 1724960156.0,
-        "stars": 433
-    },
-    {
-        "name": "Machine learning course",
-        "description": "This course is broad and shallow, but author will provide additional links so that you can deepen your understanding of the ML method you need",
-        "authors": [
-            {
-                "name": "Тимчишин Віталій",
-                "url": "https://github.com/fbeilstein"
-            }
-        ],
-        "links": [
-            "https://github.com/fbeilstein/machine_learning",
-            "https://www.youtube.com/playlist?list=PLkDeTjsoxDVgnb2lIYo9-1l4XYhrIyS6A",
-            "https://vas3k.com/blog/machine_learning/",
-            "https://youtu.be/-RdOwhmqP5s",
-            "https://youtu.be/R13BD8qKeTg",
-            "https://youtu.be/ZkjP5RJLQF4",
-            "https://youtu.be/J4Wdy0Wc_xQ",
-            "https://youtu.be/mBcLRGuAFUk",
-            "https://youtu.be/YIGtalP1mv0",
-            "https://youtu.be/Yz5pySyEtsU",
-            "https://youtu.be/x5zLaWT5KPs",
-            "https://youtu.be/yBwpo-L80Mc",
-            "https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv"
-        ],
-        "colab": "https://colab.research.google.com/github/fbeilstein/machine_learning/blob/master/lecture_01_introduction.ipynb",
-        "update": 1630595244.0,
-        "stars": 185
     },
     {
         "name": "Magenta RT",
@@ -17771,35 +17341,6 @@
         "colab": "https://colab.research.google.com/notebooks/magenta/nsynth/nsynth.ipynb",
         "update": 1491429600.0,
         "stars": 19774
-    },
-    {
-        "name": "NYU-DLSP20",
-        "description": "This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition",
-        "authors": [
-            {
-                "name": "Yann LeCun",
-                "url": "https://yann.lecun.com/"
-            },
-            {
-                "name": "Alfredo Canziani",
-                "url": "https://atcold.github.io/"
-            }
-        ],
-        "links": [
-            "https://github.com/Atcold/NYU-DLSP20",
-            {
-                "url": "https://atcold.github.io/NYU-DLSP20/",
-                "name": "website"
-            },
-            "https://discord.gg/CthuqsX8Pb",
-            "https://www.reddit.com/r/NYU_DeepLearning/",
-            "https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq",
-            "https://github.com/Atcold/NYU-DLSP21",
-            "https://github.com/Atcold/NYU-DLFL22"
-        ],
-        "colab": "https://colab.research.google.com/github/Atcold/NYU-DLSP20/blob/master/00-logic_neuron_programming.ipynb",
-        "update": 1572414730.0,
-        "stars": 6799
     },
     {
         "name": "Nano Banana",
@@ -20610,71 +20151,6 @@
         "colab": "https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/HomeStylist.ipynb",
         "update": 1642607044.0,
         "stars": 271
-    },
-    {
-        "name": "Practical RL",
-        "description": "An open course on reinforcement learning in the wild",
-        "authors": [
-            {
-                "name": "Pavel Shvechikov",
-                "url": "https://github.com/pshvechikov"
-            },
-            {
-                "name": "Nikita Putintsev",
-                "url": "https://github.com/qwasser"
-            },
-            {
-                "name": "Alexander Fritsler",
-                "url": "https://github.com/Fritz449"
-            },
-            {
-                "name": "Oleg Vasilev",
-                "url": "https://me.svin.in/"
-            },
-            {
-                "name": "Dmitry Nikulin",
-                "url": "https://github.com/pastafarianist"
-            },
-            {
-                "name": "Mikhail Konobeev",
-                "url": "https://github.com/mknbv"
-            },
-            {
-                "name": "Ivan Kharitonov",
-                "url": "https://kharitonov-ivan.github.io/"
-            },
-            {
-                "name": "Ravil Khisamov",
-                "url": "https://github.com/zshrav"
-            },
-            {
-                "name": "Anna Klepova",
-                "url": "https://github.com/q0o0p"
-            },
-            {
-                "name": "Fedor Ratnikov",
-                "url": "https://github.com/justheuristic"
-            }
-        ],
-        "links": [
-            "https://github.com/yandexdataschool/Practical_RL",
-            "https://yadi.sk/d/loPpY45J3EAYfU",
-            "https://docs.google.com/forms/d/e/1FAIpQLSdurWw97Sm9xCyYwC8g3iB5EibITnoPJW2IkOVQYE_kcXPh6Q/viewform",
-            "https://youtu.be/2pWv7GOvuf0",
-            "https://youtu.be/aUrX-rP_ss4",
-            "https://youtu.be/lfHX2hHRMVQ",
-            "https://arxiv.org/abs/1703.03864",
-            "https://youtu.be/ejxfTy4lI6I",
-            "https://youtu.be/zwYV11a__HQ",
-            "https://youtu.be/D58nLNLkb0I",
-            "https://youtu.be/xpyKmjJuqhk",
-            "https://github.com/Farama-Foundation/Gymnasium",
-            "https://youtu.be/KWlFFtmxjeg",
-            "https://youtu.be/ASQJTNAYdcA"
-        ],
-        "colab": "https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/master/week01_intro/deep_crossentropy_method.ipynb",
-        "update": 1772712395.0,
-        "stars": 6481
     },
     {
         "name": "Presidio",
@@ -28983,39 +28459,6 @@
         "citations": 331
     },
     {
-        "name": "The Autodiff Cookbook",
-        "description": "You'll go through a whole bunch of neat autodiff ideas that you can cherry pick for your own work, starting with the basics",
-        "authors": [
-            {
-                "name": "Alex Wiltschko",
-                "url": "https://github.com/alexbw"
-            },
-            {
-                "name": "Matthew Johnson",
-                "url": "http://people.csail.mit.edu/mattjj/"
-            }
-        ],
-        "links": [
-            "https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html",
-            "https://mitpress.mit.edu/books/functional-differential-geometry",
-            "https://en.wikipedia.org/wiki/Truncated_Newton_method",
-            "https://en.wikipedia.org/wiki/Pullback_(differential_geometry)",
-            "https://en.wikipedia.org/wiki/Holomorphic_function",
-            "https://en.wikipedia.org/wiki/Cauchy%E2%80%93Riemann_equations",
-            "https://arxiv.org/abs/1406.2572",
-            "https://arxiv.org/abs/1706.04454",
-            "https://arxiv.org/abs/1802.03451",
-            "https://arxiv.org/abs/1811.07062",
-            "http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/",
-            "https://github.com/google/jax/issues/446#issuecomment-467105048",
-            "https://github.com/google/jax#auto-vectorization-with-vmap",
-            "https://github.com/hips/autograd"
-        ],
-        "colab": "https://colab.research.google.com/github/google/jax/blob/main/docs/notebooks/autodiff_cookbook.ipynb",
-        "update": 1775077619.0,
-        "stars": 35397
-    },
-    {
         "name": "Thin-Plate Spline Motion Model",
         "description": "End-to-end unsupervised motion transfer framework",
         "authors": [
@@ -29694,59 +29137,6 @@
         "colab": "https://colab.research.google.com/github/baofff/U-ViT/blob/main/UViT_ImageNet_demo.ipynb",
         "update": 1679467746.0,
         "stars": 1107
-    },
-    {
-        "name": "Udacity Deep Learning class with TensorFlow",
-        "description": "Learn how to apply deep learning to solve complex problems",
-        "authors": [
-            {
-                "name": "Mark Daoust",
-                "url": "https://github.com/MarkDaoust"
-            }
-        ],
-        "links": [
-            "https://github.com/tensorflow/examples/tree/master/courses/udacity_deep_learning",
-            "https://www.udacity.com/course/deep-learning--ud730",
-            "http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html",
-            "http://yann.lecun.com/exdb/mnist/",
-            "https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV"
-        ],
-        "colab": "https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_deep_learning/1_notmnist.ipynb",
-        "update": 1768389971.0,
-        "stars": 8262
-    },
-    {
-        "name": "Understanding Language Models",
-        "description": "Course deals with language models, in particular (but not exclusively so) on transformer-based language models like GPT-x or LLama",
-        "authors": [
-            {
-                "name": "Michael Franke",
-                "url": "https://michael-franke.github.io/"
-            },
-            {
-                "name": "Carsten Eickhoff",
-                "url": "https://github.com/eickhoff"
-            },
-            {
-                "name": "Polina Tsvilodub",
-                "url": "https://polina-tsvilodub.github.io/home/"
-            }
-        ],
-        "links": [
-            "https://github.com/CogSciPrag/Understanding-LLMs-course",
-            {
-                "url": "https://cogsciprag.github.io/Understanding-LLMs-course/intro.html",
-                "name": "website"
-            },
-            "https://youtu.be/zjkBMFhNj_g",
-            "https://arxiv.org/abs/1301.3781",
-            "https://arxiv.org/abs/2001.08361",
-            "https://arxiv.org/abs/2303.18223",
-            "https://web.stanford.edu/~jurafsky/slp3/"
-        ],
-        "colab": "https://colab.research.google.com/github/CogSciPrag/Understanding-LLMs-course/blob/main/understanding-llms/tutorials/01-introduction.ipynb",
-        "update": 1744880588.0,
-        "stars": 32
     },
     {
         "name": "UniDiffuser",
@@ -32906,31 +32296,6 @@
         "stars": 222
     },
     {
-        "name": "mlcourse.ai",
-        "description": "Open Machine Learning Course",
-        "authors": [
-            {
-                "name": "Yury Kashnitsky",
-                "url": "https://yorko.github.io/"
-            }
-        ],
-        "links": [
-            "https://github.com/Yorko/mlcourse.ai",
-            "https://opendatascience.slack.com/archives/C91N8TL83/p1567408586359500",
-            {
-                "url": "https://mlcourse.ai/book/index.html",
-                "name": "project"
-            },
-            "https://www.kaggle.com/kashnitsky/mlcourse",
-            "https://medium.com/open-machine-learning-course",
-            "https://habr.com/company/ods/blog/344044/",
-            "https://www.youtube.com/playlist?list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX"
-        ],
-        "colab": "https://colab.research.google.com/github/Yorko/mlcourse.ai/blob/main/jupyter_english/topic01_pandas_data_analysis/topic1_pandas_data_analysis.ipynb",
-        "update": 1769257629.0,
-        "stars": 10553
-    },
-    {
         "name": "mle_score_ode",
         "description": "Maximum Likelihood Training for Score-Based Diffusion ODEs by High-Order Denoising Score Matching",
         "authors": [
@@ -33070,28 +32435,6 @@
         "colab": "https://colab.research.google.com/github/roboflow/notebooks/blob/main/notebooks/train-yolov10-object-detection-on-custom-dataset.ipynb",
         "update": 1724178645.0,
         "stars": 9323
-    },
-    {
-        "name": "npNLG",
-        "description": "The course introduces the basics of NLG, neural language models and their implementation in PyTorch, as well as a selection of recent pragmatic neural NLG approaches",
-        "authors": [
-            {
-                "name": "Michael Franke",
-                "url": "https://github.com/michael-franke"
-            }
-        ],
-        "links": [
-            "https://github.com/michael-franke/npNLG",
-            "https://michael-franke.github.io/npNLG/000-intro.html",
-            "https://arxiv.org/abs/2105.09867",
-            "https://doi.org/10.1126/science.1218633",
-            "https://doi.org/10.1515/zfs-2016-0002",
-            "https://doi.org/10.1016/j.tics.2016.08.005"
-        ],
-        "colab": "https://colab.research.google.com/github/michael-franke/npNLG/blob/main/neural_pragmatic_nlg/01-prob-prag/01b-RSA-vanilla.ipynb",
-        "update": 1668009979.0,
-        "stars": 7,
-        "citations": 440
     },
     {
         "name": "optax",
@@ -34330,27 +33673,5 @@
         "colab": "https://colab.research.google.com/github/facebookresearch/xformers/blob/main/docs/source/xformers_mingpt.ipynb",
         "update": 1742924366.0,
         "stars": 10417
-    },
-    {
-        "name": "Курс \"Машинное обучение\" на ФКН ВШЭ",
-        "description": "Конспекты лекций, материалы семинаров и домашние задания (теоретические, практические, соревнования) по курсу \"Машинное обучение\", проводимому на бакалаврской программе \"Прикладная математика и информатика\" Факультета компьютерных наук Высшей школы экономики",
-        "authors": [
-            {
-                "name": "Evgeny Sokolov",
-                "url": "https://github.com/esokolov"
-            }
-        ],
-        "links": [
-            "https://github.com/esokolov/ml-course-hse",
-            "http://wiki.cs.hse.ru/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_1",
-            "http://wiki.cs.hse.ru/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_2",
-            "https://www.youtube.com/playlist?list=PLEwK9wdS5g0oZwFwoQT-BrjmkazJWXxfe",
-            "https://www.youtube.com/playlist?list=PLEwK9wdS5g0p7A6gXsuXnLZpfrMyqrJKP",
-            "https://www.youtube.com/playlist?list=PLEwK9wdS5g0pNdVe_T_1hB2LsN3PNQRMD",
-            "https://www.youtube.com/playlist?list=PLEqoHzpnmTfChItexxg2ZfxCsm-8QPsdS"
-        ],
-        "colab": "https://colab.research.google.com/github/esokolov/ml-course-hse/blob/master/2025-fall/seminars/sem01-pandas.ipynb",
-        "update": 1757827244.0,
-        "stars": 3701
     }
 ]
