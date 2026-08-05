@@ -1,204 +1,204 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1534" height="901">
 <style>text{font-family:'Comic Sans MS';font-weight:bold;font-style:italic;}</style>
 <rect width="100%" height="100%" style="fill:#0d1117"></rect>
-<text transform="translate(850,805)" font-size="165" style="fill:rgb(250, 216, 36)">model</text>
-<text transform="translate(1423,676) rotate(-90)" font-size="137" style="fill:rgb(58, 4, 154)">image</text>
-<text transform="translate(862,509) rotate(-90)" font-size="114" style="fill:rgb(211, 81, 113)">text</text>
-<text transform="translate(796,221)" font-size="113" style="fill:rgb(254, 184, 44)">framework</text>
-<text transform="translate(340,813)" font-size="106" style="fill:rgb(53, 4, 152)">based</text>
-<text transform="translate(976,120)" font-size="102" style="fill:rgb(251, 213, 36)">using</text>
-<text transform="translate(167,690) rotate(-90)" font-size="92" style="fill:rgb(32, 6, 143)">video</text>
-<text transform="translate(112,212)" font-size="74" style="fill:rgb(240, 247, 36)">language model</text>
-<text transform="translate(178,147)" font-size="70" style="fill:rgb(203, 70, 121)">neural network</text>
-<text transform="translate(715,678)" font-size="66" style="fill:rgb(240, 249, 33)">training</text>
-<text transform="translate(261,721)" font-size="63" style="fill:rgb(253, 174, 50)">Transformer</text>
-<text transform="translate(223,742) rotate(-90)" font-size="63" style="fill:rgb(62, 4, 156)">diffusion model</text>
-<text transform="translate(637,454)" font-size="62" style="fill:rgb(136, 8, 166)">use</text>
-<text transform="translate(658,590)" font-size="61" style="fill:rgb(234, 116, 87)">method</text>
-<text transform="translate(983,870)" font-size="59" style="fill:rgb(80, 2, 162)">library</text>
-<text transform="translate(299,72)" font-size="59" style="fill:rgb(131, 5, 167)">generation</text>
-<text transform="translate(63,406)" font-size="58" style="fill:rgb(110, 0, 168)">end</text>
-<text transform="translate(280,849)" font-size="43" style="fill:rgb(250, 156, 60)">machine learning</text>
-<text transform="translate(754,447) rotate(-90)" font-size="42" style="fill:rgb(248, 148, 65)">open source</text>
-<text transform="translate(1202,256)" font-size="42" style="fill:rgb(220, 93, 103)">deep learning</text>
-<text transform="translate(1177,850)" font-size="41" style="fill:rgb(70, 3, 159)">audio</text>
-<text transform="translate(207,772)" font-size="40" style="fill:rgb(148, 16, 162)">art</text>
-<text transform="translate(1497,539) rotate(-90)" font-size="39" style="fill:rgb(68, 3, 158)">high quality</text>
-<text transform="translate(733,621)" font-size="37" style="fill:rgb(249, 152, 62)">zero shot</text>
-<text transform="translate(118,265)" font-size="36" style="fill:rgb(227, 104, 95)">TensorFlow</text>
-<text transform="translate(1327,609) rotate(-90)" font-size="36" style="fill:rgb(251, 211, 36)">image generation</text>
-<text transform="translate(35,442)" font-size="35" style="fill:rgb(219, 92, 104)">designed</text>
-<text transform="translate(32,311)" font-size="35" style="fill:rgb(238, 123, 81)">network</text>
-<text transform="translate(662,529)" font-size="35" style="fill:rgb(96, 1, 166)">dataset</text>
-<text transform="translate(1264,294)" font-size="35" style="fill:rgb(106, 0, 168)">pre trained</text>
-<text transform="translate(868,154)" font-size="35" style="fill:rgb(103, 0, 168)">Stable Diffusion</text>
-<text transform="translate(1218,645)" font-size="34" style="fill:rgb(180, 46, 141)">LLM</text>
-<text transform="translate(314,870)" font-size="25" style="fill:rgb(240, 249, 33)">reinforcement learning</text>
-<text transform="translate(952,49)" font-size="24" style="fill:rgb(252, 208, 37)">state</text>
-<text transform="translate(190,778) rotate(-90)" font-size="24" style="fill:rgb(60, 4, 155)">task</text>
-<text transform="translate(419,26)" font-size="24" style="fill:rgb(177, 42, 144)">enable</text>
-<text transform="translate(761,699)" font-size="23" style="fill:rgb(150, 19, 161)">large language</text>
-<text transform="translate(1002,891)" font-size="22" style="fill:rgb(136, 8, 166)">train</text>
-<text transform="translate(970,707)" font-size="22" style="fill:rgb(192, 58, 131)">GAN</text>
-<text transform="translate(278,245)" font-size="22" style="fill:rgb(245, 235, 39)">code</text>
-<text transform="translate(1526,469) rotate(-90)" font-size="22" style="fill:rgb(38, 5, 145)">learn</text>
-<text transform="translate(848,263)" font-size="22" style="fill:rgb(240, 249, 33)">generate</text>
-<text transform="translate(1322,694)" font-size="22" style="fill:rgb(123, 2, 168)">fine tuning</text>
-<text transform="translate(191,168)" font-size="22" style="fill:rgb(250, 156, 60)">real time</text>
-<text transform="translate(778,375) rotate(-90)" font-size="21" style="fill:rgb(75, 3, 161)">high resolution</text>
-<text transform="translate(444,746)" font-size="21" style="fill:rgb(150, 19, 161)">object detection</text>
-<text transform="translate(91,338)" font-size="20" style="fill:rgb(254, 187, 43)">PyTorch</text>
-<text transform="translate(863,118)" font-size="20" style="fill:rgb(68, 3, 158)">multi</text>
-<text transform="translate(652,549)" font-size="20" style="fill:rgb(58, 4, 154)">inference</text>
-<text transform="translate(904,845)" font-size="20" style="fill:rgb(19, 7, 137)">visual</text>
-<text transform="translate(58,595)" font-size="20" style="fill:rgb(253, 171, 51)">data</text>
-<text transform="translate(643,396)" font-size="19" style="fill:rgb(163, 30, 154)">single</text>
-<text transform="translate(306,165)" font-size="19" style="fill:rgb(67, 3, 158)">speech</text>
-<text transform="translate(679,630)" font-size="19" style="fill:rgb(139, 10, 165)">CLIP</text>
-<text transform="translate(400,890)" font-size="19" style="fill:rgb(253, 171, 51)">quality</text>
-<text transform="translate(1045,39)" font-size="19" style="fill:rgb(252, 206, 37)">system</text>
-<text transform="translate(493,25)" font-size="19" style="fill:rgb(131, 5, 167)">set</text>
-<text transform="translate(1125,64)" font-size="18" style="fill:rgb(240, 249, 33)">without</text>
-<text transform="translate(493,94)" font-size="18" style="fill:rgb(27, 6, 141)">efficient</text>
-<text transform="translate(188,791)" font-size="18" style="fill:rgb(220, 93, 103)">real world</text>
-<text transform="translate(226,103)" font-size="18" style="fill:rgb(125, 3, 168)">foundation model</text>
-<text transform="translate(64,232)" font-size="18" style="fill:rgb(249, 152, 62)">vision language</text>
-<text transform="translate(244,631) rotate(-90)" font-size="18" style="fill:rgb(244, 136, 73)">large scale</text>
-<text transform="translate(976,682)" font-size="18" style="fill:rgb(142, 12, 164)">Segment Anything</text>
-<text transform="translate(66,477)" font-size="17" style="fill:rgb(123, 2, 168)">agent</text>
-<text transform="translate(380,35)" font-size="17" style="fill:rgb(245, 140, 70)">fast</text>
-<text transform="translate(1334,525)" font-size="17" style="fill:rgb(148, 16, 162)">one</text>
-<text transform="translate(66,368) rotate(-90)" font-size="17" style="fill:rgb(231, 110, 91)">domain</text>
-<text transform="translate(655,484)" font-size="17" style="fill:rgb(70, 3, 159)">trained</text>
-<text transform="translate(813,121)" font-size="17" style="fill:rgb(227, 104, 95)">easy</text>
-<text transform="translate(1214,120)" font-size="17" style="fill:rgb(173, 39, 147)">super resolution</text>
-<text transform="translate(1148,31)" font-size="16" style="fill:rgb(217, 88, 106)">provide</text>
-<text transform="translate(390,161)" font-size="16" style="fill:rgb(239, 124, 81)">editing</text>
-<text transform="translate(727,709)" font-size="16" style="fill:rgb(136, 8, 166)">tool</text>
-<text transform="translate(1027,18)" font-size="16" style="fill:rgb(206, 75, 117)">perform</text>
-<text transform="translate(1284,273)" font-size="16" style="fill:rgb(248, 149, 64)">build</text>
-<text transform="translate(1336,743)" font-size="16" style="fill:rgb(222, 97, 100)">application</text>
-<text transform="translate(837,239)" font-size="16" style="fill:rgb(222, 97, 100)">natural language</text>
-<text transform="translate(1180,670)" font-size="16" style="fill:rgb(248, 223, 37)">high performance</text>
-<text transform="translate(39,278)" font-size="16" style="fill:rgb(247, 226, 37)">image diffusion</text>
-<text transform="translate(332,680)" font-size="15" style="fill:rgb(177, 42, 144)">implementation</text>
-<text transform="translate(788,769) rotate(-90)" font-size="15" style="fill:rgb(114, 1, 168)">first</text>
-<text transform="translate(470,884)" font-size="15" style="fill:rgb(223, 98, 99)">free</text>
-<text transform="translate(98,695)" font-size="15" style="fill:rgb(252, 163, 56)">approach</text>
-<text transform="translate(81,357)" font-size="15" style="fill:rgb(142, 12, 164)">tutorial</text>
-<text transform="translate(1392,605)" font-size="15" style="fill:rgb(226, 102, 96)">architecture</text>
-<text transform="translate(282,746)" font-size="15" style="fill:rgb(242, 132, 75)">prompt</text>
-<text transform="translate(239,651)" font-size="15" style="fill:rgb(234, 116, 87)">understanding</text>
-<text transform="translate(413,96)" font-size="15" style="fill:rgb(91, 1, 165)">enabling</text>
-<text transform="translate(716,419) rotate(-90)" font-size="15" style="fill:rgb(254, 192, 41)">vision</text>
-<text transform="translate(252,817)" font-size="15" style="fill:rgb(226, 101, 97)">technique</text>
-<text transform="translate(704,366) rotate(-90)" font-size="15" style="fill:rgb(70, 3, 159)">optimization</text>
-<text transform="translate(1193,708)" font-size="15" style="fill:rgb(253, 197, 39)">feature</text>
-<text transform="translate(900,61)" font-size="15" style="fill:rgb(120, 1, 168)">latent space</text>
-<text transform="translate(1203,157)" font-size="15" style="fill:rgb(75, 3, 161)">Image Synthesis</text>
-<text transform="translate(500,682)" font-size="15" style="fill:rgb(243, 133, 75)">Federated Learning</text>
-<text transform="translate(514,226)" font-size="14" style="fill:rgb(78, 2, 162)">representation</text>
-<text transform="translate(367,85)" font-size="14" style="fill:rgb(192, 58, 131)">AI</text>
-<text transform="translate(1059,711)" font-size="14" style="fill:rgb(205, 74, 118)">built</text>
-<text transform="translate(1350,386) rotate(-90)" font-size="14" style="fill:rgb(178, 43, 143)">Generative</text>
-<text transform="translate(738,179)" font-size="14" style="fill:rgb(223, 98, 99)">multiple</text>
-<text transform="translate(398,757)" font-size="14" style="fill:rgb(178, 43, 143)">course</text>
-<text transform="translate(256,330) rotate(-90)" font-size="14" style="fill:rgb(160, 26, 156)">diverse</text>
-<text transform="translate(4,510)" font-size="14" style="fill:rgb(99, 0, 167)">performance</text>
-<text transform="translate(1339,773)" font-size="14" style="fill:rgb(231, 110, 91)">better</text>
-<text transform="translate(1293,136)" font-size="14" style="fill:rgb(86, 1, 164)">run</text>
-<text transform="translate(1312,709)" font-size="14" style="fill:rgb(243, 238, 39)">Generative AI</text>
-<text transform="translate(1085,824)" font-size="14" style="fill:rgb(136, 8, 166)">Transformer based</text>
-<text transform="translate(716,205)" font-size="14" style="fill:rgb(236, 119, 84)">high fidelity</text>
-<text transform="translate(1176,685)" font-size="14" style="fill:rgb(160, 26, 156)">diffusion based</text>
-<text transform="translate(772,723)" font-size="14" style="fill:rgb(242, 132, 75)">text prompt</text>
-<text transform="translate(662,759) rotate(-90)" font-size="13" style="fill:rgb(254, 187, 43)">input</text>
-<text transform="translate(378,736)" font-size="13" style="fill:rgb(152, 20, 160)">music</text>
-<text transform="translate(1429,550)" font-size="13" style="fill:rgb(231, 110, 91)">pretrained</text>
-<text transform="translate(58,667)" font-size="13" style="fill:rgb(42, 5, 147)">encoder</text>
-<text transform="translate(560,655)" font-size="13" style="fill:rgb(245, 233, 38)">embedding</text>
-<text transform="translate(1423,308)" font-size="13" style="fill:rgb(253, 203, 38)">achieve</text>
-<text transform="translate(1273,95)" font-size="13" style="fill:rgb(215, 86, 108)">combine</text>
-<text transform="translate(222,82)" font-size="13" style="fill:rgb(231, 111, 90)">text driven</text>
-<text transform="translate(238,365) rotate(-90)" font-size="13" style="fill:rgb(240, 247, 36)">text generation</text>
-<text transform="translate(1322,724)" font-size="13" style="fill:rgb(252, 163, 56)">computer vision</text>
-<text transform="translate(868,73)" font-size="13" style="fill:rgb(128, 4, 168)">talking head</text>
-<text transform="translate(650,84)" font-size="12" style="fill:rgb(86, 1, 164)">layer</text>
-<text transform="translate(815,788)" font-size="12" style="fill:rgb(91, 1, 165)">top</text>
-<text transform="translate(26,593)" font-size="12" style="fill:rgb(91, 1, 165)">GPU</text>
-<text transform="translate(763,157)" font-size="12" style="fill:rgb(250, 158, 59)">toolkit</text>
-<text transform="translate(302,767)" font-size="12" style="fill:rgb(157, 24, 157)">including</text>
-<text transform="translate(843,319)" font-size="12" style="fill:rgb(252, 166, 54)">animation</text>
-<text transform="translate(111,741)" font-size="12" style="fill:rgb(226, 101, 97)">step</text>
-<text transform="translate(977,716)" font-size="12" style="fill:rgb(253, 178, 47)">benchmark</text>
-<text transform="translate(1436,518)" font-size="12" style="fill:rgb(253, 175, 49)">target</text>
-<text transform="translate(592,255)" font-size="12" style="fill:rgb(106, 0, 168)">latent</text>
-<text transform="translate(751,493)" font-size="12" style="fill:rgb(214, 85, 109)">object</text>
-<text transform="translate(160,117)" font-size="12" style="fill:rgb(154, 22, 159)">RL</text>
-<text transform="translate(641,497)" font-size="12" style="fill:rgb(62, 4, 156)">preserving</text>
-<text transform="translate(279,639)" font-size="12" style="fill:rgb(249, 220, 36)">TFF</text>
-<text transform="translate(1338,758)" font-size="12" style="fill:rgb(166, 32, 152)">even</text>
-<text transform="translate(905,857)" font-size="12" style="fill:rgb(253, 202, 38)">generated</text>
-<text transform="translate(1466,578)" font-size="12" style="fill:rgb(99, 0, 167)">support</text>
-<text transform="translate(1402,229) rotate(-90)" font-size="12" style="fill:rgb(97, 0, 167)">conditional</text>
-<text transform="translate(930,90)" font-size="12" style="fill:rgb(209, 78, 114)">improve</text>
-<text transform="translate(807,535)" font-size="12" style="fill:rgb(146, 15, 163)">platform</text>
-<text transform="translate(166,791) rotate(-90)" font-size="12" style="fill:rgb(187, 52, 136)">input image</text>
-<text transform="translate(462,160)" font-size="12" style="fill:rgb(125, 3, 168)">Self supervised</text>
-<text transform="translate(8,460)" font-size="12" style="fill:rgb(248, 149, 64)">video generation</text>
-<text transform="translate(1125,44)" font-size="12" style="fill:rgb(230, 108, 92)">learning research</text>
-<text transform="translate(4,491)" font-size="12" style="fill:rgb(226, 102, 96)">image segmentation</text>
-<text transform="translate(199,800)" font-size="12" style="fill:rgb(105, 0, 168)">Image Restoration</text>
-<text transform="translate(794,417) rotate(-90)" font-size="12" style="fill:rgb(251, 215, 36)">generative model</text>
-<text transform="translate(232,668)" font-size="11" style="fill:rgb(241, 129, 77)">novel</text>
-<text transform="translate(644,808)" font-size="11" style="fill:rgb(111, 0, 168)">collection</text>
-<text transform="translate(147,719)" font-size="11" style="fill:rgb(254, 184, 44)">BERT</text>
-<text transform="translate(1280,587)" font-size="11" style="fill:rgb(179, 44, 142)">API</text>
-<text transform="translate(999,819)" font-size="11" style="fill:rgb(181, 47, 140)">generating</text>
-<text transform="translate(604,86)" font-size="11" style="fill:rgb(247, 228, 37)">portrait</text>
-<text transform="translate(263,663)" font-size="11" style="fill:rgb(241, 245, 37)">research</text>
-<text transform="translate(1036,58)" font-size="11" style="fill:rgb(249, 154, 62)">transfer</text>
-<text transform="translate(1295,766)" font-size="11" style="fill:rgb(22, 7, 138)">scale</text>
-<text transform="translate(1193,55)" font-size="11" style="fill:rgb(217, 88, 106)">efficiently</text>
-<text transform="translate(902,271)" font-size="11" style="fill:rgb(227, 104, 95)">notebook</text>
-<text transform="translate(1445,659)" font-size="11" style="fill:rgb(210, 79, 113)">GPT</text>
-<text transform="translate(785,235)" font-size="11" style="fill:rgb(192, 58, 131)">new</text>
-<text transform="translate(681,348) rotate(-90)" font-size="11" style="fill:rgb(253, 172, 51)">Segment</text>
-<text transform="translate(45,635)" font-size="11" style="fill:rgb(253, 200, 39)">efficiency</text>
-<text transform="translate(1325,129)" font-size="11" style="fill:rgb(168, 34, 150)">well</text>
-<text transform="translate(21,577)" font-size="11" style="fill:rgb(29, 6, 142)">Scene</text>
-<text transform="translate(775,448) rotate(-90)" font-size="11" style="fill:rgb(254, 189, 42)">manipulation</text>
-<text transform="translate(1431,341)" font-size="11" style="fill:rgb(85, 2, 164)">control</text>
-<text transform="translate(18,478)" font-size="11" style="fill:rgb(204, 71, 120)">work</text>
-<text transform="translate(514,879)" font-size="11" style="fill:rgb(226, 102, 96)">focus</text>
-<text transform="translate(1278,230)" font-size="11" style="fill:rgb(223, 98, 99)">need</text>
-<text transform="translate(876,373) rotate(-90)" font-size="11" style="fill:rgb(250, 158, 59)">StyleGAN</text>
-<text transform="translate(1054,892)" font-size="11" style="fill:rgb(246, 143, 68)">single image</text>
-<text transform="translate(247,749) rotate(-90)" font-size="11" style="fill:rgb(73, 3, 160)">view synthesis</text>
-<text transform="translate(523,106)" font-size="11" style="fill:rgb(123, 2, 168)">representation learning</text>
-<text transform="translate(653,468)" font-size="11" style="fill:rgb(141, 11, 165)">tutorial demonstrates</text>
-<text transform="translate(245,276)" font-size="11" style="fill:rgb(75, 3, 161)">Google Cloud</text>
-<text transform="translate(37,426) rotate(-90)" font-size="11" style="fill:rgb(22, 7, 138)">convolutional neural</text>
-<text transform="translate(720,336) rotate(-90)" font-size="11" style="fill:rgb(251, 215, 36)">across multiple</text>
-<text transform="translate(1352,266)" font-size="11" style="fill:rgb(240, 127, 79)">Voice Conversion</text>
-<text transform="translate(1051,837)" font-size="11" style="fill:rgb(224, 99, 99)">Generative Adversarial</text>
-<text transform="translate(518,242)" font-size="11" style="fill:rgb(213, 84, 110)">Adversarial Network</text>
-<text transform="translate(1282,305)" font-size="11" style="fill:rgb(167, 33, 151)">image editing</text>
-<text transform="translate(418,228) rotate(-90)" font-size="11" style="fill:rgb(161, 27, 155)">deep neural</text>
-<text transform="translate(1224,76)" font-size="11" style="fill:rgb(36, 6, 145)">source separation</text>
-<text transform="translate(20,538)" font-size="11" style="fill:rgb(250, 156, 60)">image translation</text>
-<text transform="translate(133,454)" font-size="11" style="fill:rgb(251, 159, 58)">transfer learning</text>
-<text transform="translate(46,413) rotate(-90)" font-size="11" style="fill:rgb(173, 39, 147)">speech recognition</text>
-<text transform="translate(1412,566)" font-size="11" style="fill:rgb(143, 13, 164)">Image Super</text>
-<text transform="translate(1173,861)" font-size="11" style="fill:rgb(252, 165, 55)">self attention</text>
-<text transform="translate(1398,640)" font-size="10" style="fill:rgb(235, 118, 85)">reference</text>
-<text transform="translate(320,254)" font-size="10" style="fill:rgb(165, 31, 153)">given</text>
-<text transform="translate(329,879)" font-size="10" style="fill:rgb(58, 4, 154)">motion</text>
-<text transform="translate(1024,31)" font-size="10" style="fill:rgb(29, 6, 142)">ML</text>
-<text transform="translate(52,652)" font-size="10" style="fill:rgb(197, 64, 126)">classification</text>
-<text transform="translate(898,718)" font-size="10" style="fill:rgb(99, 0, 167)">Guided</text>
-<text transform="translate(24,448) rotate(-90)" font-size="10" style="fill:rgb(250, 156, 60)">complex</text>
-<text transform="translate(85,256)" font-size="10" style="fill:rgb(253, 175, 49)">specific</text>
-<text transform="translate(1432,615)" font-size="10" style="fill:rgb(145, 14, 163)">Interactive</text>
-<text transform="translate(1171,873)" font-size="10" style="fill:rgb(32, 6, 143)">improving</text>
+<text transform="translate(864,800)" font-size="166" style="fill:rgb(250, 158, 59)">model</text>
+<text transform="translate(287,802)" font-size="139" style="fill:rgb(88, 1, 164)">image</text>
+<text transform="translate(246,179)" font-size="117" style="fill:rgb(243, 238, 39)">text</text>
+<text transform="translate(769,222)" font-size="115" style="fill:rgb(253, 202, 38)">framework</text>
+<text transform="translate(973,106)" font-size="109" style="fill:rgb(139, 10, 165)">using</text>
+<text transform="translate(1477,556) rotate(-90)" font-size="108" style="fill:rgb(249, 151, 63)">based</text>
+<text transform="translate(139,657) rotate(-90)" font-size="97" style="fill:rgb(254, 192, 41)">training</text>
+<text transform="translate(331,92)" font-size="94" style="fill:rgb(232, 112, 89)">video</text>
+<text transform="translate(910,848)" font-size="49" style="fill:rgb(158, 25, 157)">language model</text>
+<text transform="translate(806,702)" font-size="46" style="fill:rgb(235, 117, 86)">neural network</text>
+<text transform="translate(739,679) rotate(-90)" font-size="42" style="fill:rgb(188, 53, 135)">Transformer</text>
+<text transform="translate(257,223)" font-size="41" style="fill:rgb(81, 2, 163)">diffusion model</text>
+<text transform="translate(517,163)" font-size="40" style="fill:rgb(229, 107, 93)">use</text>
+<text transform="translate(145,664)" font-size="39" style="fill:rgb(202, 69, 122)">method</text>
+<text transform="translate(766,258)" font-size="38" style="fill:rgb(16, 7, 136)">generation</text>
+<text transform="translate(429,713)" font-size="37" style="fill:rgb(197, 64, 126)">library</text>
+<text transform="translate(1403,371) rotate(-90)" font-size="36" style="fill:rgb(96, 1, 166)">end</text>
+<text transform="translate(856,148)" font-size="36" style="fill:rgb(245, 233, 38)">machine learning</text>
+<text transform="translate(195,398) rotate(-90)" font-size="35" style="fill:rgb(249, 220, 36)">deep learning</text>
+<text transform="translate(1296,612)" font-size="35" style="fill:rgb(51, 5, 151)">open source</text>
+<text transform="translate(75,234)" font-size="34" style="fill:rgb(239, 124, 81)">audio</text>
+<text transform="translate(1222,685)" font-size="34" style="fill:rgb(126, 3, 168)">art</text>
+<text transform="translate(52,584) rotate(-90)" font-size="33" style="fill:rgb(252, 206, 37)">high quality</text>
+<text transform="translate(212,698)" font-size="31" style="fill:rgb(102, 0, 167)">zero shot</text>
+<text transform="translate(244,837)" font-size="31" style="fill:rgb(162, 29, 154)">image generation</text>
+<text transform="translate(665,326)" font-size="30" style="fill:rgb(197, 64, 126)">TensorFlow</text>
+<text transform="translate(1286,589)" font-size="30" style="fill:rgb(251, 161, 57)">network</text>
+<text transform="translate(794,765) rotate(-90)" font-size="30" style="fill:rgb(252, 208, 37)">reinforcement learning</text>
+<text transform="translate(683,379)" font-size="29" style="fill:rgb(97, 0, 167)">designed</text>
+<text transform="translate(825,125)" font-size="29" style="fill:rgb(244, 237, 39)">enable</text>
+<text transform="translate(396,868)" font-size="29" style="fill:rgb(56, 4, 154)">pre trained</text>
+<text transform="translate(1242,649)" font-size="29" style="fill:rgb(190, 56, 133)">Stable Diffusion</text>
+<text transform="translate(817,529)" font-size="28" style="fill:rgb(253, 203, 38)">LLM</text>
+<text transform="translate(1298,406)" font-size="28" style="fill:rgb(178, 43, 143)">dataset</text>
+<text transform="translate(191,771)" font-size="27" style="fill:rgb(254, 189, 42)">state</text>
+<text transform="translate(1039,40)" font-size="27" style="fill:rgb(100, 0, 167)">task</text>
+<text transform="translate(552,132)" font-size="26" style="fill:rgb(247, 228, 37)">learn</text>
+<text transform="translate(1268,325)" font-size="26" style="fill:rgb(146, 15, 163)">data</text>
+<text transform="translate(579,86)" font-size="26" style="fill:rgb(242, 132, 75)">PyTorch</text>
+<text transform="translate(54,264)" font-size="26" style="fill:rgb(198, 65, 125)">train</text>
+<text transform="translate(584,688)" font-size="26" style="fill:rgb(193, 59, 130)">code</text>
+<text transform="translate(193,577) rotate(-90)" font-size="26" style="fill:rgb(92, 1, 166)">generate</text>
+<text transform="translate(650,411)" font-size="26" style="fill:rgb(13, 8, 135)">large language</text>
+<text transform="translate(1307,464)" font-size="25" style="fill:rgb(65, 4, 157)">inference</text>
+<text transform="translate(1354,197)" font-size="25" style="fill:rgb(241, 131, 76)">GAN</text>
+<text transform="translate(235,287) rotate(-90)" font-size="25" style="fill:rgb(252, 168, 53)">fine tuning</text>
+<text transform="translate(1251,262)" font-size="25" style="fill:rgb(160, 26, 156)">real time</text>
+<text transform="translate(803,635)" font-size="24" style="fill:rgb(126, 3, 168)">speech</text>
+<text transform="translate(124,722)" font-size="24" style="fill:rgb(254, 183, 45)">high resolution</text>
+<text transform="translate(671,347)" font-size="24" style="fill:rgb(29, 6, 142)">object detection</text>
+<text transform="translate(169,450) rotate(-90)" font-size="23" style="fill:rgb(252, 166, 54)">multi</text>
+<text transform="translate(369,696)" font-size="23" style="fill:rgb(252, 169, 52)">visual</text>
+<text transform="translate(214,521) rotate(-90)" font-size="23" style="fill:rgb(249, 151, 63)">quality</text>
+<text transform="translate(726,288)" font-size="23" style="fill:rgb(183, 49, 138)">system</text>
+<text transform="translate(831,654)" font-size="22" style="fill:rgb(170, 35, 149)">single</text>
+<text transform="translate(888,624)" font-size="22" style="fill:rgb(245, 140, 70)">set</text>
+<text transform="translate(618,244) rotate(-90)" font-size="21" style="fill:rgb(38, 5, 145)">fast</text>
+<text transform="translate(1367,274)" font-size="21" style="fill:rgb(239, 124, 81)">one</text>
+<text transform="translate(478,885)" font-size="21" style="fill:rgb(146, 15, 163)">without</text>
+<text transform="translate(255,255)" font-size="21" style="fill:rgb(167, 33, 151)">tool</text>
+<text transform="translate(1291,536)" font-size="21" style="fill:rgb(119, 1, 168)">efficient</text>
+<text transform="translate(798,307)" font-size="21" style="fill:rgb(252, 165, 55)">real world</text>
+<text transform="translate(115,748)" font-size="21" style="fill:rgb(251, 159, 58)">foundation model</text>
+<text transform="translate(490,180)" font-size="21" style="fill:rgb(251, 162, 56)">vision language</text>
+<text transform="translate(76,682)" font-size="21" style="fill:rgb(102, 0, 167)">large scale</text>
+<text transform="translate(978,879)" font-size="21" style="fill:rgb(245, 139, 71)">Segment Anything</text>
+<text transform="translate(195,325)" font-size="20" style="fill:rgb(254, 190, 42)">build</text>
+<text transform="translate(1317,359)" font-size="20" style="fill:rgb(252, 169, 52)">agent</text>
+<text transform="translate(68,285)" font-size="20" style="fill:rgb(251, 159, 58)">CLIP</text>
+<text transform="translate(176,142)" font-size="20" style="fill:rgb(136, 8, 166)">editing</text>
+<text transform="translate(201,98)" font-size="20" style="fill:rgb(231, 110, 91)">domain</text>
+<text transform="translate(612,153)" font-size="20" style="fill:rgb(248, 223, 37)">trained</text>
+<text transform="translate(711,696)" font-size="20" style="fill:rgb(103, 0, 168)">easy</text>
+<text transform="translate(1247,293)" font-size="20" style="fill:rgb(176, 41, 145)">natural language</text>
+<text transform="translate(145,627)" font-size="20" style="fill:rgb(247, 228, 37)">super resolution</text>
+<text transform="translate(1146,153)" font-size="20" style="fill:rgb(252, 210, 37)">diffusion based</text>
+<text transform="translate(667,480) rotate(-90)" font-size="19" style="fill:rgb(58, 4, 154)">provide</text>
+<text transform="translate(619,833)" font-size="19" style="fill:rgb(170, 35, 149)">step</text>
+<text transform="translate(1244,120)" font-size="19" style="fill:rgb(234, 116, 87)">understanding</text>
+<text transform="translate(159,606)" font-size="19" style="fill:rgb(102, 0, 167)">architecture</text>
+<text transform="translate(207,806)" font-size="19" style="fill:rgb(193, 59, 130)">enabling</text>
+<text transform="translate(1327,431)" font-size="19" style="fill:rgb(240, 247, 36)">technique</text>
+<text transform="translate(952,34)" font-size="19" style="fill:rgb(176, 41, 145)">perform</text>
+<text transform="translate(1302,482)" font-size="19" style="fill:rgb(201, 68, 122)">optimization</text>
+<text transform="translate(293,110)" font-size="19" style="fill:rgb(56, 4, 154)">high performance</text>
+<text transform="translate(833,94)" font-size="19" style="fill:rgb(227, 104, 95)">image diffusion</text>
+<text transform="translate(597,703)" font-size="18" style="fill:rgb(250, 218, 36)">prompt</text>
+<text transform="translate(1417,583)" font-size="18" style="fill:rgb(38, 5, 145)">tutorial</text>
+<text transform="translate(851,415) rotate(-90)" font-size="18" style="fill:rgb(201, 68, 122)">Python</text>
+<text transform="translate(86,203)" font-size="18" style="fill:rgb(138, 9, 165)">vision</text>
+<text transform="translate(1334,670)" font-size="18" style="fill:rgb(253, 197, 39)">implementation</text>
+<text transform="translate(701,250)" font-size="18" style="fill:rgb(201, 68, 122)">first</text>
+<text transform="translate(258,307) rotate(-90)" font-size="18" style="fill:rgb(247, 147, 66)">free</text>
+<text transform="translate(1299,560)" font-size="18" style="fill:rgb(217, 88, 106)">approach</text>
+<text transform="translate(1336,712)" font-size="18" style="fill:rgb(247, 147, 66)">performance</text>
+<text transform="translate(1131,819)" font-size="18" style="fill:rgb(245, 139, 71)">feature</text>
+<text transform="translate(800,604)" font-size="18" style="fill:rgb(241, 131, 76)">application</text>
+<text transform="translate(281,859)" font-size="18" style="fill:rgb(237, 122, 82)">latent space</text>
+<text transform="translate(577,108)" font-size="18" style="fill:rgb(148, 16, 162)">text generation</text>
+<text transform="translate(804,273)" font-size="18" style="fill:rgb(83, 2, 163)">Image Synthesis</text>
+<text transform="translate(1512,533) rotate(-90)" font-size="18" style="fill:rgb(182, 48, 139)">Federated Learning</text>
+<text transform="translate(775,559)" font-size="17" style="fill:rgb(239, 126, 80)">course</text>
+<text transform="translate(243,82)" font-size="17" style="fill:rgb(251, 213, 36)">Generative</text>
+<text transform="translate(155,784)" font-size="17" style="fill:rgb(210, 79, 113)">representation</text>
+<text transform="translate(1232,265) rotate(-90)" font-size="17" style="fill:rgb(225, 100, 98)">built</text>
+<text transform="translate(19,341)" font-size="17" style="fill:rgb(250, 155, 61)">multiple</text>
+<text transform="translate(1396,696)" font-size="17" style="fill:rgb(83, 2, 163)">diverse</text>
+<text transform="translate(241,679)" font-size="17" style="fill:rgb(198, 65, 125)">encoder</text>
+<text transform="translate(393,200)" font-size="17" style="fill:rgb(252, 205, 37)">better</text>
+<text transform="translate(251,56)" font-size="17" style="fill:rgb(244, 136, 73)">run</text>
+<text transform="translate(1237,239)" font-size="17" style="fill:rgb(228, 105, 94)">Generative AI</text>
+<text transform="translate(1494,560) rotate(-90)" font-size="17" style="fill:rgb(111, 0, 168)">Transformer based</text>
+<text transform="translate(1190,705)" font-size="17" style="fill:rgb(183, 49, 138)">high fidelity</text>
+<text transform="translate(1297,508)" font-size="17" style="fill:rgb(238, 123, 81)">text prompt</text>
+<text transform="translate(475,726)" font-size="16" style="fill:rgb(171, 36, 148)">RL</text>
+<text transform="translate(1325,752)" font-size="16" style="fill:rgb(252, 168, 53)">platform</text>
+<text transform="translate(1283,339)" font-size="16" style="fill:rgb(60, 4, 155)">embedding</text>
+<text transform="translate(213,554)" font-size="16" style="fill:rgb(226, 101, 97)">input</text>
+<text transform="translate(1342,775)" font-size="16" style="fill:rgb(254, 187, 43)">top</text>
+<text transform="translate(655,530)" font-size="16" style="fill:rgb(253, 181, 46)">BERT</text>
+<text transform="translate(1025,818)" font-size="16" style="fill:rgb(249, 221, 37)">music</text>
+<text transform="translate(1234,98)" font-size="16" style="fill:rgb(239, 124, 81)">pretrained</text>
+<text transform="translate(576,265) rotate(-90)" font-size="16" style="fill:rgb(241, 245, 37)">benchmark</text>
+<text transform="translate(1355,734)" font-size="16" style="fill:rgb(233, 113, 88)">TFF</text>
+<text transform="translate(797,473)" font-size="16" style="fill:rgb(139, 10, 165)">improve</text>
+<text transform="translate(618,728)" font-size="16" style="fill:rgb(170, 35, 149)">achieve</text>
+<text transform="translate(763,611) rotate(-90)" font-size="16" style="fill:rgb(172, 38, 148)">combine</text>
+<text transform="translate(1122,40)" font-size="16" style="fill:rgb(83, 2, 163)">computer vision</text>
+<text transform="translate(470,681)" font-size="16" style="fill:rgb(217, 88, 106)">text driven</text>
+<text transform="translate(734,430)" font-size="16" style="fill:rgb(198, 65, 125)">talking head</text>
+<text transform="translate(196,375)" font-size="15" style="fill:rgb(165, 31, 153)">layer</text>
+<text transform="translate(573,54)" font-size="15" style="fill:rgb(229, 107, 93)">guided</text>
+<text transform="translate(1257,278)" font-size="15" style="fill:rgb(242, 242, 39)">toolkit</text>
+<text transform="translate(909,657)" font-size="15" style="fill:rgb(253, 197, 39)">including</text>
+<text transform="translate(167,555) rotate(-90)" font-size="15" style="fill:rgb(204, 71, 120)">animation</text>
+<text transform="translate(650,508)" font-size="15" style="fill:rgb(117, 1, 168)">target</text>
+<text transform="translate(508,141)" font-size="15" style="fill:rgb(99, 0, 167)">latent</text>
+<text transform="translate(127,699)" font-size="15" style="fill:rgb(186, 51, 136)">transfer</text>
+<text transform="translate(301,241)" font-size="15" style="fill:rgb(188, 53, 135)">preserving</text>
+<text transform="translate(1381,231)" font-size="15" style="fill:rgb(46, 5, 149)">efficiently</text>
+<text transform="translate(1384,210)" font-size="15" style="fill:rgb(67, 3, 158)">even</text>
+<text transform="translate(798,574)" font-size="15" style="fill:rgb(253, 181, 46)">generated</text>
+<text transform="translate(1328,687)" font-size="15" style="fill:rgb(252, 210, 37)">support</text>
+<text transform="translate(830,671)" font-size="15" style="fill:rgb(134, 6, 166)">input image</text>
+<text transform="translate(466,30)" font-size="15" style="fill:rgb(134, 6, 166)">Self supervised</text>
+<text transform="translate(859,71)" font-size="15" style="fill:rgb(73, 3, 160)">video generation</text>
+<text transform="translate(19,512) rotate(-90)" font-size="15" style="fill:rgb(214, 85, 109)">learning research</text>
+<text transform="translate(1414,408) rotate(-90)" font-size="15" style="fill:rgb(253, 200, 39)">image segmentation</text>
+<text transform="translate(1523,514) rotate(-90)" font-size="15" style="fill:rgb(204, 73, 119)">Image Restoration</text>
+<text transform="translate(700,664) rotate(-90)" font-size="15" style="fill:rgb(237, 122, 82)">transfer learning</text>
+<text transform="translate(77,616) rotate(-90)" font-size="15" style="fill:rgb(96, 1, 166)">generative model</text>
+<text transform="translate(119,156)" font-size="15" style="fill:rgb(237, 121, 83)">AI model</text>
+<text transform="translate(817,760)" font-size="14" style="fill:rgb(246, 232, 38)">GPU</text>
+<text transform="translate(1305,381)" font-size="14" style="fill:rgb(75, 3, 161)">accelerate</text>
+<text transform="translate(1477,322)" font-size="14" style="fill:rgb(249, 221, 37)">need</text>
+<text transform="translate(410,30)" font-size="14" style="fill:rgb(191, 57, 132)">API</text>
+<text transform="translate(836,803)" font-size="14" style="fill:rgb(243, 240, 39)">GPT</text>
+<text transform="translate(733,190)" font-size="14" style="fill:rgb(252, 169, 52)">well</text>
+<text transform="translate(13,376)" font-size="14" style="fill:rgb(254, 192, 41)">novel</text>
+<text transform="translate(95,188)" font-size="14" style="fill:rgb(187, 52, 136)">collection</text>
+<text transform="translate(561,846)" font-size="14" style="fill:rgb(251, 159, 58)">generating</text>
+<text transform="translate(1185,653)" font-size="14" style="fill:rgb(142, 12, 164)">portrait</text>
+<text transform="translate(715,682)" font-size="14" style="fill:rgb(180, 46, 141)">research</text>
+<text transform="translate(1262,73)" font-size="14" style="fill:rgb(163, 30, 154)">scale</text>
+<text transform="translate(776,235) rotate(-90)" font-size="14" style="fill:rgb(253, 172, 51)">notebook</text>
+<text transform="translate(628,96)" font-size="14" style="fill:rgb(230, 108, 92)">new</text>
+<text transform="translate(692,493) rotate(-90)" font-size="14" style="fill:rgb(178, 43, 143)">Segment</text>
+<text transform="translate(347,715)" font-size="14" style="fill:rgb(224, 99, 99)">efficiency</text>
+<text transform="translate(314,669)" font-size="14" style="fill:rgb(88, 1, 164)">conditional</text>
+<text transform="translate(918,55)" font-size="14" style="fill:rgb(252, 163, 56)">Scene</text>
+<text transform="translate(1171,860)" font-size="14" style="fill:rgb(244, 136, 73)">manipulation</text>
+<text transform="translate(1430,252)" font-size="14" style="fill:rgb(222, 97, 100)">control</text>
+<text transform="translate(1271,822)" font-size="14" style="fill:rgb(253, 202, 38)">focus</text>
+<text transform="translate(981,158)" font-size="12" style="fill:rgb(111, 0, 168)">representation learning</text>
+<text transform="translate(1019,13)" font-size="12" style="fill:rgb(189, 55, 134)">speech recognition</text>
+<text transform="translate(554,658)" font-size="12" style="fill:rgb(252, 208, 37)">single image</text>
+<text transform="translate(292,37)" font-size="12" style="fill:rgb(49, 5, 151)">view synthesis</text>
+<text transform="translate(1326,623)" font-size="12" style="fill:rgb(19, 7, 137)">tutorial demonstrates</text>
+<text transform="translate(799,501)" font-size="12" style="fill:rgb(180, 46, 141)">Google Cloud</text>
+<text transform="translate(232,541) rotate(-90)" font-size="12" style="fill:rgb(226, 101, 97)">convolutional neural</text>
+<text transform="translate(154,120)" font-size="12" style="fill:rgb(252, 169, 52)">across multiple</text>
+<text transform="translate(1093,119)" font-size="12" style="fill:rgb(253, 178, 47)">Voice Conversion</text>
+<text transform="translate(305,819)" font-size="12" style="fill:rgb(89, 1, 165)">Generative Adversarial</text>
+<text transform="translate(588,815)" font-size="12" style="fill:rgb(253, 172, 51)">Adversarial Network</text>
+<text transform="translate(684,266)" font-size="12" style="fill:rgb(254, 190, 42)">image editing</text>
+<text transform="translate(787,774)" font-size="12" style="fill:rgb(122, 2, 168)">deep neural</text>
+<text transform="translate(752,535) rotate(-90)" font-size="12" style="fill:rgb(65, 4, 157)">source separation</text>
+<text transform="translate(121,586)" font-size="12" style="fill:rgb(200, 67, 123)">project introduces</text>
+<text transform="translate(395,12)" font-size="12" style="fill:rgb(230, 108, 92)">image translation</text>
+<text transform="translate(360,887)" font-size="12" style="fill:rgb(94, 1, 166)">Language Processing</text>
+<text transform="translate(585,163)" font-size="12" style="fill:rgb(237, 122, 82)">language modeling</text>
+<text transform="translate(616,130)" font-size="12" style="fill:rgb(129, 4, 167)">Image Super</text>
+<text transform="translate(809,584)" font-size="12" style="fill:rgb(161, 27, 155)">self attention</text>
+<text transform="translate(741,202)" font-size="11" style="fill:rgb(51, 5, 151)">ML</text>
+<text transform="translate(714,534) rotate(-90)" font-size="11" style="fill:rgb(226, 102, 96)">Interactive</text>
+<text transform="translate(949,712)" font-size="11" style="fill:rgb(126, 3, 168)">Introduction</text>
+<text transform="translate(389,846)" font-size="11" style="fill:rgb(249, 152, 62)">unsupervised</text>
+<text transform="translate(969,247)" font-size="11" style="fill:rgb(231, 110, 91)">work</text>
+<text transform="translate(808,441)" font-size="11" style="fill:rgb(183, 49, 138)">complex</text>
+<text transform="translate(1100,22)" font-size="11" style="fill:rgb(102, 0, 167)">reference</text>
 </svg>
