@@ -22305,10 +22305,6 @@
         ],
         "links": [
             [
-                "paper",
-                "https://openreview.net/forum?id=rygf-kSYwH"
-            ],
-            [
                 "git",
                 "https://github.com/deepmind/bsuite",
                 1528

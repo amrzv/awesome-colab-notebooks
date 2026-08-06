@@ -1,35 +1,47 @@
 {
     "3D Ken Burns": [
         "https://doi.org/10.1145/3355089.3356528",
-        153
+        155
     ],
     "3D Photo Inpainting": [
         "https://doi.org/10.1109/CVPR42600.2020.00805",
-        218
+        227
+    ],
+    "ALBERT": [
+        "https://doi.org/10.48550/arXiv.1909.11942",
+        89
     ],
     "AST": [
         "https://doi.org/10.21437/Interspeech.2021-698",
-        608
+        799
     ],
     "AWQ": [
         "https://doi.org/10.1145/3714983.3714987",
-        51
+        110
     ],
     "AlphaFold": [
         "https://doi.org/10.1038/s41586-021-03819-2",
-        35155
+        40126
     ],
     "AlphaTensor": [
         "https://doi.org/10.1038/s41586-022-05172-4",
-        333
+        397
     ],
     "Altair": [
         "https://doi.org/10.21105/joss.01057",
-        183
+        203
+    ],
+    "AmoebaNet": [
+        "https://doi.org/10.1609/aaai.v33i01.33014780",
+        1669
+    ],
+    "Amphion": [
+        "https://doi.org/10.1109/SLT61566.2024.10832255",
+        17
     ],
     "AnimeGANv2": [
         "https://doi.org/10.1007/978-981-15-5577-0_18",
-        73
+        76
     ],
     "AnimeGANv3": [
         "http://doi.org/10.1587/transinf.2023EDP7061",
@@ -37,107 +49,123 @@
     ],
     "Anycost GAN": [
         "https://doi.org/10.1109/CVPR46437.2021.01474",
-        62
+        64
     ],
     "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose": [
         "https://doi.org/10.1109/TMM.2022.3207606",
-        13
+        16
     ],
     "AudioLM": [
         "https://doi.org/10.1109/TASLP.2023.3288409",
-        239
+        297
     ],
     "AvatarCLIP": [
         "https://doi.org/10.1145/3528223.3530094",
-        199
+        213
+    ],
+    "BEIR": [
+        "https://doi.org/10.1145/3626772.3657862",
+        12
+    ],
+    "BEiT": [
+        "https://doi.org/10.48550/arXiv.2106.08254",
+        18
     ],
     "Background Matting V2": [
         "https://doi.org/10.1109/CVPR46437.2021.00865",
-        187
+        196
     ],
     "BasicVSR++": [
         "https://doi.org/10.1109/CVPR52688.2022.00588",
-        406
+        471
     ],
     "BertViz": [
         "https://doi.org/10.18653/v1/P19-3007",
-        292
+        329
     ],
     "BiRefNet": [
         "https://doi.org/10.26599/AIR.2024.9150038",
-        26
+        49
     ],
     "BiT": [
         "https://doi.org/10.1007/978-3-030-58558-7_29",
-        481
+        520
     ],
     "Bringing Old Photo Back to Life": [
         "https://doi.org/10.1109/CVPR42600.2020.00282",
-        182
+        200
     ],
     "ByteTrack": [
         "https://doi.org/10.1007/978-3-031-20047-2_1",
-        1416
+        1770
     ],
     "CAPE": [
         "https://doi.org/10.1109/CVPR42600.2020.00650",
-        288
+        306
     ],
     "CSBDeep": [
         "https://doi.org/10.1038/s41592-018-0216-7",
-        1021
+        1108
     ],
     "CartoonGAN": [
         "https://doi.org/10.1109/CVPR.2018.00986",
-        312
+        321
     ],
     "Classify text with BERT": [
         "https://doi.org/10.18653/v1/N19-1423",
-        4158
+        6184
     ],
     "Cleanlab": [
         "https://doi.org/10.1613/jair.1.12125",
-        440
+        525
     ],
     "CodeTalker": [
         "https://doi.org/10.1109/CVPR52729.2023.01229",
-        131
+        157
     ],
     "Composable-Diffusion": [
         "https://doi.org/10.1007/978-3-031-19790-1_26",
-        202
+        228
     ],
     "Contextualized Topic Models": [
         "https://doi.org/10.18653/v1/2021.eacl-main.143",
-        72
+        85
     ],
     "ConvNeXt": [
         "https://doi.org/10.1109/CVPR52688.2022.01167",
-        5501
+        6806
     ],
     "CycleGAN": [
         "https://doi.org/10.1109/ICCV.2017.244",
-        15171
+        16244
+    ],
+    "DETR": [
+        "https://doi.org/10.1007/978-3-030-58452-8_13",
+        12054
+    ],
+    "Deep Image Prior": [
+        "https://doi.org/10.1007/s11263-020-01303-4",
+        543
     ],
     "Deep Q Learning": [
         "https://doi.org/10.1038/nature14236",
-        20519
+        22396
     ],
     "Deep text recognition benchmark": [
         "https://doi.org/10.1109/ICCV.2019.00481",
-        438
+        478
     ],
     "DeepLabCut": [
         "https://doi.org/10.1038/s41593-018-0209-y",
-        4341
+        4892
     ],
     "Detic": [
         "https://doi.org/10.1007/978-3-031-20077-9_21",
-        378
+        435
     ],
     "DifFace": [
         "https://doi.org/10.1109/TPAMI.2024.3432651",
-        28
+        44
     ],
     "DiffSynth": [
         "https://doi.org/10.24963/ijcai.2024/846",
@@ -145,227 +173,255 @@
     ],
     "Dream Fields": [
         "https://doi.org/10.1109/CVPR52688.2022.00094",
-        314
+        342
     ],
     "DualStyleGAN": [
         "https://doi.org/10.1109/CVPR52688.2022.00754",
-        112
+        127
     ],
     "E2FGVI": [
         "https://doi.org/10.1109/CVPR52688.2022.01704",
-        118
+        130
     ],
     "EAT": [
         "https://doi.org/10.1109/ICCV51070.2023.02069",
-        44
+        64
     ],
     "ECON": [
         "https://doi.org/10.1109/CVPR52729.2023.00057",
-        143
+        162
     ],
     "EPro-PnP": [
         "https://doi.org/10.1109/TPAMI.2024.3354997",
-        8
+        9
     ],
     "ESM": [
-        "https://doi.org/10.1101/622803",
-        173
+        "https://doi.org/10.1101/2022.07.20.500902",
+        306
     ],
     "Ecco": [
         "https://doi.org/10.18653/v1/2021.acl-demo.30",
-        30
+        32
     ],
     "EfficientDet": [
         "https://doi.org/10.1109/CVPR42600.2020.01079",
-        6119
+        7056
     ],
     "FELIX": [
         "https://doi.org/10.1007/978-3-031-70359-1_14",
-        1
+        4
     ],
     "FGVC": [
         "https://doi.org/10.1007/978-3-030-58610-2_42",
-        106
+        112
     ],
     "FILM": [
         "https://doi.org/10.1007/978-3-031-20071-7_15",
-        103
+        127
     ],
     "FSGAN": [
         "https://doi.org/10.1109/ICCV.2019.00728",
-        460
+        500
     ],
     "FastChat": [
         "https://doi.org/10.48550/ARXIV.2306.05685",
-        18
+        33
     ],
     "FateZero": [
         "https://doi.org/10.1109/ICCV51070.2023.01460",
-        156
+        188
     ],
     "Fine-tuning a BERT": [
         "https://doi.org/10.18653/v1/N19-1423",
-        4158
+        6184
     ],
     "FollowYourPose": [
         "https://doi.org/10.1609/aaai.v38i5.28206",
-        70
+        84
     ],
     "FreeInit": [
         "https://doi.org/10.1007/978-3-031-72646-0_22",
-        15
+        21
     ],
     "GFPGAN": [
         "https://doi.org/10.1109/CVPR46437.2021.00905",
-        410
+        460
     ],
     "GLIP": [
         "https://doi.org/10.1109/CVPR52688.2022.01069",
-        666
+        820
+    ],
+    "GP-UNIT": [
+        "https://doi.org/10.1109/CVPR52688.2022.01779",
+        52
     ],
     "Gaussian Splatting": [
         "https://doi.org/10.1145/3592433",
-        2817
+        4127
     ],
     "Gemma": [
         "https://doi.org/10.48550/arxiv.2403.08295",
-        0
+        29
     ],
     "Geometry-Free View Synthesis": [
         "https://doi.org/10.1109/ICCV48922.2021.01409",
-        55
+        59
     ],
     "GraphCast": [
         "https://doi.org/10.1126/science.adi2336",
-        644
+        957
     ],
     "HMR": [
         "https://doi.org/10.1109/CVPR.2018.00744",
-        1402
+        1466
     ],
     "HiDT": [
         "https://doi.org/10.1109/CVPR42600.2020.00751",
-        52
+        54
     ],
     "HiGAN": [
         "https://doi.org/10.1007/s11263-020-01429-5",
-        120
+        129
     ],
     "HybrIK": [
         "https://doi.org/10.1109/CVPR46437.2021.00339",
-        321
+        348
     ],
     "HyperStyle": [
         "https://doi.org/10.1109/CVPR52688.2022.01796",
-        199
+        218
     ],
     "ICON": [
         "https://doi.org/10.1109/CVPR52688.2022.01294",
-        256
+        279
     ],
     "IDE-3D": [
         "https://doi.org/10.1145/3550454.3555506",
-        101
+        106
     ],
     "IDInvert": [
         "https://doi.org/10.1007/978-3-030-58520-4_35",
-        314
+        330
+    ],
+    "Image Super-Resolution via Iterative Refinementv": [
+        "https://doi.org/10.1109/TPAMI.2022.3204461",
+        1103
     ],
     "Image segmentation": [
         "http://doi.org/10.1007/978-3-319-24574-4_28",
-        48965
+        55328
     ],
     "Instance-aware Image Colorization": [
         "https://doi.org/10.1109/CVPR42600.2020.00799",
-        177
+        188
     ],
     "Instant-NGP": [
         "https://doi.org/10.1145/3528223.3530127",
-        2817
+        3357
     ],
     "InterFaceGAN": [
         "https://doi.org/10.1109/CVPR42600.2020.00926",
-        732
+        767
     ],
     "Ithaca": [
         "https://doi.org/10.1038/s41586-022-04448-z",
-        131
+        158
+    ],
+    "JAX MD": [
+        "https://doi.org/10.1021/jacs.5c09558",
+        39
     ],
     "JoJoGAN": [
         "https://doi.org/10.1007/978-3-031-19787-1_8",
-        41
+        44
     ],
     "Kornia": [
         "https://doi.org/10.1109/WACV45572.2020.9093363",
-        220
+        238
     ],
     "LDM": [
         "https://doi.org/10.1109/CVPR52688.2022.01042",
-        9978
+        12433
     ],
     "LIDA": [
         "https://doi.org/10.18653/v1/2023.acl-demo.11",
-        65
+        90
     ],
     "LIT": [
         "https://doi.org/10.18653/v1/2020.emnlp-demos.15",
-        61
+        67
     ],
     "LLaMA Factory": [
         "https://doi.org/10.18653/v1/2024.acl-demos.38",
-        141
+        263
+    ],
+    "LM Evaluation Harness": [
+        "https://doi.org/10.5281/zenodo.10256836",
+        11
     ],
     "LaMa": [
         "https://doi.org/10.1109/WACV51458.2022.00323",
-        712
+        864
     ],
     "LaSAFT": [
         "https://doi.org/10.1109/ICASSP39728.2021.9413896",
-        24
+        26
     ],
     "Learning to Paint": [
         "https://doi.org/10.1109/ICCV.2019.00880",
-        114
+        124
     ],
     "Lifespan Age Transformation Synthesis": [
         "https://doi.org/10.1007/978-3-030-58539-6_44",
-        95
+        99
     ],
     "Live Speech Portraits": [
         "https://doi.org/10.1145/3478513.3480484",
-        148
+        161
     ],
     "MMOCR": [
         "https://doi.org/10.1145/3474085.3478328",
-        63
+        72
     ],
     "MMRotate": [
         "https://doi.org/10.1145/3503161.3548541",
-        306
+        368
     ],
     "MSG-Net": [
         "https://doi.org/10.1007/978-3-030-11018-5_32",
-        87
+        90
     ],
     "MTTR": [
         "https://doi.org/10.1109/CVPR52688.2022.00493",
-        124
+        148
     ],
     "MakeItTalk": [
         "https://doi.org/10.1145/3414685.3417774",
-        261
+        293
+    ],
+    "Margin-MSE": [
+        "https://doi.org/10.1145/3404835.3462963",
+        250
     ],
     "Mask2Former": [
         "https://doi.org/10.1109/CVPR52688.2022.00135",
-        2032
+        2520
+    ],
+    "MnasNet": [
+        "https://doi.org/10.1109/CVPR.2019.00293",
+        2169
     ],
     "MoCo": [
         "https://doi.org/10.1109/CVPR42600.2020.00975",
-        8327
+        9227
+    ],
+    "MobileNet": [
+        "https://doi.org/10.48550/arXiv.1704.04861",
+        724
     ],
     "Motion Representations for Articulated Animation": [
         "https://doi.org/10.1109/CVPR46437.2021.01344",
-        177
+        203
     ],
     "Motion Supervised co-part Segmentation": [
         "https://doi.org/10.1109/ICPR48806.2021.9412520",
@@ -373,171 +429,203 @@
     ],
     "MuJoCo": [
         "https://doi.org/10.1109/IROS.2012.6386109",
-        2424
+        2757
     ],
     "NAFNet": [
         "https://doi.org/10.1007/978-3-031-20071-7_2",
-        829
+        1012
     ],
     "NeRViS": [
         "https://doi.org/10.1109/ICCV48922.2021.00230",
-        45
+        50
     ],
     "NeX": [
         "https://doi.org/10.1109/CVPR46437.2021.00843",
-        207
+        220
     ],
     "Nerfies": [
         "https://doi.org/10.1109/ICCV48922.2021.00581",
-        822
+        904
     ],
     "NeuSpell": [
         "https://doi.org/10.18653/v1/2020.emnlp-demos.21",
-        34
+        35
     ],
     "Neural Style Transfer": [
         "https://doi.org/10.1167/16.12.326",
-        927
+        1007
+    ],
+    "Noisy Student Training": [
+        "https://doi.org/10.1109/CVPR42600.2020.01070",
+        1534
     ],
     "OWL-ViT": [
         "https://doi.org/10.1007/978-3-031-20080-9_42",
-        212
+        263
     ],
     "Omnivore": [
         "https://doi.org/10.1109/CVPR52688.2022.01563",
-        154
+        179
+    ],
+    "Once-for-All": [
+        "https://doi.org/10.48550/arXiv.1908.09791",
+        9
     ],
     "Open-Unmix": [
         "https://doi.org/10.21105/joss.01667",
-        163
+        179
     ],
     "PIFu": [
         "https://doi.org/10.1109/ICCV.2019.00239",
-        961
+        1005
     ],
     "PIFuHD": [
         "https://doi.org/10.1109/CVPR42600.2020.00016",
-        618
+        653
     ],
     "PTI": [
         "https://doi.org/10.1145/3544777",
-        298
+        322
     ],
     "Panini-Net": [
         "https://doi.org/10.1609/aaai.v36i3.20159",
-        16
+        19
     ],
     "Parallel WaveGAN": [
         "https://doi.org/10.1109/ICASSP40776.2020.9053795",
-        473
+        531
     ],
     "Pix2Pix": [
         "https://doi.org/10.1109/CVPR.2017.632",
-        14140
+        15065
     ],
     "Pixel2Style2Pixel": [
         "https://doi.org/10.1109/CVPR46437.2021.00232",
-        833
+        888
     ],
     "PoolFormer": [
         "https://doi.org/10.1109/CVPR52688.2022.01055",
-        871
+        1039
     ],
     "PyMAF-X": [
         "https://doi.org/10.1109/TPAMI.2023.3271691",
-        91
+        101
     ],
     "PyTerrier": [
         "https://doi.org/10.1145/3459637.3482013",
-        78
+        88
     ],
     "PyTorchVideo": [
         "https://doi.org/10.1145/3474085.3478329",
-        37
+        41
+    ],
+    "RF-DETR": [
+        "https://doi.org/10.1038/s41598-025-33423-7",
+        0
     ],
     "RITM": [
         "https://doi.org/10.1109/ICIP46576.2022.9897365",
-        166
+        189
     ],
     "ROMP": [
         "https://doi.org/10.1109/ICCV48922.2021.01099",
-        218
+        228
     ],
     "RVM": [
         "https://doi.org/10.1109/WACV51458.2022.00319",
-        136
+        148
+    ],
+    "ReMoDiffuse": [
+        "https://doi.org/10.1109/ICCV51070.2023.00040",
+        116
     ],
     "ReStyle": [
         "https://doi.org/10.1109/ICCV48922.2021.00664",
-        255
+        275
     ],
     "Real-ESRGAN": [
         "https://doi.org/10.1109/ICCVW54120.2021.00217",
-        1085
+        1316
     ],
     "RealBasicVSR": [
         "https://doi.org/10.1109/CVPR52688.2022.00587",
-        90
+        97
     ],
     "Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes": [
         "https://doi.org/10.1109/CVPR46437.2021.01202",
-        54
+        59
     ],
     "Rewriting a Deep Generative Model": [
         "https://doi.org/10.1007/978-3-030-58452-8_21",
-        54
+        57
     ],
     "SAHI": [
         "https://doi.org/10.1109/ICIP46576.2022.9897990",
-        320
+        423
     ],
     "SAM": [
         "https://doi.org/10.1145/3450626.3459805",
-        114
+        126
     ],
     "SCALE": [
         "https://doi.org/10.1109/CVPR46437.2021.01582",
-        78
+        79
+    ],
+    "SHAP": [
+        "https://doi.org/10.1038/s42256-019-0138-9",
+        7257
+    ],
+    "SLiMe": [
+        "https://doi.org/10.48550/arXiv.2309.03179",
+        0
     ],
     "SPIN": [
         "https://doi.org/10.1109/ICCV.2019.00234",
-        810
+        854
+    ],
+    "SPLADE": [
+        "https://doi.org/10.1145/3477495.3531833",
+        58
     ],
     "SSGAN": [
         "https://doi.org/10.1109/CVPR.2019.01243",
-        207
+        213
     ],
     "SVG VAE": [
         "https://doi.org/10.1109/ICCV.2019.00802",
-        75
+        81
     ],
     "SadTalker": [
         "https://doi.org/10.1109/CVPR52729.2023.00836",
-        203
+        266
+    ],
+    "SamGeo": [
+        "https://doi.org/10.21105/joss.05663",
+        70
     ],
     "Scenic": [
         "https://doi.org/10.1109/CVPR52688.2022.02070",
-        20
+        23
     ],
     "Score Jacobian Chaining": [
         "https://doi.org/10.1109/CVPR52729.2023.01214",
-        274
+        309
     ],
     "SeFa": [
         "https://doi.org/10.1109/CVPR46437.2021.00158",
-        383
+        401
     ],
     "Semantic Segmentation": [
         "https://doi.org/10.1007/s11263-018-1140-0",
-        1174
+        1308
     ],
     "SimSwap": [
         "https://doi.org/10.1145/3394171.3413630",
-        273
+        326
     ],
     "Skillful Precipitation Nowcasting Using Deep Generative Models of Radar": [
         "https://doi.org/10.1038/s41586-021-03854-z",
-        602
+        705
     ],
     "SkyAR": [
         "https://doi.org/10.1109/TIP.2022.3192717",
@@ -545,67 +633,79 @@
     ],
     "Spark NLP": [
         "https://doi.org/10.1016/j.simpa.2021.100058",
-        48
+        49
     ],
     "StarDist": [
         "https://doi.org/10.1007/978-3-030-00934-2_30",
-        1214
+        1399
     ],
     "StylEx": [
         "https://doi.org/10.1109/ICCV48922.2021.00073",
-        92
+        101
     ],
     "StyleCLIP": [
         "https://doi.org/10.1109/ICCV48922.2021.00209",
-        792
+        853
     ],
     "StyleCariGAN": [
         "https://doi.org/10.1145/3450626.3459860",
-        45
+        51
     ],
     "StyleGAN 2": [
         "https://doi.org/10.1109/CVPR42600.2020.00813",
-        4244
+        4628
     ],
     "StyleGAN-Human": [
         "https://doi.org/10.1007/978-3-031-19787-1_1",
-        85
+        97
     ],
     "StyleGAN-NADA": [
         "https://doi.org/10.1145/3528223.3530164",
-        432
+        473
     ],
     "StyleSDF": [
         "https://doi.org/10.1109/CVPR52688.2022.01314",
-        171
+        180
     ],
     "Stylized Neural Painting": [
         "https://doi.org/10.1109/CVPR46437.2021.01543",
-        76
+        82
+    ],
+    "SuperGradients": [
+        "https://doi.org/10.5281/zenodo.7789328",
+        7
     ],
     "Swin2SR": [
         "https://doi.org/10.1007/978-3-031-25063-7_42",
-        114
+        143
     ],
     "SwinIR": [
         "https://doi.org/10.1109/ICCVW54120.2021.00210",
-        3221
+        3835
     ],
     "T2M-GPT": [
         "https://doi.org/10.1109/CVPR52729.2023.01415",
-        200
+        245
+    ],
+    "TF-DF": [
+        "https://doi.org/10.1145/3580305.3599933",
+        12
     ],
     "TPOT": [
         "https://doi.org/10.1007/978-3-030-05318-5_8",
-        183
+        206
+    ],
+    "Talk-to-Edit": [
+        "https://doi.org/10.1109/TPAMI.2023.3347299",
+        9
     ],
     "Taming Transformers for High-Resolution Image Synthesis": [
         "https://doi.org/10.1109/CVPR46437.2021.01268",
-        1665
+        1909
     ],
     "TediGAN": [
         "https://doi.org/10.1109/CVPR46437.2021.00229",
-        297
+        315
     ],
     "TensorFlow Graphics": [
         "https://doi.org/10.1145/3450508.3464595",
@@ -613,78 +713,94 @@
     ],
     "Text2Human": [
         "https://doi.org/10.1145/3528223.3530104",
-        108
+        127
     ],
     "Text2Video-Zero": [
         "https://doi.org/10.1109/ICCV51070.2023.01462",
-        271
+        331
     ],
     "Thin-Plate Spline Motion Model": [
         "https://doi.org/10.1109/CVPR52688.2022.00364",
-        159
+        191
+    ],
+    "Thorsten-Voice": [
+        "https://doi.org/10.5281/zenodo.5525342",
+        1
     ],
     "TorchGeo": [
         "https://doi.org/10.1145/3707459",
-        0
+        3
     ],
     "Tune-A-Video": [
         "https://doi.org/10.1109/ICCV51070.2023.00701",
-        394
+        468
     ],
     "UniFormerV2": [
         "https://doi.org/10.1109/ICCV51070.2023.00157",
-        45
+        54
     ],
     "VIBE": [
         "https://doi.org/10.1109/CVPR42600.2020.00530",
-        806
+        852
     ],
     "VQ-Diffusion": [
         "https://doi.org/10.1109/CVPR52688.2022.01043",
-        493
+        556
     ],
     "VRT": [
         "https://doi.org/10.1109/TIP.2024.3372454",
-        117
+        170
     ],
     "VToonify": [
         "https://doi.org/10.1145/3550454.3555437",
-        59
+        69
     ],
     "VideoReTalking": [
         "https://doi.org/10.1145/3550469.3555399",
-        72
+        91
     ],
     "Wav2Lip": [
         "https://doi.org/10.1145/3394171.3413532",
-        614
+        720
     ],
     "XGBoost": [
         "https://doi.org/10.1145/2939672.2939785",
-        33549
+        39728
+    ],
+    "YOLOv8": [
+        "https://doi.org/10.5281/zenodo.7347926",
+        227
+    ],
+    "clip2latent": [
+        "https://doi.org/10.48550/arxiv.2210.02347",
+        0
     ],
     "deep-significance": [
         "https://doi.org/10.18653/v1/p19-1266",
-        37
+        41
     ],
     "dm_control": [
         "https://doi.org/10.1016/j.simpa.2020.100022",
-        105
+        119
     ],
     "encoder4editing": [
         "https://doi.org/10.1145/3450626.3459838",
-        523
+        666
+    ],
+    "fastai": [
+        "https://doi.org/10.21105/joss.04097",
+        0
     ],
     "npNLG": [
         "https://doi.org/10.1126/science.1218633",
-        420
+        440
     ],
     "py-irt": [
         "https://doi.org/10.18653/v1/2021.acl-long.346",
-        14
+        16
     ],
     "trlX": [
         "https://doi.org/10.18653/v1/2023.emnlp-main.530",
-        3
+        6
     ]
 }
