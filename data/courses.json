@@ -19,7 +19,7 @@
         ],
         "colab": "https://colab.research.google.com/drive/1vuQOB2Gd7OcfzH2y9djXm9OdZA_DcxYz",
         "update": 1735548188.97,
-        "stars": 1206
+        "stars": 1413
     },
     {
         "name": "Anthropic courses",
@@ -39,7 +39,7 @@
         ],
         "colab": "https://colab.research.google.com/github/anthropics/courses/blob/master/anthropic_api_fundamentals/01_getting_started.ipynb",
         "update": 1724351244.0,
-        "stars": 22530
+        "stars": 23109
     },
     {
         "name": "Anthropic's Prompt Engineering Interactive Tutorial",
@@ -60,7 +60,30 @@
         ],
         "colab": "https://colab.research.google.com/github/anthropics/prompt-eng-interactive-tutorial/blob/master/Anthropic%201P/00_Tutorial_How-To.ipynb",
         "update": 1712075515.0,
-        "stars": 37536
+        "stars": 39428
+    },
+    {
+        "name": "Beyond LLMs",
+        "description": "Beyond LLMs, published by Packt",
+        "authors": [
+            {
+                "name": "Sahir Maharaj",
+                "url": "https://sahirmaharaj.com"
+            }
+        ],
+        "links": [
+            "https://github.com/packtpublishing/beyond-llms",
+            "https://www.amazon.com/Beyond-LLMs-reliable-planning-evaluation/dp/1807607674",
+            "https://www.packtpub.com/en-us/product/beyond-llms-9781807607678",
+            "https://www.oreilly.com/library/view/beyond-llms-the/9781807607678",
+            {
+                "url": "https://andlukyane.com/blog/book-review-beyond-llms",
+                "name": "blog"
+            }
+        ],
+        "colab": "https://colab.research.google.com/github/packtpublishing/beyond-llms/blob/main/Chapter%201%20-%20Beyond%20LLM%20Centrism/Chapter_1_Beyond_LLM_Centrism_Source_Code.ipynb",
+        "update": 1779827494.0,
+        "stars": 2
     },
     {
         "name": "DSP theory",
@@ -93,7 +116,7 @@
         ],
         "colab": "https://colab.research.google.com/github/hukenovs/dsp-theory/blob/master/src/dsp_theory_1_signals.ipynb",
         "update": 1666089256.0,
-        "stars": 1226
+        "stars": 1250
     },
     {
         "name": "Deep Learning Course at the University of Amsterdam",
@@ -131,7 +154,7 @@
         ],
         "colab": "https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb",
         "update": 1729193661.0,
-        "stars": 3179
+        "stars": 3208
     },
     {
         "name": "Deep Learning School course (ML + CV)",
@@ -154,7 +177,7 @@
         ],
         "colab": "https://colab.research.google.com/github/DeepLearningSchool/part_1_ml_cv/blob/main/week_01_ml_intro/Practice/part_1_data_analysis.ipynb",
         "update": 1772626039.0,
-        "stars": 127
+        "stars": 196
     },
     {
         "name": "Deep RL Course",
@@ -187,7 +210,7 @@
         ],
         "colab": "https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit1/unit1.ipynb",
         "update": 1719265708.0,
-        "stars": 4979
+        "stars": 5096
     },
     {
         "name": "Deep Reinforcement Learning",
@@ -239,7 +262,35 @@
         ],
         "colab": "https://colab.research.google.com/github/berkeleydeeprlcourse/homework_fall2023/blob/master/hw1/cs285/scripts/run_hw1.ipynb",
         "update": 1693263257.0,
-        "stars": 339
+        "stars": 345
+    },
+    {
+        "name": "DeepSeek From Scratch",
+        "description": "Learn the building blocks of how to build DeepSeek from scratch.",
+        "authors": [
+            {
+                "name": "OmuNaman",
+                "url": "https://github.com/OmuNaman"
+            }
+        ],
+        "links": [
+            "https://github.com/vizuaraai/deepseek-from-scratch",
+            "https://www.amazon.com/Build-DeepSeek-Scratch-Abhijit-Dandekar/dp/163343432X",
+            "https://www.manning.com/books/build-a-deepseek-model-from-scratch",
+            "https://www.youtube.com/playlist?list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms",
+            "https://www.reddit.com/r/LocalLLaMA/comments/1oqmder/coauthored_a_book_called_build_deepseek_from",
+            {
+                "url": "https://dev.to/aairom/book-review-build-a-deepseek-model-from-scratch-5gk5",
+                "name": "blog"
+            },
+            {
+                "url": "https://alain-airom.medium.com/book-review-build-a-deepseek-model-from-scratch-43de75b59a1f",
+                "name": "blog"
+            }
+        ],
+        "colab": "https://colab.research.google.com/github/vizuaraai/deepseek-from-scratch/blob/main/ch02/01_main-chapter-code/Chapter_2.ipynb",
+        "update": 1755967480.0,
+        "stars": 174
     },
     {
         "name": "GPU Computing with Python 3 and CUDA",
@@ -262,7 +313,7 @@
         ],
         "colab": "https://colab.research.google.com/github/PacktPublishing/GPU-Accelerated-Computing-with-Python-3-and-CUDA/blob/main/chapter_1/chapter_1_code.ipynb",
         "update": 1775907285.0,
-        "stars": 17
+        "stars": 23
     },
     {
         "name": "Generative AI for Beginners - A Course",
@@ -284,7 +335,7 @@
         ],
         "colab": "https://colab.research.google.com/github/microsoft/generative-ai-for-beginners/blob/main/06-text-generation-apps/notebook-azure-openai.ipynb",
         "update": 1708594932.0,
-        "stars": 565
+        "stars": 560
     },
     {
         "name": "Intro to TensorFlow for Deep Learning",
@@ -309,7 +360,7 @@
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb",
         "update": 1599619888.0,
-        "stars": 8278
+        "stars": 8275
     },
     {
         "name": "Introduction to Deep Learning course",
@@ -358,7 +409,7 @@
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_lite/tflite_c01_linear_regression.ipynb",
         "update": 1599619888.0,
-        "stars": 8278
+        "stars": 8275
     },
     {
         "name": "LLM Engineering Essentials course",
@@ -399,7 +450,7 @@
         ],
         "colab": "https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic1/1.1_intro_to_llm_apis.ipynb",
         "update": 1747913949.0,
-        "stars": 829
+        "stars": 844
     },
     {
         "name": "Machine Learning Simplified",
@@ -422,7 +473,7 @@
         ],
         "colab": "https://colab.research.google.com/github/5x12/themlsbook/blob/master/chapter2/knn.ipynb",
         "update": 1724960156.0,
-        "stars": 436
+        "stars": 437
     },
     {
         "name": "Machine learning course",
@@ -479,7 +530,7 @@
         ],
         "colab": "https://colab.research.google.com/github/Atcold/NYU-DLSP20/blob/master/00-logic_neuron_programming.ipynb",
         "update": 1572414730.0,
-        "stars": 6808
+        "stars": 6815
     },
     {
         "name": "Practical RL",
@@ -544,7 +595,7 @@
         ],
         "colab": "https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/master/week01_intro/deep_crossentropy_method.ipynb",
         "update": 1772712395.0,
-        "stars": 6554
+        "stars": 6616
     },
     {
         "name": "Python for Algorithmic Trading Cookbook",
@@ -574,7 +625,7 @@
         ],
         "colab": "https://colab.research.google.com/github/PacktPublishing/Python-for-Algorithmic-Trading-Cookbook-Second-Edition/blob/main/02.%20Analyze%20and%20Transforming%20Financial%20Market%20Data%20with%20pandas/executed_test.ipynb",
         "update": 1779490382.0,
-        "stars": 29
+        "stars": 62
     },
     {
         "name": "The Autodiff Cookbook",
@@ -606,8 +657,8 @@
             "https://github.com/hips/autograd"
         ],
         "colab": "https://colab.research.google.com/github/google/jax/blob/main/docs/notebooks/autodiff_cookbook.ipynb",
-        "update": 1775077619.0,
-        "stars": 36107
+        "update": 1787684258.0,
+        "stars": 36630
     },
     {
         "name": "Time Series with PyTorch",
@@ -627,7 +678,7 @@
         ],
         "colab": "https://colab.research.google.com/github/PacktPublishing/Time-Series-with-PyTorch/blob/main/Chapter_11/simple_gfm_example_nf.ipynb",
         "update": 1778232192.0,
-        "stars": 29
+        "stars": 35
     },
     {
         "name": "Udacity Deep Learning class with TensorFlow",
@@ -647,7 +698,7 @@
         ],
         "colab": "https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_deep_learning/1_notmnist.ipynb",
         "update": 1768389971.0,
-        "stars": 8278
+        "stars": 8275
     },
     {
         "name": "Understanding Language Models",
@@ -680,7 +731,7 @@
         ],
         "colab": "https://colab.research.google.com/github/CogSciPrag/Understanding-LLMs-course/blob/main/understanding-llms/tutorials/01-introduction.ipynb",
         "update": 1744880588.0,
-        "stars": 33
+        "stars": 34
     },
     {
         "name": "XAI",
@@ -701,7 +752,7 @@
         ],
         "colab": "https://colab.research.google.com/github/SadSabrina/XAI-open_materials/blob/main/RISE/RISE_tutorial_eng.ipynb",
         "update": 1757093970.0,
-        "stars": 24
+        "stars": 32
     },
     {
         "name": "mlcourse.ai",
@@ -726,7 +777,7 @@
         ],
         "colab": "https://colab.research.google.com/github/Yorko/mlcourse.ai/blob/main/jupyter_english/topic01_pandas_data_analysis/topic1_pandas_data_analysis.ipynb",
         "update": 1769257629.0,
-        "stars": 10688
+        "stars": 10805
     },
     {
         "name": "npNLG",
@@ -748,7 +799,7 @@
         "colab": "https://colab.research.google.com/github/michael-franke/npNLG/blob/main/neural_pragmatic_nlg/01-prob-prag/01b-RSA-vanilla.ipynb",
         "update": 1668009979.0,
         "stars": 7,
-        "citations": 975
+        "citations": 1027
     },
     {
         "name": "Курс \"Машинное обучение\" на ФКН ВШЭ",
@@ -770,6 +821,6 @@
         ],
         "colab": "https://colab.research.google.com/github/esokolov/ml-course-hse/blob/master/2025-fall/seminars/sem01-pandas.ipynb",
         "update": 1757827244.0,
-        "stars": 3835
+        "stars": 4017
     }
 ]
